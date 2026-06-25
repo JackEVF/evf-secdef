@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+:root {
+  --navy: #303C57;
+  --teal: #569C9D;
+  --lt-teal: #A6E0DB;
+  --sky: #8DC0F5;
+  --deep-teal: #005F6F;
+  --gold: #E6AF41;
+  --sage: #6E8373;
+  --off-white: #F5F6F7;
+  --mid-grey: #595959;
+  --border: rgba(48,60,87,0.12);
+  --border-strong: rgba(48,60,87,0.25);
+  --text-primary: var(--color-text-primary);
+  --text-secondary: var(--color-text-secondary);
+  --text-muted: var(--color-text-tertiary);
+  --surface: var(--color-background-primary);
+  --surface-2: var(--color-background-secondary);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--font-sans,'Inter',sans-serif);background:transparent;color:var(--text-primary)}
+
+.radar-wrap{width:100%;max-width:100%}
+
+.radar-header{background:var(--navy);color:#fff;padding:20px 24px 16px;border-radius:12px 12px 0 0;display:flex;align-items:flex-start;justify-content:space-between;gap:16px}
+.radar-header-left{}
+.radar-wordmark{display:flex;align-items:center;gap:8px;margin-bottom:4px}
+.radar-flame{width:18px;height:22px;display:inline-block;vertical-align:middle}
+.radar-brand{font-size:13px;font-weight:500;color:var(--lt-teal);letter-spacing:0.06em;text-transform:uppercase}
+.radar-title{font-size:22px;font-weight:500;color:#fff;line-height:1.2;margin-bottom:2px}
+.radar-sub{font-size:12px;color:rgba(166,224,219,0.75);font-weight:400}
+.radar-meta{text-align:right;font-size:11px;color:rgba(255,255,255,0.45);line-height:1.8}
+.radar-meta strong{color:rgba(255,255,255,0.7)}
+
+.nav-tabs{display:flex;background:var(--navy);padding:0 24px;border-bottom:1px solid rgba(255,255,255,0.08)}
+.nav-tab{padding:10px 16px;font-size:13px;font-weight:400;color:rgba(255,255,255,0.5);cursor:pointer;border-bottom:2px solid transparent;transition:all 0.15s;white-space:nowrap}
+.nav-tab:hover{color:rgba(255,255,255,0.8)}
+.nav-tab.active{color:#fff;border-bottom-color:var(--teal)}
+
+.panel{display:none;padding:20px 24px}
+.panel.active{display:block}
+
+.brief-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:20px}
+.brief-card{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--border-radius-lg,12px);padding:16px 18px;border-left:3px solid var(--teal)}
+.brief-card.navy{border-left-color:var(--navy);background:var(--surface-2)}
+.brief-label{font-size:10px;font-weight:500;letter-spacing:0.08em;text-transform:uppercase;color:var(--teal);margin-bottom:6px}
+.brief-label.navy{color:var(--mid-grey)}
+.brief-text{font-size:13px;color:var(--text-primary);line-height:1.6}
+
+.section-eyebrow{font-size:10px;font-weight:500;letter-spacing:0.1em;text-transform:uppercase;color:var(--teal);margin-bottom:12px}
+.section-title{font-size:16px;font-weight:500;color:var(--text-primary);margin-bottom:14px}
+
+.search-bar{display:flex;gap:8px;margin-bottom:16px}
+.search-bar input{flex:1;padding:8px 12px;font-size:13px;border:0.5px solid var(--border-strong);border-radius:var(--border-radius-md,8px);background:var(--surface);color:var(--text-primary);outline:none}
+.search-bar input:focus{border-color:var(--teal)}
+.filter-row{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+.filter-chip{padding:5px 12px;font-size:12px;border:0.5px solid var(--border-strong);border-radius:20px;cursor:pointer;background:var(--surface);color:var(--text-secondary);transition:all 0.12s;white-space:nowrap}
+.filter-chip.active{background:var(--navy);color:#fff;border-color:var(--navy)}
+.filter-chip:hover:not(.active){border-color:var(--teal);color:var(--text-primary)}
+
+.tender-list{display:flex;flex-direction:column;gap:10px}
+.tender-card{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--border-radius-lg,12px);padding:14px 16px;position:relative;transition:border-color 0.12s}
+.tender-card:hover{border-color:var(--border-strong)}
+.tender-card.high{border-left:3px solid var(--deep-teal)}
+.tender-card.medium{border-left:3px solid var(--teal)}
+.tender-card.low{border-left:3px solid #ccc}
+.tender-top{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-bottom:6px}
+.tender-name{font-size:13px;font-weight:500;color:var(--text-primary);line-height:1.4;flex:1}
+.tender-badges{display:flex;gap:6px;flex-shrink:0;flex-wrap:wrap;justify-content:flex-end}
+.badge{font-size:10px;font-weight:500;padding:3px 8px;border-radius:20px;white-space:nowrap}
+.badge-fit-high{background:#E6F5F5;color:var(--deep-teal)}
+.badge-fit-medium{background:#FFF5E0;color:#7B4A00}
+.badge-fit-low{background:#F5F5F5;color:#666}
+.badge-client{background:rgba(48,60,87,0.08);color:var(--navy)}
+.badge-source{background:rgba(86,156,157,0.12);color:var(--deep-teal)}
+.tender-desc{font-size:12px;color:var(--text-secondary);line-height:1.5;margin-bottom:8px}
+.tender-foot{display:flex;align-items:center;justify-content:space-between}
+.tender-deadline{font-size:11px;color:var(--text-muted)}
+.tender-deadline strong{color:var(--text-primary)}
+.deadline-soon{color:#C0392B!important}
+.deadline-soon strong{color:#C0392B!important}
+
+.signal-list{display:flex;flex-direction:column;gap:10px}
+.signal-card{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--border-radius-lg,12px);padding:14px 16px}
+.signal-card.high-priority{border-left:3px solid var(--gold)}
+.signal-top{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-bottom:5px}
+.signal-title{font-size:13px;font-weight:500;color:var(--text-primary);flex:1;line-height:1.4}
+.signal-meta{display:flex;gap:6px;align-items:center;flex-shrink:0}
+.signal-type{font-size:10px;font-weight:500;padding:3px 8px;border-radius:20px}
+.type-award{background:#E9F5E9;color:#1B5E20}
+.type-strategic{background:#E8EAF6;color:#283593}
+.type-consortium{background:#FFF3E0;color:#E65100}
+.type-tender{background:#F3E5F5;color:#4A148C}
+.type-publication{background:#E0F7FA;color:#006064}
+.signal-body{font-size:12px;color:var(--text-secondary);line-height:1.5;margin-bottom:6px}
+.signal-foot{display:flex;align-items:center;justify-content:space-between}
+.signal-comp{font-size:11px;font-weight:500;color:var(--teal)}
+.signal-date{font-size:11px;color:var(--text-muted)}
+
+.comp-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px}
+.comp-card{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--border-radius-lg,12px);padding:16px 18px}
+.comp-card.tier1{border-top:3px solid var(--deep-teal)}
+.comp-card.tier2{border-top:3px solid var(--teal)}
+.comp-card.tier3{border-top:3px solid var(--lt-teal)}
+.comp-head{display:flex;align-items:flex-start;justify-content:space-between;gap:8px;margin-bottom:8px}
+.comp-name{font-size:14px;font-weight:500;color:var(--text-primary);line-height:1.3}
+.threat-pill{font-size:10px;font-weight:500;padding:3px 8px;border-radius:20px;white-space:nowrap;flex-shrink:0}
+.threat-high{background:#FDEDED;color:#7B0000}
+.threat-med{background:#FFF5E0;color:#7B4A00}
+.threat-low{background:#E6F5F5;color:var(--deep-teal)}
+.comp-type{font-size:11px;color:var(--text-muted);margin-bottom:6px}
+.comp-offer{font-size:12px;color:var(--text-secondary);line-height:1.5;margin-bottom:8px}
+.comp-evf{font-size:12px;color:var(--text-secondary);line-height:1.5;padding:8px 10px;background:var(--surface-2);border-radius:6px;border-left:2px solid var(--teal)}
+.comp-evf-label{font-size:10px;font-weight:500;letter-spacing:0.06em;text-transform:uppercase;color:var(--teal);margin-bottom:3px}
+
+.sources-list{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.source-card{background:var(--surface);border:0.5px solid var(--border);border-radius:var(--border-radius-lg,12px);padding:14px 16px}
+.source-head{display:flex;align-items:flex-start;justify-content:space-between;gap:8px;margin-bottom:6px}
+.source-name{font-size:13px;font-weight:500;color:var(--text-primary);line-height:1.3}
+.source-stars{font-size:12px;color:var(--gold);flex-shrink:0}
+.source-desc{font-size:12px;color:var(--text-secondary);line-height:1.5;margin-bottom:6px}
+.source-url{font-size:11px;color:var(--teal);word-break:break-all}
+.source-freq{font-size:10px;color:var(--text-muted);margin-top:4px}
+
+.refresh-btn{display:inline-flex;align-items:center;gap:6px;padding:7px 14px;font-size:12px;border:0.5px solid var(--border-strong);border-radius:var(--border-radius-md,8px);background:var(--surface);color:var(--text-secondary);cursor:pointer;transition:all 0.12s}
+.refresh-btn:hover{border-color:var(--teal);color:var(--teal);background:var(--surface-2)}
+.refresh-btn i{font-size:14px}
+
+.live-btn{display:inline-flex;align-items:center;gap:6px;padding:7px 14px;font-size:12px;background:var(--deep-teal);color:#fff;border:none;border-radius:var(--border-radius-md,8px);cursor:pointer;transition:opacity 0.12s;font-family:inherit}
+.live-btn:hover{opacity:0.88}
+.live-btn i{font-size:14px}
+
+.tag-row{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+.tag{font-size:10px;padding:2px 8px;border-radius:20px;background:rgba(86,156,157,0.1);color:var(--deep-teal);font-weight:500}
+
+.empty{padding:32px;text-align:center;color:var(--text-muted);font-size:13px}
+
+.count-badge{display:inline-flex;align-items:center;justify-content:center;width:20px;height:20px;background:var(--teal);color:#fff;border-radius:50%;font-size:10px;font-weight:500;margin-left:6px}
+
+.stat-row{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:20px}
+.stat{background:var(--surface-2);border-radius:var(--border-radius-md,8px);padding:12px 14px}
+.stat-val{font-size:22px;font-weight:500;color:var(--navy);margin-bottom:2px}
+.stat-lbl{font-size:11px;color:var(--text-muted)}
+
+.section-divider{height:1px;background:var(--border);margin:20px 0}
+.actions-row{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;flex-wrap:gap}
+
+.loading-state{display:flex;align-items:center;gap:8px;padding:12px 0;color:var(--text-muted);font-size:13px}
+.loading-dot{width:6px;height:6px;border-radius:50%;background:var(--teal);animation:pulse 1.2s infinite}
+.loading-dot:nth-child(2){animation-delay:0.2s}
+.loading-dot:nth-child(3){animation-delay:0.4s}
+@keyframes pulse{0%,80%,100%{opacity:0.3}40%{opacity:1}}
+
+.tier-label{font-size:10px;font-weight:500;letter-spacing:0.08em;text-transform:uppercase;padding:4px 0 10px;color:var(--text-muted);display:flex;align-items:center;gap:8px}
+.tier-label::after{content:'';flex:1;height:0.5px;background:var(--border)}
+</style>
+</head>
+<body>
+<div class="radar-wrap">
+
+<div class="radar-header">
+  <div class="radar-header-left">
+    <div class="radar-wordmark">
+      <svg class="radar-flame" viewBox="0 0 18 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M9 0C9 0 14.5 5 14.5 10.5C14.5 13.5 12.5 16 9 16C5.5 16 3.5 13.5 3.5 10.5C3.5 5 9 0 9 0Z" fill="#A6E0DB" opacity="0.9"/>
+        <path d="M9 8C9 8 11.5 11 11.5 13.5C11.5 15.5 10.4 17 9 17C7.6 17 6.5 15.5 6.5 13.5C6.5 11 9 8 9 8Z" fill="#569C9D"/>
+      </svg>
+      <span class="radar-brand">evenflow · SecDef Radar</span>
+    </div>
+    <div class="radar-title">EU Space Security &amp; Defence</div>
+    <div class="radar-sub">Opportunities · Competitor signals · Procurement sources — internal BD use only</div>
+  </div>
+  <div class="radar-meta">
+    <div><strong>Updated</strong> 25 Jun 2026</div>
+    <div><strong>Focus</strong> EU SecDef space</div>
+    <div><strong>Status</strong> Internal draft</div>
+  </div>
+</div>
+
+<div class="nav-tabs">
+  <div class="nav-tab active" onclick="switchTab('brief')">Weekly brief</div>
+  <div class="nav-tab" onclick="switchTab('tenders')">Tenders &amp; calls<span class="count-badge" id="tender-count">—</span></div>
+  <div class="nav-tab" onclick="switchTab('signals')">Competitor signals<span class="count-badge" id="signal-count">—</span></div>
+  <div class="nav-tab" onclick="switchTab('competitors')">Landscape</div>
+  <div class="nav-tab" onclick="switchTab('sources')">Sources</div>
+</div>
+
+<div id="panel-brief" class="panel active">
+  <div class="stat-row">
+    <div class="stat"><div class="stat-val" id="stat-high">—</div><div class="stat-lbl">High-fit tenders</div></div>
+    <div class="stat"><div class="stat-val" id="stat-med">—</div><div class="stat-lbl">Medium-fit tenders</div></div>
+    <div class="stat"><div class="stat-val" id="stat-signals">—</div><div class="stat-lbl">Competitor signals</div></div>
+    <div class="stat"><div class="stat-val" id="stat-urgent">—</div><div class="stat-lbl">Deadlines &lt;30 days</div></div>
+  </div>
+
+  <div class="brief-grid">
+    <div class="brief-card">
+      <div class="brief-label">This week's priority opportunities</div>
+      <div class="brief-text" id="brief-top-opps">Loading...</div>
+    </div>
+    <div class="brief-card navy">
+      <div class="brief-label navy">Key competitor moves</div>
+      <div class="brief-text" id="brief-comp-moves">Loading...</div>
+    </div>
+  </div>
+
+  <div class="brief-grid">
+    <div class="brief-card" style="border-left-color:var(--gold)">
+      <div class="brief-label" style="color:var(--gold)">Action items</div>
+      <div class="brief-text" id="brief-actions">Loading...</div>
+    </div>
+    <div class="brief-card" style="border-left-color:var(--sage)">
+      <div class="brief-label" style="color:var(--sage)">Landscape watch</div>
+      <div class="brief-text" id="brief-watch">Loading...</div>
+    </div>
+  </div>
+
+  <div style="display:flex;gap:10px;margin-top:4px">
+    <button class="live-btn" onclick="runLiveSearch()"><i class="ti ti-refresh" aria-hidden="true"></i> Run live search</button>
+    <button class="refresh-btn" onclick="sendPrompt('Give me a full SecDef BD briefing for this week: top opportunities, competitor moves, and recommended actions for Evenflow.')"><i class="ti ti-external-link" aria-hidden="true"></i> Full briefing in chat ↗</button>
+  </div>
+</div>
+
+<div id="panel-tenders" class="panel">
+  <div class="actions-row">
+    <div class="search-bar" style="flex:1;margin-bottom:0">
+      <input type="text" id="tender-search" placeholder="Search tenders, clients, themes..." oninput="filterTenders()">
+    </div>
+    <button class="live-btn" style="margin-left:10px;white-space:nowrap" onclick="sendPrompt('Search for new EU SecDef space tenders and EDF calls relevant to Evenflow: OSINT, GEOINT, IMINT, EO exploitation, advisory, stakeholder engagement. Flag any posted in the last 2 weeks.')"><i class="ti ti-search" aria-hidden="true"></i> Live search ↗</button>
+  </div>
+  <div class="filter-row" style="margin-top:10px">
+    <span class="filter-chip active" onclick="toggleFit(this,'all')">All</span>
+    <span class="filter-chip" onclick="toggleFit(this,'high')">High fit</span>
+    <span class="filter-chip" onclick="toggleFit(this,'medium')">Medium fit</span>
+    <span class="filter-chip" onclick="toggleFit(this,'low')">Low fit</span>
+    <span class="filter-chip" onclick="toggleFit(this,'edf')">EDF</span>
+    <span class="filter-chip" onclick="toggleFit(this,'satcen')">SatCen</span>
+    <span class="filter-chip" onclick="toggleFit(this,'eda')">EDA</span>
+    <span class="filter-chip" onclick="toggleFit(this,'frontex')">Frontex</span>
+    <span class="filter-chip" onclick="toggleFit(this,'horizon')">Horizon Europe</span>
+  </div>
+  <div class="tender-list" id="tender-list">
+    <div class="empty">Loading tenders...</div>
+  </div>
+</div>
+
+<div id="panel-signals" class="panel">
+  <div class="actions-row">
+    <div class="search-bar" style="flex:1;margin-bottom:0">
+      <input type="text" id="signal-search" placeholder="Search competitor, signal type..." oninput="filterSignals()">
+    </div>
+    <button class="live-btn" style="margin-left:10px;white-space:nowrap" onclick="sendPrompt('Find the latest news and signals for these EU space SecDef competitors: Novaspace, GMV, Telespazio, e-GEOS, Tracasa, RHEA Group, EY, Deloitte. Focus on EDF bids, SatCen/EDA contracts, GEOINT/OSINT, and EU institutional advisory work.')"><i class="ti ti-search" aria-hidden="true"></i> Live search ↗</button>
+  </div>
+  <div class="filter-row" style="margin-top:10px" id="signal-filters">
+    <span class="filter-chip active" onclick="toggleSignalFit(this,'all')">All</span>
+    <span class="filter-chip" onclick="toggleSignalFit(this,'award')">Awards</span>
+    <span class="filter-chip" onclick="toggleSignalFit(this,'consortium')">Consortia</span>
+    <span class="filter-chip" onclick="toggleSignalFit(this,'strategic')">Strategic</span>
+    <span class="filter-chip" onclick="toggleSignalFit(this,'tender')">Tenders</span>
+    <span class="filter-chip" onclick="toggleSignalFit(this,'high')">⚑ Priority</span>
+  </div>
+  <div class="signal-list" id="signal-list">
+    <div class="empty">Loading signals...</div>
+  </div>
+</div>
+
+<div id="panel-competitors" class="panel">
+  <div class="section-eyebrow">Competitive landscape</div>
+
+  <div class="tier-label">Tier 1 — Direct competitors in EVF's advisory/exploitation niche</div>
+  <div class="comp-grid" id="comp-grid-t1"></div>
+
+  <div class="tier-label" style="margin-top:20px">Tier 2 — Technical primes: consortium partners &amp; indirect competitors</div>
+  <div class="comp-grid" id="comp-grid-t2"></div>
+
+  <div class="tier-label" style="margin-top:20px">Tier 3 — Think tanks &amp; ecosystem actors</div>
+  <div class="comp-grid" id="comp-grid-t3"></div>
+
+  <div style="margin-top:16px">
+    <button class="live-btn" onclick="sendPrompt('Run a competitive intelligence update for Evenflow SecDef: what have Novaspace, GMV, Tracasa, Telespazio and EY done in EU space security and defence consulting in the last 30 days?')"><i class="ti ti-refresh" aria-hidden="true"></i> Refresh competitive intel ↗</button>
+  </div>
+</div>
+
+<div id="panel-sources" class="panel">
+  <div class="section-eyebrow">Procurement source register</div>
+  <div class="sources-list" id="sources-list"></div>
+  <div style="margin-top:16px">
+    <button class="live-btn" onclick="sendPrompt('Check all priority EU SecDef procurement sources for new tenders relevant to Evenflow: EU F&T Portal (EDF/Horizon), EDA eTendering, SatCen, TED (GEOINT/OSINT/EO security), and Frontex. List anything posted in the last 2 weeks.')"><i class="ti ti-search" aria-hidden="true"></i> Search all sources ↗</button>
+  </div>
+</div>
+
+</div>
+
+<script>
+const TENDERS = [
+  {id:1,name:"EDF-2026-SPACE-ISR — ISR exploitation and dissemination for EU defence",client:"EC DG DEFIS",source:"EU F&T Portal",fit:"high",tags:["EDF","GEOINT","exploitation"],deadline:"2026-09-29",desc:"EDF call for exploitation and dissemination of ISR space data products for EU defence — directly matches EVF's ARGOS/IntSen2 track record and OSINT/GEOINT analytical capability.",urgent:false},
+  {id:2,name:"EDA/OP/2026/014 — GEOINT capability assessment and user requirements study",client:"EDA",source:"EDA eTendering",fit:"high",tags:["EDA","GEOINT","advisory"],deadline:"2026-08-15",desc:"EDA study on geospatial intelligence capability gaps and user requirements across EU member states — advisory and stakeholder engagement, EVF's core niche.",urgent:true},
+  {id:3,name:"SatCen/2026/03 — OSINT analytical support services",client:"SatCen",source:"SatCen procurement",fit:"high",tags:["SatCen","OSINT","advisory"],deadline:"2026-07-31",desc:"SatCen procurement for open-source intelligence analytical support — directly matches EVF's MUSO track record and OSINT personnel expertise. Existing client relationship.",urgent:true},
+  {id:4,name:"HORIZON-CL3-2026-02 — Open source intelligence for EU border management",client:"EC (Horizon Europe)",source:"EU F&T Portal",fit:"high",tags:["Horizon","OSINT","Frontex","border"],deadline:"2026-10-14",desc:"Horizon Cluster 3 call on OSINT tools and methods for EU border management — strong fit with EVF MUSO/EUROSUR track record. EVF as WP lead for exploitation and stakeholder engagement.",urgent:false},
+  {id:5,name:"Frontex/2026/OP/1158 — Satellite imagery analysis for EUROSUR",client:"Frontex",source:"TED",fit:"high",tags:["Frontex","EO","EUROSUR","maritime"],deadline:"2026-08-30",desc:"Frontex service contract for satellite EO analysis supporting EUROSUR — directly adjacent to MUSO/SatCen work. EVF well-positioned as consortium member with analytical WP.",urgent:true},
+  {id:6,name:"EDF-2026-DA-SPACE-ARGOS2 — IMINT AI exploitation (ARGOS successor)",client:"EC DG DEFIS",source:"EU F&T Portal",fit:"high",tags:["EDF","IMINT","ARGOS","AI"],deadline:"2026-11-30",desc:"Anticipated successor to ARGOS EDF call — AI-powered IMINT exploitation using Sentinel and commercial EO data. Tracasa likely prime; EVF positioned for exploitation and dissemination WP.",urgent:false},
+  {id:7,name:"EUSPA/OP/SECDEF/26 — Space data for defence user engagement",client:"EUSPA",source:"EUSPA procurement",fit:"medium",tags:["EUSPA","user engagement","defence"],deadline:"2026-09-01",desc:"EUSPA contract for stakeholder engagement and user uptake of space data in defence applications — EVF's engagement profile fits but GNSS-heavy scope reduces fit.",urgent:false},
+  {id:8,name:"DG HOME/2026/ISF/014 — Space tools for border surveillance advisory",client:"DG HOME",source:"EU F&T Portal",fit:"medium",tags:["DG HOME","border","advisory"],deadline:"2026-10-01",desc:"ISF-funded advisory study on space technology applications for EU external border surveillance — adjacent to EVF MUSO work but DG HOME is less familiar institutional territory.",urgent:false},
+  {id:9,name:"EDF-2026-DA-SPACE-SDA — Space Domain Awareness exploitation study",client:"EC DG DEFIS",source:"EU F&T Portal",fit:"medium",tags:["EDF","SDA","advisory"],deadline:"2026-09-15",desc:"EDF study on SDA data exploitation and dissemination across EU member states — EVF's exploitation/advisory profile relevant but SDA is outside core GEOINT/OSINT niche.",urgent:false},
+  {id:10,name:"EDF-2026-DA-SPACE-PRS-STEP — Galileo PRS military C2 integration",client:"EC DG DEFIS",source:"EU F&T Portal",fit:"low",tags:["EDF","GNSS","PRS"],deadline:"2026-09-29",desc:"Galileo PRS receiver integration into military C2 systems — pure GNSS engineering, no EO/OSINT/exploitation component. No fit for EVF.",urgent:false},
+  {id:11,name:"EUSPA/CP/08/26 — Space Security Operations Centre",client:"EUSPA",source:"EUSPA procurement",fit:"low",tags:["EUSPA","infrastructure"],deadline:"2026-10-15",desc:"EUSPA SOC infrastructure procurement — primarily IT/facilities engineering. Marginal EVF fit unless advisory/policy component emerges.",urgent:false},
+];
+
+const SIGNALS = [
+  {id:1,comp:"GMV",type:"award",title:"GMV leads MYRIAD consortium for AI satellite intelligence for EU defence",date:"2026-03-19",body:"GMV-led MYRIAD consortium wins EDF funding for AI-driven GEOINT for EU defence. Direct competitive threat in EVF's core EDF IMINT niche.",priority:true,tags:["EDF","GEOINT","AI"]},
+  {id:2,comp:"Tracasa",type:"strategic",title:"Tracasa (ARGOS prime) signals continued EDF space-security pipeline",date:"2026-04-01",body:"Tracasa Instrumental, technical coordinator of ARGOS, active in EDF space security pipeline. Key relationship for EVF to maintain as consortium partner.",priority:true,tags:["EDF","ARGOS","IMINT"]},
+  {id:3,comp:"Telespazio",type:"consortium",title:"Telespazio Ibérica–CEiiA strategic alliance for Luso-Spanish space sector",date:"2026-06-23",body:"Telespazio consolidating Southern European market presence. Watch for joint EDF bids where EVF might lose consortium slot to this alliance.",priority:false,tags:["consortium","EDF","Southern Europe"]},
+  {id:4,comp:"GMV",type:"award",title:"GMV leads ESA Copernicus Expansion mission planning",date:"2026-04-30",body:"GMV awarded ESA Copernicus Expansion mission planning — deepening institutional relationships in core EVF territory. Assess downstream exploitation opportunities.",priority:true,tags:["ESA","Copernicus","mission planning"]},
+  {id:5,comp:"FDC",type:"award",title:"Frontex satellite tracking pilot (Black Sea) — FDC involved",date:"2026-05-27",body:"Frontex authenticated satellite tracking pilot in Black Sea maritime security. FDC active in EVF's MUSO-adjacent territory. Monitor closely.",priority:true,tags:["Frontex","maritime","surveillance"]},
+  {id:6,comp:"EY",type:"strategic",title:"EY positions Earth data-to-insights as core advisory service (Xoople)",date:"2026-06-19",body:"EY entering downstream EO analytics advisory — direct competition in EVF's market intelligence and user-engagement niche. Brand weight is the risk.",priority:true,tags:["EO","advisory","market intelligence"]},
+  {id:7,comp:"Deloitte",type:"strategic",title:"Deloitte publishes EO $700bn market report via WEF",date:"2026-06-09",body:"Deloitte publishing major EO opportunity analysis — competing in EVF's market intelligence service line with significant brand amplification.",priority:true,tags:["EO","market intelligence","publication"]},
+  {id:8,comp:"Novaspace",type:"strategic",title:"Novaspace adds market intelligence to ASCEND programming",date:"2026-05-13",body:"Novaspace expanding market intelligence capacity at ASCEND — direct competition in EVF's core advisory niche for space data sectors.",priority:false,tags:["market intelligence","advisory"]},
+  {id:9,comp:"e-GEOS",type:"consortium",title:"e-GEOS–Synspective partnership for GEOINT solutions",date:"2026-05-28",body:"e-GEOS partnering with Japanese SAR firm Synspective to advance GEOINT — competitor expanding SAR/InSAR downstream applications.",priority:false,tags:["GEOINT","SAR","partnership"]},
+  {id:10,comp:"GMV",type:"strategic",title:"GMV leads GOVSATCOM Hub for EU institutional satellite comms",date:"2026-02-13",body:"GMV leading GOVSATCOM Hub — competitor deepening EU institutional space governance relationships adjacent to EVF's institutional client base.",priority:true,tags:["GOVSATCOM","EU institutions","advisory"]},
+];
+
+const COMPETITORS = {
+  tier1: [
+    {name:"Novaspace",type:"Boutique space consultancy",hq:"Paris / Brussels",threat:"high",offer:"Space market intelligence, EO/GNSS/comms advisory, executive summits. SecDef vertical active. Formed from Euroconsult + SpaceTec merger (2024).",evf:"EVF has operational OSINT/GEOINT track record vs Novaspace's market/advisory positioning. Smaller and more agile. Deeper exploitation focus.",tags:["EDF advisory","EUSPA","market intel"]},
+    {name:"EY (Government & Space)",type:"Big-4 consultancy",hq:"Global / Brussels",threat:"medium",offer:"Growing EO-to-business-insights advisory ('Xoople' positioning). Space investment advisory. EU institutional ambitions.",evf:"EVF's operational OSINT/exploitation track record and EU SecDef institutional depth vs EY's brand weight. EVF more credible at SatCen/EDA level.",tags:["EO advisory","market intel"]},
+    {name:"Deloitte (Aerospace & Defence)",type:"Big-4 consultancy",hq:"Global / Brussels",threat:"medium",offer:"EO market analysis (US$700bn report). Space strategy. Defence digital transformation. Growing EU institutional presence.",evf:"EVF's niche OSINT/exploitation track record and EU SecDef depth vs Deloitte's broad brand. EVF more agile and credible in EU space specifically.",tags:["EO market","strategy","publication"]},
+    {name:"Guidehouse",type:"Management consultancy",hq:"Washington DC / Brussels",threat:"medium",offer:"Defence and government advisory, GNSS/Galileo programme support. Active in EUSPA/EGNOS contracts.",evf:"EVF's OSINT/GEOINT/EO depth vs Guidehouse's broad management consulting profile. EVF more credible in EO security applications.",tags:["EUSPA","GNSS","advisory"]},
+    {name:"Analysys Mason",type:"Strategy & telecoms consultancy",hq:"London / global",threat:"medium",offer:"Space market intelligence (acquired NSR). Satellite comms strategy. Space sovereignty analysis.",evf:"EVF has EU institutional relationships and OSINT/GEOINT operational depth that AM lacks. AM is satcom-heavy vs EVF's EO/security niche.",tags:["market intel","satcom","strategy"]},
+    {name:"FDC (Future Defence Consulting)",type:"Niche defence consultancy",hq:"Brussels area, Belgium",threat:"medium",offer:"EU space disaster resilience (SUNSHINE). Frontex satellite tracking pilots. EU border security applications. [Profile unverified]",evf:"EVF's OSINT analytical depth and GEOINT track record vs FDC's broader defence consulting. EVF more credible on EO/space analytics side.",tags:["Frontex","border","Belgium"]},
+  ],
+  tier2: [
+    {name:"GMV",type:"Engineering & defence tech firm",hq:"Madrid, Spain",threat:"high",offer:"GNSS, EO ground segment, C2 systems, EU defence. ESA Copernicus mission planning. MYRIAD AI-GEOINT for EU defence. GOVSATCOM Hub lead.",evf:"EVF non-technical advisory/OSINT niche vs GMV's engineering dominance. Potential consortium prime for EVF exploitation WPs. Key relationship to develop.",tags:["EDF","ESA","GEOINT","C2"]},
+    {name:"Telespazio",type:"Space services prime (Leonardo/Thales JV)",hq:"Rome, Italy",threat:"high",offer:"Satellite operations, EO services, COSMO-SkyMed, Galileo PRS, GOVSATCOM, IRIS². Canary Islands constellation (€20M).",evf:"EVF's advisory/OSINT niche is differentiated. Potential prime for EVF to join as exploitation/dissemination partner in large EDF bids.",tags:["EDF","EO","satcom","defence"]},
+    {name:"Tracasa Instrumental",type:"SME: EO/GEOINT tech firm",hq:"Navarra, Spain",threat:"medium",offer:"Remote sensing, GeoAI, ARGOS (EDF — IMINT/AI for security). SatCen work. IntSen2 (completed). Technical project coordinator for ARGOS.",evf:"Natural consortium partner: Tracasa is technical prime where EVF provides exploitation/dissemination. Maintain and deepen this relationship actively.",tags:["EDF","ARGOS","IMINT","SatCen"]},
+    {name:"e-GEOS (Leonardo subsidiary)",type:"EO data provider",hq:"Rome, Italy",threat:"medium",offer:"COSMO-SkyMed SAR data. GEOINT products for defence/security. SDA. Synspective GEOINT partnership.",evf:"e-GEOS is upstream data provider; EVF is downstream analyst/exploiter. Better as supplier or partner in EDF IMINT bids than competitor.",tags:["COSMO-SkyMed","SAR","GEOINT"]},
+    {name:"RHEA Group",type:"Engineering & cybersecurity consultancy",hq:"Wavre, Belgium",threat:"low",offer:"Space engineering, cybersecurity, ESA support, satellite comms pooling & sharing, space systems security.",evf:"RHEA is engineering/cyber-focused, not OSINT/stakeholder engagement. EVF's advisory niche is genuinely distinct. Possible consortium partner.",tags:["Belgium","ESA","cybersecurity"]},
+    {name:"Airbus Defence & Space",type:"Defence prime / space manufacturer",hq:"Toulouse, France",threat:"low",offer:"Satellite manufacturing, ISR, EO, GOVSATCOM, IRIS². Project Bromo JV (2027) with Leonardo and Thales Alenia Space.",evf:"Too large to compete with EVF directly. Target as sub-contractor for exploitation/advisory WPs in large EDF bids.",tags:["EDF prime","ISR","IRIS²","Project Bromo"]},
+  ],
+  tier3: [
+    {name:"EUISS",type:"EU agency / think tank",hq:"Paris (Brussels liaison)",threat:"none",offer:"EU foreign, security and defence policy analysis. CFSP/CSDP research. Chaillot Papers, policy briefs. Space and SDA analysis.",evf:"Not a commercial competitor. Engage for credibility, event presence, and publication positioning in EU SecDef policy circles.",tags:["CFSP","CSDP","policy"]},
+    {name:"ESPI",type:"Think tank",hq:"Vienna, Austria",threat:"none",offer:"Independent space policy research. EU space strategy. Security and defence space policy. Publications and EC/ESA expert input.",evf:"Excellent ecosystem partner for thought leadership. Co-publication could boost EVF credibility in SecDef policy. Attend ESPI events.",tags:["space policy","EU strategy","publications"]},
+    {name:"SWP",type:"Think tank",hq:"Berlin, Germany",threat:"none",offer:"German Institute for International and Security Affairs. Space security, defence policy, EU strategic autonomy.",evf:"Policy research, not commercial services. Monitor publications for domain education. Useful as reference and citation body.",tags:["Germany","defence policy","security"]},
+    {name:"NATO DIANA",type:"NATO innovation body",hq:"London / distributed",threat:"none",offer:"Accelerator for dual-use deep tech with defence applications. Challenges for EO, OSINT, SDA themes.",evf:"Register on DIANA portal. Monitor dual-use EO challenges. Ecosystem entry point for NATO-adjacent SecDef consortium opportunities.",tags:["NATO","dual-use","innovation"]},
+  ],
+};
+
+const SOURCES = [
+  {name:"EU F&T Portal",stars:"★★★★★",freq:"Continuous",desc:"EDF calls for proposals, Horizon Europe defence/space, DG DEFIS service contracts. Primary source for EDF 2026 space calls.",url:"ec.europa.eu/info/funding-tenders/opportunities/portal"},
+  {name:"EDA eTendering",stars:"★★★★★",freq:"Weekly",desc:"EDA procurement: advisory, R&T, capability studies with GEOINT/OSINT/space angle. Small volume, very high fit.",url:"eda.europa.eu/info-hub/eda-tenders"},
+  {name:"SatCen procurement",stars:"★★★★★",freq:"Monthly",desc:"Direct procurement from SatCen (EVF existing client — MUSO). GEOINT, OSINT, image analysis, advisory. Low volume, maximum fit.",url:"satcen.europa.eu/page/procurement"},
+  {name:"TED (Tenders Electronic Daily)",stars:"★★★★★",freq:"Daily",desc:"All EU above-threshold procurement. Filter: CPV 73000000 / 79000000, keywords: GEOINT, OSINT, EO security, border surveillance.",url:"ted.europa.eu"},
+  {name:"Frontex procurement",stars:"★★★★☆",freq:"Monthly",desc:"Border surveillance, EUROSUR, maritime situational awareness. Adjacent to MUSO/SatCen work. Space-data and OSINT tools.",url:"frontex.europa.eu/about-frontex/procurement"},
+  {name:"ESA STAR",stars:"★★★★☆",freq:"Weekly",desc:"ESA procurement: SSA, SDA, Copernicus security, dual-use. Belgium is ESA member — geo-return relevant.",url:"esastar-publication.sso.esa.int"},
+  {name:"EUSPA procurement",stars:"★★★☆☆",freq:"Monthly",desc:"Service contracts for Galileo, EGNOS, Copernicus exploitation: market intelligence, user engagement, some security applications.",url:"euspa.europa.eu/procurement"},
+  {name:"DG HOME / ISF",stars:"★★★☆☆",freq:"Continuous",desc:"Internal Security Fund: border management, EUROSUR, maritime security grants. EVF's border surveillance EO/OSINT niche maps here.",url:"ec.europa.eu/info/funding-tenders (filter DG HOME)"},
+  {name:"Belgian Defence (DG Mat)",stars:"★★★☆☆",freq:"Monthly",desc:"Belgian MoD procurement. Growing defence budget (2% GDP by 2035). Advisory, analysis and dual-use space services.",url:"mil.be/nl/artikels/overheidsopdrachten"},
+  {name:"Horizon Europe Clusters 3 & 4",stars:"★★★★☆",freq:"Annual WP",desc:"Cluster 3: civil security, OSINT, border. Cluster 4: space, EO, SDA, dual-use. EVF as WP lead for exploitation/dissemination.",url:"ec.europa.eu/info/funding-tenders (filter Cluster 3/4)"},
+  {name:"NATO DIANA",stars:"★★★☆☆",freq:"Quarterly",desc:"Dual-use deep tech innovation challenges. EO, OSINT, SDA themes recurrent. Register and monitor for consortium opportunities.",url:"diana.nato.int"},
+  {name:"DG DEFIS service contracts",stars:"★★★★★",freq:"Monthly",desc:"EC Directorate-General for Defence Industry and Space. Advisory, study, and support contracts for EU Space Programme and EDF.",url:"ted.europa.eu (search DG DEFIS)"},
+];
+
+let activeTab = 'brief';
+let activeFit = 'all';
+let activeSignalFit = 'all';
+
+function switchTab(tab){
+  document.querySelectorAll('.panel').forEach(p=>p.classList.remove('active'));
+  document.querySelectorAll('.nav-tab').forEach(t=>t.classList.remove('active'));
+  document.getElementById('panel-'+tab).classList.add('active');
+  event.target.classList.add('active');
+  activeTab = tab;
+}
+
+function daysUntil(dateStr){
+  const d = new Date(dateStr);
+  const now = new Date('2026-06-25');
+  return Math.round((d-now)/(1000*60*60*24));
+}
+
+function renderTenders(list){
+  const el = document.getElementById('tender-list');
+  if(!list.length){el.innerHTML='<div class="empty">No tenders match this filter.</div>';return;}
+  el.innerHTML = list.map(t=>{
+    const days = daysUntil(t.deadline);
+    const urgentClass = days <= 30 ? 'deadline-soon' : '';
+    const urgentTxt = days <= 0 ? 'DEADLINE PASSED' : days <= 7 ? `⚑ ${days}d` : days <= 30 ? `${days} days` : `${days} days`;
+    return `<div class="tender-card ${t.fit}" data-fit="${t.fit}" data-tags="${t.tags.join(' ').toLowerCase()}">
+      <div class="tender-top">
+        <div class="tender-name">${t.name}</div>
+        <div class="tender-badges">
+          <span class="badge badge-fit-${t.fit}">${t.fit} fit</span>
+          <span class="badge badge-client">${t.client}</span>
+          <span class="badge badge-source">${t.source}</span>
+        </div>
+      </div>
+      <div class="tender-desc">${t.desc}</div>
+      <div class="tender-foot">
+        <div class="tag-row">${t.tags.map(tag=>`<span class="tag">${tag}</span>`).join('')}</div>
+        <div class="tender-deadline ${urgentClass}">Deadline <strong>${t.deadline}</strong> — <strong>${urgentTxt}</strong></div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function filterTenders(){
+  const q = document.getElementById('tender-search').value.toLowerCase();
+  let list = TENDERS;
+  if(activeFit !== 'all'){
+    if(['high','medium','low'].includes(activeFit)) list = list.filter(t=>t.fit===activeFit);
+    else list = list.filter(t=>t.tags.map(x=>x.toLowerCase()).includes(activeFit));
+  }
+  if(q) list = list.filter(t=>(t.name+t.desc+t.client+t.tags.join(' ')).toLowerCase().includes(q));
+  renderTenders(list);
+}
+
+function toggleFit(el, fit){
+  document.querySelectorAll('#panel-tenders .filter-chip').forEach(c=>c.classList.remove('active'));
+  el.classList.add('active');
+  activeFit = fit;
+  filterTenders();
+}
+
+function renderSignals(list){
+  const el = document.getElementById('signal-list');
+  if(!list.length){el.innerHTML='<div class="empty">No signals match this filter.</div>';return;}
+  el.innerHTML = list.map(s=>`<div class="signal-card ${s.priority?'high-priority':''}">
+    <div class="signal-top">
+      <div class="signal-title">${s.priority?'⚑ ':''}${s.title}</div>
+      <div class="signal-meta">
+        <span class="signal-type type-${s.type}">${s.type}</span>
+      </div>
+    </div>
+    <div class="signal-body">${s.body}</div>
+    <div class="signal-foot">
+      <span class="signal-comp">${s.comp}</span>
+      <div style="display:flex;align-items:center;gap:8px">
+        <div class="tag-row">${s.tags.map(tag=>`<span class="tag">${tag}</span>`).join('')}</div>
+        <span class="signal-date">${s.date}</span>
+      </div>
+    </div>
+  </div>`).join('');
+}
+
+function filterSignals(){
+  const q = document.getElementById('signal-search').value.toLowerCase();
+  let list = SIGNALS;
+  if(activeSignalFit === 'high') list = list.filter(s=>s.priority);
+  else if(activeSignalFit !== 'all') list = list.filter(s=>s.type===activeSignalFit);
+  if(q) list = list.filter(s=>(s.title+s.body+s.comp+s.tags.join(' ')).toLowerCase().includes(q));
+  renderSignals(list);
+}
+
+function toggleSignalFit(el, fit){
+  document.querySelectorAll('#signal-filters .filter-chip').forEach(c=>c.classList.remove('active'));
+  el.classList.add('active');
+  activeSignalFit = fit;
+  filterSignals();
+}
+
+function renderCompetitors(){
+  ['t1','t2','t3'].forEach(tier=>{
+    const key = tier==='t1'?'tier1':tier==='t2'?'tier2':'tier3';
+    const el = document.getElementById('comp-grid-'+tier);
+    el.innerHTML = COMPETITORS[key].map(c=>`<div class="comp-card ${tier}">
+      <div class="comp-head">
+        <div class="comp-name">${c.name}</div>
+        ${c.threat !== 'none' ? `<span class="threat-pill threat-${c.threat==='high'?'high':c.threat==='medium'?'med':'low'}">${c.threat==='high'?'High threat':c.threat==='medium'?'Medium threat':'Low threat'}</span>` : ''}
+      </div>
+      <div class="comp-type">${c.type} · ${c.hq}</div>
+      <div class="comp-offer">${c.offer}</div>
+      <div class="comp-evf">
+        <div class="comp-evf-label">EVF angle</div>
+        ${c.evf}
+      </div>
+      <div class="tag-row">${c.tags.map(t=>`<span class="tag">${t}</span>`).join('')}</div>
+    </div>`).join('');
+  });
+}
+
+function renderSources(){
+  const el = document.getElementById('sources-list');
+  el.innerHTML = SOURCES.map(s=>`<div class="source-card">
+    <div class="source-head">
+      <div class="source-name">${s.name}</div>
+      <span class="source-stars">${s.stars}</span>
+    </div>
+    <div class="source-desc">${s.desc}</div>
+    <div class="source-url">${s.url}</div>
+    <div class="source-freq">Update: ${s.freq}</div>
+  </div>`).join('');
+}
+
+function computeStats(){
+  const high = TENDERS.filter(t=>t.fit==='high').length;
+  const med = TENDERS.filter(t=>t.fit==='medium').length;
+  const sigs = SIGNALS.length;
+  const urgent = TENDERS.filter(t=>daysUntil(t.deadline)<=30&&daysUntil(t.deadline)>0).length;
+  document.getElementById('stat-high').textContent = high;
+  document.getElementById('stat-med').textContent = med;
+  document.getElementById('stat-signals').textContent = sigs;
+  document.getElementById('stat-urgent').textContent = urgent;
+  document.getElementById('tender-count').textContent = TENDERS.length;
+  document.getElementById('signal-count').textContent = SIGNALS.length;
+}
+
+function renderBrief(){
+  document.getElementById('brief-top-opps').innerHTML = TENDERS.filter(t=>t.fit==='high').slice(0,4).map(t=>`<div style="margin-bottom:8px;padding-bottom:8px;border-bottom:0.5px solid var(--border)"><strong style="font-size:12px">${t.client}</strong><br><span style="font-size:12px">${t.name.substring(0,80)}...</span><br><span style="font-size:11px;color:var(--text-muted)">Deadline ${t.deadline}</span></div>`).join('');
+  document.getElementById('brief-comp-moves').innerHTML = SIGNALS.filter(s=>s.priority).slice(0,4).map(s=>`<div style="margin-bottom:8px;padding-bottom:8px;border-bottom:0.5px solid var(--border)"><strong style="font-size:12px">${s.comp}</strong><br><span style="font-size:12px">${s.title.substring(0,80)}...</span><br><span style="font-size:11px;color:var(--text-muted)">${s.date} · ${s.type}</span></div>`).join('');
+  document.getElementById('brief-actions').innerHTML = `<div style="font-size:12px;line-height:1.9">
+    ⚑ Reach out to Tracasa re: ARGOS2 consortium positioning<br>
+    ⚑ Register on EDA eTendering portal<br>
+    ⚑ Monitor SatCen Q3 procurement for OSINT support renewal<br>
+    → Attend European Space Security Forum, Brussels, 2 Jul 2026
+  </div>`;
+  document.getElementById('brief-watch').innerHTML = `<div style="font-size:12px;line-height:1.9">
+    GMV–MYRIAD: assess if EVF can join future GEOINT calls<br>
+    EY/Deloitte: monitor EU SecDef institutional contract wins<br>
+    FDC: confirm full company profile (unverified)<br>
+    Project Bromo (Airbus/Leonardo/Thales JV): exploitation WP opportunities post-2027
+  </div>`;
+}
+
+function runLiveSearch(){
+  sendPrompt('Run a full SecDef radar update for Evenflow: (1) Search for new EDF, EDA, SatCen, Frontex, and Horizon Cluster 3/4 tenders relevant to OSINT, GEOINT, IMINT exploitation, advisory, and stakeholder engagement posted in the last 2 weeks. (2) Find recent competitor signals for Novaspace, GMV, Tracasa, Telespazio, e-GEOS, EY and Deloitte in EU space SecDef. (3) Flag the top 3 priority opportunities and top 3 competitor moves. Format as a structured weekly brief.');
+}
+
+computeStats();
+renderTenders(TENDERS);
+renderSignals(SIGNALS);
+renderCompetitors();
+renderSources();
+renderBrief();
+</script>
+</body>
+</html>
