@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>EVF Feed Test</title>
+<title>EVF Feed Test 2</title>
 <style>
 body { font-family: monospace; padding: 24px; background: #f5f5f5; }
 h2 { margin-bottom: 16px; }
@@ -10,11 +10,11 @@ h2 { margin-bottom: 16px; }
 .ok { border-left: 3px solid #4CAF50; }
 .fail { border-left: 3px solid #E53935; }
 .pending { border-left: 3px solid #ccc; color: #999; }
-strong { display: inline-block; width: 280px; }
+strong { display: inline-block; width: 320px; }
 </style>
 </head>
 <body>
-<h2>EVF Feed Test — results appear as each test completes</h2>
+<h2>EVF Feed Test 2 — results appear as each completes</h2>
 <div id="out"></div>
 <script>
 const out = document.getElementById('out');
@@ -22,74 +22,84 @@ const out = document.getElementById('out');
 function row(id, name, method) {
   const d = document.createElement('div');
   d.className = 'row pending';
-  d.id = id;
-  d.innerHTML = `<strong>${name}</strong> <span class="method">[${method}]</span> <span class="result">testing...</span>`;
+  d.id = 'r' + id;
+  d.innerHTML = `<strong>${name}</strong> <span>[${method}]</span> <span class="res">testing...</span>`;
   out.appendChild(d);
-  return d;
 }
 
-function update(el, ok, ms, extra) {
+function update(id, ok, ms, extra) {
+  const el = document.getElementById('r' + id);
   el.className = 'row ' + (ok ? 'ok' : 'fail');
-  el.querySelector('.result').textContent = (ok ? '✓ OK' : '✗ FAIL') + ` — ${ms}ms` + (extra ? ' — ' + extra : '');
+  el.querySelector('.res').textContent = (ok ? '✓ OK' : '✗ FAIL') + ` — ${ms}ms` + (extra ? ' — ' + extra : '');
 }
 
 const TESTS = [
-  // Direct fetch
-  { id: 'd1', name: 'SpaceNews', method: 'direct', url: 'https://spacenews.com/feed/' },
-  { id: 'd2', name: 'Breaking Defense', method: 'direct', url: 'https://breakingdefense.com/feed/' },
-  { id: 'd3', name: 'European Spaceflight', method: 'direct', url: 'https://europeanspaceflight.com/feed/' },
-  { id: 'd4', name: 'Euractiv Defence', method: 'direct', url: 'https://www.euractiv.com/sections/defence-and-security/feed/' },
-  { id: 'd5', name: 'EO Mag', method: 'direct', url: 'https://eomag.eu/feed/' },
-  // allorigins proxy
-  { id: 'a1', name: 'SpaceNews', method: 'allorigins', url: 'https://spacenews.com/feed/' },
-  { id: 'a2', name: 'Breaking Defense', method: 'allorigins', url: 'https://breakingdefense.com/feed/' },
-  { id: 'a3', name: 'Euractiv Defence', method: 'allorigins', url: 'https://www.euractiv.com/sections/defence-and-security/feed/' },
-  { id: 'a4', name: 'TED defence sector', method: 'allorigins', url: 'https://ted.europa.eu/en/simap/rss-feed/-/rss/search/defe' },
-  // rss2json
-  { id: 'r1', name: 'SpaceNews', method: 'rss2json', url: 'https://spacenews.com/feed/' },
-  { id: 'r2', name: 'Breaking Defense', method: 'rss2json', url: 'https://breakingdefense.com/feed/' },
-  { id: 'r3', name: 'Euractiv Defence', method: 'rss2json', url: 'https://www.euractiv.com/sections/defence-and-security/feed/' },
-  { id: 'r4', name: 'TED defence sector', method: 'rss2json', url: 'https://ted.europa.eu/en/simap/rss-feed/-/rss/search/defe' },
-  { id: 'r5', name: 'TED R&D services', method: 'rss2json', url: 'https://ted.europa.eu/en/simap/rss-feed/-/rss/search/reco' },
+  // rss2json WITHOUT count param (free tier)
+  { id: 1, name: 'rss2json no-count: SpaceNews', method: 'rss2json-free', url: 'https://spacenews.com/feed/' },
+  { id: 2, name: 'rss2json no-count: Breaking Defense', method: 'rss2json-free', url: 'https://breakingdefense.com/feed/' },
+  { id: 3, name: 'rss2json no-count: Euractiv Defence', method: 'rss2json-free', url: 'https://www.euractiv.com/sections/defence-and-security/feed/' },
+  { id: 4, name: 'rss2json no-count: TED defence', method: 'rss2json-free', url: 'https://ted.europa.eu/en/simap/rss-feed/-/rss/search/defe' },
+  { id: 5, name: 'rss2json no-count: EO Mag', method: 'rss2json-free', url: 'https://eomag.eu/feed/' },
+  // corsproxy.io
+  { id: 6, name: 'corsproxy.io: SpaceNews', method: 'corsproxy', url: 'https://spacenews.com/feed/' },
+  { id: 7, name: 'corsproxy.io: Breaking Defense', method: 'corsproxy', url: 'https://breakingdefense.com/feed/' },
+  { id: 8, name: 'corsproxy.io: Euractiv Defence', method: 'corsproxy', url: 'https://www.euractiv.com/sections/defence-and-security/feed/' },
+  { id: 9, name: 'corsproxy.io: TED defence', method: 'corsproxy', url: 'https://ted.europa.eu/en/simap/rss-feed/-/rss/search/defe' },
+  // cors.sh (free, no key needed)
+  { id: 10, name: 'cors.sh: SpaceNews', method: 'corssh', url: 'https://spacenews.com/feed/' },
+  { id: 11, name: 'cors.sh: Breaking Defense', method: 'corssh', url: 'https://breakingdefense.com/feed/' },
+  // feedparser via public API
+  { id: 12, name: 'feedparser.xyz: SpaceNews', method: 'feedparser', url: 'https://spacenews.com/feed/' },
+  { id: 13, name: 'feedparser.xyz: Euractiv Defence', method: 'feedparser', url: 'https://www.euractiv.com/sections/defence-and-security/feed/' },
 ];
 
-// Pre-render all rows
 TESTS.forEach(t => row(t.id, t.name, t.method));
 
 async function runTest(t) {
-  const el = document.getElementById(t.id);
   const t0 = Date.now();
   try {
-    let ok = false;
-    let extra = '';
-    if (t.method === 'direct') {
-      const r = await fetch(t.url, { signal: AbortSignal.timeout(5000) });
-      const text = await r.text();
-      ok = text.includes('<item>') || text.includes('<entry>');
-      extra = ok ? 'has items' : 'no items found';
-    } else if (t.method === 'allorigins') {
-      const r = await fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(t.url)}`, { signal: AbortSignal.timeout(6000) });
-      const d = await r.json();
-      ok = d.contents && (d.contents.includes('<item>') || d.contents.includes('<entry>'));
-      extra = ok ? 'has items' : 'empty or error';
-    } else if (t.method === 'rss2json') {
-      const r = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(t.url)}&count=5`, { signal: AbortSignal.timeout(6000) });
+    let ok = false, extra = '';
+
+    if (t.method === 'rss2json-free') {
+      // No count param — free tier
+      const r = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(t.url)}`, { signal: AbortSignal.timeout(6000) });
       const d = await r.json();
       ok = d.status === 'ok' && d.items?.length > 0;
-      extra = ok ? `${d.items.length} items, first: "${(d.items[0]?.title||'').substring(0,40)}"` : (d.message || 'no items');
+      extra = ok ? `${d.items.length} items — "${(d.items[0]?.title||'').substring(0,40)}"` : (d.message || 'failed');
+
+    } else if (t.method === 'corsproxy') {
+      const r = await fetch(`https://corsproxy.io/?${encodeURIComponent(t.url)}`, { signal: AbortSignal.timeout(6000) });
+      const text = await r.text();
+      ok = text.includes('<item>') || text.includes('<entry>');
+      extra = ok ? 'has items' : 'no items';
+
+    } else if (t.method === 'corssh') {
+      const r = await fetch(t.url, {
+        headers: { 'x-cors-api-key': 'temp_' },
+        signal: AbortSignal.timeout(6000)
+      });
+      const text = await r.text();
+      ok = text.includes('<item>') || text.includes('<entry>');
+      extra = ok ? 'has items' : 'no items';
+
+    } else if (t.method === 'feedparser') {
+      const r = await fetch(`https://api.feedparser.xyz/v1/parse?url=${encodeURIComponent(t.url)}`, { signal: AbortSignal.timeout(6000) });
+      const d = await r.json();
+      ok = d.items?.length > 0;
+      extra = ok ? `${d.items.length} items` : 'failed';
     }
-    update(el, ok, Date.now() - t0, extra);
+
+    update(t.id, ok, Date.now() - t0, extra);
   } catch(e) {
-    update(el, false, Date.now() - t0, e.message.substring(0, 50));
+    update(t.id, false, Date.now() - t0, e.message.substring(0, 60));
   }
 }
 
-// Run all tests in parallel
 Promise.all(TESTS.map(runTest)).then(() => {
-  const done = document.createElement('div');
-  done.style.cssText = 'margin-top:16px;padding:12px;background:white;border-radius:4px;font-size:13px;font-weight:bold';
-  done.textContent = 'All tests complete.';
-  out.appendChild(done);
+  const d = document.createElement('div');
+  d.style.cssText = 'margin-top:16px;padding:12px;background:white;border-radius:4px;font-weight:bold;font-size:13px';
+  d.textContent = 'All tests complete.';
+  out.appendChild(d);
 });
 </script>
 </body>
