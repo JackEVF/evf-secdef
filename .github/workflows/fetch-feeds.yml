@@ -1,0 +1,37 @@
+name: Fetch RSS Feeds
+
+on:
+  schedule:
+    # Run every day at 07:00 Brussels time (06:00 UTC, adjusts for DST automatically)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual trigger from GitHub Actions tab
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Needed to commit feeds.json back to repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install xml2js
+
+      - name: Fetch RSS feeds
+        run: node fetch-feeds.js
+
+      - name: Commit feeds.json
+        run: |
+          git config user.name "EVF Radar Bot"
+          git config user.email "radar-bot@evenflow.eu"
+          git add feeds.json
+          # Only commit if feeds.json actually changed
+          git diff --staged --quiet || git commit -m "Update feeds.json — $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
