@@ -66,11 +66,11 @@ function isRelevant(title, desc, keywords) {
   return keywords.some(kw => text.includes(kw));
 }
 
-function fetchUrl(url) {
+function fetchUrl(url, timeoutMs = 10000) {
   return new Promise((resolve, reject) => {
     const lib = url.startsWith('https') ? https : http;
     const req = lib.get(url, {
-      timeout: 10000,
+      timeout: timeoutMs,
       headers: {
         'User-Agent': 'EVF-SecDef-Radar/1.0 (RSS reader)',
         'Accept': 'application/rss+xml, application/xml, text/xml, */*',
@@ -78,11 +78,13 @@ function fetchUrl(url) {
     }, (res) => {
       // Follow redirects
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-        return fetchUrl(res.headers.location).then(resolve).catch(reject);
+        return fetchUrl(res.headers.location, timeoutMs).then(resolve).catch(reject);
       }
       let data = '';
+      const dataTimeout = setTimeout(() => { req.destroy(); reject(new Error('data timeout')); }, timeoutMs);
       res.on('data', chunk => data += chunk);
-      res.on('end', () => resolve(data));
+      res.on('end', () => { clearTimeout(dataTimeout); resolve(data); });
+      res.on('error', (e) => { clearTimeout(dataTimeout); reject(e); });
     });
     req.on('error', reject);
     req.on('timeout', () => { req.destroy(); reject(new Error('timeout')); });
@@ -128,7 +130,7 @@ function parseRSS(xml, feedName) {
 
 async function fetchFeed(feed, keywords) {
   try {
-    const xml = await fetchUrl(feed.url);
+    const xml = await fetchUrl(feed.url, 10000);
     const items = await parseRSS(xml, feed.name);
     return items.filter(item => isRelevant(item.title, item.description, keywords));
   } catch(e) {
