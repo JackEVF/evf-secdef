@@ -1,6 +1,20 @@
 {
-  "generated": "2026-06-26T13:42:02.406Z",
+  "generated": "2026-06-27T13:00:01.469Z",
   "newsItems": [
+    {
+      "title": "Commercial Markets Are Ready for EO — But the Understanding Gap Persists",
+      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/06/26/commercial-markets-are-ready-for-eo-but-the-understanding-gap-persists/",
+      "pubDate": "Fri, 26 Jun 2026 19:12:54 +0000",
+      "description": "At the recent EO Summit in London, Earth Observation (EO) experts explained the industry must face the challenge of how to explain its solutions to customers in terms of the [&#8230;]\nThe post Commercial Markets Are Ready for EO — But the Understanding Gap Persists appeared first on Via Satellite.\n",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "NASA Delivers Braking Engines for ESA Rosalind Franklin Mars Mission",
+      "link": "https://europeanspaceflight.com/nasa-delivers-braking-engines-for-esa-rosalind-franklin-mars-mission/",
+      "pubDate": "Fri, 26 Jun 2026 14:51:53 +0000",
+      "description": "NASA has delivered the first braking engines for the European Space Agency’s (ESA) Rosalind Franklin mission to Mars. The braking engines are one of three major contributions NASA has committed to the mission, along with launch services and Radioisotope Heater Units (RHUs) to keep the rover’s instru",
+      "feedName": "European Spaceflight"
+    },
     {
       "title": "Misreading Myanmar’s War: Why the Junta’s Recent Gains Don’t Mean Imminent Victory",
       "link": "https://warontherocks.com/misreading-myanmars-war-why-the-juntas-recent-gains-dont-mean-imminent-victory/",
@@ -42,13 +56,6 @@
       "pubDate": "Thu, 25 Jun 2026 06:00:00 +0000",
       "description": "Qualinx has successfully integrated full Galileo OSNMA support on its QLX3Gx Series ultra-low-power GNSS receiver.\n\nDeveloped with EUSPA's support, the OSNMA integration makes QLX3Gx one of the first GNSS receiver chipset purpose-built for ultra-low-power markets to deliver hardware-native OSNMA sup",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "LEO Operators Launch New Industry Group for NGSO Issues",
-      "link": "https://www.satellitetoday.com/connectivity/2026/06/24/leo-operators-launch-new-industry-group-for-ngso-issues/",
-      "pubDate": "Wed, 24 Jun 2026 20:04:07 +0000",
-      "description": "A group of satellite operators are launching a new trade association to represent Non-Geostationary (NGSO) satellite issues. Founding members Amazon, Iridium, Telesat and Globalstar announced SpaceConnect Association on Wednesday. SpaceConnect [&#8230;]\nThe post LEO Operators Launch New Industry Gro",
-      "feedName": "Via Satellite"
     },
     {
       "title": "Digital Twins for Space Command: Sedaro Tapped by Space Force to Build Federated Engineering Platform",
