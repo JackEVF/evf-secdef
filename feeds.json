@@ -1,6 +1,13 @@
 {
-  "generated": "2026-06-27T13:00:01.469Z",
+  "generated": "2026-06-28T13:23:17.578Z",
   "newsItems": [
+    {
+      "title": "Israel’s Vance problem is bigger than JD Vance",
+      "link": "https://www.politico.com/news/2026/06/27/israel-problem-bigger-jd-vance-00978621?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Sat, 27 Jun 2026 15:27:33 +0000",
+      "description": "Vice President JD Vance has become the face of a Washington that no longer treats Israel as the exception to \"America First.\"",
+      "feedName": "Politico Europe"
+    },
     {
       "title": "Commercial Markets Are Ready for EO — But the Understanding Gap Persists",
       "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/06/26/commercial-markets-are-ready-for-eo-but-the-understanding-gap-persists/",
@@ -56,13 +63,6 @@
       "pubDate": "Thu, 25 Jun 2026 06:00:00 +0000",
       "description": "Qualinx has successfully integrated full Galileo OSNMA support on its QLX3Gx Series ultra-low-power GNSS receiver.\n\nDeveloped with EUSPA's support, the OSNMA integration makes QLX3Gx one of the first GNSS receiver chipset purpose-built for ultra-low-power markets to deliver hardware-native OSNMA sup",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Digital Twins for Space Command: Sedaro Tapped by Space Force to Build Federated Engineering Platform",
-      "link": "https://satnews.com/2026/06/24/digital-twins-for-space-command-sedaro-tapped-by-space-force-to-build-federated-engineering-platform/",
-      "pubDate": "Wed, 24 Jun 2026 15:40:27 +0000",
-      "description": "WASHINGTON, D.C. — In a significant move to accelerate digital engineering across the U.S. military&#8217;s orbital enterprise, aerospace software provider Sedaro has been selected by Space Systems Command (SSC) to [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "Satellite Operators Launch Trade Association",
@@ -153,13 +153,6 @@
       "link": "https://www.defenseone.com/business/2026/06/defense-business-brief-tech-summit-recap-invoking-defense-production-act-and-indopacoms-name-change/414267/",
       "pubDate": "Thu, 18 Jun 2026 03:45:14 -0400",
       "description": "The Defense Production Act has entered the munitions chat even as concerns persist about weapons stockpiles spent in the U.S.-Israel war on Iran.&nbsp;&nbsp;\r\n\r\n&ldquo;It&#39;s not a sudden shift, it&#39;s taken us nine months to make this work,&rdquo; Michael Cadenazzi, the Pentagon&rsquo;s industr",
-      "feedName": "Defense One"
-    },
-    {
-      "title": "Want to join NGA? Bring AI skills, agency leader says",
-      "link": "https://www.defenseone.com/policy/2026/06/want-join-nga-bring-ai-skills-intel-ops-leader-says/414247/",
-      "pubDate": "Wed, 17 Jun 2026 13:24:24 -0400",
-      "description": "Even current National Geospatial-Intelligence Agency workers are getting new training.",
       "feedName": "Defense One"
     },
     {
