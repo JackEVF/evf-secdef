@@ -1,6 +1,13 @@
 {
-  "generated": "2026-06-29T17:14:15.492Z",
+  "generated": "2026-06-30T12:32:55.353Z",
   "newsItems": [
+    {
+      "title": "Romania buys Spyder air defense system as part of ‘largest deal’ in Rafael history, CEO says",
+      "link": "https://breakingdefense.com/2026/06/romania-buys-spyder-air-defense-system-as-part-of-largest-deal-in-rafael-history-ceo-says/",
+      "pubDate": "Mon, 29 Jun 2026 18:41:23 +0000",
+      "description": "Romania has taken a number of steps to upgrade its defenses amid the war in Ukraine just across its border, including acquiring other Israeli systems. \n",
+      "feedName": "Breaking Defense"
+    },
     {
       "title": "SatVu Initiates Commercial Operations for HotSat-2 Thermal Satellite",
       "link": "https://satnews.com/2026/06/29/satvu-initiates-commercial-operations-for-hotsat-2-thermal-satellite/",
@@ -72,13 +79,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Capella Prepares to Validate Mynaric Optical Terminal on Latest SAR Satellite",
-      "link": "https://www.satellitetoday.com/technology/2026/06/25/capella-prepares-to-validate-mynaric-optical-terminal-on-latest-sar-satellite/",
-      "pubDate": "Thu, 25 Jun 2026 20:08:12 +0000",
-      "description": "Capella Space is preparing for tests to validate a Mynaric optical communications terminal on its newest satellite — the first time Capella has deployed an optical terminal.  Capella Space released the first [&#8230;]\nThe post Capella Prepares to Validate Mynaric Optical Terminal on Latest SAR Satel",
-      "feedName": "Via Satellite"
-    },
-    {
       "title": "Qualinx’s ‘QLX3Gx’ Series Chip Brings Authenticated GNSS Positioning to Ultra-Low-Power Devices",
       "link": "https://spacewatch.global/2026/06/qualinxs-qlx3gx-series-chip-brings-authenticated-gnss-positioning-to-ultra-low-power-devices/",
       "pubDate": "Thu, 25 Jun 2026 06:00:00 +0000",
@@ -119,13 +119,6 @@
       "pubDate": "Tue, 23 Jun 2026 15:38:33 +0000",
       "description": "The European Space Agency (ESA) has made initial decisions on the future of its contributions to NASA’s Gateway space station after the US space agency “paused” the programme. The agency largely expects to proceed with developing most of its planned Gateway hardware while awaiting the results of stu",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "ILA 2026 – The Price of Success – When Orbit Becomes a Problem -Space Debris, Liability and Cleanup",
-      "link": "https://spacewatch.global/2026/06/ila-2026-the-price-of-success-when-orbit-becomes-a-problem-space-debris-liability-and-cleanup/",
-      "pubDate": "Tue, 23 Jun 2026 15:00:00 +0000",
-      "description": "At ILA 2026, ESA's Dr. Holger Krag, DLR's Dr. Manuel Metz and BHO Legal's Katharina Prall join Space.Table's Nicola Kuhrt to confront the space-debris challenge — the scale of the threat, who's liable, and how mitigation, active removal and new law can keep our orbits usable.",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Frustrating Israel, fiber-optic killer drone technology has arrived in southern Lebanon",
