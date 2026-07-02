@@ -1,6 +1,27 @@
 {
-  "generated": "2026-07-01T16:01:22.720Z",
+  "generated": "2026-07-02T12:33:18.795Z",
   "newsItems": [
+    {
+      "title": "Hydrosat Launches ‘Discovery Portal’, A Centralized Gateway to Unlock 500M sq. km. of Thermal Satellite Imagery",
+      "link": "https://spacewatch.global/2026/07/hydrosat-launches-discovery-portal-a-centralized-gateway-to-unlock-500m-sq-km-of-thermal-satellite-imagery/",
+      "pubDate": "Thu, 02 Jul 2026 06:00:00 +0000",
+      "description": "Hydrosat has launched its Discovery Portal, a centralized gateway to its thermal satellite imagery and analytics, as it builds out its next-generation thermal imaging constellation.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Unseenlabs Orders 2 Cubesats from GomSpace",
+      "link": "https://www.satellitetoday.com/manufacturing/2026/07/01/unseenlabs-orders-2-cubesats-from-gomspace/",
+      "pubDate": "Wed, 01 Jul 2026 20:59:33 +0000",
+      "description": "French radio frequency (RF) detection company Unseenlabs has ordered two additional cubesats from smallsat manufacturer GomSpace. GomSpace announced the contract worth 2.2 million euro ($2.5 million) on Wednesday.  The satellites, [&#8230;]\nThe post Unseenlabs Orders 2 Cubesats from GomSpace appeare",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "From Shin Bet to Mossad, Netanyahu Reshapes Israeli Intelligence",
+      "link": "https://warontherocks.com/from-shin-bet-to-mossad-netanyahu-reshapes-israeli-intelligence/",
+      "pubDate": "Wed, 01 Jul 2026 17:30:40 +0000",
+      "description": "Editor&#8217;s Note: Rewind and Reconnoiter is one of our weekly members-only newsletters. To access the full archive of Rewind and Reconnoiter as well as our other members-only content, including podcasts, newsletters, and exclusive access to the War on the Rocks app, sign up using the link in the ",
+      "feedName": "War on the Rocks"
+    },
     {
       "title": "NASA Adds Kuva US to $476 Million Commercial Satellite Data Acquisition On-Ramp Contract",
       "link": "https://satnews.com/2026/07/01/nasa-adds-kuva-us-to-476-million-commercial-satellite-data-acquisition-on-ramp-contract/",
@@ -44,13 +65,6 @@
       "feedName": "War on the Rocks"
     },
     {
-      "title": "Es’hailSat Selects Thales Alenia Space to Build Software-Defined Eshail-3/Türksat-Biruni Satellite",
-      "link": "https://satnews.com/2026/06/30/eshailsat-selects-thales-alenia-space-to-build-software-defined-eshail-3-turksat-biruni-satellite/",
-      "pubDate": "Tue, 30 Jun 2026 14:49:52 +0000",
-      "description": "CANNES, FRANCE — On Tuesday, June 30, 2026, Thales Alenia Space announced it has signed a definitive contract with Es’hailSat, the Qatar Satellite Company, to design and manufacture a next-generation, [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "Exclusive: Satellogic Expands AI Apps with SpaceKnow Partnership",
       "link": "https://payloadspace.com/exclusive-satellogic-expands-ai-apps-with-spaceknow-partnership/",
       "pubDate": "Tue, 30 Jun 2026 13:00:00 +0000",
@@ -79,39 +93,11 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Commercial Markets Are Ready for EO — But the Understanding Gap Persists",
-      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/06/26/commercial-markets-are-ready-for-eo-but-the-understanding-gap-persists/",
-      "pubDate": "Fri, 26 Jun 2026 19:12:54 +0000",
-      "description": "At the recent EO Summit in London, Earth Observation (EO) experts explained the industry must face the challenge of how to explain its solutions to customers in terms of the [&#8230;]\nThe post Commercial Markets Are Ready for EO — But the Understanding Gap Persists appeared first on Via Satellite.\n",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "NASA Delivers Braking Engines for ESA Rosalind Franklin Mars Mission",
-      "link": "https://europeanspaceflight.com/nasa-delivers-braking-engines-for-esa-rosalind-franklin-mars-mission/",
-      "pubDate": "Fri, 26 Jun 2026 14:51:53 +0000",
-      "description": "NASA has delivered the first braking engines for the European Space Agency’s (ESA) Rosalind Franklin mission to Mars. The braking engines are one of three major contributions NASA has committed to the mission, along with launch services and Radioisotope Heater Units (RHUs) to keep the rover’s instru",
-      "feedName": "European Spaceflight"
-    },
-    {
       "title": "Misreading Myanmar’s War: Why the Junta’s Recent Gains Don’t Mean Imminent Victory",
       "link": "https://warontherocks.com/misreading-myanmars-war-why-the-juntas-recent-gains-dont-mean-imminent-victory/",
       "pubDate": "Fri, 26 Jun 2026 07:30:04 +0000",
       "description": "To understand how close Myanmar&#8217;s pro-democracy resistance came to victory last year &#8212; and how far it has slipped since &#8212; there is no sharper microcosm than the story of a Gen Z sniper. In April 2025, a female teenager, Anina, enraptured the world, her youth-driven &#8220;Spring Re",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "ESA and European Commission Open up ‘Flight Ticket Initiative’ to more European Launch Service Providers",
-      "link": "https://spacewatch.global/2026/06/esa-and-european-commission-open-up-flight-ticket-initiative-to-more-european-launch-service-providers/",
-      "pubDate": "Fri, 26 Jun 2026 06:00:00 +0000",
-      "description": "The  European Space Agency and the European Commission are inviting launch service providers across Europe to apply to join the European Flight Ticket Initiative, offering new opportunities to participate in upcoming missions. \n\nUnder the Flight Ticket Initiative, European launch service providers c",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Qualinx’s ‘QLX3Gx’ Series Chip Brings Authenticated GNSS Positioning to Ultra-Low-Power Devices",
-      "link": "https://spacewatch.global/2026/06/qualinxs-qlx3gx-series-chip-brings-authenticated-gnss-positioning-to-ultra-low-power-devices/",
-      "pubDate": "Thu, 25 Jun 2026 06:00:00 +0000",
-      "description": "Qualinx has successfully integrated full Galileo OSNMA support on its QLX3Gx Series ultra-low-power GNSS receiver.\n\nDeveloped with EUSPA's support, the OSNMA integration makes QLX3Gx one of the first GNSS receiver chipset purpose-built for ultra-low-power markets to deliver hardware-native OSNMA sup",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Marines expand use of Maven with new AI operational reporting tool",
@@ -128,13 +114,6 @@
       "feedName": "War on the Rocks"
     },
     {
-      "title": "ESA Details Next Steps for Agency’s Gateway Contributions",
-      "link": "https://europeanspaceflight.com/esa-details-next-steps-for-agencys-gateway-contributions/",
-      "pubDate": "Tue, 23 Jun 2026 15:38:33 +0000",
-      "description": "The European Space Agency (ESA) has made initial decisions on the future of its contributions to NASA’s Gateway space station after the US space agency “paused” the programme. The agency largely expects to proceed with developing most of its planned Gateway hardware while awaiting the results of stu",
-      "feedName": "European Spaceflight"
-    },
-    {
       "title": "Frustrating Israel, fiber-optic killer drone technology has arrived in southern Lebanon",
       "link": "https://www.c4isrnet.com/global/mideast-africa/2026/06/23/frustrating-israel-fiber-optic-killer-drone-technology-has-arrived-in-southern-lebanon/",
       "pubDate": "Tue, 23 Jun 2026 14:43:45 +0000",
@@ -142,32 +121,11 @@
       "feedName": "C4ISRNET"
     },
     {
-      "title": "ESA Astronaut Tests European Spacesuit Prototype Aboard ISS",
-      "link": "https://europeanspaceflight.com/esa-astronaut-tests-european-spacesuit-prototype-aboard-iss/",
-      "pubDate": "Mon, 22 Jun 2026 11:08:12 +0000",
-      "description": "ESA astronaut Sophie Adenot has tested a European intravehicular activity (IVA) spacesuit prototype aboard the International Space Station (ISS). In addition to testing in space, a second prototype has undergone a water survival test campaign in Marseille. The EuroSuit project was initiated by the F",
-      "feedName": "European Spaceflight"
-    },
-    {
       "title": "Ukraine launches ‘TrophyLab’ platform to share captured Russian weapons with allies",
       "link": "https://www.c4isrnet.com/global/europe/2026/06/22/ukraine-launches-trophylab-platform-to-share-captured-russian-weapons-with-allies/",
       "pubDate": "Mon, 22 Jun 2026 09:27:55 +0000",
       "description": "Among the listed items available for study are, for example, a Kinzhal hypersonic missile and a T-90M tank.",
       "feedName": "C4ISRNET"
-    },
-    {
-      "title": "Anomaly Delays Full-Scale Space Rider Drop Test Until October",
-      "link": "https://europeanspaceflight.com/anomaly-delays-full-scale-space-rider-drop-test-until-october/",
-      "pubDate": "Fri, 19 Jun 2026 09:24:49 +0000",
-      "description": "A full-scale drop test of ESA&#8217;s Space Rider spaceplane in early May was aborted after an anomaly during the captive ascent phase, the agency told European Spaceflight. In August 2024 and June 2025, ESA completed Space Rider drop test campaigns using a 3,000-kilogram mass simulator. In early 20",
-      "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Germany Breaks Ground on One of Two GOVSATCOM Hub Locations",
-      "link": "https://europeanspaceflight.com/germany-breaks-ground-on-one-of-two-govsatcom-hub-locations/",
-      "pubDate": "Thu, 18 Jun 2026 20:34:50 +0000",
-      "description": "Germany has broken ground on a GOVSATCOM Hub facility in Cologne, with the state of North Rhine-Westphalia committing to investing up to €50 million in the project. The European Union’s GOVSATCOM system officially became operational in January 2026 and is designed to provide sovereign, reliable, sec",
-      "feedName": "European Spaceflight"
     },
     {
       "title": "The Gulf Arab States Need a Shield Built for Limited Trust",
@@ -209,13 +167,6 @@
       "link": "https://warontherocks.com/the-recognition-question-somaliland-israeli-security-geometry-and-the-red-sea-power-struggle/",
       "pubDate": "Tue, 19 May 2026 07:15:13 +0000",
       "description": "Since its proclamation of independence from Somalia in May 1991, Somaliland has sought international recognition for the territories under its control. Despite functioning as a de facto independent state for years, it lacked any formal recognition on the international stage until recently, when Isra",
-      "feedName": "War on the Rocks"
-    },
-    {
-      "title": "In Talks with Israel, Lebanon is Walking a Thin Line",
-      "link": "https://warontherocks.com/in-talks-with-israel-lebanon-is-walking-a-thin-line/",
-      "pubDate": "Thu, 14 May 2026 19:40:45 +0000",
-      "description": "This week, Israel and Lebanon are holding their third round of unprecedented direct talks on crucial issues, including borders, the disarmament of Hizballah, and ongoing Israeli military action. The United States, which is clearly driving these talks, views them expansively as seeking a &#8220;compr",
       "feedName": "War on the Rocks"
     },
     {
