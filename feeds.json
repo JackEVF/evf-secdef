@@ -1,6 +1,27 @@
 {
-  "generated": "2026-07-02T12:33:18.795Z",
+  "generated": "2026-07-03T12:30:54.671Z",
   "newsItems": [
+    {
+      "title": "The European Union Satellite Center Signs ‘CISE’ Agreement to Strengthen Europe’s Maritime Security",
+      "link": "https://spacewatch.global/2026/07/the-european-union-satellite-center-signs-cise-agreement-to-strengthen-europes-maritime-security/",
+      "pubDate": "Fri, 03 Jul 2026 06:00:00 +0000",
+      "description": "The European Union Satellite Center has signed the CISE Cooperation Agreement, establishing the framework for operational information exchange between CISE and MARSUR, enhancing Maritime Domain Awareness for the EU, SatCen, and Member States. ",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Isar Aerospace to Launch Satellite for Planet Germany",
+      "link": "https://europeanspaceflight.com/isar-aerospace-to-launch-satellite-for-planet-germany/",
+      "pubDate": "Thu, 02 Jul 2026 15:18:13 +0000",
+      "description": "The German-based subsidiary of Planet Labs has selected Isar Aerospace to launch one of the company’s Pelican Earth observation satellites aboard a Spectrum rocket. The companies plan to complete the launch in less than 12 months. In July 2025, the German government awarded Planet a €240 million mul",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "Iran was the most successful failure in US airpower history",
+      "link": "https://breakingdefense.com/2026/07/iran-was-the-most-successful-failure-in-us-airpower-history/",
+      "pubDate": "Thu, 02 Jul 2026 14:32:32 +0000",
+      "description": "The US entered the conflict with a detailed plan for a war of destruction, but no serious plan for Iran’s war of disruption.\n",
+      "feedName": "Breaking Defense"
+    },
     {
       "title": "Hydrosat Launches ‘Discovery Portal’, A Centralized Gateway to Unlock 500M sq. km. of Thermal Satellite Imagery",
       "link": "https://spacewatch.global/2026/07/hydrosat-launches-discovery-portal-a-centralized-gateway-to-unlock-500m-sq-km-of-thermal-satellite-imagery/",
@@ -44,13 +65,6 @@
       "feedName": "C4ISRNET"
     },
     {
-      "title": "Thales Alenia Space Wins Software-Defined Satellite Order from Es’hailSat",
-      "link": "https://www.satellitetoday.com/manufacturing/2026/06/30/thales-alenia-space-wins-software-defined-satellite-order-from-eshailsat/",
-      "pubDate": "Tue, 30 Jun 2026 20:02:38 +0000",
-      "description": "Thales Alenia Space has won a major new software-defined satellite order from Es’hailSat, one of the biggest satellite operators in the Middle East. The satellite called, Eshail-3/Türksat-Biruni, will offer high-speed [&#8230;]\nThe post Thales Alenia Space Wins Software-Defined Satellite Order from ",
-      "feedName": "Via Satellite"
-    },
-    {
       "title": "Europe’s sovereign-intelligence boom is just beginning, and it needs more companies like ICEYE",
       "link": "https://satnews.com/2026/06/30/europes-sovereign-intelligence-boom-is-just-beginning-and-it-needs-more-companies-like-iceye/",
       "pubDate": "Tue, 30 Jun 2026 18:56:23 +0000",
@@ -79,18 +93,18 @@
       "feedName": "SpaceNews"
     },
     {
-      "title": "Israel sells Spyder air defense systems to Romania for $2.3 billion",
-      "link": "https://www.defensenews.com/global/mideast-africa/2026/06/29/israel-sells-spyder-air-defense-systems-to-romania-for-23-billion/",
-      "pubDate": "Mon, 29 Jun 2026 12:09:19 +0000",
-      "description": "According to manufacturer Rafael, it's the largest contract in its history. ",
-      "feedName": "Defense News"
-    },
-    {
       "title": "Rocket Lab Completes 10th Consecutive Successful ‘StriX’ Satellite Launch for Synspective",
       "link": "https://spacewatch.global/2026/06/rocket-lab-completes-10th-consecutive-successful-strix-satellite-launch-for-synspective/",
       "pubDate": "Mon, 29 Jun 2026 06:00:00 +0000",
       "description": "Rocket Lab has completed its 10th consecutive StriX launch for Synspective, whose Earth observation constellation now numbers ten operational satellites, all deployed by Electron.",
       "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "NASA Delivers Braking Engines for ESA Rosalind Franklin Mars Mission",
+      "link": "https://europeanspaceflight.com/nasa-delivers-braking-engines-for-esa-rosalind-franklin-mars-mission/",
+      "pubDate": "Fri, 26 Jun 2026 14:51:53 +0000",
+      "description": "NASA has delivered the first braking engines for the European Space Agency’s (ESA) Rosalind Franklin mission to Mars. The braking engines are one of three major contributions NASA has committed to the mission, along with launch services and Radioisotope Heater Units (RHUs) to keep the rover’s instru",
+      "feedName": "European Spaceflight"
     },
     {
       "title": "Misreading Myanmar’s War: Why the Junta’s Recent Gains Don’t Mean Imminent Victory",
@@ -114,6 +128,13 @@
       "feedName": "War on the Rocks"
     },
     {
+      "title": "ESA Details Next Steps for Agency’s Gateway Contributions",
+      "link": "https://europeanspaceflight.com/esa-details-next-steps-for-agencys-gateway-contributions/",
+      "pubDate": "Tue, 23 Jun 2026 15:38:33 +0000",
+      "description": "The European Space Agency (ESA) has made initial decisions on the future of its contributions to NASA’s Gateway space station after the US space agency “paused” the programme. The agency largely expects to proceed with developing most of its planned Gateway hardware while awaiting the results of stu",
+      "feedName": "European Spaceflight"
+    },
+    {
       "title": "Frustrating Israel, fiber-optic killer drone technology has arrived in southern Lebanon",
       "link": "https://www.c4isrnet.com/global/mideast-africa/2026/06/23/frustrating-israel-fiber-optic-killer-drone-technology-has-arrived-in-southern-lebanon/",
       "pubDate": "Tue, 23 Jun 2026 14:43:45 +0000",
@@ -121,11 +142,25 @@
       "feedName": "C4ISRNET"
     },
     {
+      "title": "ESA Astronaut Tests European Spacesuit Prototype Aboard ISS",
+      "link": "https://europeanspaceflight.com/esa-astronaut-tests-european-spacesuit-prototype-aboard-iss/",
+      "pubDate": "Mon, 22 Jun 2026 11:08:12 +0000",
+      "description": "ESA astronaut Sophie Adenot has tested a European intravehicular activity (IVA) spacesuit prototype aboard the International Space Station (ISS). In addition to testing in space, a second prototype has undergone a water survival test campaign in Marseille. The EuroSuit project was initiated by the F",
+      "feedName": "European Spaceflight"
+    },
+    {
       "title": "Ukraine launches ‘TrophyLab’ platform to share captured Russian weapons with allies",
       "link": "https://www.c4isrnet.com/global/europe/2026/06/22/ukraine-launches-trophylab-platform-to-share-captured-russian-weapons-with-allies/",
       "pubDate": "Mon, 22 Jun 2026 09:27:55 +0000",
       "description": "Among the listed items available for study are, for example, a Kinzhal hypersonic missile and a T-90M tank.",
       "feedName": "C4ISRNET"
+    },
+    {
+      "title": "Anomaly Delays Full-Scale Space Rider Drop Test Until October",
+      "link": "https://europeanspaceflight.com/anomaly-delays-full-scale-space-rider-drop-test-until-october/",
+      "pubDate": "Fri, 19 Jun 2026 09:24:49 +0000",
+      "description": "A full-scale drop test of ESA&#8217;s Space Rider spaceplane in early May was aborted after an anomaly during the captive ascent phase, the agency told European Spaceflight. In August 2024 and June 2025, ESA completed Space Rider drop test campaigns using a 3,000-kilogram mass simulator. In early 20",
+      "feedName": "European Spaceflight"
     },
     {
       "title": "The Gulf Arab States Need a Shield Built for Limited Trust",
