@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-03T12:30:54.671Z",
+  "generated": "2026-07-04T11:13:06.216Z",
   "newsItems": [
     {
       "title": "The European Union Satellite Center Signs ‘CISE’ Agreement to Strengthen Europe’s Maritime Security",
@@ -84,13 +84,6 @@
       "pubDate": "Tue, 30 Jun 2026 13:00:00 +0000",
       "description": "Satellogic partnered with SpaceKnow, the AI-powered geospatial intelligence analysis company, to build AI applications on top of Satellogic’s growing stock of satellite imagery.\nThe post Exclusive: Satellogic Expands AI Apps with SpaceKnow Partnership appeared first on Payload.\n",
       "feedName": "Payload Space"
-    },
-    {
-      "title": "ESA to seek lunar mapping capability for Argonaut lander",
-      "link": "https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/",
-      "pubDate": "Mon, 29 Jun 2026 15:24:51 +0000",
-      "description": "\nMILAN — The European Space Agency will rely on external lunar topographic data during the design phase of its Argonaut lunar lander, and possibly for its first mission, while working [&#8230;]\nThe post ESA to seek lunar mapping capability for Argonaut lander appeared first on SpaceNews.\n",
-      "feedName": "SpaceNews"
     },
     {
       "title": "Rocket Lab Completes 10th Consecutive Successful ‘StriX’ Satellite Launch for Synspective",
@@ -203,55 +196,6 @@
       "pubDate": "Tue, 19 May 2026 07:15:13 +0000",
       "description": "Since its proclamation of independence from Somalia in May 1991, Somaliland has sought international recognition for the territories under its control. Despite functioning as a de facto independent state for years, it lacked any formal recognition on the international stage until recently, when Isra",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "EARSC at Smart City Expo World Congress: Connecting Earth Observation with Urban Action",
-      "link": "https://eomag.eu/earsc-at-smart-city-expo-world-congress-connecting-earth-observation-with-urban-action/?utm_source=rss&utm_medium=rss&utm_campaign=earsc-at-smart-city-expo-world-congress-connecting-earth-observation-with-urban-action",
-      "pubDate": "Tue, 03 Mar 2026 09:29:43 +0000",
-      "description": "In November 2026, the European Association of Remote Sensing Companies (EARSC) participated in the Smart City Expo World Congress in Barcelona, bringing together the European Earth Observation community and the wider smart cities ecosystem. Showcasing EO in Action At our dedicated booth, EARSC membe",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Beyond Images: The ‘Pin’ Approach Changing Flood Intelligence",
-      "link": "https://eomag.eu/beyond-images-the-pin-approach-changing-flood-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-images-the-pin-approach-changing-flood-intelligence",
-      "pubDate": "Tue, 03 Mar 2026 09:20:40 +0000",
-      "description": "In the high-stakes world of Space, we’ve spent decades playing a frustrating game of “wait and see” when it comes to Earth Observation (EO). You wait for the satellite to pass over, you wait for the clouds to clear, and you wait for the data to be processed into something actually useful. By the tim",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Space innovation for climate resilience: commercializing space technologies at ESA Phi-Lab Spain",
-      "link": "https://eomag.eu/space-innovation-for-climate-resilience-commercializing-space-technologies-at-esa-phi-lab-spain/?utm_source=rss&utm_medium=rss&utm_campaign=space-innovation-for-climate-resilience-commercializing-space-technologies-at-esa-phi-lab-spain",
-      "pubDate": "Wed, 25 Feb 2026 14:56:51 +0000",
-      "description": "As part of the ESA ScaleUp Programme,&#160;ESA Phi-Lab Spain&#160;accelerates the commercialization of space technologies for climate resilience. Supported by the Spanish Space Agency (AEE) and the Government of Catalonia, and coordinated by the&#160;Institut d’Estudis Espacials de Catalunya (IEEC),",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Redefining Earth Observation: How Planetek is Contributing ",
-      "link": "https://eomag.eu/redefining-earth-observation-how-planetek-is-contributing/?utm_source=rss&utm_medium=rss&utm_campaign=redefining-earth-observation-how-planetek-is-contributing",
-      "pubDate": "Wed, 25 Feb 2026 14:54:21 +0000",
-      "description": "The space economy is entering a decisive phase. With thousands of new satellites expected to be deployed over the coming decade, Earth observation (EO) is evolving from a data-collection activity into a real-time intelligence infrastructure. The shift is not merely quantitative. It is structural. Fr",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Destination Earth/CALIFE: Empowering citizens to understand Quality of Life through Earth observation",
-      "link": "https://eomag.eu/destination-earth-calife-empowering-citizens-to-understand-quality-of-life-through-earth-observation/?utm_source=rss&utm_medium=rss&utm_campaign=destination-earth-calife-empowering-citizens-to-understand-quality-of-life-through-earth-observation",
-      "pubDate": "Wed, 25 Feb 2026 14:51:57 +0000",
-      "description": "Turning DestinE into everyday insight: CALIFE makes Quality of Life visible at address level Murmuration is pleased to announce the availability of CALIFE (Certification of LIfestyle and Environment) on the Destination Earth (DestinE) Platform. DestinE is the European Union-funded flagship initiativ",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Satellite-derived Physiological Equivalent Temperature (PET): Latitudo 40’s high-resolution layer for urban thermal stress mapping",
-      "link": "https://eomag.eu/satellite-derived-physiological-equivalent-temperature-pet-latitudo-40s-high-resolution-layer-for-urban-thermal-stress-mapping/?utm_source=rss&utm_medium=rss&utm_campaign=satellite-derived-physiological-equivalent-temperature-pet-latitudo-40s-high-resolution-layer-for-urban-thermal-stress-mapping",
-      "pubDate": "Wed, 25 Feb 2026 14:48:32 +0000",
-      "description": "Mapping Human Thermal Stress: A New EO Paradigm Latitudo 40 is developing a proprietary satellite-derived Physiological Equivalent Temperature (PET) layer, representing a major innovation in Earth Observation for urban climate analytics.&#160; The product enables spatially continuous assessment of h",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Mobile EO Twins: Satellites-to-People Earth Observation",
-      "link": "https://eomag.eu/mobile-eo-twins-satellites-to-people-earth-observation/?utm_source=rss&utm_medium=rss&utm_campaign=mobile-eo-twins-satellites-to-people-earth-observation",
-      "pubDate": "Wed, 25 Feb 2026 14:46:32 +0000",
-      "description": "Hydramo has recently introduced a novel concept redefining how Earth Observation data are processed, transferred and experienced by end users. By combining long-term experience in the telecommunications industry with AI-driven, Edge-based Earth Observation approaches, Hydramo has introduced the Sate",
-      "feedName": "EO Mag"
     }
   ],
   "tenderItems": []
