@@ -1,6 +1,76 @@
 {
-  "generated": "2026-07-05T11:48:47.023Z",
+  "generated": "2026-07-06T17:18:23.364Z",
   "newsItems": [
+    {
+      "title": "Italy Brings IRIDE Earth Observation Service Online",
+      "link": "https://europeanspaceflight.com/italy-brings-iride-earth-observation-service-online/",
+      "pubDate": "Mon, 06 Jul 2026 14:58:09 +0000",
+      "description": "Italy&#8217;s IRIDE Earth observation service went live on 1 July, opening initial access to imagery and analytics from one of the programme&#8217;s planned six satellite constellations for government users. The operational phase officially began at 00:01 CEST on 1 July with the “IRIDE First Operati",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "Thermal Intelligence in the Arctic: Monitoring the Northern Sea Route and Port of Pevek",
+      "link": "https://eomag.eu/thermal-intelligence-in-the-arctic-monitoring-the-northern-sea-route-and-port-of-pevek/?utm_source=rss&utm_medium=rss&utm_campaign=thermal-intelligence-in-the-arctic-monitoring-the-northern-sea-route-and-port-of-pevek",
+      "pubDate": "Mon, 06 Jul 2026 13:42:57 +0000",
+      "description": "Discover how thermal satellite imagery reveals icebreaker corridors, assesses their recency, and uncovers escorted or AIS-degraded vessel movements around the Port of Pevek, demonstrating the unique value of Land Surface Temperature (LST) for Arctic maritime domain awareness. The Arctic is rapidly b",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "RSS is developing World’s first digital Monitoring, Reporting and Verification (dMRV) system for Savanna Fire Management (SFM)",
+      "link": "https://eomag.eu/rss-is-developing-worlds-first-digital-monitoring-reporting-and-verification-dmrv-system-for-savanna-fire-management-sfm/?utm_source=rss&utm_medium=rss&utm_campaign=rss-is-developing-worlds-first-digital-monitoring-reporting-and-verification-dmrv-system-for-savanna-fire-management-sfm",
+      "pubDate": "Mon, 06 Jul 2026 13:35:23 +0000",
+      "description": "Maki Planet Systems, a subsidiary of Corporate Carbon, an Australian carbon project owner &#38; operator, commissioned Remote Sensing Solutions (RSS) to develop a dMRV tool dedicated to Savanna Fire Management for carbon projects. VeriFIRE is a data-driven platform that substantiates fire emission a",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "Geospatial Leadership Certificate ",
+      "link": "https://eomag.eu/geospatial-leadership-certificate/?utm_source=rss&utm_medium=rss&utm_campaign=geospatial-leadership-certificate",
+      "pubDate": "Mon, 06 Jul 2026 13:29:07 +0000",
+      "description": "The certified GLC is designed for earth intelligence and geospatial professionals. The course builds leadership and soft skills to help managers champion innovation, influence change, and create impact. Designed specifically to address the skills gap in geospatial leadership. Flexible learning allow",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "The term ‘dual-use’ is misleading and dangerous",
+      "link": "https://spacenews.com/the-term-dual-use-is-misleading-and-dangerous/",
+      "pubDate": "Mon, 06 Jul 2026 13:00:00 +0000",
+      "description": "\nThere is only technology. How it is employed is a question of intent, context and political will, not of the technology itself. A precision optical payload captures imagery whether the [&#8230;]\nThe post The term ‘dual-use&#8217; is misleading and dangerous appeared first on SpaceNews.\n",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "Connected Aircraft Fleet Set to Exceed 70,000 by 2035",
+      "link": "https://spacenews.com/connected-aircraft-fleet-set-to-exceed-70000-by-2035/",
+      "pubDate": "Mon, 06 Jul 2026 12:00:00 +0000",
+      "description": "\nParis, France &#124; May 2026 – Novaspace’s latest In-Flight Connectivity report points to sustained, long-term growth in the In-Flight Connectivity (IFC) market, with connected aircraft numbers to exceed 70,000 by 2035. Simultaneously, IFC penetration is expected to rise from 48% [&#8230;]\nThe pos",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard",
+      "link": "https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/",
+      "pubDate": "Mon, 06 Jul 2026 10:00:00 +0000",
+      "description": "\nRiyadh, Saudi Arabia – June, 2026 The Centre for Space Futures (CSF), together with leading international partners including Novaspace, and SpaceTech Gulf, have signed a Memorandum of Cooperation (MoC) to [&#8230;]\nThe post Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to D",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "The Africa-Europe Space Partnership Program has Unveiled a New Africa-Europe New Space EO Initiative",
+      "link": "https://spacewatch.global/2026/07/the-africa-europe-space-partnership-program-has-unveiled-a-new-africa-europe-new-space-eo-initiative/",
+      "pubDate": "Mon, 06 Jul 2026 06:00:00 +0000",
+      "description": "The Africa-Europe Space Partnership Program has unveiled a GMV-led initiative to develop a scalable Earth observation mission delivering socio-economic benefits across Africa, with Space in Africa, Astrofica Technologies, LocateIT, and Alén Space.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Breaking Orbital Silence: Planet Labs Restores Strategic Middle East Imagery Pipelines",
+      "link": "https://satnews.com/2026/07/05/breaking-orbital-silence-planet-labs-restores-strategic-middle-east-imagery-pipelines/",
+      "pubDate": "Sun, 05 Jul 2026 22:27:06 +0000",
+      "description": "In a development that marks the end of a highly contentious period of information control, satellite remote sensing pioneer Planet Labs PBC has quietly rolled back administrative restrictions on its [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Airbus to build Aeolus-2 wind-monitoring satellite",
+      "link": "https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/",
+      "pubDate": "Sun, 05 Jul 2026 15:17:47 +0000",
+      "description": "\nThe European Space Agency has selected Airbus Defence and Space to start work on the successor to a wind-monitoring satellite.\nThe post Airbus to build Aeolus-2 wind-monitoring satellite appeared first on SpaceNews.\n",
+      "feedName": "SpaceNews"
+    },
     {
       "title": "Space Force and True Anomaly Complete First Tactical Intercept of VICTUS HAZE Mission",
       "link": "https://satnews.com/2026/07/04/space-force-and-true-anomaly-complete-first-tactical-intercept-of-victus-haze-mission/",
@@ -51,20 +121,6 @@
       "feedName": "War on the Rocks"
     },
     {
-      "title": "NASA Adds Kuva US to $476 Million Commercial Satellite Data Acquisition On-Ramp Contract",
-      "link": "https://satnews.com/2026/07/01/nasa-adds-kuva-us-to-476-million-commercial-satellite-data-acquisition-on-ramp-contract/",
-      "pubDate": "Wed, 01 Jul 2026 14:14:07 +0000",
-      "description": "FAIRFAX, VIRGINIA — On Wednesday, July 1, 2026, Kuva US, Inc., the domestic subsidiary of Finnish hyperspectral Earth observation company Kuva Space, announced its selection under NASA&#8217;s Commercial Satellite Data [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Israel tests Iron Dome with Iron Beam, pairing missiles with laser pulses for air defense",
-      "link": "https://www.defensenews.com/global/mideast-africa/2026/07/01/israel-tests-iron-dome-with-iron-beam-pairing-missiles-with-laser-pulses-for-air-defense/",
-      "pubDate": "Wed, 01 Jul 2026 08:58:40 +0000",
-      "description": "The combination of technologies is meant to give Israel a leg up in shooting down high-volume swarms of incoming threats like drones or missiles.",
-      "feedName": "Defense News"
-    },
-    {
       "title": "Israel tests Iron Dome with Iron Beam, pairing missiles with laser pulses for air defense",
       "link": "https://www.c4isrnet.com/global/mideast-africa/2026/07/01/israel-tests-iron-dome-with-iron-beam-pairing-missiles-with-laser-pulses-for-air-defense/",
       "pubDate": "Wed, 01 Jul 2026 08:58:40 +0000",
@@ -84,13 +140,6 @@
       "pubDate": "Tue, 30 Jun 2026 13:00:00 +0000",
       "description": "Satellogic partnered with SpaceKnow, the AI-powered geospatial intelligence analysis company, to build AI applications on top of Satellogic’s growing stock of satellite imagery.\nThe post Exclusive: Satellogic Expands AI Apps with SpaceKnow Partnership appeared first on Payload.\n",
       "feedName": "Payload Space"
-    },
-    {
-      "title": "Rocket Lab Completes 10th Consecutive Successful ‘StriX’ Satellite Launch for Synspective",
-      "link": "https://spacewatch.global/2026/06/rocket-lab-completes-10th-consecutive-successful-strix-satellite-launch-for-synspective/",
-      "pubDate": "Mon, 29 Jun 2026 06:00:00 +0000",
-      "description": "Rocket Lab has completed its 10th consecutive StriX launch for Synspective, whose Earth observation constellation now numbers ten operational satellites, all deployed by Electron.",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "NASA Delivers Braking Engines for ESA Rosalind Franklin Mars Mission",
@@ -149,13 +198,6 @@
       "feedName": "C4ISRNET"
     },
     {
-      "title": "Anomaly Delays Full-Scale Space Rider Drop Test Until October",
-      "link": "https://europeanspaceflight.com/anomaly-delays-full-scale-space-rider-drop-test-until-october/",
-      "pubDate": "Fri, 19 Jun 2026 09:24:49 +0000",
-      "description": "A full-scale drop test of ESA&#8217;s Space Rider spaceplane in early May was aborted after an anomaly during the captive ascent phase, the agency told European Spaceflight. In August 2024 and June 2025, ESA completed Space Rider drop test campaigns using a 3,000-kilogram mass simulator. In early 20",
-      "feedName": "European Spaceflight"
-    },
-    {
       "title": "The Gulf Arab States Need a Shield Built for Limited Trust",
       "link": "https://warontherocks.com/the-gulf-arab-states-need-a-shield-built-for-limited-trust/",
       "pubDate": "Fri, 12 Jun 2026 07:30:38 +0000",
@@ -209,41 +251,6 @@
       "link": "https://eomag.eu/beyond-images-the-pin-approach-changing-flood-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-images-the-pin-approach-changing-flood-intelligence",
       "pubDate": "Tue, 03 Mar 2026 09:20:40 +0000",
       "description": "In the high-stakes world of Space, we’ve spent decades playing a frustrating game of “wait and see” when it comes to Earth Observation (EO). You wait for the satellite to pass over, you wait for the clouds to clear, and you wait for the data to be processed into something actually useful. By the tim",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Space innovation for climate resilience: commercializing space technologies at ESA Phi-Lab Spain",
-      "link": "https://eomag.eu/space-innovation-for-climate-resilience-commercializing-space-technologies-at-esa-phi-lab-spain/?utm_source=rss&utm_medium=rss&utm_campaign=space-innovation-for-climate-resilience-commercializing-space-technologies-at-esa-phi-lab-spain",
-      "pubDate": "Wed, 25 Feb 2026 14:56:51 +0000",
-      "description": "As part of the ESA ScaleUp Programme,&#160;ESA Phi-Lab Spain&#160;accelerates the commercialization of space technologies for climate resilience. Supported by the Spanish Space Agency (AEE) and the Government of Catalonia, and coordinated by the&#160;Institut d’Estudis Espacials de Catalunya (IEEC),",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Redefining Earth Observation: How Planetek is Contributing ",
-      "link": "https://eomag.eu/redefining-earth-observation-how-planetek-is-contributing/?utm_source=rss&utm_medium=rss&utm_campaign=redefining-earth-observation-how-planetek-is-contributing",
-      "pubDate": "Wed, 25 Feb 2026 14:54:21 +0000",
-      "description": "The space economy is entering a decisive phase. With thousands of new satellites expected to be deployed over the coming decade, Earth observation (EO) is evolving from a data-collection activity into a real-time intelligence infrastructure. The shift is not merely quantitative. It is structural. Fr",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Destination Earth/CALIFE: Empowering citizens to understand Quality of Life through Earth observation",
-      "link": "https://eomag.eu/destination-earth-calife-empowering-citizens-to-understand-quality-of-life-through-earth-observation/?utm_source=rss&utm_medium=rss&utm_campaign=destination-earth-calife-empowering-citizens-to-understand-quality-of-life-through-earth-observation",
-      "pubDate": "Wed, 25 Feb 2026 14:51:57 +0000",
-      "description": "Turning DestinE into everyday insight: CALIFE makes Quality of Life visible at address level Murmuration is pleased to announce the availability of CALIFE (Certification of LIfestyle and Environment) on the Destination Earth (DestinE) Platform. DestinE is the European Union-funded flagship initiativ",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Satellite-derived Physiological Equivalent Temperature (PET): Latitudo 40’s high-resolution layer for urban thermal stress mapping",
-      "link": "https://eomag.eu/satellite-derived-physiological-equivalent-temperature-pet-latitudo-40s-high-resolution-layer-for-urban-thermal-stress-mapping/?utm_source=rss&utm_medium=rss&utm_campaign=satellite-derived-physiological-equivalent-temperature-pet-latitudo-40s-high-resolution-layer-for-urban-thermal-stress-mapping",
-      "pubDate": "Wed, 25 Feb 2026 14:48:32 +0000",
-      "description": "Mapping Human Thermal Stress: A New EO Paradigm Latitudo 40 is developing a proprietary satellite-derived Physiological Equivalent Temperature (PET) layer, representing a major innovation in Earth Observation for urban climate analytics.&#160; The product enables spatially continuous assessment of h",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Mobile EO Twins: Satellites-to-People Earth Observation",
-      "link": "https://eomag.eu/mobile-eo-twins-satellites-to-people-earth-observation/?utm_source=rss&utm_medium=rss&utm_campaign=mobile-eo-twins-satellites-to-people-earth-observation",
-      "pubDate": "Wed, 25 Feb 2026 14:46:32 +0000",
-      "description": "Hydramo has recently introduced a novel concept redefining how Earth Observation data are processed, transferred and experienced by end users. By combining long-term experience in the telecommunications industry with AI-driven, Edge-based Earth Observation approaches, Hydramo has introduced the Sate",
       "feedName": "EO Mag"
     }
   ],
