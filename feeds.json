@@ -1,6 +1,69 @@
 {
-  "generated": "2026-07-06T17:18:23.364Z",
+  "generated": "2026-07-07T13:56:13.080Z",
   "newsItems": [
+    {
+      "title": "Satellite Data Meets Financial Risk: How Envira Is Putting Earth Observation to Work in the Financial Sector",
+      "link": "https://eomag.eu/satellite-data-meets-financial-risk-how-envira-is-putting-earth-observation-to-work-in-the-financial-sector/?utm_source=rss&utm_medium=rss&utm_campaign=satellite-data-meets-financial-risk-how-envira-is-putting-earth-observation-to-work-in-the-financial-sector",
+      "pubDate": "Tue, 07 Jul 2026 11:19:07 +0000",
+      "description": "Danish start-up Envira translates satellite and climate data into asset-level risk intelligence for banks, insurers, and real estate investors - closing the gap between what Earth Observation can see and what financial institutions can act on. Envira was named a finalist at the EARSC European Start-",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "Bridging the Resolution Gap: AI-Enhanced Air Quality Monitoring from Earth Observation",
+      "link": "https://eomag.eu/bridging-the-resolution-gap-ai-enhanced-air-quality-monitoring-from-earth-observation/?utm_source=rss&utm_medium=rss&utm_campaign=bridging-the-resolution-gap-ai-enhanced-air-quality-monitoring-from-earth-observation",
+      "pubDate": "Tue, 07 Jul 2026 10:44:25 +0000",
+      "description": "Air quality as an operational challenge Air pollution is a major environmental risk, with significant impacts on public health, ecosystems and economic productivity. According to the World Health Organization, chronic exposure to atmospheric pollutants contributes to millions of premature deaths ann",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "Shaping Europe’s Water Resilience: IEEC Contributes Technical Expertise at PCP WISE Helsinki Workshop",
+      "link": "https://eomag.eu/shaping-europes-water-resilience-ieec-contributes-technical-expertise-at-pcp-wise-helsinki-workshop/?utm_source=rss&utm_medium=rss&utm_campaign=shaping-europes-water-resilience-ieec-contributes-technical-expertise-at-pcp-wise-helsinki-workshop",
+      "pubDate": "Tue, 07 Jul 2026 10:41:08 +0000",
+      "description": "As climate change intensifies water-related risks across Europe, space-based technology is becoming our most vital line of defense. Highlighting its ongoing commitment to Earth Observation (EO) and climate resilience, the Institute of Space Studies of Catalonia (IEEC) actively participated in the se",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "From seeing to anticipating: the data behind the next phase of Earth observation",
+      "link": "https://eomag.eu/from-seeing-to-anticipating-the-data-behind-the-next-phase-of-earth-observation/?utm_source=rss&utm_medium=rss&utm_campaign=from-seeing-to-anticipating-the-data-behind-the-next-phase-of-earth-observation",
+      "pubDate": "Tue, 07 Jul 2026 10:36:30 +0000",
+      "description": "For most of its history, Earth observation has been an exercise in looking back. Satellites record what is there, analysts interpret it, and decisions follow from a picture of the recent past. That model has served the field well, but it is beginning to change. Increasingly, the questions put to Ear",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "Keeping Earth Observation Connected: Introducing TreeNet for the Future of Satellite Operations ",
+      "link": "https://eomag.eu/keeping-earth-observation-connected-introducing-treenet-for-the-future-of-satellite-operations/?utm_source=rss&utm_medium=rss&utm_campaign=keeping-earth-observation-connected-introducing-treenet-for-the-future-of-satellite-operations",
+      "pubDate": "Tue, 07 Jul 2026 10:29:27 +0000",
+      "description": "Founded in 2014, Leaf Space is a pioneering provider of Ground Segment as-a-Service (GSaaS), delivering advanced connectivity solutions for satellite operators, launch providers, and space missions worldwide. Through its globally distributed ground station network and proprietary software platform, ",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "NATO to add up to five Northrop Grumman Triton drones for maritime surveillance",
+      "link": "https://www.defensenews.com/global/europe/2026/07/07/nato-to-add-up-to-five-northrop-grumman-triton-drones-for-maritime-surveillance/",
+      "pubDate": "Tue, 07 Jul 2026 09:42:08 +0000",
+      "description": "“It is genuinely made in NATO and is creating jobs on both sides of the Atlantic,” alliance Secretary-General Mark Rutte said.",
+      "feedName": "Defense News"
+    },
+    {
+      "title": "NATO to add up to five Northrop Grumman Triton drones for maritime surveillance",
+      "link": "https://www.c4isrnet.com/global/europe/2026/07/07/nato-to-add-up-to-five-northrop-grumman-triton-drones-for-maritime-surveillance/",
+      "pubDate": "Tue, 07 Jul 2026 09:42:08 +0000",
+      "description": "“It is genuinely made in NATO and is creating jobs on both sides of the Atlantic,” alliance Secretary-General Mark Rutte said.",
+      "feedName": "C4ISRNET"
+    },
+    {
+      "title": "German Companies ZFT and Smart Small Satellite Systems Launch 9 Satellites aboard SpaceX’s Transporter-17 Mission",
+      "link": "https://spacewatch.global/2026/07/german-companies-zft-and-smart-small-satellite-systems-launch-9-satellites-aboard-spacexs-transporter-17-mission/",
+      "pubDate": "Tue, 07 Jul 2026 06:00:00 +0000",
+      "description": "Germany's Zentrum für Telematik and Smart Small Satellite Systems have launched nine 10kg microsatellites aboard SpaceX's Transporter-17 for coordinated Earth observation across agriculture, forestry, and disaster management.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "ESA Awards ‘Aeolus-2’ Wind Sensing Satellite’s Design and Build to Airbus",
+      "link": "https://spacewatch.global/2026/07/esa-awards-aeolus-2-wind-sensing-satellites-design-and-build-to-airbus/",
+      "pubDate": "Tue, 07 Jul 2026 06:00:00 +0000",
+      "description": "Airbus Defense and Space has signed the initial contract for the design and build of the Aeolus-2 wind sensing satellite from the European Space Agency (ESA). Aeolus-2 will follow the first Aeolus wind sensing satellite which Airbus also built and launched back in 2018.\n\n",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "Italy Brings IRIDE Earth Observation Service Online",
       "link": "https://europeanspaceflight.com/italy-brings-iride-earth-observation-service-online/",
@@ -9,24 +72,17 @@
       "feedName": "European Spaceflight"
     },
     {
+      "title": "From Satellite Images to Reusable Embeddings: VITO Advances EO Foundation Models",
+      "link": "https://eomag.eu/from-satellite-images-to-reusable-embeddings-vito-advances-eo-foundation-models/?utm_source=rss&utm_medium=rss&utm_campaign=from-satellite-images-to-reusable-embeddings-vito-advances-eo-foundation-models",
+      "pubDate": "Mon, 06 Jul 2026 14:09:01 +0000",
+      "description": "VITO Remote Sensing&#160; &#124;&#160; WorldCereal Team Rather than running satellite data through a single-purpose classifier, VITO is exploring what happens when you take a step back: letting a foundation model compress what it sees into a general-purpose representation, then asking what that repr",
+      "feedName": "EO Mag"
+    },
+    {
       "title": "Thermal Intelligence in the Arctic: Monitoring the Northern Sea Route and Port of Pevek",
       "link": "https://eomag.eu/thermal-intelligence-in-the-arctic-monitoring-the-northern-sea-route-and-port-of-pevek/?utm_source=rss&utm_medium=rss&utm_campaign=thermal-intelligence-in-the-arctic-monitoring-the-northern-sea-route-and-port-of-pevek",
       "pubDate": "Mon, 06 Jul 2026 13:42:57 +0000",
       "description": "Discover how thermal satellite imagery reveals icebreaker corridors, assesses their recency, and uncovers escorted or AIS-degraded vessel movements around the Port of Pevek, demonstrating the unique value of Land Surface Temperature (LST) for Arctic maritime domain awareness. The Arctic is rapidly b",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "RSS is developing World’s first digital Monitoring, Reporting and Verification (dMRV) system for Savanna Fire Management (SFM)",
-      "link": "https://eomag.eu/rss-is-developing-worlds-first-digital-monitoring-reporting-and-verification-dmrv-system-for-savanna-fire-management-sfm/?utm_source=rss&utm_medium=rss&utm_campaign=rss-is-developing-worlds-first-digital-monitoring-reporting-and-verification-dmrv-system-for-savanna-fire-management-sfm",
-      "pubDate": "Mon, 06 Jul 2026 13:35:23 +0000",
-      "description": "Maki Planet Systems, a subsidiary of Corporate Carbon, an Australian carbon project owner &#38; operator, commissioned Remote Sensing Solutions (RSS) to develop a dMRV tool dedicated to Savanna Fire Management for carbon projects. VeriFIRE is a data-driven platform that substantiates fire emission a",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Geospatial Leadership Certificate ",
-      "link": "https://eomag.eu/geospatial-leadership-certificate/?utm_source=rss&utm_medium=rss&utm_campaign=geospatial-leadership-certificate",
-      "pubDate": "Mon, 06 Jul 2026 13:29:07 +0000",
-      "description": "The certified GLC is designed for earth intelligence and geospatial professionals. The course builds leadership and soft skills to help managers champion innovation, influence change, and create impact. Designed specifically to address the skills gap in geospatial leadership. Flexible learning allow",
       "feedName": "EO Mag"
     },
     {
@@ -72,13 +128,6 @@
       "feedName": "SpaceNews"
     },
     {
-      "title": "Space Force and True Anomaly Complete First Tactical Intercept of VICTUS HAZE Mission",
-      "link": "https://satnews.com/2026/07/04/space-force-and-true-anomaly-complete-first-tactical-intercept-of-victus-haze-mission/",
-      "pubDate": "Sat, 04 Jul 2026 19:21:18 +0000",
-      "description": "VANDENBERG SPACE FORCE BASE, CALIFORNIA — On Wednesday, July 1, 2026, the U.S. Space Force and space defense contractor True Anomaly announced the successful completion of the first tactical operational [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "The European Union Satellite Center Signs ‘CISE’ Agreement to Strengthen Europe’s Maritime Security",
       "link": "https://spacewatch.global/2026/07/the-european-union-satellite-center-signs-cise-agreement-to-strengthen-europes-maritime-security/",
       "pubDate": "Fri, 03 Jul 2026 06:00:00 +0000",
@@ -93,25 +142,11 @@
       "feedName": "European Spaceflight"
     },
     {
-      "title": "Iran was the most successful failure in US airpower history",
-      "link": "https://breakingdefense.com/2026/07/iran-was-the-most-successful-failure-in-us-airpower-history/",
-      "pubDate": "Thu, 02 Jul 2026 14:32:32 +0000",
-      "description": "The US entered the conflict with a detailed plan for a war of destruction, but no serious plan for Iran’s war of disruption.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "Hydrosat Launches ‘Discovery Portal’, A Centralized Gateway to Unlock 500M sq. km. of Thermal Satellite Imagery",
       "link": "https://spacewatch.global/2026/07/hydrosat-launches-discovery-portal-a-centralized-gateway-to-unlock-500m-sq-km-of-thermal-satellite-imagery/",
       "pubDate": "Thu, 02 Jul 2026 06:00:00 +0000",
       "description": "Hydrosat has launched its Discovery Portal, a centralized gateway to its thermal satellite imagery and analytics, as it builds out its next-generation thermal imaging constellation.",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Unseenlabs Orders 2 Cubesats from GomSpace",
-      "link": "https://www.satellitetoday.com/manufacturing/2026/07/01/unseenlabs-orders-2-cubesats-from-gomspace/",
-      "pubDate": "Wed, 01 Jul 2026 20:59:33 +0000",
-      "description": "French radio frequency (RF) detection company Unseenlabs has ordered two additional cubesats from smallsat manufacturer GomSpace. GomSpace announced the contract worth 2.2 million euro ($2.5 million) on Wednesday.  The satellites, [&#8230;]\nThe post Unseenlabs Orders 2 Cubesats from GomSpace appeare",
-      "feedName": "Via Satellite"
     },
     {
       "title": "From Shin Bet to Mossad, Netanyahu Reshapes Israeli Intelligence",
@@ -184,13 +219,6 @@
       "feedName": "C4ISRNET"
     },
     {
-      "title": "ESA Astronaut Tests European Spacesuit Prototype Aboard ISS",
-      "link": "https://europeanspaceflight.com/esa-astronaut-tests-european-spacesuit-prototype-aboard-iss/",
-      "pubDate": "Mon, 22 Jun 2026 11:08:12 +0000",
-      "description": "ESA astronaut Sophie Adenot has tested a European intravehicular activity (IVA) spacesuit prototype aboard the International Space Station (ISS). In addition to testing in space, a second prototype has undergone a water survival test campaign in Marseille. The EuroSuit project was initiated by the F",
-      "feedName": "European Spaceflight"
-    },
-    {
       "title": "Ukraine launches ‘TrophyLab’ platform to share captured Russian weapons with allies",
       "link": "https://www.c4isrnet.com/global/europe/2026/06/22/ukraine-launches-trophylab-platform-to-share-captured-russian-weapons-with-allies/",
       "pubDate": "Mon, 22 Jun 2026 09:27:55 +0000",
@@ -231,27 +259,6 @@
       "pubDate": "Thu, 21 May 2026 07:30:53 +0000",
       "description": "Gaza did not have to look the way it looks. That is not a moral claim. It is an operational one.Claims of necessity are invoked to explain the scale of civilian harm, but they founder in the face of operational logic. Supporters of Israeli methods argue that Gaza&#8217;s urban battlefield &#8212; tu",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "The Recognition Question: Somaliland, Israeli Security Geometry, and the Red Sea Power Struggle",
-      "link": "https://warontherocks.com/the-recognition-question-somaliland-israeli-security-geometry-and-the-red-sea-power-struggle/",
-      "pubDate": "Tue, 19 May 2026 07:15:13 +0000",
-      "description": "Since its proclamation of independence from Somalia in May 1991, Somaliland has sought international recognition for the territories under its control. Despite functioning as a de facto independent state for years, it lacked any formal recognition on the international stage until recently, when Isra",
-      "feedName": "War on the Rocks"
-    },
-    {
-      "title": "EARSC at Smart City Expo World Congress: Connecting Earth Observation with Urban Action",
-      "link": "https://eomag.eu/earsc-at-smart-city-expo-world-congress-connecting-earth-observation-with-urban-action/?utm_source=rss&utm_medium=rss&utm_campaign=earsc-at-smart-city-expo-world-congress-connecting-earth-observation-with-urban-action",
-      "pubDate": "Tue, 03 Mar 2026 09:29:43 +0000",
-      "description": "In November 2026, the European Association of Remote Sensing Companies (EARSC) participated in the Smart City Expo World Congress in Barcelona, bringing together the European Earth Observation community and the wider smart cities ecosystem. Showcasing EO in Action At our dedicated booth, EARSC membe",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Beyond Images: The ‘Pin’ Approach Changing Flood Intelligence",
-      "link": "https://eomag.eu/beyond-images-the-pin-approach-changing-flood-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-images-the-pin-approach-changing-flood-intelligence",
-      "pubDate": "Tue, 03 Mar 2026 09:20:40 +0000",
-      "description": "In the high-stakes world of Space, we’ve spent decades playing a frustrating game of “wait and see” when it comes to Earth Observation (EO). You wait for the satellite to pass over, you wait for the clouds to clear, and you wait for the data to be processed into something actually useful. By the tim",
-      "feedName": "EO Mag"
     }
   ],
   "tenderItems": []
