@@ -1,6 +1,62 @@
 {
-  "generated": "2026-07-08T12:00:07.475Z",
+  "generated": "2026-07-09T16:13:08.760Z",
   "newsItems": [
+    {
+      "title": "Building Higher-Quality Geospatial Datasets for AI: Lessons from Enabled Intelligence and New Capabilities from Kili Technology",
+      "link": "https://eomag.eu/building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology/?utm_source=rss&utm_medium=rss&utm_campaign=building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology",
+      "pubDate": "Thu, 09 Jul 2026 13:35:07 +0000",
+      "description": "What does mission-critical accuracy look like in practice? Enabled Intelligence, an AI technology and services provider specialising in geospatial analysis, builds models for government and commercial clients across military intelligence, disaster recovery, transportation logistics and agricultural ",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "Focus on Dynamics: Semantic Data Cube as a key to Sentinel-2-based Landscape Analysis",
+      "link": "https://eomag.eu/focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis",
+      "pubDate": "Thu, 09 Jul 2026 12:55:49 +0000",
+      "description": "color33 is an automated, cloud-based, online processing service that converts multispectral Earth observation images into actionable categories without requiring any training samples. Unlike unsupervised clustering routines or machine learning approaches, color33 is based on a physical-model, produc",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "EU considers tariffs on imports from illegal Israeli settlements",
+      "link": "https://www.politico.eu/article/eu-considering-import-licenses-tariffs-trade-israeli-settlements/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Thu, 09 Jul 2026 11:35:35 +0000",
+      "description": "The European Commission has developed the policy proposals following a request from top diplomat Kaja Kallas.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "The Pentagon’s Sprint to Get Tech Out of the Lab and to the Warfighter",
+      "link": "https://warontherocks.com/cogs-of-war/the-pentagons-sprint-to-get-tech-out-of-the-lab-and-to-the-warfighter/",
+      "pubDate": "Thu, 09 Jul 2026 08:00:22 +0000",
+      "description": "Joe Jewell left academia and his role directing hypersonic wind tunnels to oversee the Pentagon&#8217;s science and technology enterprise. He wants more researchers to make the same move. He joins Jonathan to discuss the Pentagon&#8217;s science enterprise, why he thinks academia is the envy of Amer",
+      "feedName": "War on the Rocks"
+    },
+    {
+      "title": "Victory for al-Qaeda’s Affiliate in Mali Would be a Catastrophe",
+      "link": "https://warontherocks.com/victory-for-al-qaedas-affiliate-in-mali-would-be-a-catastrophe/",
+      "pubDate": "Thu, 09 Jul 2026 07:30:48 +0000",
+      "description": "Mali is not Syria, and Jama&#8217;at Nusrat al-Islam wal-Muslimin is not Hay&#8217;at Tahrir al-Sham.While the fall of the Bashar al-Assad regime and the rise of the Ahmed al-Sharaa government in Damascus, Syria can be seen as a net positive for regional security in the Levant, a Jama&#8217;at Nusra",
+      "feedName": "War on the Rocks"
+    },
+    {
+      "title": "The ISU’s Central Campus in Strasbourg has been Liquidated Following Funding Cuts",
+      "link": "https://spacewatch.global/2026/07/the-isus-central-campus-in-strasbourg-has-been-liquidated-following-funding-cuts/",
+      "pubDate": "Thu, 09 Jul 2026 06:00:00 +0000",
+      "description": "The bankrupt International Space University (ISU) Central Campus in Strasbourg, France has been liquidated by court order, following cuts in funding from CNES, ESA and the local government earlier this year. A proposal by faculty and staff to keep ISU France in operation was rejected after a court h",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "CloudFerro expands sovereign cloud infrastructure for Earth Observation with a new AI-ready cloud region in Poland",
+      "link": "https://eomag.eu/cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland/?utm_source=rss&utm_medium=rss&utm_campaign=cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland",
+      "pubDate": "Wed, 08 Jul 2026 15:55:23 +0000",
+      "description": "CloudFerro, a Polish sovereign cloud provider, has launched a new public cloud region in Łódź, Poland, further expanding its European cloud infrastructure dedicated to Earth Observation, AI and data-intensive workloads. The new region has been designed to support organisations processing large volum",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "Israel’s two giant state-run defense companies may go public, but there are hurdles",
+      "link": "https://breakingdefense.com/2026/07/israels-two-giant-state-run-defense-companies-may-go-public-but-there-are-hurdles/",
+      "pubDate": "Wed, 08 Jul 2026 13:33:53 +0000",
+      "description": "The current market presents an opportunity for the Israeli government to raise billions of dollars while improving the companies&#8217; efficiency and access to capital.\n",
+      "feedName": "Breaking Defense"
+    },
     {
       "title": "Simera Sense to Provide Eight ‘MultiScape 100’ Imagers for the Canary Islands Satellite Constellation",
       "link": "https://spacewatch.global/2026/07/simera-sense-to-provide-eight-multiscape-100-imagers-for-the-canary-islands-satellite-constellation/",
@@ -21,48 +77,6 @@
       "pubDate": "Tue, 07 Jul 2026 15:48:08 +0000",
       "description": "VANDENBERG SPACE FORCE BASE, CALIFORNIA — On Tuesday, July 7, 2026, the European Space Agency’s (ESA) dedicated space-security satellite, CyberCUBE, was successfully launched into low Earth orbit. The spacecraft lifted [&#8230;]",
       "feedName": "Satnews"
-    },
-    {
-      "title": "ESA Backs TUSK IC to Commercialize Made-in-Europe Ka-Band Flat-Panel Antenna Silicon",
-      "link": "https://satnews.com/2026/07/07/esa-backs-tusk-ic-to-commercialize-made-in-europe-ka-band-flat-panel-antenna-silicon/",
-      "pubDate": "Tue, 07 Jul 2026 14:24:43 +0000",
-      "description": "ANTWERP, BELGIUM — On Monday, July 6, 2026, European fabless semiconductor firm TUSK IC announced it has secured an industrial commercialization contract from the European Space Agency (ESA). Backed by [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Satellite Data Meets Financial Risk: How Envira Is Putting Earth Observation to Work in the Financial Sector",
-      "link": "https://eomag.eu/satellite-data-meets-financial-risk-how-envira-is-putting-earth-observation-to-work-in-the-financial-sector/?utm_source=rss&utm_medium=rss&utm_campaign=satellite-data-meets-financial-risk-how-envira-is-putting-earth-observation-to-work-in-the-financial-sector",
-      "pubDate": "Tue, 07 Jul 2026 11:19:07 +0000",
-      "description": "Danish start-up Envira translates satellite and climate data into asset-level risk intelligence for banks, insurers, and real estate investors - closing the gap between what Earth Observation can see and what financial institutions can act on. Envira was named a finalist at the EARSC European Start-",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Bridging the Resolution Gap: AI-Enhanced Air Quality Monitoring from Earth Observation",
-      "link": "https://eomag.eu/bridging-the-resolution-gap-ai-enhanced-air-quality-monitoring-from-earth-observation/?utm_source=rss&utm_medium=rss&utm_campaign=bridging-the-resolution-gap-ai-enhanced-air-quality-monitoring-from-earth-observation",
-      "pubDate": "Tue, 07 Jul 2026 10:44:25 +0000",
-      "description": "Air quality as an operational challenge Air pollution is a major environmental risk, with significant impacts on public health, ecosystems and economic productivity. According to the World Health Organization, chronic exposure to atmospheric pollutants contributes to millions of premature deaths ann",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Shaping Europe’s Water Resilience: IEEC Contributes Technical Expertise at PCP WISE Helsinki Workshop",
-      "link": "https://eomag.eu/shaping-europes-water-resilience-ieec-contributes-technical-expertise-at-pcp-wise-helsinki-workshop/?utm_source=rss&utm_medium=rss&utm_campaign=shaping-europes-water-resilience-ieec-contributes-technical-expertise-at-pcp-wise-helsinki-workshop",
-      "pubDate": "Tue, 07 Jul 2026 10:41:08 +0000",
-      "description": "As climate change intensifies water-related risks across Europe, space-based technology is becoming our most vital line of defense. Highlighting its ongoing commitment to Earth Observation (EO) and climate resilience, the Institute of Space Studies of Catalonia (IEEC) actively participated in the se",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "From seeing to anticipating: the data behind the next phase of Earth observation",
-      "link": "https://eomag.eu/from-seeing-to-anticipating-the-data-behind-the-next-phase-of-earth-observation/?utm_source=rss&utm_medium=rss&utm_campaign=from-seeing-to-anticipating-the-data-behind-the-next-phase-of-earth-observation",
-      "pubDate": "Tue, 07 Jul 2026 10:36:30 +0000",
-      "description": "For most of its history, Earth observation has been an exercise in looking back. Satellites record what is there, analysts interpret it, and decisions follow from a picture of the recent past. That model has served the field well, but it is beginning to change. Increasingly, the questions put to Ear",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Keeping Earth Observation Connected: Introducing TreeNet for the Future of Satellite Operations ",
-      "link": "https://eomag.eu/keeping-earth-observation-connected-introducing-treenet-for-the-future-of-satellite-operations/?utm_source=rss&utm_medium=rss&utm_campaign=keeping-earth-observation-connected-introducing-treenet-for-the-future-of-satellite-operations",
-      "pubDate": "Tue, 07 Jul 2026 10:29:27 +0000",
-      "description": "Founded in 2014, Leaf Space is a pioneering provider of Ground Segment as-a-Service (GSaaS), delivering advanced connectivity solutions for satellite operators, launch providers, and space missions worldwide. Through its globally distributed ground station network and proprietary software platform, ",
-      "feedName": "EO Mag"
     },
     {
       "title": "NATO to add up to five Northrop Grumman Triton drones for maritime surveillance",
@@ -93,31 +107,10 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "From Satellite Images to Reusable Embeddings: VITO Advances EO Foundation Models",
-      "link": "https://eomag.eu/from-satellite-images-to-reusable-embeddings-vito-advances-eo-foundation-models/?utm_source=rss&utm_medium=rss&utm_campaign=from-satellite-images-to-reusable-embeddings-vito-advances-eo-foundation-models",
-      "pubDate": "Mon, 06 Jul 2026 14:09:01 +0000",
-      "description": "VITO Remote Sensing&#160; &#124;&#160; WorldCereal Team Rather than running satellite data through a single-purpose classifier, VITO is exploring what happens when you take a step back: letting a foundation model compress what it sees into a general-purpose representation, then asking what that repr",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Thermal Intelligence in the Arctic: Monitoring the Northern Sea Route and Port of Pevek",
-      "link": "https://eomag.eu/thermal-intelligence-in-the-arctic-monitoring-the-northern-sea-route-and-port-of-pevek/?utm_source=rss&utm_medium=rss&utm_campaign=thermal-intelligence-in-the-arctic-monitoring-the-northern-sea-route-and-port-of-pevek",
-      "pubDate": "Mon, 06 Jul 2026 13:42:57 +0000",
-      "description": "Discover how thermal satellite imagery reveals icebreaker corridors, assesses their recency, and uncovers escorted or AIS-degraded vessel movements around the Port of Pevek, demonstrating the unique value of Land Surface Temperature (LST) for Arctic maritime domain awareness. The Arctic is rapidly b",
-      "feedName": "EO Mag"
-    },
-    {
       "title": "The Africa-Europe Space Partnership Program has Unveiled a New Africa-Europe New Space EO Initiative",
       "link": "https://spacewatch.global/2026/07/the-africa-europe-space-partnership-program-has-unveiled-a-new-africa-europe-new-space-eo-initiative/",
       "pubDate": "Mon, 06 Jul 2026 06:00:00 +0000",
       "description": "The Africa-Europe Space Partnership Program has unveiled a GMV-led initiative to develop a scalable Earth observation mission delivering socio-economic benefits across Africa, with Space in Africa, Astrofica Technologies, LocateIT, and Alén Space.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "The European Union Satellite Center Signs ‘CISE’ Agreement to Strengthen Europe’s Maritime Security",
-      "link": "https://spacewatch.global/2026/07/the-european-union-satellite-center-signs-cise-agreement-to-strengthen-europes-maritime-security/",
-      "pubDate": "Fri, 03 Jul 2026 06:00:00 +0000",
-      "description": "The European Union Satellite Center has signed the CISE Cooperation Agreement, establishing the framework for operational information exchange between CISE and MARSUR, enhancing Maritime Domain Awareness for the EU, SatCen, and Member States. ",
       "feedName": "SpaceWatch Global"
     },
     {
@@ -140,13 +133,6 @@
       "pubDate": "Tue, 30 Jun 2026 17:45:40 +0000",
       "description": "The Kurds&#8217; fortunes have ebbed and flowed in recent years, but the fall of the Assad regime in Syria in December 2024, the 2025 decision by the Kurdistan Workers&#8217; Party (PKK) to dissolve and engage in talks with the Turkish government, and the 2026 U.S.-Israeli war with Iran had enormous",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Exclusive: Satellogic Expands AI Apps with SpaceKnow Partnership",
-      "link": "https://payloadspace.com/exclusive-satellogic-expands-ai-apps-with-spaceknow-partnership/",
-      "pubDate": "Tue, 30 Jun 2026 13:00:00 +0000",
-      "description": "Satellogic partnered with SpaceKnow, the AI-powered geospatial intelligence analysis company, to build AI applications on top of Satellogic’s growing stock of satellite imagery.\nThe post Exclusive: Satellogic Expands AI Apps with SpaceKnow Partnership appeared first on Payload.\n",
-      "feedName": "Payload Space"
     },
     {
       "title": "Misreading Myanmar’s War: Why the Junta’s Recent Gains Don’t Mean Imminent Victory",
@@ -177,13 +163,6 @@
       "feedName": "C4ISRNET"
     },
     {
-      "title": "Ukraine launches ‘TrophyLab’ platform to share captured Russian weapons with allies",
-      "link": "https://www.c4isrnet.com/global/europe/2026/06/22/ukraine-launches-trophylab-platform-to-share-captured-russian-weapons-with-allies/",
-      "pubDate": "Mon, 22 Jun 2026 09:27:55 +0000",
-      "description": "Among the listed items available for study are, for example, a Kinzhal hypersonic missile and a T-90M tank.",
-      "feedName": "C4ISRNET"
-    },
-    {
       "title": "The Gulf Arab States Need a Shield Built for Limited Trust",
       "link": "https://warontherocks.com/the-gulf-arab-states-need-a-shield-built-for-limited-trust/",
       "pubDate": "Fri, 12 Jun 2026 07:30:38 +0000",
@@ -209,13 +188,6 @@
       "link": "https://warontherocks.com/cogs-of-war/synthetic-biology-drones-and-ai-the-risks-of-dual-use-technologies/",
       "pubDate": "Wed, 27 May 2026 08:00:09 +0000",
       "description": "Is it too late to stop criminals and American adversaries from exploiting AI to conduct cyberattacks or design novel pathogens? Has regulation kept pace with the threat civilian drones pose to critical infrastructure? AI researcher Lennart Heim, Army drone strategist Paul Lushenko, and CEO of Sentin",
-      "feedName": "War on the Rocks"
-    },
-    {
-      "title": "The Operational Case Against Israel’s Gaza Campaign",
-      "link": "https://warontherocks.com/the-operational-case-against-israels-gaza-campaign/",
-      "pubDate": "Thu, 21 May 2026 07:30:53 +0000",
-      "description": "Gaza did not have to look the way it looks. That is not a moral claim. It is an operational one.Claims of necessity are invoked to explain the scale of civilian harm, but they founder in the face of operational logic. Supporters of Israeli methods argue that Gaza&#8217;s urban battlefield &#8212; tu",
       "feedName": "War on the Rocks"
     }
   ],
