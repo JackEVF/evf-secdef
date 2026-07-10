@@ -1,6 +1,48 @@
 {
-  "generated": "2026-07-09T16:13:08.760Z",
+  "generated": "2026-07-10T13:28:57.722Z",
   "newsItems": [
+    {
+      "title": "MDA Space to Acquire Collecte Localisation Satellites (CLS), a Provider of AI-Driven EO Data Analytics",
+      "link": "https://spacewatch.global/2026/07/mda-space-to-acquire-collecte-localisation-satellites-cls-a-provider-of-ai-driven-eo-data-analytics/",
+      "pubDate": "Fri, 10 Jul 2026 06:00:00 +0000",
+      "description": "MDA Space has made a firm offer to acquire an approximately 70% stake in France's CLS, a provider of AI-driven Earth observation analytics and satellite IoT, for around €567 million in cash.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "MDA Space Vertically Integrates in EO Analytics With Deal to Acquire Majority of CLS ",
+      "link": "https://www.satellitetoday.com/earth-observation/2026/07/09/mda-space-vertically-integrates-in-eo-analytics-with-deal-to-acquire-majority-of-cls/",
+      "pubDate": "Thu, 09 Jul 2026 20:11:54 +0000",
+      "description": "MDA Space is moving down the vertical stack of Earth Observation with a deal to acquire the majority stake in French data analytics and insight company Collecte Localisation Satellites, known [&#8230;]\nThe post MDA Space Vertically Integrates in EO Analytics With Deal to Acquire Majority of CLS  app",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Telesat to Provide Mil-Ka Arctic Connectivity for Canada’s ESCP-P Program ",
+      "link": "https://www.satellitetoday.com/government-military/2026/07/09/telesat-to-provide-mil-ka-arctic-connectivity-for-canadas-escp-p-program/",
+      "pubDate": "Thu, 09 Jul 2026 20:03:59 +0000",
+      "description": "Telesat has reached an agreement with the Canadian government to provide Military Ka-band satellite capacity for Canada’s Enhanced Satellite Communications Project – Polar (ESCP-P) program. Canadian Prime Minister Mark Carney [&#8230;]\nThe post Telesat to Provide Mil-Ka Arctic Connectivity for Canad",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "NASA and ISISPACE Deploy GRITSS CubeSat to Advance Orbital Reference Frame Precision",
+      "link": "https://satnews.com/2026/07/09/nasa-and-isispace-deploy-gritss-cubesat-to-advance-orbital-reference-frame-precision/",
+      "pubDate": "Thu, 09 Jul 2026 19:00:06 +0000",
+      "description": "On Tuesday, July 7, 2026, NASA’s Geodetic Reference Instrument Transponder for Small Satellites (GRITSS) technology demonstration spacecraft successfully launched into low Earth orbit. The payload lifted off from Vandenberg Space [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "European coalition pledges $50 billion to modernize deep precision strike capabilities",
+      "link": "https://breakingdefense.com/2026/07/european-coalition-pledges-50-billion-to-modernize-deep-precision-strike-capabilities/",
+      "pubDate": "Thu, 09 Jul 2026 16:43:56 +0000",
+      "description": "In a joint statement, the 12-member coalition linked the move to America&#8217;s shifting stance in European defense.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "Unions sue to restore Pentagon workers' collective-bargaining rights",
+      "link": "https://www.defenseone.com/policy/2026/07/unions-sue-hegseth-pentagon-worker-rights/414675/",
+      "pubDate": "Thu, 09 Jul 2026 12:00:00 -0400",
+      "description": "SecDef Hegseth's no-warning termination of worker agreements broke the law and caused \"confusion and disruption,\" the suit alleges.",
+      "feedName": "Defense One"
+    },
     {
       "title": "Building Higher-Quality Geospatial Datasets for AI: Lessons from Enabled Intelligence and New Capabilities from Kili Technology",
       "link": "https://eomag.eu/building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology/?utm_source=rss&utm_medium=rss&utm_campaign=building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology",
@@ -14,13 +56,6 @@
       "pubDate": "Thu, 09 Jul 2026 12:55:49 +0000",
       "description": "color33 is an automated, cloud-based, online processing service that converts multispectral Earth observation images into actionable categories without requiring any training samples. Unlike unsupervised clustering routines or machine learning approaches, color33 is based on a physical-model, produc",
       "feedName": "EO Mag"
-    },
-    {
-      "title": "EU considers tariffs on imports from illegal Israeli settlements",
-      "link": "https://www.politico.eu/article/eu-considering-import-licenses-tariffs-trade-israeli-settlements/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Thu, 09 Jul 2026 11:35:35 +0000",
-      "description": "The European Commission has developed the policy proposals following a request from top diplomat Kaja Kallas.",
-      "feedName": "Politico Europe"
     },
     {
       "title": "The Pentagon’s Sprint to Get Tech Out of the Lab and to the Warfighter",
@@ -51,32 +86,11 @@
       "feedName": "EO Mag"
     },
     {
-      "title": "Israel’s two giant state-run defense companies may go public, but there are hurdles",
-      "link": "https://breakingdefense.com/2026/07/israels-two-giant-state-run-defense-companies-may-go-public-but-there-are-hurdles/",
-      "pubDate": "Wed, 08 Jul 2026 13:33:53 +0000",
-      "description": "The current market presents an opportunity for the Israeli government to raise billions of dollars while improving the companies&#8217; efficiency and access to capital.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "Simera Sense to Provide Eight ‘MultiScape 100’ Imagers for the Canary Islands Satellite Constellation",
       "link": "https://spacewatch.global/2026/07/simera-sense-to-provide-eight-multiscape-100-imagers-for-the-canary-islands-satellite-constellation/",
       "pubDate": "Wed, 08 Jul 2026 06:00:00 +0000",
       "description": "Simera Sense will supply eight MultiScape100 imagers to Telespazio Ibérica for the Canary Islands Satellite Constellation, supporting environmental monitoring, emergency response, and maritime domain awareness.",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Astrolight Framework Urges Industrialized Laser Backbone to Protect European Space Autonomy",
-      "link": "https://satnews.com/2026/07/07/astrolight-framework-urges-industrialized-laser-backbone-to-protect-european-space-autonomy/",
-      "pubDate": "Tue, 07 Jul 2026 16:02:21 +0000",
-      "description": "BRUSSELS, BELGIUM — On Tuesday, July 7, 2026, European aerospace defense analysts and laser-communications specialists issued a strategic policy directive warning that Europe’s massive multi-billion-euro investments in sovereign space infrastructure [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "ESA CyberCUBE In-Orbit Laboratory Deployed via SpaceX Transporter-17 Rideshare",
-      "link": "https://satnews.com/2026/07/07/esa-cybercube-in-orbit-laboratory-deployed-via-spacex-transporter-17-rideshare/",
-      "pubDate": "Tue, 07 Jul 2026 15:48:08 +0000",
-      "description": "VANDENBERG SPACE FORCE BASE, CALIFORNIA — On Tuesday, July 7, 2026, the European Space Agency’s (ESA) dedicated space-security satellite, CyberCUBE, was successfully launched into low Earth orbit. The spacecraft lifted [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "NATO to add up to five Northrop Grumman Triton drones for maritime surveillance",
@@ -97,20 +111,6 @@
       "link": "https://spacewatch.global/2026/07/german-companies-zft-and-smart-small-satellite-systems-launch-9-satellites-aboard-spacexs-transporter-17-mission/",
       "pubDate": "Tue, 07 Jul 2026 06:00:00 +0000",
       "description": "Germany's Zentrum für Telematik and Smart Small Satellite Systems have launched nine 10kg microsatellites aboard SpaceX's Transporter-17 for coordinated Earth observation across agriculture, forestry, and disaster management.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "ESA Awards ‘Aeolus-2’ Wind Sensing Satellite’s Design and Build to Airbus",
-      "link": "https://spacewatch.global/2026/07/esa-awards-aeolus-2-wind-sensing-satellites-design-and-build-to-airbus/",
-      "pubDate": "Tue, 07 Jul 2026 06:00:00 +0000",
-      "description": "Airbus Defense and Space has signed the initial contract for the design and build of the Aeolus-2 wind sensing satellite from the European Space Agency (ESA). Aeolus-2 will follow the first Aeolus wind sensing satellite which Airbus also built and launched back in 2018.\n\n",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "The Africa-Europe Space Partnership Program has Unveiled a New Africa-Europe New Space EO Initiative",
-      "link": "https://spacewatch.global/2026/07/the-africa-europe-space-partnership-program-has-unveiled-a-new-africa-europe-new-space-eo-initiative/",
-      "pubDate": "Mon, 06 Jul 2026 06:00:00 +0000",
-      "description": "The Africa-Europe Space Partnership Program has unveiled a GMV-led initiative to develop a scalable Earth observation mission delivering socio-economic benefits across Africa, with Space in Africa, Astrofica Technologies, LocateIT, and Alén Space.",
       "feedName": "SpaceWatch Global"
     },
     {
@@ -154,13 +154,6 @@
       "pubDate": "Tue, 23 Jun 2026 17:30:05 +0000",
       "description": "Iran&#8217;s threats to shipping through the Strait of Hormuz &#8212; in response to the U.S. and Israeli strikes on Iran that began on Feb. 28 &#8212; effectively closed the strait, sending economic shockwaves around the world. As part of negotiations between Tehran and Washington, Iran has eased r",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Frustrating Israel, fiber-optic killer drone technology has arrived in southern Lebanon",
-      "link": "https://www.c4isrnet.com/global/mideast-africa/2026/06/23/frustrating-israel-fiber-optic-killer-drone-technology-has-arrived-in-southern-lebanon/",
-      "pubDate": "Tue, 23 Jun 2026 14:43:45 +0000",
-      "description": "Analysts believe that any military engaged in conflict will, in one form or another, encounter technologies first seen in Ukraine.",
-      "feedName": "C4ISRNET"
     },
     {
       "title": "The Gulf Arab States Need a Shield Built for Limited Trust",
