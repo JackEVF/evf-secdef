@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-11T10:37:12.686Z",
+  "generated": "2026-07-12T10:59:59.917Z",
   "newsItems": [
     {
-      "title": "Ein Spaziergang mit Patrick Schnieder",
-      "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-patrick-schnieder/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Sat, 11 Jul 2026 08:00:00 +0000",
-      "description": "Seit einem Jahr ist Patrick Schnieder als Verkehrsminister im Amt. Im Spaziergang mit Gordon Repinski verteidigt er die Vollsperrungen bei den Korridorsanierungen der Bahn, räumt aber auch konzeptionellen Nachbesserungsbedarf ein. Beim autonomen Fahren kündigt Schnieder baldige Fortschritte für den ",
-      "feedName": "Politico Europe"
+      "title": "Parabilis tests propulsion system for maneuverable cubesats",
+      "link": "https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/",
+      "pubDate": "Sat, 11 Jul 2026 13:39:38 +0000",
+      "description": "\nThe Space Force is backing the development of the company’s hybrid engine technology for small satellites\nThe post Parabilis tests propulsion system for maneuverable cubesats appeared first on SpaceNews.\n",
+      "feedName": "SpaceNews"
     },
     {
       "title": "Earth observation satellites pass telecom in European space industry sales",
@@ -21,13 +21,6 @@
       "pubDate": "Fri, 10 Jul 2026 18:12:10 +0000",
       "description": "Telespazio Ibérica has selected Simera Sense to supply multispectral imagers for the Canary Islands satellite constellation project.  The Canary Islands are a Spanish group of islands off the coast of [&#8230;]\nThe post Simera Sense to Supply Imagers for Canary Islands Satellite Constellation appear",
       "feedName": "Via Satellite"
-    },
-    {
-      "title": "Senior Democrat backs Trump’s call for more European defense spending",
-      "link": "https://www.politico.eu/article/senior-democrat-rahm-emanuel-backs-donald-trump-call-for-more-european-defense-spending/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Fri, 10 Jul 2026 16:50:43 +0000",
-      "description": "Former Chicago Mayor Rahm Emanuel says Europe is \"responsible for getting dependent on America.\"",
-      "feedName": "Politico Europe"
     },
     {
       "title": "MDA Space to Acquire Collecte Localisation Satellites (CLS), a Provider of AI-Driven EO Data Analytics",
@@ -72,20 +65,6 @@
       "feedName": "Defense One"
     },
     {
-      "title": "Building Higher-Quality Geospatial Datasets for AI: Lessons from Enabled Intelligence and New Capabilities from Kili Technology",
-      "link": "https://eomag.eu/building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology/?utm_source=rss&utm_medium=rss&utm_campaign=building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology",
-      "pubDate": "Thu, 09 Jul 2026 13:35:07 +0000",
-      "description": "What does mission-critical accuracy look like in practice? Enabled Intelligence, an AI technology and services provider specialising in geospatial analysis, builds models for government and commercial clients across military intelligence, disaster recovery, transportation logistics and agricultural ",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Focus on Dynamics: Semantic Data Cube as a key to Sentinel-2-based Landscape Analysis",
-      "link": "https://eomag.eu/focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis",
-      "pubDate": "Thu, 09 Jul 2026 12:55:49 +0000",
-      "description": "color33 is an automated, cloud-based, online processing service that converts multispectral Earth observation images into actionable categories without requiring any training samples. Unlike unsupervised clustering routines or machine learning approaches, color33 is based on a physical-model, produc",
-      "feedName": "EO Mag"
-    },
-    {
       "title": "The Pentagon’s Sprint to Get Tech Out of the Lab and to the Warfighter",
       "link": "https://warontherocks.com/cogs-of-war/the-pentagons-sprint-to-get-tech-out-of-the-lab-and-to-the-warfighter/",
       "pubDate": "Thu, 09 Jul 2026 08:00:22 +0000",
@@ -105,13 +84,6 @@
       "pubDate": "Thu, 09 Jul 2026 06:00:00 +0000",
       "description": "The bankrupt International Space University (ISU) Central Campus in Strasbourg, France has been liquidated by court order, following cuts in funding from CNES, ESA and the local government earlier this year. A proposal by faculty and staff to keep ISU France in operation was rejected after a court h",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "CloudFerro expands sovereign cloud infrastructure for Earth Observation with a new AI-ready cloud region in Poland",
-      "link": "https://eomag.eu/cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland/?utm_source=rss&utm_medium=rss&utm_campaign=cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland",
-      "pubDate": "Wed, 08 Jul 2026 15:55:23 +0000",
-      "description": "CloudFerro, a Polish sovereign cloud provider, has launched a new public cloud region in Łódź, Poland, further expanding its European cloud infrastructure dedicated to Earth Observation, AI and data-intensive workloads. The new region has been designed to support organisations processing large volum",
-      "feedName": "EO Mag"
     },
     {
       "title": "Simera Sense to Provide Eight ‘MultiScape 100’ Imagers for the Canary Islands Satellite Constellation",
