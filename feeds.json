@@ -1,6 +1,41 @@
 {
-  "generated": "2026-07-12T10:59:59.917Z",
+  "generated": "2026-07-13T13:40:40.334Z",
   "newsItems": [
+    {
+      "title": "Belgium slams EU Commission for inaction against illegal Israeli settlements",
+      "link": "https://www.politico.eu/article/belgium-accuses-eu-commission-inaction-against-illegal-israeli-settlements/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Mon, 13 Jul 2026 09:53:55 +0000",
+      "description": "Foreign Minister Maxime Prévot said the EU executive had thrown countries a \"bone to chew on\" but failed to propose substantial measures on trade with the settlers.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Europe’s Hydis project settles on concept for hypersonic interceptor",
+      "link": "https://www.defensenews.com/global/europe/2026/07/13/europes-hydis-project-settles-on-concept-for-hypersonic-interceptor/",
+      "pubDate": "Mon, 13 Jul 2026 08:41:19 +0000",
+      "description": "Europe's push to field a hypersonic-defense interceptor will come down to two competing projects.",
+      "feedName": "Defense News"
+    },
+    {
+      "title": "An Unlearned Lesson: The Sorry Record of Regime Change Operations in the Middle East",
+      "link": "https://warontherocks.com/an-unlearned-lesson-the-sorry-record-of-regime-change-operations-in-the-middle-east/",
+      "pubDate": "Mon, 13 Jul 2026 07:30:35 +0000",
+      "description": "On Feb. 28, 2026, President Donald Trump announced the commencement of Operation Epic Fury, a joint U.S.-Israeli military operation against Iran. Among the mission&#8217;s goals was the overthrow of the Islamic Republic. &#8220;When we are finished,&#8221; Trump told the Iranian people, &#8220;take ",
+      "feedName": "War on the Rocks"
+    },
+    {
+      "title": "Why Europe still can’t agree on Israel",
+      "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/why-europe-still-cant-agree-on-israel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Mon, 13 Jul 2026 04:05:00 +0000",
+      "description": "EU foreign ministers meet in Brussels as a growing group of countries push the European Commission to propose restrictions on trade with illegal Israeli settlements. Zoya Sheftalovich and Nick Vinocur explain why although the economic impact would be small, the legal and political stakes are far lar",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Balancing Orbit: How Regulators Trade Commercial Viability for National Security",
+      "link": "https://satnews.com/2026/07/12/balancing-orbit-how-regulators-trade-commercial-viability-for-national-security/",
+      "pubDate": "Sun, 12 Jul 2026 18:11:36 +0000",
+      "description": "Targeting the widening capability gap between international defense frameworks and fast-evolving private earth observation sensors, national space regulators are actively modifying how they oversee commercial remote sensing operators. The central [&#8230;]",
+      "feedName": "Satnews"
+    },
     {
       "title": "Parabilis tests propulsion system for maneuverable cubesats",
       "link": "https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/",
@@ -65,6 +100,20 @@
       "feedName": "Defense One"
     },
     {
+      "title": "Building Higher-Quality Geospatial Datasets for AI: Lessons from Enabled Intelligence and New Capabilities from Kili Technology",
+      "link": "https://eomag.eu/building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology/?utm_source=rss&utm_medium=rss&utm_campaign=building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology",
+      "pubDate": "Thu, 09 Jul 2026 13:35:07 +0000",
+      "description": "What does mission-critical accuracy look like in practice? Enabled Intelligence, an AI technology and services provider specialising in geospatial analysis, builds models for government and commercial clients across military intelligence, disaster recovery, transportation logistics and agricultural ",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "Focus on Dynamics: Semantic Data Cube as a key to Sentinel-2-based Landscape Analysis",
+      "link": "https://eomag.eu/focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis",
+      "pubDate": "Thu, 09 Jul 2026 12:55:49 +0000",
+      "description": "color33 is an automated, cloud-based, online processing service that converts multispectral Earth observation images into actionable categories without requiring any training samples. Unlike unsupervised clustering routines or machine learning approaches, color33 is based on a physical-model, produc",
+      "feedName": "EO Mag"
+    },
+    {
       "title": "The Pentagon’s Sprint to Get Tech Out of the Lab and to the Warfighter",
       "link": "https://warontherocks.com/cogs-of-war/the-pentagons-sprint-to-get-tech-out-of-the-lab-and-to-the-warfighter/",
       "pubDate": "Thu, 09 Jul 2026 08:00:22 +0000",
@@ -86,6 +135,13 @@
       "feedName": "SpaceWatch Global"
     },
     {
+      "title": "CloudFerro expands sovereign cloud infrastructure for Earth Observation with a new AI-ready cloud region in Poland",
+      "link": "https://eomag.eu/cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland/?utm_source=rss&utm_medium=rss&utm_campaign=cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland",
+      "pubDate": "Wed, 08 Jul 2026 15:55:23 +0000",
+      "description": "CloudFerro, a Polish sovereign cloud provider, has launched a new public cloud region in Łódź, Poland, further expanding its European cloud infrastructure dedicated to Earth Observation, AI and data-intensive workloads. The new region has been designed to support organisations processing large volum",
+      "feedName": "EO Mag"
+    },
+    {
       "title": "Simera Sense to Provide Eight ‘MultiScape 100’ Imagers for the Canary Islands Satellite Constellation",
       "link": "https://spacewatch.global/2026/07/simera-sense-to-provide-eight-multiscape-100-imagers-for-the-canary-islands-satellite-constellation/",
       "pubDate": "Wed, 08 Jul 2026 06:00:00 +0000",
@@ -94,24 +150,10 @@
     },
     {
       "title": "NATO to add up to five Northrop Grumman Triton drones for maritime surveillance",
-      "link": "https://www.defensenews.com/global/europe/2026/07/07/nato-to-add-up-to-five-northrop-grumman-triton-drones-for-maritime-surveillance/",
-      "pubDate": "Tue, 07 Jul 2026 09:42:08 +0000",
-      "description": "“It is genuinely made in NATO and is creating jobs on both sides of the Atlantic,” alliance Secretary-General Mark Rutte said.",
-      "feedName": "Defense News"
-    },
-    {
-      "title": "NATO to add up to five Northrop Grumman Triton drones for maritime surveillance",
       "link": "https://www.c4isrnet.com/global/europe/2026/07/07/nato-to-add-up-to-five-northrop-grumman-triton-drones-for-maritime-surveillance/",
       "pubDate": "Tue, 07 Jul 2026 09:42:08 +0000",
       "description": "“It is genuinely made in NATO and is creating jobs on both sides of the Atlantic,” alliance Secretary-General Mark Rutte said.",
       "feedName": "C4ISRNET"
-    },
-    {
-      "title": "German Companies ZFT and Smart Small Satellite Systems Launch 9 Satellites aboard SpaceX’s Transporter-17 Mission",
-      "link": "https://spacewatch.global/2026/07/german-companies-zft-and-smart-small-satellite-systems-launch-9-satellites-aboard-spacexs-transporter-17-mission/",
-      "pubDate": "Tue, 07 Jul 2026 06:00:00 +0000",
-      "description": "Germany's Zentrum für Telematik and Smart Small Satellite Systems have launched nine 10kg microsatellites aboard SpaceX's Transporter-17 for coordinated Earth observation across agriculture, forestry, and disaster management.",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "From Shin Bet to Mossad, Netanyahu Reshapes Israeli Intelligence",
