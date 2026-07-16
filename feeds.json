@@ -1,6 +1,27 @@
 {
-  "generated": "2026-07-15T11:17:01.845Z",
+  "generated": "2026-07-16T11:55:56.708Z",
   "newsItems": [
+    {
+      "title": "Five European Defense Companies Form Consortium to Develop Sovereign Exo-Atmospheric Missile Interceptor",
+      "link": "https://spacewatch.global/2026/07/five-european-defense-companies-form-consortium-to-develop-sovereign-exo-atmospheric-missile-interceptor/",
+      "pubDate": "Thu, 16 Jul 2026 06:00:00 +0000",
+      "description": "Airbus Defence and Space, Destinus, MBDA Deutschland, Safran, and Thales have signed an LoI forming the Bliksem EXO Consortium to develop a sovereign European exo-atmospheric interceptor against ballistic-missile threats.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "MBDA appoints Airbus executive Jean-Brice Dumont as new CEO",
+      "link": "https://www.defensenews.com/global/europe/2026/07/15/mbda-appoints-airbus-executive-jean-brice-dumont-as-new-ceo/",
+      "pubDate": "Wed, 15 Jul 2026 16:38:38 +0000",
+      "description": "MBDA, Europe’s largest missile maker, appointed Airbus Defence and Space executive Jean-Brice Dumont as its new chief executive officer effective Nov. 1.",
+      "feedName": "Defense News"
+    },
+    {
+      "title": "Keysight and Sateliot Secure ESA Award for Blockchain-Anchored 5G NTN Security",
+      "link": "https://satnews.com/2026/07/15/keysight-and-sateliot-secure-esa-award-for-blockchain-anchored-5g-ntn-security/",
+      "pubDate": "Wed, 15 Jul 2026 15:45:55 +0000",
+      "description": "Targeting the operational security and verification vulnerabilities of scaling multi-orbit satellite networks, Keysight Technologies, Inc. has been selected by the European Space Agency (ESA) to lead a three-year development program [&#8230;]",
+      "feedName": "Satnews"
+    },
     {
       "title": "Israeli firm wants to convert commercial ships into floating drone bases",
       "link": "https://www.defensenews.com/global/mideast-africa/2026/07/15/israeli-firm-wants-to-convert-commercial-ships-into-floating-drone-bases/",
@@ -14,13 +35,6 @@
       "pubDate": "Wed, 15 Jul 2026 10:27:52 +0000",
       "description": "Elbit Systems detailed a new maritime concept centered on its Hermes 650 Spark unmanned aircraft, envisioning the conversion of commercial surface ships.",
       "feedName": "C4ISRNET"
-    },
-    {
-      "title": "Russia attacks Odesa as von der Leyen arrives in Kyiv",
-      "link": "https://www.politico.eu/article/russia-attacks-odesa-ursula-von-der-leyen-ukraine-trip/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Wed, 15 Jul 2026 07:59:14 +0000",
-      "description": "Ukrainian port infrastructure that is critical to wartime exports has come under sustained bombardment in recent days.",
-      "feedName": "Politico Europe"
     },
     {
       "title": "Governments Around the World Spent €119B in Space Last Year, ESA’s Space Economy Report Reveals",
@@ -79,20 +93,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "The Implications of Dual-Use for Protecting Space Assets",
-      "link": "https://www.satellitetoday.com/opinion/2026/07/13/the-implications-of-dual-use-for-protecting-space-assets/",
-      "pubDate": "Mon, 13 Jul 2026 21:19:21 +0000",
-      "description": "For many years Europe organized space around clear distinctions. Civil programs were separated from defense. Commercial companies served institutional customers. Governments developed sovereign capabilities while industry provided technology and services. [&#8230;]\nThe post The Implications of Dual-",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "Reditus readies first launch of its re-entry vehicle/hypersonic target",
-      "link": "https://breakingdefense.com/2026/07/reditus-readies-first-launch-of-its-re-entry-vehicle-hypersonic-target/",
-      "pubDate": "Mon, 13 Jul 2026 20:06:34 +0000",
-      "description": "The Missile Defense Agency  is evaluating the company&#8217;s ENOS spacecraft as a hypersonic target/testbed under the SHIELD contract, said Reditus CEO Stef Crum. \n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "Poland to host new ESA center as government boosts investments in space",
       "link": "https://spacenews.com/poland-to-host-new-esa-center-as-government-boosts-investments-in-space/",
       "pubDate": "Mon, 13 Jul 2026 19:12:00 +0000",
@@ -126,20 +126,6 @@
       "pubDate": "Sat, 11 Jul 2026 08:01:30 +0000",
       "description": "The European Space Agency has awarded Spanish satellite manufacturer EMXYS a contract to build a small lander that will attempt to touch down on the surface of an asteroid ahead of its close encounter with Earth. Apophis, the asteroid in question, will pass within 32,000 kilometres of Earth&#8217;s ",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Earth observation satellites pass telecom in European space industry sales",
-      "link": "https://spacenews.com/earth-observation-satellites-pass-telecom-in-european-space-industry-sales/",
-      "pubDate": "Fri, 10 Jul 2026 18:12:24 +0000",
-      "description": "\nMILAN &#8211; European space industry sales rebounded in 2025 after a contraction in 2024, Eurospace reported in its latest Facts and Figures report, presented July 7. The growth is driven [&#8230;]\nThe post Earth observation satellites pass telecom in European space industry sales appeared first o",
-      "feedName": "SpaceNews"
-    },
-    {
-      "title": "MDA Space to Acquire Collecte Localisation Satellites (CLS), a Provider of AI-Driven EO Data Analytics",
-      "link": "https://spacewatch.global/2026/07/mda-space-to-acquire-collecte-localisation-satellites-cls-a-provider-of-ai-driven-eo-data-analytics/",
-      "pubDate": "Fri, 10 Jul 2026 06:00:00 +0000",
-      "description": "MDA Space has made a firm offer to acquire an approximately 70% stake in France's CLS, a provider of AI-driven Earth observation analytics and satellite IoT, for around €567 million in cash.",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Unions sue to restore Pentagon workers' collective-bargaining rights",
@@ -198,13 +184,6 @@
       "feedName": "European Spaceflight"
     },
     {
-      "title": "Isar Aerospace to Launch Satellite for Planet Germany",
-      "link": "https://europeanspaceflight.com/isar-aerospace-to-launch-satellite-for-planet-germany/",
-      "pubDate": "Thu, 02 Jul 2026 15:18:13 +0000",
-      "description": "The German-based subsidiary of Planet Labs has selected Isar Aerospace to launch one of the company’s Pelican Earth observation satellites aboard a Spectrum rocket. The companies plan to complete the launch in less than 12 months. In July 2025, the German government awarded Planet a €240 million mul",
-      "feedName": "European Spaceflight"
-    },
-    {
       "title": "From Shin Bet to Mossad, Netanyahu Reshapes Israeli Intelligence",
       "link": "https://warontherocks.com/from-shin-bet-to-mossad-netanyahu-reshapes-israeli-intelligence/",
       "pubDate": "Wed, 01 Jul 2026 17:30:40 +0000",
@@ -258,13 +237,6 @@
       "link": "https://warontherocks.com/wrong-audience-wrong-ask-why-trumps-abraham-accords-gambit-falls-on-deaf-ears/",
       "pubDate": "Thu, 04 Jun 2026 07:15:24 +0000",
       "description": "When President Donald Trump repeatedly pressed regional leaders on Abraham Accords expansion late last month &#8212; framing Arab-Israeli normalization as a debt owed and a condition for a settlement to end the Iran war &#8212; he apparently commented there had been silence on the other end of the l",
-      "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Synthetic Biology, Drones, and AI: The Risks of Dual-Use Technologies",
-      "link": "https://warontherocks.com/cogs-of-war/synthetic-biology-drones-and-ai-the-risks-of-dual-use-technologies/",
-      "pubDate": "Wed, 27 May 2026 08:00:09 +0000",
-      "description": "Is it too late to stop criminals and American adversaries from exploiting AI to conduct cyberattacks or design novel pathogens? Has regulation kept pace with the threat civilian drones pose to critical infrastructure? AI researcher Lennart Heim, Army drone strategist Paul Lushenko, and CEO of Sentin",
       "feedName": "War on the Rocks"
     }
   ],
