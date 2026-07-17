@@ -1,6 +1,48 @@
 {
-  "generated": "2026-07-16T11:55:56.708Z",
+  "generated": "2026-07-17T11:09:50.712Z",
   "newsItems": [
+    {
+      "title": "Mission Vigilant Owl – ViceAdmiral Dr. Thomas Daum on Electronic Warfare, ISR and Collective Defense",
+      "link": "https://spacewatch.global/2026/07/mission-vigilant-owl-viceadmiral-dr-thomas-daum-on-electronic-warfare-isr-and-collective-defense/",
+      "pubDate": "Fri, 17 Jul 2026 09:00:00 +0000",
+      "description": "Vice Admiral Dr. Thomas Daum, Inspector of Germany's Cyber and Information Domain Service (CIR), explains how the Bundeswehr plans to move signals intelligence into low Earth orbit, why resilience means many small satellites across multiple orbits -and where a large share of the €35 billion space bu",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Slingshot Aerospace Wins $69.2 Million U.S. Space Force Contract to Advance AI-Powered Mission Readiness for Space Defense",
+      "link": "https://spacewatch.global/2026/07/slingshot-aerospace-wins-69-2-million-u-s-space-force-contract-to-advance-ai-powered-mission-readiness-for-space-defense/",
+      "pubDate": "Fri, 17 Jul 2026 06:00:00 +0000",
+      "description": "Slingshot Aerospace has won a $69.2 million, 4.5-year Space Force contract to deliver AI-powered mission-rehearsal and training capabilities for space operations.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Week Ender: Did Europe dodge a summer travel crisis?",
+      "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/week-ender-did-europe-dodge-a-summer-travel-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Fri, 17 Jul 2026 02:56:44 +0000",
+      "description": "Europeans are traveling in huge numbers this summer — but the conflict in the Middle East, volatile fuel prices linked to disruption in the Strait of Hormuz, and a troubled new border system are making journeys more complicated. Sarah Wheaton is joined by POLITICO reporters Ben Munster, Tommaso Lecc",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Kesight and Sateliot to Explore Blockchain Frameworks for 5G NTN Security ",
+      "link": "https://www.satellitetoday.com/technology/2026/07/16/kesight-and-sateliot-to-explore-blockchain-frameworks-for-5g-ntn-security/",
+      "pubDate": "Thu, 16 Jul 2026 20:35:06 +0000",
+      "description": "Keysight Technologies will lead a European Space Agency (ESA) development program looking at how blockchain technologies can be used to detect anomalies for 5G non-terrestrial networks (NTN).  The award announced [&#8230;]\nThe post Kesight and Sateliot to Explore Blockchain Frameworks for 5G NTN Sec",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Integration and Sovereignty: How Defense is Reshaping the Earth Observation Market",
+      "link": "https://www.satellitetoday.com/earth-observation/2026/07/16/integration-and-sovereignty-how-defense-is-reshaping-the-earth-observation-market/",
+      "pubDate": "Thu, 16 Jul 2026 15:38:00 +0000",
+      "description": "As defense and security needs drive demand for Earth Observation (EO) data, experts from Europe&#8217;s leading space and security organizations say challenges remain with integrating EO data into larger systems [&#8230;]\nThe post Integration and Sovereignty: How Defense is Reshaping the Earth Obser",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "ESA Selects Ariane 6 to Launch Deep Space CubeSat",
+      "link": "https://europeanspaceflight.com/esa-selects-ariane-6-to-launch-deep-space-cubesat/",
+      "pubDate": "Thu, 16 Jul 2026 14:59:50 +0000",
+      "description": "The European Space Agency has awarded a contract to launch its solar storm-monitoring CubeSat on an Ariane 6 rocket. Scheduled for launch in early 2027, the Henon CubeSat will be flown as a secondary passenger alongside ESA’s PLATO telescope, which will be tasked with finding Earth-like exoplanets. ",
+      "feedName": "European Spaceflight"
+    },
     {
       "title": "Five European Defense Companies Form Consortium to Develop Sovereign Exo-Atmospheric Missile Interceptor",
       "link": "https://spacewatch.global/2026/07/five-european-defense-companies-form-consortium-to-develop-sovereign-exo-atmospheric-missile-interceptor/",
@@ -42,13 +84,6 @@
       "pubDate": "Wed, 15 Jul 2026 06:00:00 +0000",
       "description": "Governments around the world made a global public investment of €119 billion in 2025 in the space industry, according to the European Space Agency's newly-released Space Economy Report, showing a slight 3% decline from 2024. \n\nThe Report offers a comprehensive overview of the latest developments sha",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Honeywell to Lead ESA Quantum Space Magnetometer Contract",
-      "link": "https://www.satellitetoday.com/technology/2026/07/14/honeywell-to-lead-esa-quantum-space-magnetometer-contract/",
-      "pubDate": "Tue, 14 Jul 2026 20:33:28 +0000",
-      "description": "Honeywell Aerospace will lead a consortium to develop a compact quantum space magnetometer to advance research into Earth’s magnetic field. It has teamed up with Quantum Brilliance, and Jagiellonian University [&#8230;]\nThe post Honeywell to Lead ESA Quantum Space Magnetometer Contract appeared firs",
-      "feedName": "Via Satellite"
     },
     {
       "title": "Space acquisition and NRO picks face SASC",
@@ -93,13 +128,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Poland to host new ESA center as government boosts investments in space",
-      "link": "https://spacenews.com/poland-to-host-new-esa-center-as-government-boosts-investments-in-space/",
-      "pubDate": "Mon, 13 Jul 2026 19:12:00 +0000",
-      "description": "\nWARSAW, Poland — Poland will host the first European Space Agency (ESA) center located in an eastern flank member state, one that will be focused on civil security and resilience. [&#8230;]\nThe post Poland to host new ESA center as government boosts investments in space appeared first on SpaceNews.",
-      "feedName": "SpaceNews"
-    },
-    {
       "title": "Europe’s Hydis project settles on concept for hypersonic interceptor",
       "link": "https://www.defensenews.com/global/europe/2026/07/13/europes-hydis-project-settles-on-concept-for-hypersonic-interceptor/",
       "pubDate": "Mon, 13 Jul 2026 08:41:19 +0000",
@@ -112,13 +140,6 @@
       "pubDate": "Mon, 13 Jul 2026 07:30:35 +0000",
       "description": "On Feb. 28, 2026, President Donald Trump announced the commencement of Operation Epic Fury, a joint U.S.-Israeli military operation against Iran. Among the mission&#8217;s goals was the overthrow of the Islamic Republic. &#8220;When we are finished,&#8221; Trump told the Iranian people, &#8220;take ",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Parabilis tests propulsion system for maneuverable cubesats",
-      "link": "https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/",
-      "pubDate": "Sat, 11 Jul 2026 13:39:38 +0000",
-      "description": "\nThe Space Force is backing the development of the company’s hybrid engine technology for small satellites\nThe post Parabilis tests propulsion system for maneuverable cubesats appeared first on SpaceNews.\n",
-      "feedName": "SpaceNews"
     },
     {
       "title": "ESA Taps Spain’s EMXYS to Build €10M Don Quijote Asteroid Lander",
@@ -175,13 +196,6 @@
       "pubDate": "Tue, 07 Jul 2026 09:42:08 +0000",
       "description": "“It is genuinely made in NATO and is creating jobs on both sides of the Atlantic,” alliance Secretary-General Mark Rutte said.",
       "feedName": "C4ISRNET"
-    },
-    {
-      "title": "Italy Brings IRIDE Earth Observation Service Online",
-      "link": "https://europeanspaceflight.com/italy-brings-iride-earth-observation-service-online/",
-      "pubDate": "Mon, 06 Jul 2026 14:58:09 +0000",
-      "description": "Italy&#8217;s IRIDE Earth observation service went live on 1 July, opening initial access to imagery and analytics from one of the programme&#8217;s planned six satellite constellations for government users. The operational phase officially began at 00:01 CEST on 1 July with the “IRIDE First Operati",
-      "feedName": "European Spaceflight"
     },
     {
       "title": "From Shin Bet to Mossad, Netanyahu Reshapes Israeli Intelligence",
