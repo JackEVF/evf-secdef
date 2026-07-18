@@ -1,6 +1,41 @@
 {
-  "generated": "2026-07-17T11:09:50.712Z",
+  "generated": "2026-07-18T10:46:57.488Z",
   "newsItems": [
+    {
+      "title": "Israel and its backers are trying to save its reputation in the US",
+      "link": "https://www.politico.com/news/2026/07/17/israel-has-had-a-tough-month-in-the-u-s-its-fighting-back-01002367?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Sat, 18 Jul 2026 07:50:14 +0000",
+      "description": "",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Navy, Army risk wasting money, time without unified hypersonic missile strategy: GAO",
+      "link": "https://breakingdefense.com/2026/07/navy-army-risk-wasting-money-time-without-unified-hypersonic-missile-strategy-gao/",
+      "pubDate": "Fri, 17 Jul 2026 21:10:00 +0000",
+      "description": "The GAO determined that the Navy is already roughly two years behind schedule on modernizing the Zumwalt-class destroyers as part of the more than $50 billion hypersonic effort.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "US Navy 2 years behind on hypersonic missile installation on Zumwalt destroyers",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/17/us-navy-2-years-behind-on-hypersonic-missile-installation-on-zumwalt-destroyers/",
+      "pubDate": "Fri, 17 Jul 2026 19:45:15 +0000",
+      "description": "The U.S. Navy’s expensive effort to install hypersonic missiles on three Zumwalt-class destroyers is two years behind schedule.",
+      "feedName": "Defense News"
+    },
+    {
+      "title": "BQP Secures SpaceWERX Funding for Quantum-Assisted AI for Space Domain Awareness",
+      "link": "https://www.satellitetoday.com/technology/2026/07/17/bqp-secures-spacewerx-funding-for-quantum-assisted-ai-for-space-domain-awareness/",
+      "pubDate": "Fri, 17 Jul 2026 19:02:43 +0000",
+      "description": "BosonQ Psi Federal LLC (BQP) has secured SpaceWERX funding to advance the company’s quantum-assisted AI platform to improve space domain awareness (SDA). This is the company’s first federal contract.  The [&#8230;]\nThe post BQP Secures SpaceWERX Funding for Quantum-Assisted AI for Space Domain Aware",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Space Force Chief Nominee Schiess Counts Moving Target Indication Among Top Priorities",
+      "link": "https://www.satellitetoday.com/government-military/2026/07/17/space-force-chief-nominee-schiess-counts-moving-target-indication-among-top-priorities/",
+      "pubDate": "Fri, 17 Jul 2026 17:08:25 +0000",
+      "description": "Building U.S. space-based moving target indication systems and the capability to disrupt Chinese military space systems is a top deterrence priority for U.S. Space Force Lt. Gen. Douglas Schiess, he [&#8230;]\nThe post Space Force Chief Nominee Schiess Counts Moving Target Indication Among Top Priori",
+      "feedName": "Via Satellite"
+    },
     {
       "title": "Mission Vigilant Owl – ViceAdmiral Dr. Thomas Daum on Electronic Warfare, ISR and Collective Defense",
       "link": "https://spacewatch.global/2026/07/mission-vigilant-owl-viceadmiral-dr-thomas-daum-on-electronic-warfare-isr-and-collective-defense/",
@@ -16,24 +51,10 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Week Ender: Did Europe dodge a summer travel crisis?",
-      "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/week-ender-did-europe-dodge-a-summer-travel-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Fri, 17 Jul 2026 02:56:44 +0000",
-      "description": "Europeans are traveling in huge numbers this summer — but the conflict in the Middle East, volatile fuel prices linked to disruption in the Strait of Hormuz, and a troubled new border system are making journeys more complicated. Sarah Wheaton is joined by POLITICO reporters Ben Munster, Tommaso Lecc",
-      "feedName": "Politico Europe"
-    },
-    {
-      "title": "Kesight and Sateliot to Explore Blockchain Frameworks for 5G NTN Security ",
+      "title": "Keysight and Sateliot to Explore Blockchain Frameworks for 5G NTN Security ",
       "link": "https://www.satellitetoday.com/technology/2026/07/16/kesight-and-sateliot-to-explore-blockchain-frameworks-for-5g-ntn-security/",
       "pubDate": "Thu, 16 Jul 2026 20:35:06 +0000",
-      "description": "Keysight Technologies will lead a European Space Agency (ESA) development program looking at how blockchain technologies can be used to detect anomalies for 5G non-terrestrial networks (NTN).  The award announced [&#8230;]\nThe post Kesight and Sateliot to Explore Blockchain Frameworks for 5G NTN Sec",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "Integration and Sovereignty: How Defense is Reshaping the Earth Observation Market",
-      "link": "https://www.satellitetoday.com/earth-observation/2026/07/16/integration-and-sovereignty-how-defense-is-reshaping-the-earth-observation-market/",
-      "pubDate": "Thu, 16 Jul 2026 15:38:00 +0000",
-      "description": "As defense and security needs drive demand for Earth Observation (EO) data, experts from Europe&#8217;s leading space and security organizations say challenges remain with integrating EO data into larger systems [&#8230;]\nThe post Integration and Sovereignty: How Defense is Reshaping the Earth Obser",
+      "description": "Keysight Technologies will lead a European Space Agency (ESA) development program looking at how blockchain technologies can be used to detect anomalies for 5G non-terrestrial networks (NTN).  The award announced [&#8230;]\nThe post Keysight and Sateliot to Explore Blockchain Frameworks for 5G NTN Se",
       "feedName": "Via Satellite"
     },
     {
@@ -128,13 +149,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Europe’s Hydis project settles on concept for hypersonic interceptor",
-      "link": "https://www.defensenews.com/global/europe/2026/07/13/europes-hydis-project-settles-on-concept-for-hypersonic-interceptor/",
-      "pubDate": "Mon, 13 Jul 2026 08:41:19 +0000",
-      "description": "Europe's push to field a hypersonic-defense interceptor will come down to two competing projects.",
-      "feedName": "Defense News"
-    },
-    {
       "title": "An Unlearned Lesson: The Sorry Record of Regime Change Operations in the Middle East",
       "link": "https://warontherocks.com/an-unlearned-lesson-the-sorry-record-of-regime-change-operations-in-the-middle-east/",
       "pubDate": "Mon, 13 Jul 2026 07:30:35 +0000",
@@ -147,13 +161,6 @@
       "pubDate": "Sat, 11 Jul 2026 08:01:30 +0000",
       "description": "The European Space Agency has awarded Spanish satellite manufacturer EMXYS a contract to build a small lander that will attempt to touch down on the surface of an asteroid ahead of its close encounter with Earth. Apophis, the asteroid in question, will pass within 32,000 kilometres of Earth&#8217;s ",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Unions sue to restore Pentagon workers' collective-bargaining rights",
-      "link": "https://www.defenseone.com/policy/2026/07/unions-sue-hegseth-pentagon-worker-rights/414675/",
-      "pubDate": "Thu, 09 Jul 2026 12:00:00 -0400",
-      "description": "SecDef Hegseth's no-warning termination of worker agreements broke the law and caused \"confusion and disruption,\" the suit alleges.",
-      "feedName": "Defense One"
     },
     {
       "title": "Building Higher-Quality Geospatial Datasets for AI: Lessons from Enabled Intelligence and New Capabilities from Kili Technology",
