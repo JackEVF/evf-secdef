@@ -1,13 +1,6 @@
 {
-  "generated": "2026-07-18T10:46:57.488Z",
+  "generated": "2026-07-19T10:58:43.915Z",
   "newsItems": [
-    {
-      "title": "Israel and its backers are trying to save its reputation in the US",
-      "link": "https://www.politico.com/news/2026/07/17/israel-has-had-a-tough-month-in-the-u-s-its-fighting-back-01002367?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Sat, 18 Jul 2026 07:50:14 +0000",
-      "description": "",
-      "feedName": "Politico Europe"
-    },
     {
       "title": "Navy, Army risk wasting money, time without unified hypersonic missile strategy: GAO",
       "link": "https://breakingdefense.com/2026/07/navy-army-risk-wasting-money-time-without-unified-hypersonic-missile-strategy-gao/",
@@ -40,7 +33,7 @@
       "title": "Mission Vigilant Owl – ViceAdmiral Dr. Thomas Daum on Electronic Warfare, ISR and Collective Defense",
       "link": "https://spacewatch.global/2026/07/mission-vigilant-owl-viceadmiral-dr-thomas-daum-on-electronic-warfare-isr-and-collective-defense/",
       "pubDate": "Fri, 17 Jul 2026 09:00:00 +0000",
-      "description": "Vice Admiral Dr. Thomas Daum, Inspector of Germany's Cyber and Information Domain Service (CIR), explains how the Bundeswehr plans to move signals intelligence into low Earth orbit, why resilience means many small satellites across multiple orbits -and where a large share of the €35 billion space bu",
+      "description": "Vice Admiral Dr. Thomas Daum, Inspector of Germany's Cyber and Information Domain Service (CIR), explains how the Bundeswehr plans to move signals intelligence into low Earth orbit, why resilience means many small satellites across multiple orbits -and where a large share of the ��35 billion space b",
       "feedName": "SpaceWatch Global"
     },
     {
@@ -72,18 +65,18 @@
       "feedName": "SpaceWatch Global"
     },
     {
+      "title": "ESA To Open Security And Resilience Centre In Poland",
+      "link": "https://orbitaltoday.com/2026/07/16/69743/",
+      "pubDate": "Wed, 15 Jul 2026 21:37:16 +0000",
+      "description": "On 13th July, the European Space Agency (ESA) and the Republic of Poland announced that a new ESA centre focused on civil security and resilience will be located in Warsaw. The goal is to support efficient and coordinated development of European capabilities in these important fields. The announceme",
+      "feedName": "Orbital Today"
+    },
+    {
       "title": "MBDA appoints Airbus executive Jean-Brice Dumont as new CEO",
       "link": "https://www.defensenews.com/global/europe/2026/07/15/mbda-appoints-airbus-executive-jean-brice-dumont-as-new-ceo/",
       "pubDate": "Wed, 15 Jul 2026 16:38:38 +0000",
       "description": "MBDA, Europe’s largest missile maker, appointed Airbus Defence and Space executive Jean-Brice Dumont as its new chief executive officer effective Nov. 1.",
       "feedName": "Defense News"
-    },
-    {
-      "title": "Keysight and Sateliot Secure ESA Award for Blockchain-Anchored 5G NTN Security",
-      "link": "https://satnews.com/2026/07/15/keysight-and-sateliot-secure-esa-award-for-blockchain-anchored-5g-ntn-security/",
-      "pubDate": "Wed, 15 Jul 2026 15:45:55 +0000",
-      "description": "Targeting the operational security and verification vulnerabilities of scaling multi-orbit satellite networks, Keysight Technologies, Inc. has been selected by the European Space Agency (ESA) to lead a three-year development program [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "Israeli firm wants to convert commercial ships into floating drone bases",
@@ -100,18 +93,18 @@
       "feedName": "C4ISRNET"
     },
     {
+      "title": "NRO Nominee Calls Partnership with Space Force a ‘Lesson in Good Government’",
+      "link": "https://orbitaltoday.com/2026/07/15/nro-nominee-calls-partnership-with-space-force-a-lesson-in-good-government/",
+      "pubDate": "Wed, 15 Jul 2026 10:13:42 +0000",
+      "description": "On 14th July, the nominee for director of the National Reconnaissance Office (NRO) described the partnership between the NRO and the United States Space Force as a “lesson in good government,” as the Space Force begins to take more ownership of key intelligence, surveillance, and reconnaissance (ISR",
+      "feedName": "Orbital Today"
+    },
+    {
       "title": "Governments Around the World Spent €119B in Space Last Year, ESA’s Space Economy Report Reveals",
       "link": "https://spacewatch.global/2026/07/governments-around-the-world-spent-e119b-in-space-last-year-esas-space-economy-report-reveals/",
       "pubDate": "Wed, 15 Jul 2026 06:00:00 +0000",
       "description": "Governments around the world made a global public investment of €119 billion in 2025 in the space industry, according to the European Space Agency's newly-released Space Economy Report, showing a slight 3% decline from 2024. \n\nThe Report offers a comprehensive overview of the latest developments sha",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Space acquisition and NRO picks face SASC",
-      "link": "https://spacenews.com/space-acquisition-and-nro-picks-face-sasc/",
-      "pubDate": "Tue, 14 Jul 2026 19:06:33 +0000",
-      "description": "\nErich Hernandez-Baquero, nominated to become the Air Force’s top civilian space acquisition official, and Roger Mason, the administration’s choice to lead the National Reconnaissance Office, appeared before the Senate Armed Services Committee\nThe post Space acquisition and NRO picks face SASC appea",
-      "feedName": "SpaceNews"
     },
     {
       "title": "NATO’s Unity on Paper and Fractures Beneath the Surface",
