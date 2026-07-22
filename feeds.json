@@ -1,6 +1,55 @@
 {
-  "generated": "2026-07-21T12:09:53.521Z",
+  "generated": "2026-07-22T12:13:40.678Z",
   "newsItems": [
+    {
+      "title": "Britain’s new defense chief Streeting says Israel has ‘fallen short’ in Gaza",
+      "link": "https://www.politico.eu/article/uk-new-defense-secretary-wes-streeting-israel-fallen-short-gaza/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Wed, 22 Jul 2026 11:41:36 +0000",
+      "description": "But Britain's new defense secretary refused to repeat earlier, stark criticism of Israel.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Poland to Build 12 IRIS2 Constellation Satellites after Agreement with the European Commission",
+      "link": "https://spacewatch.global/2026/07/poland-to-build-12-iris2-constellation-satellites-after-agreement-with-the-european-commission/",
+      "pubDate": "Wed, 22 Jul 2026 06:00:00 +0000",
+      "description": "Polish Minister Marcin Kierwiński and European Commissioner for Defense and Space Andrius Kubilius have signed an agreement for Poland's participation in the construction of the IRIS2 constellation satellites, marking a new chapter in Poland's security. ",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "ESA’s First Chemical Propulsion Laboratory for Testing Small Propulsion Systems is now Operational",
+      "link": "https://spacewatch.global/2026/07/esas-first-chemical-propulsion-laboratory-for-testing-small-propulsion-systems-is-now-operational/",
+      "pubDate": "Wed, 22 Jul 2026 06:00:00 +0000",
+      "description": "The European Space Agency has officially kicked off testing at its new Chemical Propulsion Laboratory, ESA's first dedicated facility for testing small propulsion systems for space missions. The facility is housed within a repurposed shipping container at the remote Netherlands Aerospace Centre (NLR",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Poland Commits Nearly $750M to Europe’s IRIS² Constellation",
+      "link": "https://www.satellitetoday.com/government-military/2026/07/21/poland-commits-nearly-750m-to-europes-iris%c2%b2-constellation/",
+      "pubDate": "Tue, 21 Jul 2026 20:02:57 +0000",
+      "description": "Poland has committed 656 million euro ($748 million) to Europe’s IRIS² constellation, which will fund nearly 10% of the constellation.  Under the agreement signed Tuesday in Warsaw, Poland will fund [&#8230;]\nThe post Poland Commits Nearly $750M to Europe’s IRIS² Constellation appeared first on Via ",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "How Ukraine Put Russia on the Backfoot",
+      "link": "https://warontherocks.com/how-ukraine-put-russia-on-the-backfoot/",
+      "pubDate": "Tue, 21 Jul 2026 18:43:04 +0000",
+      "description": "Ukraine&#8217;s expanding use of drones at all ranges has changed the war&#8217;s momentum. This episode examines how Kyiv is reaching deeper into Russian territory, disrupting operations and logistics as well as energy infrastructure. How is Russia adapting (or not)? Can these strikes produce lasti",
+      "feedName": "War on the Rocks"
+    },
+    {
+      "title": "Israel’s IAI unveils Ellyon, next-gen electronic attack and intel gathering platform",
+      "link": "https://breakingdefense.com/2026/07/israels-iai-unveils-ellyon-next-gen-electronic-attack-and-intel-gathering-mission-aircraft/",
+      "pubDate": "Tue, 21 Jul 2026 18:07:46 +0000",
+      "description": "The platform &#8220;represents a technological leap forward, combining stand-off operations with the ability to sense, understand and shape the electromagnetic battlespace,&#8221; said Dror Bar, CEO of IAI subsidiary Elta Systems.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "Poland Boosts Its Contribution to Europe’s IRIS2 Constellation to €656M",
+      "link": "https://europeanspaceflight.com/poland-boosts-its-contribution-to-europes-iris2-constellation-to-e656m/",
+      "pubDate": "Tue, 21 Jul 2026 15:40:38 +0000",
+      "description": "Poland has formalised its participation in Europe’s IRIS2 secure communications constellation and agreed to increase its contribution by more than €150 million. The additional funding will double Poland’s contribution to the programme’s space segment to 12 satellites, comprising six in medium Earth ",
+      "feedName": "European Spaceflight"
+    },
     {
       "title": "#SpaceWatchGL Opinion – The Space Economy Now Wears a Uniform. Is Europe Ready?",
       "link": "https://spacewatch.global/2026/07/spacewatchgl-opinion-the-space-economy-now-wears-a-uniform-is-europe-ready/",
@@ -14,13 +63,6 @@
       "pubDate": "Tue, 21 Jul 2026 07:00:00 +0000",
       "description": "\nJapan’s IHI is considering adding next-generation hyperspectral satellites from Finnish startup Kuva Space to its planned 100-strong, multi-sensor sovereign Earth observation constellation.\nThe post IHI explores Kuva hyperspectral satellites for Japan’s multi-sensor constellation appeared first on ",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "ASELSAN showcases integrated UAV payload ecosystem at Farnborough",
-      "link": "https://breakingdefense.com/2026/07/aselsan-showcases-integrated-uav-payload-ecosystem-at-farnborough/",
-      "pubDate": "Mon, 20 Jul 2026 17:03:00 +0000",
-      "description": "[Sponsored] From advanced electro-optics and AESA radars to electronic warfare payloads and precision-guided munitions, ASELSAN is presenting a comprehensive portfolio designed to enhance the effectiveness of next-generation uncrewed platforms.\n",
-      "feedName": "Breaking Defense"
     },
     {
       "title": "Israel’s IAI unveils ‘Hypnosis’ system for confusing enemy drone swarms",
@@ -37,20 +79,6 @@
       "feedName": "C4ISRNET"
     },
     {
-      "title": "MQ-9B and Gambit Series: Advancing European Defense Capabilities",
-      "link": "https://breakingdefense.com/2026/07/mq-9b-and-gambit-series-advancing-european-defense-capabilities/",
-      "pubDate": "Mon, 20 Jul 2026 12:02:00 +0000",
-      "description": "[Sponsored] GA-ASI will build Gambit aircraft in Europe, partnered with European-based companies, with airframes available for international procurement starting in 2027.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
-      "title": "Anduril reveals Thunder, a ‘loyal wingman’ drone for helicopters",
-      "link": "https://breakingdefense.com/2026/07/anduril-reveals-thunder-a-loyal-wingman-drone-for-helicopters/",
-      "pubDate": "Mon, 20 Jul 2026 11:30:00 +0000",
-      "description": "The company describes Thunder as a fully autonomous armed reconnaissance tiltrotor aircraft developed from lessons learned from the company’s Fury aircraft. \n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "Skyroot Aerospace Reaches Orbit on Maiden ‘Vikram-1’ Flight, Making India the Third Nation with Private Launch Capability",
       "link": "https://spacewatch.global/2026/07/skyroot-aerospace-reaches-orbit-on-maiden-vikram-1-flight-making-india-the-third-nation-with-private-launch-capability/",
       "pubDate": "Mon, 20 Jul 2026 06:00:00 +0000",
@@ -63,34 +91,6 @@
       "pubDate": "Mon, 20 Jul 2026 06:00:00 +0000",
       "description": "Italian Space Agency and Telespazio-owned company, e-GEOS will be providing technical training to the African Space Agency (AfSA) as part of the Africa-EU Space Partnership Program (AESPP), under a new AESPP  institutional cooperation project..\n\nInvolving the development of strategic studies, infras",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "India Restricts ISRO Personnel Exits to Safeguard Flagship Orbital Missions",
-      "link": "https://satnews.com/2026/07/19/india-restricts-isro-personnel-exits-to-safeguard-flagship-orbital-missions/",
-      "pubDate": "Sun, 19 Jul 2026 15:58:55 +0000",
-      "description": "Targeting a critical talent drain driven by a rapidly expanding domestic private aerospace ecosystem, India&#8217;s Department of Space (DoS) enacted an emergency administrative directive on Tuesday, July 14, 2026, to [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "US Navy 2 years behind on hypersonic missile installation on Zumwalt destroyers",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/17/us-navy-2-years-behind-on-hypersonic-missile-installation-on-zumwalt-destroyers/",
-      "pubDate": "Fri, 17 Jul 2026 19:45:15 +0000",
-      "description": "The U.S. Navy’s expensive effort to install hypersonic missiles on three Zumwalt-class destroyers is two years behind schedule.",
-      "feedName": "Defense News"
-    },
-    {
-      "title": "BQP Secures SpaceWERX Funding for Quantum-Assisted AI for Space Domain Awareness",
-      "link": "https://www.satellitetoday.com/technology/2026/07/17/bqp-secures-spacewerx-funding-for-quantum-assisted-ai-for-space-domain-awareness/",
-      "pubDate": "Fri, 17 Jul 2026 19:02:43 +0000",
-      "description": "BosonQ Psi Federal LLC (BQP) has secured SpaceWERX funding to advance the company’s quantum-assisted AI platform to improve space domain awareness (SDA). This is the company’s first federal contract.  The [&#8230;]\nThe post BQP Secures SpaceWERX Funding for Quantum-Assisted AI for Space Domain Aware",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "Space Force Chief Nominee Schiess Counts Moving Target Indication Among Top Priorities",
-      "link": "https://www.satellitetoday.com/government-military/2026/07/17/space-force-chief-nominee-schiess-counts-moving-target-indication-among-top-priorities/",
-      "pubDate": "Fri, 17 Jul 2026 17:08:25 +0000",
-      "description": "Building U.S. space-based moving target indication systems and the capability to disrupt Chinese military space systems is a top deterrence priority for U.S. Space Force Lt. Gen. Douglas Schiess, he [&#8230;]\nThe post Space Force Chief Nominee Schiess Counts Moving Target Indication Among Top Priori",
-      "feedName": "Via Satellite"
     },
     {
       "title": "Mission Vigilant Owl – ViceAdmiral Dr. Thomas Daum on Electronic Warfare, ISR and Collective Defense",
@@ -112,13 +112,6 @@
       "pubDate": "Thu, 16 Jul 2026 14:59:50 +0000",
       "description": "The European Space Agency has awarded a contract to launch its solar storm-monitoring CubeSat on an Ariane 6 rocket. Scheduled for launch in early 2027, the Henon CubeSat will be flown as a secondary passenger alongside ESA’s PLATO telescope, which will be tasked with finding Earth-like exoplanets. ",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Five European Defense Companies Form Consortium to Develop Sovereign Exo-Atmospheric Missile Interceptor",
-      "link": "https://spacewatch.global/2026/07/five-european-defense-companies-form-consortium-to-develop-sovereign-exo-atmospheric-missile-interceptor/",
-      "pubDate": "Thu, 16 Jul 2026 06:00:00 +0000",
-      "description": "Airbus Defence and Space, Destinus, MBDA Deutschland, Safran, and Thales have signed an LoI forming the Bliksem EXO Consortium to develop a sovereign European exo-atmospheric interceptor against ballistic-missile threats.",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "ESA To Open Security And Resilience Centre In Poland",
@@ -147,13 +140,6 @@
       "pubDate": "Tue, 14 Jul 2026 18:00:17 +0000",
       "description": "On July 7-8, NATO held its 36th official summit in Ankara, Turkey. There were several consequential topics to discuss at this year&#8217;s meeting, chief among them the wars in Ukraine and Iran and the uncertain future of European defense and security. We asked five experts to assess the outcomes of",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Lunar Outpost Joins ESA’s Moonraker Mission in 2030",
-      "link": "https://payloadspace.com/lunar-outpost-tapped-for-esas-moonraker-mission-in-2030/",
-      "pubDate": "Tue, 14 Jul 2026 12:35:07 +0000",
-      "description": "Lunar Outpost Europe will develop thermal management solutions to help Moonraker withstand the wide temperature swings in lunar orbit.\nThe post Lunar Outpost Joins ESA’s Moonraker Mission in 2030 appeared first on Payload.\n",
-      "feedName": "Payload Space"
     },
     {
       "title": "Save the date: CDSE User Summit 2026",
