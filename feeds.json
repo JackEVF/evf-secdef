@@ -1,6 +1,55 @@
 {
-  "generated": "2026-07-23T12:10:44.628Z",
+  "generated": "2026-07-24T11:57:54.511Z",
   "newsItems": [
+    {
+      "title": "EU delays release of Copernicus imagery over Gulf of Oman ",
+      "link": "https://spacenews.com/eu-delays-release-of-copernicus-imagery-over-gulf-of-oman/",
+      "pubDate": "Fri, 24 Jul 2026 10:00:00 +0000",
+      "description": "\nJOHANNESBURG — The European Union has ordered a 24-hour delay in the release of some Sentinel-1 and Sentinel-2 imagery following a request from the United States based on concerns that [&#8230;]\nThe post EU delays release of Copernicus imagery over Gulf of Oman  appeared first on SpaceNews.\n",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "From Satellite Data to Startups: Azercosmos Launches Azerbaijan’s First National Space Incubation Program",
+      "link": "https://spacewatch.global/2026/07/from-satellite-data-to-startups-azercosmos-launches-azerbaijans-first-national-space-incubation-program/",
+      "pubDate": "Fri, 24 Jul 2026 06:00:00 +0000",
+      "description": "Azercosmos has launched its first-ever National Space Incubation program to support the development of space startups and strengthen Azerbaijan’s innovation ecosystem.\n\nThe six-month program is designed for early-stage startup teams working on Earth Observation applications, digital platforms and ot",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Poland commits $745 million to EU’s IRIS² constellation project",
+      "link": "https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/",
+      "pubDate": "Thu, 23 Jul 2026 21:14:49 +0000",
+      "description": "\nWARSAW, Poland — The Polish government has agreed to invest around $745 million in the development of the planned IRIS² multi-orbit satellite internet constellation with the European Union.&#160; The money [&#8230;]\nThe post Poland commits $745 million to EU’s IRIS² constellation project appeared f",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "Thales CEO Confirms Progression on EU’s Multi-Billion Euro IRIS² Sovereign Satellite Constellation",
+      "link": "https://satnews.com/2026/07/23/thales-ceo-confirms-progression-on-eus-multi-billion-euro-iris%c2%b2-sovereign-satellite-constellation/",
+      "pubDate": "Thu, 23 Jul 2026 20:48:05 +0000",
+      "description": "Addressing investors during Thales&#8217; first-half financial presentation on Thursday, July 23, 2026, Chairman and Chief Executive Officer Patrice Caine confirmed that development work on the European Union’s IRIS² secure satellite [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Greece approves over $3.4B in air defenses for Achilles’ Shield",
+      "link": "https://breakingdefense.com/2026/07/greece-approves-over-3-4b-in-air-defenses-for-achilles-shield/",
+      "pubDate": "Thu, 23 Jul 2026 17:41:00 +0000",
+      "description": "The system would reportedly rely heavily on Israeli tech as Athens, like other world capitals, rushes build a national &#8220;shield&#8221; against aerial threats.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "Lockheed Martin Ventures to invest $100M in European defense firms",
+      "link": "https://breakingdefense.com/2026/07/lockheed-martin-ventures-to-invest-100m-in-european-defense-firms/",
+      "pubDate": "Thu, 23 Jul 2026 16:14:02 +0000",
+      "description": "The fund is interested in emerging technologies, the general manager of Lockheed Martin&#8217;s venture arm told Breaking Defense, including quantum computing and sensing, autonomy, and advanced manufacturing technologies. \n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "Greece to buy $4 billion air defense system from Israel",
+      "link": "https://www.defensenews.com/global/europe/2026/07/23/greece-to-buy-4-billion-air-defence-system-from-israel/",
+      "pubDate": "Thu, 23 Jul 2026 13:41:41 +0000",
+      "description": "Greece has approved the purchase of a multi-layer air defense system worth up to €3.5 billion ($4 billion) from Israel.",
+      "feedName": "Defense News"
+    },
     {
       "title": "#SpaceWatchGL Inside EO – The Missing Middle Layer Part I: Pricing Isn’t the Problem",
       "link": "https://spacewatch.global/2026/07/spacewatchgl-inside-eo-the-missing-middle-layer-part-i-pricing-isnt-the-problem/",
@@ -21,13 +70,6 @@
       "pubDate": "Wed, 22 Jul 2026 06:00:00 +0000",
       "description": "The European Space Agency has officially kicked off testing at its new Chemical Propulsion Laboratory, ESA's first dedicated facility for testing small propulsion systems for space missions. The facility is housed within a repurposed shipping container at the remote Netherlands Aerospace Centre (NLR",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Poland Commits Nearly $750M to Europe’s IRIS² Constellation",
-      "link": "https://www.satellitetoday.com/government-military/2026/07/21/poland-commits-nearly-750m-to-europes-iris%c2%b2-constellation/",
-      "pubDate": "Tue, 21 Jul 2026 20:02:57 +0000",
-      "description": "Poland has committed 656 million euro ($748 million) to Europe’s IRIS² constellation, which will fund nearly 10% of the constellation.  Under the agreement signed Tuesday in Warsaw, Poland will fund [&#8230;]\nThe post Poland Commits Nearly $750M to Europe’s IRIS² Constellation appeared first on Via ",
-      "feedName": "Via Satellite"
     },
     {
       "title": "How Ukraine Put Russia on the Backfoot",
@@ -72,20 +114,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "e-GEOS to Provide Technical Training to the African Space Agency under New AESPP Institutional Cooperation Project",
-      "link": "https://spacewatch.global/2026/07/e-geos-to-provide-technical-training-to-the-african-space-agency-under-new-aespp-institutional-cooperation-project/",
-      "pubDate": "Mon, 20 Jul 2026 06:00:00 +0000",
-      "description": "Italian Space Agency and Telespazio-owned company, e-GEOS will be providing technical training to the African Space Agency (AfSA) as part of the Africa-EU Space Partnership Program (AESPP), under a new AESPP  institutional cooperation project..\n\nInvolving the development of strategic studies, infras",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Mission Vigilant Owl – ViceAdmiral Dr. Thomas Daum on Electronic Warfare, ISR and Collective Defense",
-      "link": "https://spacewatch.global/2026/07/mission-vigilant-owl-viceadmiral-dr-thomas-daum-on-electronic-warfare-isr-and-collective-defense/",
-      "pubDate": "Fri, 17 Jul 2026 09:00:00 +0000",
-      "description": "Vice Admiral Dr. Thomas Daum, Inspector of Germany's Cyber and Information Domain Service (CIR), explains how the Bundeswehr plans to move signals intelligence into low Earth orbit, why resilience means many small satellites across multiple orbits -and where a large share of the €35 billion space bu",
-      "feedName": "SpaceWatch Global"
-    },
-    {
       "title": "ESA Selects Ariane 6 to Launch Deep Space CubeSat",
       "link": "https://europeanspaceflight.com/esa-selects-ariane-6-to-launch-deep-space-cubesat/",
       "pubDate": "Thu, 16 Jul 2026 14:59:50 +0000",
@@ -107,6 +135,13 @@
       "feedName": "War on the Rocks"
     },
     {
+      "title": "Save the date: CDSE User Summit 2026",
+      "link": "https://eomag.eu/save-the-date-cdse-user-summit-2026/?utm_source=rss&utm_medium=rss&utm_campaign=save-the-date-cdse-user-summit-2026",
+      "pubDate": "Tue, 14 Jul 2026 07:34:56 +0000",
+      "description": "The Copernicus Data Space Ecosystem is pleased to announce its annual user community event. Mark your calendar for the&#160;CDSE User Summit 2026&#160;taking place on&#160;Wednesday, 16 September 2026&#160;during INTERGEO 2026 in Munich. The CDSE User Summit is&#160;a hybrid event&#160;that brings&#",
+      "feedName": "EO Mag"
+    },
+    {
       "title": "An Unlearned Lesson: The Sorry Record of Regime Change Operations in the Middle East",
       "link": "https://warontherocks.com/an-unlearned-lesson-the-sorry-record-of-regime-change-operations-in-the-middle-east/",
       "pubDate": "Mon, 13 Jul 2026 07:30:35 +0000",
@@ -121,6 +156,20 @@
       "feedName": "European Spaceflight"
     },
     {
+      "title": "Building Higher-Quality Geospatial Datasets for AI: Lessons from Enabled Intelligence and New Capabilities from Kili Technology",
+      "link": "https://eomag.eu/building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology/?utm_source=rss&utm_medium=rss&utm_campaign=building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology",
+      "pubDate": "Thu, 09 Jul 2026 13:35:07 +0000",
+      "description": "What does mission-critical accuracy look like in practice? Enabled Intelligence, an AI technology and services provider specialising in geospatial analysis, builds models for government and commercial clients across military intelligence, disaster recovery, transportation logistics and agricultural ",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "Focus on Dynamics: Semantic Data Cube as a key to Sentinel-2-based Landscape Analysis",
+      "link": "https://eomag.eu/focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis",
+      "pubDate": "Thu, 09 Jul 2026 12:55:49 +0000",
+      "description": "color33 is an automated, cloud-based, online processing service that converts multispectral Earth observation images into actionable categories without requiring any training samples. Unlike unsupervised clustering routines or machine learning approaches, color33 is based on a physical-model, produc",
+      "feedName": "EO Mag"
+    },
+    {
       "title": "The Pentagon’s Sprint to Get Tech Out of the Lab and to the Warfighter",
       "link": "https://warontherocks.com/cogs-of-war/the-pentagons-sprint-to-get-tech-out-of-the-lab-and-to-the-warfighter/",
       "pubDate": "Thu, 09 Jul 2026 08:00:22 +0000",
@@ -133,6 +182,13 @@
       "pubDate": "Thu, 09 Jul 2026 07:30:48 +0000",
       "description": "Mali is not Syria, and Jama&#8217;at Nusrat al-Islam wal-Muslimin is not Hay&#8217;at Tahrir al-Sham.While the fall of the Bashar al-Assad regime and the rise of the Ahmed al-Sharaa government in Damascus, Syria can be seen as a net positive for regional security in the Levant, a Jama&#8217;at Nusra",
       "feedName": "War on the Rocks"
+    },
+    {
+      "title": "CloudFerro expands sovereign cloud infrastructure for Earth Observation with a new AI-ready cloud region in Poland",
+      "link": "https://eomag.eu/cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland/?utm_source=rss&utm_medium=rss&utm_campaign=cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland",
+      "pubDate": "Wed, 08 Jul 2026 15:55:23 +0000",
+      "description": "CloudFerro, a Polish sovereign cloud provider, has launched a new public cloud region in Łódź, Poland, further expanding its European cloud infrastructure dedicated to Earth Observation, AI and data-intensive workloads. The new region has been designed to support organisations processing large volum",
+      "feedName": "EO Mag"
     },
     {
       "title": "NATO to add up to five Northrop Grumman Triton drones for maritime surveillance",
@@ -181,13 +237,6 @@
       "link": "https://warontherocks.com/how-can-lebanons-partners-help-strengthen-the-lebanese-armed-forces/",
       "pubDate": "Tue, 09 Jun 2026 17:30:46 +0000",
       "description": "The Lebanese state&#8217;s lack of effective sovereignty is a crucial problem in efforts to negotiate with Israel and disarm Hizballah. In response to intensified fighting between Israel and Hizballah, the United States began hosting talks between Israel and the Lebanese government in April. However",
-      "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Wrong Audience, Wrong Ask: Why Trump’s Abraham Accords Gambit Falls on Deaf Ears",
-      "link": "https://warontherocks.com/wrong-audience-wrong-ask-why-trumps-abraham-accords-gambit-falls-on-deaf-ears/",
-      "pubDate": "Thu, 04 Jun 2026 07:15:24 +0000",
-      "description": "When President Donald Trump repeatedly pressed regional leaders on Abraham Accords expansion late last month &#8212; framing Arab-Israeli normalization as a debt owed and a condition for a settlement to end the Iran war &#8212; he apparently commented there had been silence on the other end of the l",
       "feedName": "War on the Rocks"
     }
   ],
