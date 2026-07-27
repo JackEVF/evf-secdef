@@ -1,6 +1,27 @@
 {
-  "generated": "2026-07-26T08:31:28.476Z",
+  "generated": "2026-07-27T09:57:28.352Z",
   "newsItems": [
+    {
+      "title": "ESA Ground Station in Spain Cleared to Return to Service After Wildfire Threat",
+      "link": "https://europeanspaceflight.com/esa-ground-station-in-spain-cleared-to-return-to-service-after-wildfire-threat/",
+      "pubDate": "Mon, 27 Jul 2026 07:27:45 +0000",
+      "description": "The European Space Agency Director General Josef Aschbacher announced on 26 July that the agency had cleared its Cebreros deep-space ground station in Spain to return to service after inspections confirmed that the facility escaped damage from wildfires. Aschbacher explained that teams had completed",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "ESA and UKSA Launch New InCubed Funding Call for EO-based Proposals in the United Kingdom",
+      "link": "https://spacewatch.global/2026/07/esa-and-uksa-launch-new-incubed-funding-call-for-eo-based-proposals-in-the-united-kingdom/",
+      "pubDate": "Mon, 27 Jul 2026 06:00:00 +0000",
+      "description": "ESA has launched a new call for proposals in collaboration with the UK Space Agency, through the ESA InCubed program. This comes as more than £2.5 million were awarded to five projects that use satellite data to improve public services during 2024's InCubed call.\n\nFor the new round of applications. ",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "ESA Awards Execution Contract for ‘MAGPIE’, ESA’s Lunar Polar Ice Exploration Mission to ispace-EUROPE",
+      "link": "https://spacewatch.global/2026/07/esa-awards-execution-contract-for-magpie-esas-lunar-polar-ice-exploration-mission-to-ispace-europe/",
+      "pubDate": "Mon, 27 Jul 2026 06:00:00 +0000",
+      "description": "ESA has awarded ispace-EUROPE the second phase of the MAGPIE (Mission for Advanced Geophysics and Polar Ice Exploration.) contract, Europe's first lunar polar ice exploration mission.\n\nThe contract, valued at €65 million, funds the mission's full remaining delivery, including rover and payload devel",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "NASA and ESA facilities avoid major damage from wildfires in Spain",
       "link": "https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/",
@@ -135,13 +156,6 @@
       "feedName": "C4ISRNET"
     },
     {
-      "title": "Skyroot Aerospace Reaches Orbit on Maiden ‘Vikram-1’ Flight, Making India the Third Nation with Private Launch Capability",
-      "link": "https://spacewatch.global/2026/07/skyroot-aerospace-reaches-orbit-on-maiden-vikram-1-flight-making-india-the-third-nation-with-private-launch-capability/",
-      "pubDate": "Mon, 20 Jul 2026 06:00:00 +0000",
-      "description": "Skyroot Aerospace has placed two satellites in a 453-kilometer orbit on the maiden flight of Vikram-1, launched from Sriharikota on 18 July. The success makes India the third country after the United States and China with a demonstrated private orbital launch capability. ISRO supported propellant ca",
-      "feedName": "SpaceWatch Global"
-    },
-    {
       "title": "ESA Selects Ariane 6 to Launch Deep Space CubeSat",
       "link": "https://europeanspaceflight.com/esa-selects-ariane-6-to-launch-deep-space-cubesat/",
       "pubDate": "Thu, 16 Jul 2026 14:59:50 +0000",
@@ -175,13 +189,6 @@
       "pubDate": "Mon, 13 Jul 2026 07:30:35 +0000",
       "description": "On Feb. 28, 2026, President Donald Trump announced the commencement of Operation Epic Fury, a joint U.S.-Israeli military operation against Iran. Among the mission&#8217;s goals was the overthrow of the Islamic Republic. &#8220;When we are finished,&#8221; Trump told the Iranian people, &#8220;take ",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "ESA Taps Spain’s EMXYS to Build €10M Don Quijote Asteroid Lander",
-      "link": "https://europeanspaceflight.com/esa-taps-spains-emxys-to-build-e10m-don-quijote-asteroid-lander/",
-      "pubDate": "Sat, 11 Jul 2026 08:01:30 +0000",
-      "description": "The European Space Agency has awarded Spanish satellite manufacturer EMXYS a contract to build a small lander that will attempt to touch down on the surface of an asteroid ahead of its close encounter with Earth. Apophis, the asteroid in question, will pass within 32,000 kilometres of Earth&#8217;s ",
-      "feedName": "European Spaceflight"
     },
     {
       "title": "Building Higher-Quality Geospatial Datasets for AI: Lessons from Enabled Intelligence and New Capabilities from Kili Technology",
