@@ -1,6 +1,27 @@
 {
-  "generated": "2026-07-27T09:57:28.352Z",
+  "generated": "2026-07-28T08:39:38.851Z",
   "newsItems": [
+    {
+      "title": "The First Waves of Amphibious Assault Will Be Unmanned",
+      "link": "https://warontherocks.com/the-first-waves-of-amphibious-assault-will-be-unmanned/",
+      "pubDate": "Tue, 28 Jul 2026 07:30:09 +0000",
+      "description": "In the Pacific War,&#160;the U.S. Navy&#8217;s&#160;underwater demolition teams&#160;prepared the way for&#160;U.S. and allied&#160;amphibious&#160;landings on enemy-held&#160;islands. Through beach reconnaissance, obstacle breaching, mine clearance, and other missions, these teams paved paths for t",
+      "feedName": "War on the Rocks"
+    },
+    {
+      "title": "In the AI Era, Constellations Emerge As a New Strategic Class of Assets",
+      "link": "https://www.satellitetoday.com/opinion/2026/07/27/in-the-ai-era-constellations-emerge-as-a-new-strategic-class-of-assets/",
+      "pubDate": "Mon, 27 Jul 2026 13:12:53 +0000",
+      "description": "For decades, military space was the business of a few select nations. Reconnaissance and secure communications rested on a handful of exquisite, school-bus-sized satellites that had exquisite capabilities but likewise [&#8230;]\nThe post In the AI Era, Constellations Emerge As a New Strategic Class o",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "#SpaceWatchGL Inside EO – The Missing Middle Layer Part 2: From Projects to Products",
+      "link": "https://spacewatch.global/2026/07/spacewatchgl-inside-eo-the-missing-middle-layer-part-2-from-projects-to-products/",
+      "pubDate": "Mon, 27 Jul 2026 08:00:00 +0000",
+      "description": " Written by Karolina Sarna  Why has commercial Earth Observation remained a project business rather than becoming a scalable product market? In this Inside EO analysis, Karolina Sarna explores the institutional, regulatory, and organisational barriers preventing the missing middle layer from forming",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "ESA Ground Station in Spain Cleared to Return to Service After Wildfire Threat",
       "link": "https://europeanspaceflight.com/esa-ground-station-in-spain-cleared-to-return-to-service-after-wildfire-threat/",
@@ -28,13 +49,6 @@
       "pubDate": "Sun, 26 Jul 2026 02:15:37 +0000",
       "description": "\nKey ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country.\nThe post NASA and ESA facilities avoid major damage from wildfires in Spain appeared first on SpaceNews.\n",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "Two Galileo Satellites Enter Service for Europe",
-      "link": "https://www.satellitetoday.com/earth-observation/2026/07/24/two-galileo-satellites-enter-service-for-europe/",
-      "pubDate": "Fri, 24 Jul 2026 18:24:35 +0000",
-      "description": "Two new Galileo satellites, SAT 33 and SAT 34, have entered service, the European Space Agency (ESA) announced on Friday. These satellites are now adding capability, resilience, and autonomy to [&#8230;]\nThe post Two Galileo Satellites Enter Service for Europe appeared first on Via Satellite.\n",
-      "feedName": "Via Satellite"
     },
     {
       "title": "ESA Awards ispace €65M Contract to Build and Deliver MAGPIE Rover to the Moon",
@@ -77,27 +91,6 @@
       "pubDate": "Thu, 23 Jul 2026 21:14:49 +0000",
       "description": "\nWARSAW, Poland — The Polish government has agreed to invest around $745 million in the development of the planned IRIS² multi-orbit satellite internet constellation with the European Union.&#160; The money [&#8230;]\nThe post Poland commits $745 million to EU’s IRIS² constellation project appeared f",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "Thales CEO Confirms Progression on EU’s Multi-Billion Euro IRIS² Sovereign Satellite Constellation",
-      "link": "https://satnews.com/2026/07/23/thales-ceo-confirms-progression-on-eus-multi-billion-euro-iris%c2%b2-sovereign-satellite-constellation/",
-      "pubDate": "Thu, 23 Jul 2026 20:48:05 +0000",
-      "description": "Addressing investors during Thales&#8217; first-half financial presentation on Thursday, July 23, 2026, Chairman and Chief Executive Officer Patrice Caine confirmed that development work on the European Union’s IRIS² secure satellite [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Greece approves over $3.4B in air defenses for Achilles’ Shield",
-      "link": "https://breakingdefense.com/2026/07/greece-approves-over-3-4b-in-air-defenses-for-achilles-shield/",
-      "pubDate": "Thu, 23 Jul 2026 17:41:00 +0000",
-      "description": "The system would reportedly rely heavily on Israeli tech as Athens, like other world capitals, rushes build a national &#8220;shield&#8221; against aerial threats.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
-      "title": "Lockheed Martin Ventures to invest $100M in European defense firms",
-      "link": "https://breakingdefense.com/2026/07/lockheed-martin-ventures-to-invest-100m-in-european-defense-firms/",
-      "pubDate": "Thu, 23 Jul 2026 16:14:02 +0000",
-      "description": "The fund is interested in emerging technologies, the general manager of Lockheed Martin&#8217;s venture arm told Breaking Defense, including quantum computing and sensing, autonomy, and advanced manufacturing technologies. \n",
-      "feedName": "Breaking Defense"
     },
     {
       "title": "Greece to buy $4 billion air defense system from Israel",
