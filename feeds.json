@@ -1,19 +1,61 @@
 {
-  "generated": "2026-07-28T08:39:38.851Z",
+  "generated": "2026-07-29T08:46:13.287Z",
   "newsItems": [
+    {
+      "title": "#SpaceWatchGL Inside EO – The Missing Layer Part 3: The Road to Scale",
+      "link": "https://spacewatch.global/2026/07/spacewatchgl-inside-eo-the-missing-layer-part-3-the-road-to-scale/",
+      "pubDate": "Wed, 29 Jul 2026 08:00:00 +0000",
+      "description": " Written by Karolina Sarna  The missing middle layer is beginning to emerge—but not everywhere, and not all at once. In the final part of this Inside EO analysis, Karolina Sarna examines where commercial Earth Observation markets are taking shape, the signals that matter most, and why today's strate",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "ESA Commissions Optical Ground Station in Luxembourg to Advance Quantum-Enabled Ultra-Secure Satellite Communications",
+      "link": "https://spacewatch.global/2026/07/esa-commissions-optical-ground-station-in-luxembourg-to-advance-quantum-enabled-ultra-secure-satellite-communications/",
+      "pubDate": "Wed, 29 Jul 2026 06:00:00 +0000",
+      "description": "The European Space Agency has commissioned a new optical ground station in Windhof, Luxembourg, to help test an ultra-secure, international communications network. \n\nThis follows the ground breaking ceremony in Noordwijk, The Netherlands, for a dedicated OGS to communicate with the EAGLE-1 satellite",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush",
+      "link": "https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/",
+      "pubDate": "Wed, 29 Jul 2026 01:18:28 +0000",
+      "description": "\nSINGAPORE — A Beijing-based startup has secured around $14 million to build a satellite constellation for tracking orbital objects, adding to China’s growing SSA sector.&#160; Xingchen Daohe, also known as [&#8230;]\nThe post Chinese startup raises funds for space situational awareness constellation",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "Eutelsat Details IRIS² MoU With Poland",
+      "link": "https://www.satellitetoday.com/government-military/2026/07/28/eutelsat-details-iris%c2%b2-mou-with-poland/",
+      "pubDate": "Tue, 28 Jul 2026 20:40:43 +0000",
+      "description": "Eutelsat detailed a recently signed MoU with Poland to help support Europe’s flagship IRIS² program. Under the agreement, Eutelsat and Polish institutions will collaborate on the development of secure satellite [&#8230;]\nThe post Eutelsat Details IRIS² MoU With Poland appeared first on Via Satellite",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "ESA opens call to repurpose Gateway communications module",
+      "link": "https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/",
+      "pubDate": "Tue, 28 Jul 2026 20:38:20 +0000",
+      "description": "\nJOHANNESBURG — The European Space Agency is moving ahead with plans to examine the feasibility of repurposing Lunar Link, a communications system developed for NASA’s now-paused Gateway space station, as [&#8230;]\nThe post ESA opens call to repurpose Gateway communications module appeared first on ",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "El Nino is a threat indicator. The military should treat it like one.",
+      "link": "https://www.defensenews.com/opinion/2026/07/28/el-nino-is-a-threat-indicator-the-military-should-treat-it-like-one/",
+      "pubDate": "Tue, 28 Jul 2026 20:00:00 +0000",
+      "description": "The weather forecast for the second half of 2026 is giving the DoD something commanders rarely get before disruption arrives: months of notice.",
+      "feedName": "Defense News"
+    },
+    {
+      "title": "Telespazio Deploys S/X-Band Antenna in the Azores to Expand Global Ground Station Network",
+      "link": "https://satnews.com/2026/07/28/telespazio-deploys-s-x-band-antenna-in-the-azores-to-expand-global-ground-station-network/",
+      "pubDate": "Tue, 28 Jul 2026 15:33:09 +0000",
+      "description": "On Tuesday, July 28, 2026, space operations service provider Telespazio—a Leonardo company—announced the completed installation of a new proprietary S/X-band satellite tracking antenna on the island of Santa Maria in [&#8230;]",
+      "feedName": "Satnews"
+    },
     {
       "title": "The First Waves of Amphibious Assault Will Be Unmanned",
       "link": "https://warontherocks.com/the-first-waves-of-amphibious-assault-will-be-unmanned/",
       "pubDate": "Tue, 28 Jul 2026 07:30:09 +0000",
       "description": "In the Pacific War,&#160;the U.S. Navy&#8217;s&#160;underwater demolition teams&#160;prepared the way for&#160;U.S. and allied&#160;amphibious&#160;landings on enemy-held&#160;islands. Through beach reconnaissance, obstacle breaching, mine clearance, and other missions, these teams paved paths for t",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "In the AI Era, Constellations Emerge As a New Strategic Class of Assets",
-      "link": "https://www.satellitetoday.com/opinion/2026/07/27/in-the-ai-era-constellations-emerge-as-a-new-strategic-class-of-assets/",
-      "pubDate": "Mon, 27 Jul 2026 13:12:53 +0000",
-      "description": "For decades, military space was the business of a few select nations. Reconnaissance and secure communications rested on a handful of exquisite, school-bus-sized satellites that had exquisite capabilities but likewise [&#8230;]\nThe post In the AI Era, Constellations Emerge As a New Strategic Class o",
-      "feedName": "Via Satellite"
     },
     {
       "title": "#SpaceWatchGL Inside EO – The Missing Middle Layer Part 2: From Projects to Products",
@@ -107,20 +149,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Poland to Build 12 IRIS2 Constellation Satellites after Agreement with the European Commission",
-      "link": "https://spacewatch.global/2026/07/poland-to-build-12-iris2-constellation-satellites-after-agreement-with-the-european-commission/",
-      "pubDate": "Wed, 22 Jul 2026 06:00:00 +0000",
-      "description": "Polish Minister Marcin Kierwiński and European Commissioner for Defense and Space Andrius Kubilius have signed an agreement for Poland's participation in the construction of the IRIS2 constellation satellites, marking a new chapter in Poland's security. ",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "ESA’s First Chemical Propulsion Laboratory for Testing Small Propulsion Systems is now Operational",
-      "link": "https://spacewatch.global/2026/07/esas-first-chemical-propulsion-laboratory-for-testing-small-propulsion-systems-is-now-operational/",
-      "pubDate": "Wed, 22 Jul 2026 06:00:00 +0000",
-      "description": "The European Space Agency has officially kicked off testing at its new Chemical Propulsion Laboratory, ESA's first dedicated facility for testing small propulsion systems for space missions. The facility is housed within a repurposed shipping container at the remote Netherlands Aerospace Centre (NLR",
-      "feedName": "SpaceWatch Global"
-    },
-    {
       "title": "How Ukraine Put Russia on the Backfoot",
       "link": "https://warontherocks.com/how-ukraine-put-russia-on-the-backfoot/",
       "pubDate": "Tue, 21 Jul 2026 18:43:04 +0000",
@@ -133,13 +161,6 @@
       "pubDate": "Tue, 21 Jul 2026 15:40:38 +0000",
       "description": "Poland has formalised its participation in Europe’s IRIS2 secure communications constellation and agreed to increase its contribution by more than €150 million. The additional funding will double Poland’s contribution to the programme’s space segment to 12 satellites, comprising six in medium Earth ",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "#SpaceWatchGL Opinion – The Space Economy Now Wears a Uniform. Is Europe Ready?",
-      "link": "https://spacewatch.global/2026/07/spacewatchgl-opinion-the-space-economy-now-wears-a-uniform-is-europe-ready/",
-      "pubDate": "Tue, 21 Jul 2026 08:00:00 +0000",
-      "description": "Fifty-three percent of the world's government space spending now goes to defence. Analysing ESA's Report on the Space Economy 2026, SpaceWatch.Global publisher Torsten Kriening argues the space economy has become a defence economy - and that Europe, an order of magnitude behind the US and China, mus",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Israel’s IAI unveils ‘Hypnosis’ system for confusing enemy drone swarms",
@@ -258,13 +279,6 @@
       "link": "https://warontherocks.com/the-gulf-arab-states-need-a-shield-built-for-limited-trust/",
       "pubDate": "Fri, 12 Jun 2026 07:30:38 +0000",
       "description": "Missiles, drones, and maritime disruptions do not stop at national borders. Gulf defense architecture still too often waits for national permission to act. The Gulf Cooperation Council has spent decades building defense institutions, diplomatic forums, and a language of indivisible Gulf security. Re",
-      "feedName": "War on the Rocks"
-    },
-    {
-      "title": "How Can Lebanon’s Partners Help Strengthen the Lebanese Armed Forces?",
-      "link": "https://warontherocks.com/how-can-lebanons-partners-help-strengthen-the-lebanese-armed-forces/",
-      "pubDate": "Tue, 09 Jun 2026 17:30:46 +0000",
-      "description": "The Lebanese state&#8217;s lack of effective sovereignty is a crucial problem in efforts to negotiate with Israel and disarm Hizballah. In response to intensified fighting between Israel and Hizballah, the United States began hosting talks between Israel and the Lebanese government in April. However",
       "feedName": "War on the Rocks"
     }
   ],
