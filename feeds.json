@@ -1,6 +1,55 @@
 {
-  "generated": "2026-07-29T08:46:13.287Z",
+  "generated": "2026-07-30T08:32:32.001Z",
   "newsItems": [
+    {
+      "title": "Eutelsat and Poland Sign Strategic MoU Supporting Poland’s Participation in IRIS²",
+      "link": "https://spacewatch.global/2026/07/eutelsat-and-poland-sign-strategic-mou-supporting-polands-participation-in-iris%c2%b2/",
+      "pubDate": "Thu, 30 Jul 2026 06:00:00 +0000",
+      "description": "Following Poland's commitment to participate in the construction of the IRIS² constellation satellites, Eutelsat has signed a Memorandum of Understanding with the Country to deepen cooperation in support of Europe's future secure satellite communications infrastructure under the IRIS² program.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Netanyahu plays it safe in a Washington that’s cooled on Israel",
+      "link": "https://www.politico.com/news/2026/07/29/netanyahu-washington-israel-iran-war-01015428?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Wed, 29 Jul 2026 19:33:13 +0000",
+      "description": "Once prescriptive in his counsel to Trump, Netanyahu is now careful not to look like he's dragging the U.S. into a deeper fight the American public doesn't want.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "US Navy deploys GARC uncrewed surface vessel in first live-fire training exercise",
+      "link": "https://www.defensenews.com/news/your-military/2026/07/29/us-navy-deploys-garc-uncrewed-surface-vessel-in-first-live-fire-training-exercise/",
+      "pubDate": "Wed, 29 Jul 2026 16:16:05 +0000",
+      "description": "The Navy confirmed its first live-fire training exercise of its Global Autonomous Reconnaissance Craft uncrewed surface vessel.",
+      "feedName": "Defense News"
+    },
+    {
+      "title": "Thales Alenia Space Secures Platform Development Contract for Italy’s PRISMA Second Generation Hyperspectral Mission",
+      "link": "https://satnews.com/2026/07/29/thales-alenia-space-secures-platform-development-contract-for-italys-prisma-second-generation-hyperspectral-mission/",
+      "pubDate": "Wed, 29 Jul 2026 15:15:25 +0000",
+      "description": "In an expansion of Italy&#8217;s space-based Earth observation infrastructure, Thales Alenia Space announced on Wednesday, July 29, 2026, that it signed a contract with prime contractor OHB Italia to develop [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Juniper Research Projects VLEO Satellite Investment to Reach $10 Billion by 2031",
+      "link": "https://satnews.com/2026/07/29/juniper-research-projects-vleo-satellite-investment-to-reach-10-billion-by-2031/",
+      "pubDate": "Wed, 29 Jul 2026 14:29:06 +0000",
+      "description": "To capture higher-resolution Earth observation data and deliver reduced communications latency at lower orbital altitudes, global tech market firm Juniper Research released a study on Tuesday, July 28, 2026, forecasting [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "ESA taps Aalyria to build deep-space network hub",
+      "link": "https://payloadspace.com/esa-taps-aalyria-to-build-deep-space-network-hub/",
+      "pubDate": "Wed, 29 Jul 2026 12:50:00 +0000",
+      "description": "ESA has tapped Aalyria to build a network-operations center that allows spacecraft to share data reliably across the solar system. \nThe post ESA taps Aalyria to build deep-space network hub appeared first on Payload.\n",
+      "feedName": "Payload Space"
+    },
+    {
+      "title": "House-passed defense bill includes controversial US-Israel tech measure",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/29/house-passed-defense-bill-includes-controversial-us-israel-tech-measure/",
+      "pubDate": "Wed, 29 Jul 2026 12:00:00 +0000",
+      "description": "The House-passed defense bill includes a measure to encourage co-development and co-production between the U.S. and Israeli defense industrial bases. ",
+      "feedName": "Defense News"
+    },
     {
       "title": "#SpaceWatchGL Inside EO – The Missing Layer Part 3: The Road to Scale",
       "link": "https://spacewatch.global/2026/07/spacewatchgl-inside-eo-the-missing-layer-part-3-the-road-to-scale/",
@@ -42,13 +91,6 @@
       "pubDate": "Tue, 28 Jul 2026 20:00:00 +0000",
       "description": "The weather forecast for the second half of 2026 is giving the DoD something commanders rarely get before disruption arrives: months of notice.",
       "feedName": "Defense News"
-    },
-    {
-      "title": "Telespazio Deploys S/X-Band Antenna in the Azores to Expand Global Ground Station Network",
-      "link": "https://satnews.com/2026/07/28/telespazio-deploys-s-x-band-antenna-in-the-azores-to-expand-global-ground-station-network/",
-      "pubDate": "Tue, 28 Jul 2026 15:33:09 +0000",
-      "description": "On Tuesday, July 28, 2026, space operations service provider Telespazio—a Leonardo company—announced the completed installation of a new proprietary S/X-band satellite tracking antenna on the island of Santa Maria in [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "The First Waves of Amphibious Assault Will Be Unmanned",
@@ -100,13 +142,6 @@
       "feedName": "European Spaceflight"
     },
     {
-      "title": "LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT",
-      "link": "https://spacenews.com/latconnect-60-unveils-proprietary-ai-capabilities-following-growing-indo-pacific-defence-interest-in-swirsat/",
-      "pubDate": "Fri, 24 Jul 2026 14:59:27 +0000",
-      "description": "\nPERTH, Australia &#8211; 24 July 2026 &#8211; LatConnect 60 (&#8220;LC60&#8221;), an Australian satellite Earth observation and AI company, today unveiled a proprietary intelligence-fusion capability that leverages the latest advancements in [&#8230;]\nThe post LatConnect 60 Unveils Proprietary AI C",
-      "feedName": "SpaceNews"
-    },
-    {
       "title": "ESA Puts €65M Behind Europe’s First Lunar Ice Rover",
       "link": "https://payloadspace.com/esa-puts-e65m-behind-europes-first-lunar-ice-rover/",
       "pubDate": "Fri, 24 Jul 2026 12:45:00 +0000",
@@ -114,39 +149,11 @@
       "feedName": "Payload Space"
     },
     {
-      "title": "EU delays release of Copernicus imagery over Gulf of Oman ",
-      "link": "https://spacenews.com/eu-delays-release-of-copernicus-imagery-over-gulf-of-oman/",
-      "pubDate": "Fri, 24 Jul 2026 10:00:00 +0000",
-      "description": "\nJOHANNESBURG — The European Union has ordered a 24-hour delay in the release of some Sentinel-1 and Sentinel-2 imagery following a request from the United States based on concerns that [&#8230;]\nThe post EU delays release of Copernicus imagery over Gulf of Oman  appeared first on SpaceNews.\n",
-      "feedName": "SpaceNews"
-    },
-    {
-      "title": "From Satellite Data to Startups: Azercosmos Launches Azerbaijan’s First National Space Incubation Program",
-      "link": "https://spacewatch.global/2026/07/from-satellite-data-to-startups-azercosmos-launches-azerbaijans-first-national-space-incubation-program/",
-      "pubDate": "Fri, 24 Jul 2026 06:00:00 +0000",
-      "description": "Azercosmos has launched its first-ever National Space Incubation program to support the development of space startups and strengthen Azerbaijan’s innovation ecosystem.\n\nThe six-month program is designed for early-stage startup teams working on Earth Observation applications, digital platforms and ot",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Poland commits $745 million to EU’s IRIS² constellation project",
-      "link": "https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/",
-      "pubDate": "Thu, 23 Jul 2026 21:14:49 +0000",
-      "description": "\nWARSAW, Poland — The Polish government has agreed to invest around $745 million in the development of the planned IRIS² multi-orbit satellite internet constellation with the European Union.&#160; The money [&#8230;]\nThe post Poland commits $745 million to EU’s IRIS² constellation project appeared f",
-      "feedName": "SpaceNews"
-    },
-    {
       "title": "Greece to buy $4 billion air defense system from Israel",
       "link": "https://www.defensenews.com/global/europe/2026/07/23/greece-to-buy-4-billion-air-defence-system-from-israel/",
       "pubDate": "Thu, 23 Jul 2026 13:41:41 +0000",
       "description": "Greece has approved the purchase of a multi-layer air defense system worth up to €3.5 billion ($4 billion) from Israel.",
       "feedName": "Defense News"
-    },
-    {
-      "title": "#SpaceWatchGL Inside EO – The Missing Middle Layer Part I: Pricing Isn’t the Problem",
-      "link": "https://spacewatch.global/2026/07/spacewatchgl-inside-eo-the-missing-middle-layer-part-i-pricing-isnt-the-problem/",
-      "pubDate": "Thu, 23 Jul 2026 08:00:00 +0000",
-      "description": " Written by Karolina Sarna  Commercial Earth Observation has a pricing problem—but pricing is only the symptom. In the first part of this Inside EO analysis, Karolina Sarna examines why the real bottleneck lies in the missing institutional layer translating buyer demand into supplier-ready specifica",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "How Ukraine Put Russia on the Backfoot",
