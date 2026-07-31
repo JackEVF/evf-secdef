@@ -1,19 +1,40 @@
 {
-  "generated": "2026-07-30T08:32:32.001Z",
+  "generated": "2026-07-31T08:54:27.496Z",
   "newsItems": [
+    {
+      "title": "Thales Alenia Joins OHB Italia-led Consortium to Develop the PRISMA satellite for the Italian Space Agency",
+      "link": "https://spacewatch.global/2026/07/thales-alenia-joins-ohb-italia-led-consortium-to-develop-the-prisma-satellite-for-the-italian-space-agency/",
+      "pubDate": "Fri, 31 Jul 2026 06:00:00 +0000",
+      "description": "Thales Alenia Space has signed a contract with OHB Italia for the development of the PRISMA Second Generation Earth observation satellite for the Italian Space Agency (ASI). Scheduled for launch in 2031, the satellite will carry a hyperspectral instrument, built by Leonardo, featuring enhanced funct",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "White House unveils roadmap to demilitarize Gaza",
+      "link": "https://www.politico.com/news/2026/07/30/white-house-unveils-roadmap-demilitarize-gaza-israel-hamas-01018868?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Fri, 31 Jul 2026 02:22:35 +0000",
+      "description": "Under the fragile plan, Hamas would disarm and Israel would withdraw its military on a path toward Palestinian governance.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "NASA and ISISPACE Deploy GRITSS CubeSat to Advance Orbital Reference Frame Precision",
+      "link": "https://satnews.com/2026/07/30/nasa-and-isispace-deploy-gritss-cubesat-to-advance-orbital-reference-frame-precision/",
+      "pubDate": "Thu, 30 Jul 2026 19:00:06 +0000",
+      "description": "On Tuesday, July 7, 2026, NASA’s Geodetic Reference Instrument Transponder for Small Satellites (GRITSS) technology demonstration spacecraft successfully launched into low Earth orbit. The payload lifted off from Vandenberg Space [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Rafael CEO eyes IPO by end of year, plans to attend French defense shows in future",
+      "link": "https://breakingdefense.com/2026/07/rafael-ceo-eyes-ipo-by-end-of-year-plans-to-attend-french-defense-shows-in-future/",
+      "pubDate": "Thu, 30 Jul 2026 12:59:55 +0000",
+      "description": "In an interview with Breaking Defense, Yoav Tourgeman acknowledged that questions remain about how exactly the Israeli defense giant would go public.\n",
+      "feedName": "Breaking Defense"
+    },
     {
       "title": "Eutelsat and Poland Sign Strategic MoU Supporting Poland’s Participation in IRIS²",
       "link": "https://spacewatch.global/2026/07/eutelsat-and-poland-sign-strategic-mou-supporting-polands-participation-in-iris%c2%b2/",
       "pubDate": "Thu, 30 Jul 2026 06:00:00 +0000",
       "description": "Following Poland's commitment to participate in the construction of the IRIS² constellation satellites, Eutelsat has signed a Memorandum of Understanding with the Country to deepen cooperation in support of Europe's future secure satellite communications infrastructure under the IRIS² program.",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Netanyahu plays it safe in a Washington that’s cooled on Israel",
-      "link": "https://www.politico.com/news/2026/07/29/netanyahu-washington-israel-iran-war-01015428?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Wed, 29 Jul 2026 19:33:13 +0000",
-      "description": "Once prescriptive in his counsel to Trump, Netanyahu is now careful not to look like he's dragging the U.S. into a deeper fight the American public doesn't want.",
-      "feedName": "Politico Europe"
     },
     {
       "title": "US Navy deploys GARC uncrewed surface vessel in first live-fire training exercise",
@@ -27,13 +48,6 @@
       "link": "https://satnews.com/2026/07/29/thales-alenia-space-secures-platform-development-contract-for-italys-prisma-second-generation-hyperspectral-mission/",
       "pubDate": "Wed, 29 Jul 2026 15:15:25 +0000",
       "description": "In an expansion of Italy&#8217;s space-based Earth observation infrastructure, Thales Alenia Space announced on Wednesday, July 29, 2026, that it signed a contract with prime contractor OHB Italia to develop [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Juniper Research Projects VLEO Satellite Investment to Reach $10 Billion by 2031",
-      "link": "https://satnews.com/2026/07/29/juniper-research-projects-vleo-satellite-investment-to-reach-10-billion-by-2031/",
-      "pubDate": "Wed, 29 Jul 2026 14:29:06 +0000",
-      "description": "To capture higher-resolution Earth observation data and deliver reduced communications latency at lower orbital altitudes, global tech market firm Juniper Research released a study on Tuesday, July 28, 2026, forecasting [&#8230;]",
       "feedName": "Satnews"
     },
     {
@@ -70,13 +84,6 @@
       "pubDate": "Wed, 29 Jul 2026 01:18:28 +0000",
       "description": "\nSINGAPORE — A Beijing-based startup has secured around $14 million to build a satellite constellation for tracking orbital objects, adding to China’s growing SSA sector.&#160; Xingchen Daohe, also known as [&#8230;]\nThe post Chinese startup raises funds for space situational awareness constellation",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "Eutelsat Details IRIS² MoU With Poland",
-      "link": "https://www.satellitetoday.com/government-military/2026/07/28/eutelsat-details-iris%c2%b2-mou-with-poland/",
-      "pubDate": "Tue, 28 Jul 2026 20:40:43 +0000",
-      "description": "Eutelsat detailed a recently signed MoU with Poland to help support Europe’s flagship IRIS² program. Under the agreement, Eutelsat and Polish institutions will collaborate on the development of secure satellite [&#8230;]\nThe post Eutelsat Details IRIS² MoU With Poland appeared first on Via Satellite",
-      "feedName": "Via Satellite"
     },
     {
       "title": "ESA opens call to repurpose Gateway communications module",
@@ -121,20 +128,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "ESA Awards Execution Contract for ‘MAGPIE’, ESA’s Lunar Polar Ice Exploration Mission to ispace-EUROPE",
-      "link": "https://spacewatch.global/2026/07/esa-awards-execution-contract-for-magpie-esas-lunar-polar-ice-exploration-mission-to-ispace-europe/",
-      "pubDate": "Mon, 27 Jul 2026 06:00:00 +0000",
-      "description": "ESA has awarded ispace-EUROPE the second phase of the MAGPIE (Mission for Advanced Geophysics and Polar Ice Exploration.) contract, Europe's first lunar polar ice exploration mission.\n\nThe contract, valued at €65 million, funds the mission's full remaining delivery, including rover and payload devel",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "NASA and ESA facilities avoid major damage from wildfires in Spain",
-      "link": "https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/",
-      "pubDate": "Sun, 26 Jul 2026 02:15:37 +0000",
-      "description": "\nKey ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country.\nThe post NASA and ESA facilities avoid major damage from wildfires in Spain appeared first on SpaceNews.\n",
-      "feedName": "SpaceNews"
-    },
-    {
       "title": "ESA Awards ispace €65M Contract to Build and Deliver MAGPIE Rover to the Moon",
       "link": "https://europeanspaceflight.com/esa-awards-ispace-e65m-contract-to-build-and-deliver-magpie-rover-to-the-moon/",
       "pubDate": "Fri, 24 Jul 2026 15:00:40 +0000",
@@ -147,13 +140,6 @@
       "pubDate": "Fri, 24 Jul 2026 12:45:00 +0000",
       "description": "ispace-Europe is heading to the Moon following a €65M commitment from ESA for Europe’s first lunar polar ice exploration rover mission.\nThe post ESA Puts €65M Behind Europe&#8217;s First Lunar Ice Rover appeared first on Payload.\n",
       "feedName": "Payload Space"
-    },
-    {
-      "title": "Greece to buy $4 billion air defense system from Israel",
-      "link": "https://www.defensenews.com/global/europe/2026/07/23/greece-to-buy-4-billion-air-defence-system-from-israel/",
-      "pubDate": "Thu, 23 Jul 2026 13:41:41 +0000",
-      "description": "Greece has approved the purchase of a multi-layer air defense system worth up to €3.5 billion ($4 billion) from Israel.",
-      "feedName": "Defense News"
     },
     {
       "title": "How Ukraine Put Russia on the Backfoot",
