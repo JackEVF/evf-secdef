@@ -1,19 +1,33 @@
 {
-  "generated": "2026-07-31T08:54:27.496Z",
+  "generated": "2026-08-01T08:25:42.038Z",
   "newsItems": [
+    {
+      "title": "The Atlantic Brief: The Strait of Hormuz and the Future of Free Navigation",
+      "link": "https://warontherocks.com/the-atlantic-brief-the-strait-of-hormuz-and-the-future-of-free-navigation/",
+      "pubDate": "Fri, 31 Jul 2026 20:27:03 +0000",
+      "description": "In February 2026, the United States and Israel initiated a war in the Middle East against Iran. Since then, the warring sides have oscillated between strikes, a fragile ceasefire, and the blocking of the Strait of Hormuz. Open hostilities resumed in mid-July. More recently, the Houthis in Yemen have",
+      "feedName": "War on the Rocks"
+    },
+    {
+      "title": "Hisdesat Contracts Airbus and Thales Alenia Space to Build SpainSat NG III Communications Satellite",
+      "link": "https://satnews.com/2026/07/31/hisdesat-contracts-airbus-and-thales-alenia-space-to-build-spainsat-ng-iii-communications-satellite/",
+      "pubDate": "Fri, 31 Jul 2026 20:12:35 +0000",
+      "description": "MADRID – July 31, 2026 – Spanish defense operator Hisdesat signed a formal industrial contract on July 31, 2026, with Airbus Defence and Space and Thales Alenia Space to build [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Spain commits up to $2.3 billion for national military communications for IRIS²",
+      "link": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/",
+      "pubDate": "Fri, 31 Jul 2026 15:57:52 +0000",
+      "description": "\nWARSAW, Poland — The Spanish government announced it will allocate between 1.6 billion and 2 billion euros ($1.8 to $2.3 billion) to develop a national military satellite communications constellation that [&#8230;]\nThe post Spain commits up to $2.3 billion for national military communications for I",
+      "feedName": "SpaceNews"
+    },
     {
       "title": "Thales Alenia Joins OHB Italia-led Consortium to Develop the PRISMA satellite for the Italian Space Agency",
       "link": "https://spacewatch.global/2026/07/thales-alenia-joins-ohb-italia-led-consortium-to-develop-the-prisma-satellite-for-the-italian-space-agency/",
       "pubDate": "Fri, 31 Jul 2026 06:00:00 +0000",
       "description": "Thales Alenia Space has signed a contract with OHB Italia for the development of the PRISMA Second Generation Earth observation satellite for the Italian Space Agency (ASI). Scheduled for launch in 2031, the satellite will carry a hyperspectral instrument, built by Leonardo, featuring enhanced funct",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "White House unveils roadmap to demilitarize Gaza",
-      "link": "https://www.politico.com/news/2026/07/30/white-house-unveils-roadmap-demilitarize-gaza-israel-hamas-01018868?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Fri, 31 Jul 2026 02:22:35 +0000",
-      "description": "Under the fragile plan, Hamas would disarm and Israel would withdraw its military on a path toward Palestinian governance.",
-      "feedName": "Politico Europe"
     },
     {
       "title": "NASA and ISISPACE Deploy GRITSS CubeSat to Advance Orbital Reference Frame Precision",
@@ -42,13 +56,6 @@
       "pubDate": "Wed, 29 Jul 2026 16:16:05 +0000",
       "description": "The Navy confirmed its first live-fire training exercise of its Global Autonomous Reconnaissance Craft uncrewed surface vessel.",
       "feedName": "Defense News"
-    },
-    {
-      "title": "Thales Alenia Space Secures Platform Development Contract for Italy’s PRISMA Second Generation Hyperspectral Mission",
-      "link": "https://satnews.com/2026/07/29/thales-alenia-space-secures-platform-development-contract-for-italys-prisma-second-generation-hyperspectral-mission/",
-      "pubDate": "Wed, 29 Jul 2026 15:15:25 +0000",
-      "description": "In an expansion of Italy&#8217;s space-based Earth observation infrastructure, Thales Alenia Space announced on Wednesday, July 29, 2026, that it signed a contract with prime contractor OHB Italia to develop [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "ESA taps Aalyria to build deep-space network hub",
@@ -135,13 +142,6 @@
       "feedName": "European Spaceflight"
     },
     {
-      "title": "ESA Puts €65M Behind Europe’s First Lunar Ice Rover",
-      "link": "https://payloadspace.com/esa-puts-e65m-behind-europes-first-lunar-ice-rover/",
-      "pubDate": "Fri, 24 Jul 2026 12:45:00 +0000",
-      "description": "ispace-Europe is heading to the Moon following a €65M commitment from ESA for Europe’s first lunar polar ice exploration rover mission.\nThe post ESA Puts €65M Behind Europe&#8217;s First Lunar Ice Rover appeared first on Payload.\n",
-      "feedName": "Payload Space"
-    },
-    {
       "title": "How Ukraine Put Russia on the Backfoot",
       "link": "https://warontherocks.com/how-ukraine-put-russia-on-the-backfoot/",
       "pubDate": "Tue, 21 Jul 2026 18:43:04 +0000",
@@ -161,13 +161,6 @@
       "pubDate": "Mon, 20 Jul 2026 13:26:51 +0000",
       "description": "The system, called Hypnosis, consists of an array of mobile “stations” around a defended area that send out jamming signals against drone swarms.",
       "feedName": "C4ISRNET"
-    },
-    {
-      "title": "ESA Selects Ariane 6 to Launch Deep Space CubeSat",
-      "link": "https://europeanspaceflight.com/esa-selects-ariane-6-to-launch-deep-space-cubesat/",
-      "pubDate": "Thu, 16 Jul 2026 14:59:50 +0000",
-      "description": "The European Space Agency has awarded a contract to launch its solar storm-monitoring CubeSat on an Ariane 6 rocket. Scheduled for launch in early 2027, the Henon CubeSat will be flown as a secondary passenger alongside ESA’s PLATO telescope, which will be tasked with finding Earth-like exoplanets. ",
-      "feedName": "European Spaceflight"
     },
     {
       "title": "Israeli firm wants to convert commercial ships into floating drone bases",
