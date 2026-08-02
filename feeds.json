@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-01T08:25:42.038Z",
+  "generated": "2026-08-02T08:28:38.885Z",
   "newsItems": [
+    {
+      "title": "Shock wave",
+      "link": "https://www.defenseone.com/ideas/2026/08/shock-wave-fictional-intelligence/415158/",
+      "pubDate": "Sat, 01 Aug 2026 08:00:00 -0400",
+      "description": "What if the U.S. were ahead of China in hypersonic weapons development? Welcome to the latest Fictional Intelligence.",
+      "feedName": "Defense One"
+    },
     {
       "title": "The Atlantic Brief: The Strait of Hormuz and the Future of Free Navigation",
       "link": "https://warontherocks.com/the-atlantic-brief-the-strait-of-hormuz-and-the-future-of-free-navigation/",
@@ -90,13 +97,6 @@
       "link": "https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/",
       "pubDate": "Wed, 29 Jul 2026 01:18:28 +0000",
       "description": "\nSINGAPORE — A Beijing-based startup has secured around $14 million to build a satellite constellation for tracking orbital objects, adding to China’s growing SSA sector.&#160; Xingchen Daohe, also known as [&#8230;]\nThe post Chinese startup raises funds for space situational awareness constellation",
-      "feedName": "SpaceNews"
-    },
-    {
-      "title": "ESA opens call to repurpose Gateway communications module",
-      "link": "https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/",
-      "pubDate": "Tue, 28 Jul 2026 20:38:20 +0000",
-      "description": "\nJOHANNESBURG — The European Space Agency is moving ahead with plans to examine the feasibility of repurposing Lunar Link, a communications system developed for NASA’s now-paused Gateway space station, as [&#8230;]\nThe post ESA opens call to repurpose Gateway communications module appeared first on ",
       "feedName": "SpaceNews"
     },
     {
