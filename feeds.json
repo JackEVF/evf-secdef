@@ -1,6 +1,62 @@
 {
-  "generated": "2026-08-03T09:52:35.629Z",
+  "generated": "2026-08-04T08:43:15.795Z",
   "newsItems": [
+    {
+      "title": "Airbus and Thales Alenia Space to Build SpainSat NG-III",
+      "link": "https://www.satellitetoday.com/government-military/2026/08/03/airbus-and-thales-alenia-space-to-build-spainsat-ng-iii/",
+      "pubDate": "Mon, 03 Aug 2026 21:24:27 +0000",
+      "description": "Hisdesat has contracted Airbus and Thales Alenia Space to build the SpainSat NG-III secure satellite communications satellite for Spain.  Airbus, the prime contractor, announced the award on July 31. As [&#8230;]\nThe post Airbus and Thales Alenia Space to Build SpainSat NG-III appeared first on Via ",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "ETL Acquires Software Developer Amphinicy Technologies",
+      "link": "https://www.satellitetoday.com/finance/2026/08/03/etl-acquires-software-developer-amphinicy-technologies/",
+      "pubDate": "Mon, 03 Aug 2026 20:31:28 +0000",
+      "description": "ETL Systems has acquired Amphinicy Technologies, which develops software for satcom and Earth Observation markets, in a move the company said will help solve more complex ground segment challenges for [&#8230;]\nThe post ETL Acquires Software Developer Amphinicy Technologies appeared first on Via Sat",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Planet Labs Secures Seven-Figure Agricultural Data Contract with Scottish Government",
+      "link": "https://satnews.com/2026/08/03/planet-labs-secures-seven-figure-agricultural-data-contract-with-scottish-government/",
+      "pubDate": "Mon, 03 Aug 2026 20:22:29 +0000",
+      "description": "SAN FRANCISCO – August 3, 2026 – Expanding its commercial Earth observation footprint across European civil government agencies, Planet Labs PBC announced on July 30, 2026, a one-year multi-million-dollar contract [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Nilesat Secures Tier 4 WTA Certification for Cairo Teleport Infrastructure",
+      "link": "https://satnews.com/2026/08/03/nilesat-secures-tier-4-wta-certification-for-cairo-teleport-infrastructure/",
+      "pubDate": "Mon, 03 Aug 2026 19:34:05 +0000",
+      "description": "CAIRO, Egypt – August 3, 2026 – World Teleport Association (WTA) standards remain pivotal across Middle Eastern ground infrastructure, following the full Tier 4 certification awarded to Nilesat for its [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Rheinmetall unveils new guided-missile frigate projected for North American tender",
+      "link": "https://breakingdefense.com/2026/08/rheinmetall-unveils-new-guided-missile-frigate-projected-for-north-american-tender/",
+      "pubDate": "Mon, 03 Aug 2026 17:38:42 +0000",
+      "description": "The German GMF 140 is envisioned to integrate US-sourced radar options, hypersonic weapons and ballistic missiles, the AEGIS Combat System, and 64 Strike-Length Vertical Launch System cells.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "UNIFIL’s final months: Uncertainty persists in Lebanon over what comes next",
+      "link": "https://www.defensenews.com/global/mideast-africa/2026/08/03/unifils-final-months-uncertainty-persists-in-lebanon-over-what-comes-next/",
+      "pubDate": "Mon, 03 Aug 2026 12:45:45 +0000",
+      "description": "The mission for the United Nations Interim Force in Lebanon is nearing its end. Amid Israeli occupation, a decision on what comes next has yet to be made.",
+      "feedName": "Defense News"
+    },
+    {
+      "title": "Airbus and Thales win order for SpainSat replacement",
+      "link": "https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/",
+      "pubDate": "Mon, 03 Aug 2026 12:15:34 +0000",
+      "description": "\nAirbus Defence and Space and Thales Alenia Space will build a replacement military communications satellite for Spain as they, along with Leonardo, continue efforts on a space joint venture.\nThe post Airbus and Thales win order for SpainSat replacement appeared first on SpaceNews.\n",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "#SpaceWatchGL Inside EO – Dual Use is a Cost Function",
+      "link": "https://spacewatch.global/2026/08/spacewatchgl-inside-eo-dual-use-is-a-cost-function/",
+      "pubDate": "Mon, 03 Aug 2026 08:00:00 +0000",
+      "description": " Written by Karolina Sarna  Earth observation companies pitch 'dual-use' as optionality, a second market stacked on the climate business. It is a cost function, not an opportunity: one capability the state can place on either side of a line it controls, and when the line is drawn the commercial buye",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "Shock wave",
       "link": "https://www.defenseone.com/ideas/2026/08/shock-wave-fictional-intelligence/415158/",
@@ -35,20 +91,6 @@
       "pubDate": "Fri, 31 Jul 2026 06:00:00 +0000",
       "description": "Thales Alenia Space has signed a contract with OHB Italia for the development of the PRISMA Second Generation Earth observation satellite for the Italian Space Agency (ASI). Scheduled for launch in 2031, the satellite will carry a hyperspectral instrument, built by Leonardo, featuring enhanced funct",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "NASA and ISISPACE Deploy GRITSS CubeSat to Advance Orbital Reference Frame Precision",
-      "link": "https://satnews.com/2026/07/30/nasa-and-isispace-deploy-gritss-cubesat-to-advance-orbital-reference-frame-precision/",
-      "pubDate": "Thu, 30 Jul 2026 19:00:06 +0000",
-      "description": "On Tuesday, July 7, 2026, NASA’s Geodetic Reference Instrument Transponder for Small Satellites (GRITSS) technology demonstration spacecraft successfully launched into low Earth orbit. The payload lifted off from Vandenberg Space [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Rafael CEO eyes IPO by end of year, plans to attend French defense shows in future",
-      "link": "https://breakingdefense.com/2026/07/rafael-ceo-eyes-ipo-by-end-of-year-plans-to-attend-french-defense-shows-in-future/",
-      "pubDate": "Thu, 30 Jul 2026 12:59:55 +0000",
-      "description": "In an interview with Breaking Defense, Yoav Tourgeman acknowledged that questions remain about how exactly the Israeli defense giant would go public.\n",
-      "feedName": "Breaking Defense"
     },
     {
       "title": "Eutelsat and Poland Sign Strategic MoU Supporting Poland’s Participation in IRIS²",
@@ -93,13 +135,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush",
-      "link": "https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/",
-      "pubDate": "Wed, 29 Jul 2026 01:18:28 +0000",
-      "description": "\nSINGAPORE — A Beijing-based startup has secured around $14 million to build a satellite constellation for tracking orbital objects, adding to China’s growing SSA sector.&#160; Xingchen Daohe, also known as [&#8230;]\nThe post Chinese startup raises funds for space situational awareness constellation",
-      "feedName": "SpaceNews"
-    },
-    {
       "title": "El Nino is a threat indicator. The military should treat it like one.",
       "link": "https://www.defensenews.com/opinion/2026/07/28/el-nino-is-a-threat-indicator-the-military-should-treat-it-like-one/",
       "pubDate": "Tue, 28 Jul 2026 20:00:00 +0000",
@@ -114,25 +149,11 @@
       "feedName": "War on the Rocks"
     },
     {
-      "title": "#SpaceWatchGL Inside EO – The Missing Middle Layer Part 2: From Projects to Products",
-      "link": "https://spacewatch.global/2026/07/spacewatchgl-inside-eo-the-missing-middle-layer-part-2-from-projects-to-products/",
-      "pubDate": "Mon, 27 Jul 2026 08:00:00 +0000",
-      "description": " Written by Karolina Sarna  Why has commercial Earth Observation remained a project business rather than becoming a scalable product market? In this Inside EO analysis, Karolina Sarna explores the institutional, regulatory, and organisational barriers preventing the missing middle layer from forming",
-      "feedName": "SpaceWatch Global"
-    },
-    {
       "title": "ESA Ground Station in Spain Cleared to Return to Service After Wildfire Threat",
       "link": "https://europeanspaceflight.com/esa-ground-station-in-spain-cleared-to-return-to-service-after-wildfire-threat/",
       "pubDate": "Mon, 27 Jul 2026 07:27:45 +0000",
       "description": "The European Space Agency Director General Josef Aschbacher announced on 26 July that the agency had cleared its Cebreros deep-space ground station in Spain to return to service after inspections confirmed that the facility escaped damage from wildfires. Aschbacher explained that teams had completed",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "ESA and UKSA Launch New InCubed Funding Call for EO-based Proposals in the United Kingdom",
-      "link": "https://spacewatch.global/2026/07/esa-and-uksa-launch-new-incubed-funding-call-for-eo-based-proposals-in-the-united-kingdom/",
-      "pubDate": "Mon, 27 Jul 2026 06:00:00 +0000",
-      "description": "ESA has launched a new call for proposals in collaboration with the UK Space Agency, through the ESA InCubed program. This comes as more than £2.5 million were awarded to five projects that use satellite data to improve public services during 2024's InCubed call.\n\nFor the new round of applications. ",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "ESA Awards ispace €65M Contract to Build and Deliver MAGPIE Rover to the Moon",
@@ -258,13 +279,6 @@
       "link": "https://warontherocks.com/adapting-to-uncertainty-in-the-strait-of-hormuz/",
       "pubDate": "Tue, 23 Jun 2026 17:30:05 +0000",
       "description": "Iran&#8217;s threats to shipping through the Strait of Hormuz &#8212; in response to the U.S. and Israeli strikes on Iran that began on Feb. 28 &#8212; effectively closed the strait, sending economic shockwaves around the world. As part of negotiations between Tehran and Washington, Iran has eased r",
-      "feedName": "War on the Rocks"
-    },
-    {
-      "title": "The Gulf Arab States Need a Shield Built for Limited Trust",
-      "link": "https://warontherocks.com/the-gulf-arab-states-need-a-shield-built-for-limited-trust/",
-      "pubDate": "Fri, 12 Jun 2026 07:30:38 +0000",
-      "description": "Missiles, drones, and maritime disruptions do not stop at national borders. Gulf defense architecture still too often waits for national permission to act. The Gulf Cooperation Council has spent decades building defense institutions, diplomatic forums, and a language of indivisible Gulf security. Re",
       "feedName": "War on the Rocks"
     }
   ],
