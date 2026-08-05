@@ -1,6 +1,55 @@
 {
-  "generated": "2026-08-04T08:43:15.795Z",
+  "generated": "2026-08-05T08:41:21.732Z",
   "newsItems": [
+    {
+      "title": "Why Trump’s Israel Normalization Demand May Kill the Saudi Nuclear Deal",
+      "link": "https://warontherocks.com/why-trumps-israel-normalization-demand-may-kill-the-saudi-nuclear-deal/",
+      "pubDate": "Wed, 05 Aug 2026 07:30:49 +0000",
+      "description": "Only days after the Trump administration celebrated what it called a landmark civilian nuclear agreement with Saudi Arabia, the president himself appeared to place the entire arrangement in jeopardy. In a Truth Social post, President Donald Trump declared the deal &#8220;totally subject&#8221; to Sa",
+      "feedName": "War on the Rocks"
+    },
+    {
+      "title": "Neuraspace raises $18 million to expand sovereign space awareness",
+      "link": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/",
+      "pubDate": "Wed, 05 Aug 2026 06:00:00 +0000",
+      "description": "\nNeuraspace, the Portuguese space traffic management startup, announced around $18 million in fresh funding Aug. 5 to expand European space domain awareness and defense capabilities.\nThe post Neuraspace raises $18 million to expand sovereign space awareness appeared first on SpaceNews.\n",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "Telesat lands $1.63 billion Canadian defense contract",
+      "link": "https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract/",
+      "pubDate": "Tue, 04 Aug 2026 22:00:15 +0000",
+      "description": "\nArctic communications award will fund an expansion of Telesat’s Lightspeed, taking the planned LEO network to 225 spacecraft\nThe post Telesat lands $1.63 billion Canadian defense contract appeared first on SpaceNews.\n",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "Telesat Expands Lightspeed Constellation for Arctic Military Satcom Program",
+      "link": "https://www.satellitetoday.com/government-military/2026/08/04/telesat-expands-lightspeed-constellation-for-arctic-military-satcom-program/",
+      "pubDate": "Tue, 04 Aug 2026 19:59:35 +0000",
+      "description": "Telesat signed a $1.9 billion (U.S. dollar) contract with the government of Canada for Arctic military satcom connectivity and will expand the Lightspeed constellation by 69 satellites to fulfill the [&#8230;]\nThe post Telesat Expands Lightspeed Constellation for Arctic Military Satcom Program appea",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Telesat wins $1.6B for Canadian Arctic MILSATCOM",
+      "link": "https://breakingdefense.com/2026/08/telesat-wins-1-6b-for-canadian-arctic-milsatcom/",
+      "pubDate": "Tue, 04 Aug 2026 18:13:07 +0000",
+      "description": "The contract is just the first step in a broader MoD plan to develop a secure Arctic communications grid.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "Ukraine’s Fire Point starts to integrate European tech into missile defense system",
+      "link": "https://www.defensenews.com/global/europe/2026/08/04/ukraines-fire-point-starts-to-integrate-european-tech-into-missile-defense-system/",
+      "pubDate": "Tue, 04 Aug 2026 13:51:42 +0000",
+      "description": "Ukrainian drone and missile maker Fire Point has secured agreements from European defense companies for the Freyja missile defense project, its CEO said.",
+      "feedName": "Defense News"
+    },
+    {
+      "title": "ESA Astronaut Completes Third Test of EuroSuit Prototype Aboard ISS",
+      "link": "https://europeanspaceflight.com/esa-astronaut-completes-third-test-of-eurosuit-prototype-aboard-iss/",
+      "pubDate": "Tue, 04 Aug 2026 10:58:20 +0000",
+      "description": "ESA astronaut Sophie Adenot has completed a third and likely final test of EuroSuit, a European intravehicular activity (IVA) spacesuit prototype, aboard the International Space Station (ISS). The suit was developed under a CNES contract by a French consortium led by Spartan Space, which also includ",
+      "feedName": "European Spaceflight"
+    },
     {
       "title": "Airbus and Thales Alenia Space to Build SpainSat NG-III",
       "link": "https://www.satellitetoday.com/government-military/2026/08/03/airbus-and-thales-alenia-space-to-build-spainsat-ng-iii/",
@@ -72,13 +121,6 @@
       "feedName": "War on the Rocks"
     },
     {
-      "title": "Hisdesat Contracts Airbus and Thales Alenia Space to Build SpainSat NG III Communications Satellite",
-      "link": "https://satnews.com/2026/07/31/hisdesat-contracts-airbus-and-thales-alenia-space-to-build-spainsat-ng-iii-communications-satellite/",
-      "pubDate": "Fri, 31 Jul 2026 20:12:35 +0000",
-      "description": "MADRID – July 31, 2026 – Spanish defense operator Hisdesat signed a formal industrial contract on July 31, 2026, with Airbus Defence and Space and Thales Alenia Space to build [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "Spain commits up to $2.3 billion for national military communications for IRIS²",
       "link": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/",
       "pubDate": "Fri, 31 Jul 2026 15:57:52 +0000",
@@ -114,13 +156,6 @@
       "feedName": "Payload Space"
     },
     {
-      "title": "House-passed defense bill includes controversial US-Israel tech measure",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/29/house-passed-defense-bill-includes-controversial-us-israel-tech-measure/",
-      "pubDate": "Wed, 29 Jul 2026 12:00:00 +0000",
-      "description": "The House-passed defense bill includes a measure to encourage co-development and co-production between the U.S. and Israeli defense industrial bases. ",
-      "feedName": "Defense News"
-    },
-    {
       "title": "#SpaceWatchGL Inside EO – The Missing Layer Part 3: The Road to Scale",
       "link": "https://spacewatch.global/2026/07/spacewatchgl-inside-eo-the-missing-layer-part-3-the-road-to-scale/",
       "pubDate": "Wed, 29 Jul 2026 08:00:00 +0000",
@@ -133,13 +168,6 @@
       "pubDate": "Wed, 29 Jul 2026 06:00:00 +0000",
       "description": "The European Space Agency has commissioned a new optical ground station in Windhof, Luxembourg, to help test an ultra-secure, international communications network. \n\nThis follows the ground breaking ceremony in Noordwijk, The Netherlands, for a dedicated OGS to communicate with the EAGLE-1 satellite",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "El Nino is a threat indicator. The military should treat it like one.",
-      "link": "https://www.defensenews.com/opinion/2026/07/28/el-nino-is-a-threat-indicator-the-military-should-treat-it-like-one/",
-      "pubDate": "Tue, 28 Jul 2026 20:00:00 +0000",
-      "description": "The weather forecast for the second half of 2026 is giving the DoD something commanders rarely get before disruption arrives: months of notice.",
-      "feedName": "Defense News"
     },
     {
       "title": "The First Waves of Amphibious Assault Will Be Unmanned",
