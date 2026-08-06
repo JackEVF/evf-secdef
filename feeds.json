@@ -1,6 +1,48 @@
 {
-  "generated": "2026-08-05T08:41:21.732Z",
+  "generated": "2026-08-06T08:42:28.357Z",
   "newsItems": [
+    {
+      "title": "The Blood Price: In Israel, Military Sacrifice Is Becoming Political Power",
+      "link": "https://warontherocks.com/the-blood-price-in-israel-military-sacrifice-is-becoming-political-power/",
+      "pubDate": "Thu, 06 Aug 2026 07:30:42 +0000",
+      "description": "In late June, cadets at the Israeli military&#8217;s officer training school sat through a lecture by Ofer Winter, a retired brigadier general and a polarizing figure in the Israel Defense Forces. According to Haaretz, Winter told the future officers that &#8220;there are no uninvolved civilians in ",
+      "feedName": "War on the Rocks"
+    },
+    {
+      "title": "The hidden cost of global flight disruptions",
+      "link": "https://www.politico.eu/sponsored-content/the-hidden-cost-of-global-flight-disruptions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Thu, 06 Aug 2026 04:00:00 +0000",
+      "description": "A new global survey puts a number on what flight disruptions really cost passengers, not just in terms of money, and reveals how few know their rights.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Capella, Iceye US, and Umbra Receive NRO Commercial SAR Contracts",
+      "link": "https://www.satellitetoday.com/government-military/2026/08/05/capella-iceye-us-and-umbra-receive-nro-commercial-sar-contracts/",
+      "pubDate": "Wed, 05 Aug 2026 21:08:13 +0000",
+      "description": "IonQ&#8216;s Capella Space, Iceye US, and Umbra have received Radar Commercial Augmentation (RCA) sole source contracts from the National Reconnaissance Office (NRO) for commercial synthetic aperture radar (SAR) imagery, the [&#8230;]\nThe post Capella, Iceye US, and Umbra Receive NRO Commercial SAR ",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "NRO issues 3 SAR satellite data providers ‘rigorous’ new contracts",
+      "link": "https://breakingdefense.com/2026/08/nro-issues-3-sar-satellite-data-providers-rigorous-new-contracts/",
+      "pubDate": "Wed, 05 Aug 2026 20:28:00 +0000",
+      "description": "The new Radar Commercial Augmentation contracts reflect the companies&#8217; successful demonstration of their capabilities under previous NRO study contracts, according to the spy satellite agency. \n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "Capella, Iceye and Umbra win NRO radar-data contracts",
+      "link": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/",
+      "pubDate": "Wed, 05 Aug 2026 17:05:00 +0000",
+      "description": "\nSAN FRANCISCO – The National Reconnaissance Office has awarded contracts to Capella Space, Iceye U.S. and Umbra to expand the U.S. government’s use of commercial synthetic aperture radar (SAR). The [&#8230;]\nThe post Capella, Iceye and Umbra win NRO radar-data contracts appeared first on SpaceNews.",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "Neuraspace Secures €15.6 Million to Expand Space Domain Awareness Platform",
+      "link": "https://satnews.com/2026/08/05/neuraspace-secures-e15-6-million-to-expand-space-domain-awareness-platform/",
+      "pubDate": "Wed, 05 Aug 2026 13:50:38 +0000",
+      "description": "On August 5, 2026, European space safety provider Neuraspace announced €15.6 million ($17.1 million) in new financing to expand its artificial intelligence platform and dual-use Space Domain Awareness (SDA) assets. [&#8230;]",
+      "feedName": "Satnews"
+    },
     {
       "title": "Why Trump’s Israel Normalization Demand May Kill the Saudi Nuclear Deal",
       "link": "https://warontherocks.com/why-trumps-israel-normalization-demand-may-kill-the-saudi-nuclear-deal/",
@@ -14,6 +56,13 @@
       "pubDate": "Wed, 05 Aug 2026 06:00:00 +0000",
       "description": "\nNeuraspace, the Portuguese space traffic management startup, announced around $18 million in fresh funding Aug. 5 to expand European space domain awareness and defense capabilities.\nThe post Neuraspace raises $18 million to expand sovereign space awareness appeared first on SpaceNews.\n",
       "feedName": "SpaceNews"
+    },
+    {
+      "title": "LiveEO Secures German Space Agency Grant to Build a Multimodal ‘Vision Foundation’ AI Model for Earth Observation",
+      "link": "https://spacewatch.global/2026/08/liveeo-secures-german-space-agency-grant-to-build-a-multimodal-vision-foundation-ai-model-for-earth-observation/",
+      "pubDate": "Wed, 05 Aug 2026 06:00:00 +0000",
+      "description": "LiveEO has received a high six-figure grant from the German Space Agency at DLR, funded by the BMFTR, for an 18-month feasibility study into a Vision Foundation Model that detects change across both optical and SAR satellite imagery in a single architecture - a shift from narrow, task-specific Earth",
+      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Telesat lands $1.63 billion Canadian defense contract",
@@ -65,27 +114,6 @@
       "feedName": "Via Satellite"
     },
     {
-      "title": "Planet Labs Secures Seven-Figure Agricultural Data Contract with Scottish Government",
-      "link": "https://satnews.com/2026/08/03/planet-labs-secures-seven-figure-agricultural-data-contract-with-scottish-government/",
-      "pubDate": "Mon, 03 Aug 2026 20:22:29 +0000",
-      "description": "SAN FRANCISCO – August 3, 2026 – Expanding its commercial Earth observation footprint across European civil government agencies, Planet Labs PBC announced on July 30, 2026, a one-year multi-million-dollar contract [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Nilesat Secures Tier 4 WTA Certification for Cairo Teleport Infrastructure",
-      "link": "https://satnews.com/2026/08/03/nilesat-secures-tier-4-wta-certification-for-cairo-teleport-infrastructure/",
-      "pubDate": "Mon, 03 Aug 2026 19:34:05 +0000",
-      "description": "CAIRO, Egypt – August 3, 2026 – World Teleport Association (WTA) standards remain pivotal across Middle Eastern ground infrastructure, following the full Tier 4 certification awarded to Nilesat for its [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Rheinmetall unveils new guided-missile frigate projected for North American tender",
-      "link": "https://breakingdefense.com/2026/08/rheinmetall-unveils-new-guided-missile-frigate-projected-for-north-american-tender/",
-      "pubDate": "Mon, 03 Aug 2026 17:38:42 +0000",
-      "description": "The German GMF 140 is envisioned to integrate US-sourced radar options, hypersonic weapons and ballistic missiles, the AEGIS Combat System, and 64 Strike-Length Vertical Launch System cells.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "UNIFIL’s final months: Uncertainty persists in Lebanon over what comes next",
       "link": "https://www.defensenews.com/global/mideast-africa/2026/08/03/unifils-final-months-uncertainty-persists-in-lebanon-over-what-comes-next/",
       "pubDate": "Mon, 03 Aug 2026 12:45:45 +0000",
@@ -121,52 +149,10 @@
       "feedName": "War on the Rocks"
     },
     {
-      "title": "Spain commits up to $2.3 billion for national military communications for IRIS²",
-      "link": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/",
-      "pubDate": "Fri, 31 Jul 2026 15:57:52 +0000",
-      "description": "\nWARSAW, Poland — The Spanish government announced it will allocate between 1.6 billion and 2 billion euros ($1.8 to $2.3 billion) to develop a national military satellite communications constellation that [&#8230;]\nThe post Spain commits up to $2.3 billion for national military communications for I",
-      "feedName": "SpaceNews"
-    },
-    {
       "title": "Thales Alenia Joins OHB Italia-led Consortium to Develop the PRISMA satellite for the Italian Space Agency",
       "link": "https://spacewatch.global/2026/07/thales-alenia-joins-ohb-italia-led-consortium-to-develop-the-prisma-satellite-for-the-italian-space-agency/",
       "pubDate": "Fri, 31 Jul 2026 06:00:00 +0000",
       "description": "Thales Alenia Space has signed a contract with OHB Italia for the development of the PRISMA Second Generation Earth observation satellite for the Italian Space Agency (ASI). Scheduled for launch in 2031, the satellite will carry a hyperspectral instrument, built by Leonardo, featuring enhanced funct",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Eutelsat and Poland Sign Strategic MoU Supporting Poland’s Participation in IRIS²",
-      "link": "https://spacewatch.global/2026/07/eutelsat-and-poland-sign-strategic-mou-supporting-polands-participation-in-iris%c2%b2/",
-      "pubDate": "Thu, 30 Jul 2026 06:00:00 +0000",
-      "description": "Following Poland's commitment to participate in the construction of the IRIS² constellation satellites, Eutelsat has signed a Memorandum of Understanding with the Country to deepen cooperation in support of Europe's future secure satellite communications infrastructure under the IRIS² program.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "US Navy deploys GARC uncrewed surface vessel in first live-fire training exercise",
-      "link": "https://www.defensenews.com/news/your-military/2026/07/29/us-navy-deploys-garc-uncrewed-surface-vessel-in-first-live-fire-training-exercise/",
-      "pubDate": "Wed, 29 Jul 2026 16:16:05 +0000",
-      "description": "The Navy confirmed its first live-fire training exercise of its Global Autonomous Reconnaissance Craft uncrewed surface vessel.",
-      "feedName": "Defense News"
-    },
-    {
-      "title": "ESA taps Aalyria to build deep-space network hub",
-      "link": "https://payloadspace.com/esa-taps-aalyria-to-build-deep-space-network-hub/",
-      "pubDate": "Wed, 29 Jul 2026 12:50:00 +0000",
-      "description": "ESA has tapped Aalyria to build a network-operations center that allows spacecraft to share data reliably across the solar system. \nThe post ESA taps Aalyria to build deep-space network hub appeared first on Payload.\n",
-      "feedName": "Payload Space"
-    },
-    {
-      "title": "#SpaceWatchGL Inside EO – The Missing Layer Part 3: The Road to Scale",
-      "link": "https://spacewatch.global/2026/07/spacewatchgl-inside-eo-the-missing-layer-part-3-the-road-to-scale/",
-      "pubDate": "Wed, 29 Jul 2026 08:00:00 +0000",
-      "description": " Written by Karolina Sarna  The missing middle layer is beginning to emerge—but not everywhere, and not all at once. In the final part of this Inside EO analysis, Karolina Sarna examines where commercial Earth Observation markets are taking shape, the signals that matter most, and why today's strate",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "ESA Commissions Optical Ground Station in Luxembourg to Advance Quantum-Enabled Ultra-Secure Satellite Communications",
-      "link": "https://spacewatch.global/2026/07/esa-commissions-optical-ground-station-in-luxembourg-to-advance-quantum-enabled-ultra-secure-satellite-communications/",
-      "pubDate": "Wed, 29 Jul 2026 06:00:00 +0000",
-      "description": "The European Space Agency has commissioned a new optical ground station in Windhof, Luxembourg, to help test an ultra-secure, international communications network. \n\nThis follows the ground breaking ceremony in Noordwijk, The Netherlands, for a dedicated OGS to communicate with the EAGLE-1 satellite",
       "feedName": "SpaceWatch Global"
     },
     {
@@ -196,13 +182,6 @@
       "pubDate": "Tue, 21 Jul 2026 18:43:04 +0000",
       "description": "Ukraine&#8217;s expanding use of drones at all ranges has changed the war&#8217;s momentum. This episode examines how Kyiv is reaching deeper into Russian territory, disrupting operations and logistics as well as energy infrastructure. How is Russia adapting (or not)? Can these strikes produce lasti",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Poland Boosts Its Contribution to Europe’s IRIS2 Constellation to €656M",
-      "link": "https://europeanspaceflight.com/poland-boosts-its-contribution-to-europes-iris2-constellation-to-e656m/",
-      "pubDate": "Tue, 21 Jul 2026 15:40:38 +0000",
-      "description": "Poland has formalised its participation in Europe’s IRIS2 secure communications constellation and agreed to increase its contribution by more than €150 million. The additional funding will double Poland’s contribution to the programme’s space segment to 12 satellites, comprising six in medium Earth ",
-      "feedName": "European Spaceflight"
     },
     {
       "title": "Israel’s IAI unveils ‘Hypnosis’ system for confusing enemy drone swarms",
