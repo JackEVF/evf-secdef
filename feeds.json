@@ -1,6 +1,20 @@
 {
-  "generated": "2026-08-06T08:42:28.357Z",
+  "generated": "2026-08-07T07:21:10.391Z",
   "newsItems": [
+    {
+      "title": "SpaceX Regulatory Strategy at the FCC: Disruptive Expansion Meets Administrative Oversight",
+      "link": "https://satnews.com/2026/08/06/spacex-regulatory-strategy-at-the-fcc-disruptive-expansion-meets-administrative-oversight/",
+      "pubDate": "Thu, 06 Aug 2026 14:30:21 +0000",
+      "description": "As SpaceX expands its low Earth orbit (LEO) footprint, its relationship with the Federal Communications Commission (FCC) has emerged as a central dynamic in global telecommunications governance. The company&#8217;s strategy—characterized [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "#SpaceWatchGL Inside EO – The Right to be Wrong",
+      "link": "https://spacewatch.global/2026/08/spacewatchgl-inside-eo-the-right-to-be-wrong/",
+      "pubDate": "Thu, 06 Aug 2026 08:00:00 +0000",
+      "description": " Written by Karolina Sarna  Earth Observation is always a model, sold as a measurement. It cannot become infrastructure until it is allowed to be wrong, and that permission is conferred from outside the vendor, never bought.",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "The Blood Price: In Israel, Military Sacrifice Is Becoming Political Power",
       "link": "https://warontherocks.com/the-blood-price-in-israel-military-sacrifice-is-becoming-political-power/",
@@ -9,11 +23,11 @@
       "feedName": "War on the Rocks"
     },
     {
-      "title": "The hidden cost of global flight disruptions",
-      "link": "https://www.politico.eu/sponsored-content/the-hidden-cost-of-global-flight-disruptions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Thu, 06 Aug 2026 04:00:00 +0000",
-      "description": "A new global survey puts a number on what flight disruptions really cost passengers, not just in terms of money, and reveals how few know their rights.",
-      "feedName": "Politico Europe"
+      "title": "Telesat Secures Record $1.64 Billion Arctic Military SatCom Contract from Canada’s Defense Investment Agency",
+      "link": "https://spacewatch.global/2026/08/telesat-secures-record-1-64-billion-arctic-military-satcom-contract-from-canadas-defense-investment-agency/",
+      "pubDate": "Thu, 06 Aug 2026 06:00:00 +0000",
+      "description": "Telesat has signed a C$2.3 billion (US$1.64 billion) Lightspeed contract with Canada's Defence Investment Agency for secure military Ka-band Arctic connectivity - the largest in its history.",
+      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Capella, Iceye US, and Umbra Receive NRO Commercial SAR Contracts",
@@ -35,13 +49,6 @@
       "pubDate": "Wed, 05 Aug 2026 17:05:00 +0000",
       "description": "\nSAN FRANCISCO – The National Reconnaissance Office has awarded contracts to Capella Space, Iceye U.S. and Umbra to expand the U.S. government’s use of commercial synthetic aperture radar (SAR). The [&#8230;]\nThe post Capella, Iceye and Umbra win NRO radar-data contracts appeared first on SpaceNews.",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "Neuraspace Secures €15.6 Million to Expand Space Domain Awareness Platform",
-      "link": "https://satnews.com/2026/08/05/neuraspace-secures-e15-6-million-to-expand-space-domain-awareness-platform/",
-      "pubDate": "Wed, 05 Aug 2026 13:50:38 +0000",
-      "description": "On August 5, 2026, European space safety provider Neuraspace announced €15.6 million ($17.1 million) in new financing to expand its artificial intelligence platform and dual-use Space Domain Awareness (SDA) assets. [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "Why Trump’s Israel Normalization Demand May Kill the Saudi Nuclear Deal",
@@ -72,20 +79,6 @@
       "feedName": "SpaceNews"
     },
     {
-      "title": "Telesat Expands Lightspeed Constellation for Arctic Military Satcom Program",
-      "link": "https://www.satellitetoday.com/government-military/2026/08/04/telesat-expands-lightspeed-constellation-for-arctic-military-satcom-program/",
-      "pubDate": "Tue, 04 Aug 2026 19:59:35 +0000",
-      "description": "Telesat signed a $1.9 billion (U.S. dollar) contract with the government of Canada for Arctic military satcom connectivity and will expand the Lightspeed constellation by 69 satellites to fulfill the [&#8230;]\nThe post Telesat Expands Lightspeed Constellation for Arctic Military Satcom Program appea",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "Telesat wins $1.6B for Canadian Arctic MILSATCOM",
-      "link": "https://breakingdefense.com/2026/08/telesat-wins-1-6b-for-canadian-arctic-milsatcom/",
-      "pubDate": "Tue, 04 Aug 2026 18:13:07 +0000",
-      "description": "The contract is just the first step in a broader MoD plan to develop a secure Arctic communications grid.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "Ukraine’s Fire Point starts to integrate European tech into missile defense system",
       "link": "https://www.defensenews.com/global/europe/2026/08/04/ukraines-fire-point-starts-to-integrate-european-tech-into-missile-defense-system/",
       "pubDate": "Tue, 04 Aug 2026 13:51:42 +0000",
@@ -100,32 +93,11 @@
       "feedName": "European Spaceflight"
     },
     {
-      "title": "Airbus and Thales Alenia Space to Build SpainSat NG-III",
-      "link": "https://www.satellitetoday.com/government-military/2026/08/03/airbus-and-thales-alenia-space-to-build-spainsat-ng-iii/",
-      "pubDate": "Mon, 03 Aug 2026 21:24:27 +0000",
-      "description": "Hisdesat has contracted Airbus and Thales Alenia Space to build the SpainSat NG-III secure satellite communications satellite for Spain.  Airbus, the prime contractor, announced the award on July 31. As [&#8230;]\nThe post Airbus and Thales Alenia Space to Build SpainSat NG-III appeared first on Via ",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "ETL Acquires Software Developer Amphinicy Technologies",
-      "link": "https://www.satellitetoday.com/finance/2026/08/03/etl-acquires-software-developer-amphinicy-technologies/",
-      "pubDate": "Mon, 03 Aug 2026 20:31:28 +0000",
-      "description": "ETL Systems has acquired Amphinicy Technologies, which develops software for satcom and Earth Observation markets, in a move the company said will help solve more complex ground segment challenges for [&#8230;]\nThe post ETL Acquires Software Developer Amphinicy Technologies appeared first on Via Sat",
-      "feedName": "Via Satellite"
-    },
-    {
       "title": "UNIFIL’s final months: Uncertainty persists in Lebanon over what comes next",
       "link": "https://www.defensenews.com/global/mideast-africa/2026/08/03/unifils-final-months-uncertainty-persists-in-lebanon-over-what-comes-next/",
       "pubDate": "Mon, 03 Aug 2026 12:45:45 +0000",
       "description": "The mission for the United Nations Interim Force in Lebanon is nearing its end. Amid Israeli occupation, a decision on what comes next has yet to be made.",
       "feedName": "Defense News"
-    },
-    {
-      "title": "Airbus and Thales win order for SpainSat replacement",
-      "link": "https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/",
-      "pubDate": "Mon, 03 Aug 2026 12:15:34 +0000",
-      "description": "\nAirbus Defence and Space and Thales Alenia Space will build a replacement military communications satellite for Spain as they, along with Leonardo, continue efforts on a space joint venture.\nThe post Airbus and Thales win order for SpainSat replacement appeared first on SpaceNews.\n",
-      "feedName": "SpaceNews"
     },
     {
       "title": "#SpaceWatchGL Inside EO – Dual Use is a Cost Function",
