@@ -1,6 +1,41 @@
 {
-  "generated": "2026-08-07T07:21:10.391Z",
+  "generated": "2026-08-08T06:59:06.412Z",
   "newsItems": [
+    {
+      "title": "IRIS2 Gets Green Light With More Money and More Satellites",
+      "link": "https://europeanspaceflight.com/iris2-gets-green-light-with-more-money-and-more-satellites/",
+      "pubDate": "Sat, 08 Aug 2026 06:00:24 +0000",
+      "description": "The European Commission, ESA and the SpaceRISE consortium have completed a key review of Europe’s IRIS2 secure communications constellation, clearing the programme to move forward with full-scale implementation. The completion of the review was announced on 7 August following negotiations that began",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "SES Completes IRIS² Milestone and Finalizes MEO Satellite Capital Commitments",
+      "link": "https://satnews.com/2026/08/07/ses-completes-iris%c2%b2-milestone-and-finalizes-meo-satellite-capital-commitments/",
+      "pubDate": "Fri, 07 Aug 2026 21:14:15 +0000",
+      "description": "On August 7, 2026, satellite operator SES announced the successful completion of Rendez-vous 1 (RDV1) under the European Union’s Infrastructure for Resilience, Interconnectivity and Security by Satellite (IRIS²) program. The [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Senate installs new chiefs for U.S. military space acquisition, spy satellites",
+      "link": "https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/",
+      "pubDate": "Fri, 07 Aug 2026 21:03:50 +0000",
+      "description": "\nErich Hernandez-Baquero will take over military space acquisition; Roger Mason will lead the National Reconnaissance Office\nThe post Senate installs new chiefs for U.S. military space acquisition, spy satellites appeared first on SpaceNews.\n",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "SES, Eutelsat Complete RDV1 Milestone for Europe’s IRIS2 Sovereign Constellation Program",
+      "link": "https://www.satellitetoday.com/connectivity/2026/08/07/ses-eutelsat-complete-rdv1-milestone-for-europes-iris2-sovereign-constellation-program/",
+      "pubDate": "Fri, 07 Aug 2026 16:48:14 +0000",
+      "description": "Satellite operator SES completed the Rendez-vous 1 (RDV1) milestone on the implementation phase of the Infrastructure for Resilience, Interconnectivity and Security by Satellite (IRIS²) constellation program. The goal of the [&#8230;]\nThe post SES, Eutelsat Complete RDV1 Milestone for Europe&#8217;s",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Europe increases size and cost of IRIS² constellation",
+      "link": "https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation/",
+      "pubDate": "Fri, 07 Aug 2026 11:51:44 +0000",
+      "description": "\nThe European Commission has reached an agreement with an industrial consortium to proceed with a secure connectivity constellation, increasing the number of satellites as well as its cost.\nThe post Europe increases size and cost of IRIS² constellation appeared first on SpaceNews.\n",
+      "feedName": "SpaceNews"
+    },
     {
       "title": "SpaceX Regulatory Strategy at the FCC: Disruptive Expansion Meets Administrative Oversight",
       "link": "https://satnews.com/2026/08/06/spacex-regulatory-strategy-at-the-fcc-disruptive-expansion-meets-administrative-oversight/",
@@ -35,13 +70,6 @@
       "pubDate": "Wed, 05 Aug 2026 21:08:13 +0000",
       "description": "IonQ&#8216;s Capella Space, Iceye US, and Umbra have received Radar Commercial Augmentation (RCA) sole source contracts from the National Reconnaissance Office (NRO) for commercial synthetic aperture radar (SAR) imagery, the [&#8230;]\nThe post Capella, Iceye US, and Umbra Receive NRO Commercial SAR ",
       "feedName": "Via Satellite"
-    },
-    {
-      "title": "NRO issues 3 SAR satellite data providers ‘rigorous’ new contracts",
-      "link": "https://breakingdefense.com/2026/08/nro-issues-3-sar-satellite-data-providers-rigorous-new-contracts/",
-      "pubDate": "Wed, 05 Aug 2026 20:28:00 +0000",
-      "description": "The new Radar Commercial Augmentation contracts reflect the companies&#8217; successful demonstration of their capabilities under previous NRO study contracts, according to the spy satellite agency. \n",
-      "feedName": "Breaking Defense"
     },
     {
       "title": "Capella, Iceye and Umbra win NRO radar-data contracts",
@@ -121,13 +149,6 @@
       "feedName": "War on the Rocks"
     },
     {
-      "title": "Thales Alenia Joins OHB Italia-led Consortium to Develop the PRISMA satellite for the Italian Space Agency",
-      "link": "https://spacewatch.global/2026/07/thales-alenia-joins-ohb-italia-led-consortium-to-develop-the-prisma-satellite-for-the-italian-space-agency/",
-      "pubDate": "Fri, 31 Jul 2026 06:00:00 +0000",
-      "description": "Thales Alenia Space has signed a contract with OHB Italia for the development of the PRISMA Second Generation Earth observation satellite for the Italian Space Agency (ASI). Scheduled for launch in 2031, the satellite will carry a hyperspectral instrument, built by Leonardo, featuring enhanced funct",
-      "feedName": "SpaceWatch Global"
-    },
-    {
       "title": "The First Waves of Amphibious Assault Will Be Unmanned",
       "link": "https://warontherocks.com/the-first-waves-of-amphibious-assault-will-be-unmanned/",
       "pubDate": "Tue, 28 Jul 2026 07:30:09 +0000",
@@ -139,13 +160,6 @@
       "link": "https://europeanspaceflight.com/esa-ground-station-in-spain-cleared-to-return-to-service-after-wildfire-threat/",
       "pubDate": "Mon, 27 Jul 2026 07:27:45 +0000",
       "description": "The European Space Agency Director General Josef Aschbacher announced on 26 July that the agency had cleared its Cebreros deep-space ground station in Spain to return to service after inspections confirmed that the facility escaped damage from wildfires. Aschbacher explained that teams had completed",
-      "feedName": "European Spaceflight"
-    },
-    {
-      "title": "ESA Awards ispace €65M Contract to Build and Deliver MAGPIE Rover to the Moon",
-      "link": "https://europeanspaceflight.com/esa-awards-ispace-e65m-contract-to-build-and-deliver-magpie-rover-to-the-moon/",
-      "pubDate": "Fri, 24 Jul 2026 15:00:40 +0000",
-      "description": "ESA has awarded a contract to Luxembourg-based ispace-Europe to complete the development of the MAGPIE lunar rover and deliver it to the surface of the Moon in 2029. The Mission for Advanced Geophysics and Polar Ice Exploration (MAGPIE) is being developed under ESA’s Small Missions for Exploration i",
       "feedName": "European Spaceflight"
     },
     {
