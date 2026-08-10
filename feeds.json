@@ -1,6 +1,20 @@
 {
-  "generated": "2026-08-09T07:01:11.568Z",
+  "generated": "2026-08-10T07:47:26.320Z",
   "newsItems": [
+    {
+      "title": "HispaSat Confirms Spanish Commitments to IRIS² as Ground Segment Prime Contractor, with the Program Targeting 2029 for Initial Launches",
+      "link": "https://spacewatch.global/2026/08/hispasat-confirms-spanish-commitments-to-iris%c2%b2-as-ground-segment-prime-contractor-with-the-program-targeting-2029-for-initial-launches/",
+      "pubDate": "Mon, 10 Aug 2026 06:00:00 +0000",
+      "description": "The European Commission and the European Space Agency have concluded negotiations with the SpaceRISE consortium, comprising Eutelsat, HispaSat and SES, to launch the IRIS² constellation. During the negotiations, HispaSat was designated as the prime contractor for the antenna infrastructure, control ",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Israel rejects Trump’s peace plan for Gaza",
+      "link": "https://www.politico.eu/article/israel-rejects-us-backed-gaza-peace-plan-hamas-disarmament/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Sun, 09 Aug 2026 14:09:16 +0000",
+      "description": "The rejection is a blow to peace negotiations the U.S. administration has been brokering since September.",
+      "feedName": "Politico Europe"
+    },
     {
       "title": "SES Completes IRIS² Milestone and Finalizes MEO Satellite Capital Commitments",
       "link": "https://satnews.com/2026/08/08/ses-completes-iris%c2%b2-milestone-and-finalizes-meo-satellite-capital-commitments/",
@@ -35,13 +49,6 @@
       "pubDate": "Fri, 07 Aug 2026 11:51:44 +0000",
       "description": "\nThe European Commission has reached an agreement with an industrial consortium to proceed with a secure connectivity constellation, increasing the number of satellites as well as its cost.\nThe post Europe increases size and cost of IRIS² constellation appeared first on SpaceNews.\n",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "SpaceX Regulatory Strategy at the FCC: Disruptive Expansion Meets Administrative Oversight",
-      "link": "https://satnews.com/2026/08/06/spacex-regulatory-strategy-at-the-fcc-disruptive-expansion-meets-administrative-oversight/",
-      "pubDate": "Thu, 06 Aug 2026 14:30:21 +0000",
-      "description": "As SpaceX expands its low Earth orbit (LEO) footprint, its relationship with the Federal Communications Commission (FCC) has emerged as a central dynamic in global telecommunications governance. The company&#8217;s strategy—characterized [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "#SpaceWatchGL Inside EO – The Right to be Wrong",
