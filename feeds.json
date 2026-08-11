@@ -1,19 +1,54 @@
 {
-  "generated": "2026-08-10T07:47:26.320Z",
+  "generated": "2026-08-11T07:13:05.976Z",
   "newsItems": [
+    {
+      "title": "Neuraspace Secures €15.6m to scale AI-Driven Space Traffic Management and Defense-Grade Space Domain Awareness",
+      "link": "https://spacewatch.global/2026/08/neuraspace-secures-e15-6m-to-scale-ai-driven-space-traffic-management-and-defense-grade-space-domain-awareness/",
+      "pubDate": "Tue, 11 Aug 2026 06:00:00 +0000",
+      "description": "Neuraspace has announced €15.6 million in new financing, combining strategic private investment together with funding awarded under Portugal's Recovery and Resilience Plan (PRRP). \n\nReflecting strong private and public confidence in the company's growth strategy, the funding will accelerate the expa",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "DARPA developing hypersonic cruise missile to evade enemy air defenses ",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/10/darpa-developing-hypersonic-cruise-missile-to-evade-enemy-air-defenses/",
+      "pubDate": "Mon, 10 Aug 2026 20:54:38 +0000",
+      "description": "DARPA is developing a hypersonic cruise missile in response to the Pentagon's concerns that American missiles are vulnerable to enemy air defenses.",
+      "feedName": "Defense News"
+    },
+    {
+      "title": "Catalyst Completes Infrastructure EO Analysis Pilot Program with UK Rail Operator",
+      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/08/10/catalyst-completes-infrastructure-eo-analysis-pilot-program-with-uk-rail-operator/",
+      "pubDate": "Mon, 10 Aug 2026 16:20:04 +0000",
+      "description": "Network Rail, the owner and operator of Britain&#8217;s railway infrastructure, teamed up with Earth Observation (EO) analytics Catalyst (PCI Geomatics) on a 12-week pilot program that  investigated how weather-driven risks [&#8230;]\nThe post Catalyst Completes Infrastructure EO Analysis Pilot Progr",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Europe’s IRIS2 Constellation Enters the Build Phase",
+      "link": "https://payloadspace.com/europes-iris2-constellation-enters-the-build-phase/",
+      "pubDate": "Mon, 10 Aug 2026 12:40:00 +0000",
+      "description": "After seven months of negotiations, officials from the European Commission, ESA, EUSPA, and SpaceRISE have agreed to move into the implementation phase of IRIS2.\nThe post Europe’s IRIS2 Constellation Enters the Build Phase appeared first on Payload.\n",
+      "feedName": "Payload Space"
+    },
+    {
+      "title": "#SpaceWatchGL Inside EO – The Value was never in the Satellite",
+      "link": "https://spacewatch.global/2026/08/spacewatch-inside-eo-the-value-was-never-in-the-satellite/",
+      "pubDate": "Mon, 10 Aug 2026 08:00:00 +0000",
+      "description": " Written by Karolina Sarna  Commercial Earth Observation has spent years improving satellite capabilities while searching for demand. In this edition of Inside EO, Karolina Sarna argues that value is not created by better data, reasoning layers, or messaging, but only when an observation changes a d",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "CNES Secures Access to Orbitworks’ ‘Altair’ Earth Observation Constellation in a Multi-Year Deal",
+      "link": "https://spacewatch.global/2026/08/cnes-secures-access-to-orbitworks-altair-earth-observation-constellation-in-a-multi-year-deal/",
+      "pubDate": "Mon, 10 Aug 2026 06:00:00 +0000",
+      "description": "The French Space Agency has secured access to Altair, the ten-satellite, AI-enabled Earth observation constellation being developed and manufactured by Orbitworks, a UAE commercial satellite constellation production and operation joint venture comprising Loft Orbital and Marlan Space. \n\nFeaturing a ",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "HispaSat Confirms Spanish Commitments to IRIS² as Ground Segment Prime Contractor, with the Program Targeting 2029 for Initial Launches",
       "link": "https://spacewatch.global/2026/08/hispasat-confirms-spanish-commitments-to-iris%c2%b2-as-ground-segment-prime-contractor-with-the-program-targeting-2029-for-initial-launches/",
       "pubDate": "Mon, 10 Aug 2026 06:00:00 +0000",
-      "description": "The European Commission and the European Space Agency have concluded negotiations with the SpaceRISE consortium, comprising Eutelsat, HispaSat and SES, to launch the IRIS² constellation. During the negotiations, HispaSat was designated as the prime contractor for the antenna infrastructure, control ",
+      "description": "The European Commission and ESA have concluded IRIS² negotiations with the SpaceRISE consortium (Eutelsat, HispaSat, SES), naming HispaSat prime contractor for the ground segment, with initial launches targeted for 2029.",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Israel rejects Trump’s peace plan for Gaza",
-      "link": "https://www.politico.eu/article/israel-rejects-us-backed-gaza-peace-plan-hamas-disarmament/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Sun, 09 Aug 2026 14:09:16 +0000",
-      "description": "The rejection is a blow to peace negotiations the U.S. administration has been brokering since September.",
-      "feedName": "Politico Europe"
     },
     {
       "title": "SES Completes IRIS² Milestone and Finalizes MEO Satellite Capital Commitments",
@@ -72,13 +107,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Capella, Iceye US, and Umbra Receive NRO Commercial SAR Contracts",
-      "link": "https://www.satellitetoday.com/government-military/2026/08/05/capella-iceye-us-and-umbra-receive-nro-commercial-sar-contracts/",
-      "pubDate": "Wed, 05 Aug 2026 21:08:13 +0000",
-      "description": "IonQ&#8216;s Capella Space, Iceye US, and Umbra have received Radar Commercial Augmentation (RCA) sole source contracts from the National Reconnaissance Office (NRO) for commercial synthetic aperture radar (SAR) imagery, the [&#8230;]\nThe post Capella, Iceye US, and Umbra Receive NRO Commercial SAR ",
-      "feedName": "Via Satellite"
-    },
-    {
       "title": "Capella, Iceye and Umbra win NRO radar-data contracts",
       "link": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/",
       "pubDate": "Wed, 05 Aug 2026 17:05:00 +0000",
@@ -93,13 +121,6 @@
       "feedName": "War on the Rocks"
     },
     {
-      "title": "Neuraspace raises $18 million to expand sovereign space awareness",
-      "link": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/",
-      "pubDate": "Wed, 05 Aug 2026 06:00:00 +0000",
-      "description": "\nNeuraspace, the Portuguese space traffic management startup, announced around $18 million in fresh funding Aug. 5 to expand European space domain awareness and defense capabilities.\nThe post Neuraspace raises $18 million to expand sovereign space awareness appeared first on SpaceNews.\n",
-      "feedName": "SpaceNews"
-    },
-    {
       "title": "LiveEO Secures German Space Agency Grant to Build a Multimodal ‘Vision Foundation’ AI Model for Earth Observation",
       "link": "https://spacewatch.global/2026/08/liveeo-secures-german-space-agency-grant-to-build-a-multimodal-vision-foundation-ai-model-for-earth-observation/",
       "pubDate": "Wed, 05 Aug 2026 06:00:00 +0000",
@@ -107,39 +128,11 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Telesat lands $1.63 billion Canadian defense contract",
-      "link": "https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract/",
-      "pubDate": "Tue, 04 Aug 2026 22:00:15 +0000",
-      "description": "\nArctic communications award will fund an expansion of Telesat’s Lightspeed, taking the planned LEO network to 225 spacecraft\nThe post Telesat lands $1.63 billion Canadian defense contract appeared first on SpaceNews.\n",
-      "feedName": "SpaceNews"
-    },
-    {
-      "title": "Ukraine’s Fire Point starts to integrate European tech into missile defense system",
-      "link": "https://www.defensenews.com/global/europe/2026/08/04/ukraines-fire-point-starts-to-integrate-european-tech-into-missile-defense-system/",
-      "pubDate": "Tue, 04 Aug 2026 13:51:42 +0000",
-      "description": "Ukrainian drone and missile maker Fire Point has secured agreements from European defense companies for the Freyja missile defense project, its CEO said.",
-      "feedName": "Defense News"
-    },
-    {
       "title": "ESA Astronaut Completes Third Test of EuroSuit Prototype Aboard ISS",
       "link": "https://europeanspaceflight.com/esa-astronaut-completes-third-test-of-eurosuit-prototype-aboard-iss/",
       "pubDate": "Tue, 04 Aug 2026 10:58:20 +0000",
       "description": "ESA astronaut Sophie Adenot has completed a third and likely final test of EuroSuit, a European intravehicular activity (IVA) spacesuit prototype, aboard the International Space Station (ISS). The suit was developed under a CNES contract by a French consortium led by Spartan Space, which also includ",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "UNIFIL’s final months: Uncertainty persists in Lebanon over what comes next",
-      "link": "https://www.defensenews.com/global/mideast-africa/2026/08/03/unifils-final-months-uncertainty-persists-in-lebanon-over-what-comes-next/",
-      "pubDate": "Mon, 03 Aug 2026 12:45:45 +0000",
-      "description": "The mission for the United Nations Interim Force in Lebanon is nearing its end. Amid Israeli occupation, a decision on what comes next has yet to be made.",
-      "feedName": "Defense News"
-    },
-    {
-      "title": "#SpaceWatchGL Inside EO – Dual Use is a Cost Function",
-      "link": "https://spacewatch.global/2026/08/spacewatchgl-inside-eo-dual-use-is-a-cost-function/",
-      "pubDate": "Mon, 03 Aug 2026 08:00:00 +0000",
-      "description": " Written by Karolina Sarna  Earth observation companies pitch 'dual-use' as optionality, a second market stacked on the climate business. It is a cost function, not an opportunity: one capability the state can place on either side of a line it controls, and when the line is drawn the commercial buye",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Shock wave",
@@ -272,13 +265,6 @@
       "link": "https://warontherocks.com/misreading-myanmars-war-why-the-juntas-recent-gains-dont-mean-imminent-victory/",
       "pubDate": "Fri, 26 Jun 2026 07:30:04 +0000",
       "description": "To understand how close Myanmar&#8217;s pro-democracy resistance came to victory last year &#8212; and how far it has slipped since &#8212; there is no sharper microcosm than the story of a Gen Z sniper. In April 2025, a female teenager, Anina, enraptured the world, her youth-driven &#8220;Spring Re",
-      "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Adapting to Uncertainty in the Strait of Hormuz",
-      "link": "https://warontherocks.com/adapting-to-uncertainty-in-the-strait-of-hormuz/",
-      "pubDate": "Tue, 23 Jun 2026 17:30:05 +0000",
-      "description": "Iran&#8217;s threats to shipping through the Strait of Hormuz &#8212; in response to the U.S. and Israeli strikes on Iran that began on Feb. 28 &#8212; effectively closed the strait, sending economic shockwaves around the world. As part of negotiations between Tehran and Washington, Iran has eased r",
       "feedName": "War on the Rocks"
     }
   ],
