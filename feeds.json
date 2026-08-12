@@ -1,11 +1,39 @@
 {
-  "generated": "2026-08-11T07:13:05.976Z",
+  "generated": "2026-08-12T07:37:22.662Z",
   "newsItems": [
+    {
+      "title": "America’s allies doubt US negotiating tactics in Israel after Netanyahu rejected peace plan",
+      "link": "https://www.politico.com/news/2026/08/11/americas-allies-doubt-us-negotiating-tactics-in-israel-after-netanyahu-rejected-peace-plan-01034498?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Tue, 11 Aug 2026 23:44:58 +0000",
+      "description": "Diplomats say they’re worried the Trump administration’s negotiating efforts in Israel can’t recover.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Arianespace Pauses ICARUS Carbon-Composite Upper Stage Upgrade to Focus on Ariane 6 Production Ramp",
+      "link": "https://satnews.com/2026/08/11/arianespace-pauses-icarus-carbon-composite-upper-stage-upgrade-to-focus-on-ariane-6-production-ramp/",
+      "pubDate": "Tue, 11 Aug 2026 18:07:40 +0000",
+      "description": "On August 11, 2026, internal European space sector reports confirmed that Arianespace and the European Space Agency (ESA) have paused development of the ICARUS carbon-composite upper stage project. The decision, [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Marlink to Acquire GRC to Expand Sovereign European Defense and Critical Infrastructure Capabilities",
+      "link": "https://satnews.com/2026/08/11/marlink-to-acquire-grc-to-expand-sovereign-european-defense-and-critical-infrastructure-capabilities/",
+      "pubDate": "Tue, 11 Aug 2026 14:16:51 +0000",
+      "description": "On August 11, 2026, global managed network solutions provider Marlink signed a definitive agreement to acquire 100 percent of Global RadioData Communications Ltd (GRC), a UK-based specialist in defense and [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "#SpaceWatchGL Opinion: Europe’s Space Leadership Enters an Uncertain Autumn",
+      "link": "https://spacewatch.global/2026/08/spacewatchgl-opinion-europes-space-leadership-enters-an-uncertain-autumn/",
+      "pubDate": "Tue, 11 Aug 2026 08:00:00 +0000",
+      "description": " Written by Gilles Rabin  As Europe prepares for a new political and conference season, questions about leadership, industrial strategy and long-term ambition are becoming increasingly difficult to ignore. From lunar exploration to IRIS² and France's role within Europe, the coming months may prove d",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "Neuraspace Secures €15.6m to scale AI-Driven Space Traffic Management and Defense-Grade Space Domain Awareness",
       "link": "https://spacewatch.global/2026/08/neuraspace-secures-e15-6m-to-scale-ai-driven-space-traffic-management-and-defense-grade-space-domain-awareness/",
       "pubDate": "Tue, 11 Aug 2026 06:00:00 +0000",
-      "description": "Neuraspace has announced €15.6 million in new financing, combining strategic private investment together with funding awarded under Portugal's Recovery and Resilience Plan (PRRP). \n\nReflecting strong private and public confidence in the company's growth strategy, the funding will accelerate the expa",
+      "description": "Neuraspace has secured €15.6 million - private investment plus Portugal's Recovery and Resilience Plan - to scale its AI-driven space-traffic management and defence-grade space domain awareness.",
       "feedName": "SpaceWatch Global"
     },
     {
@@ -51,13 +79,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "SES Completes IRIS² Milestone and Finalizes MEO Satellite Capital Commitments",
-      "link": "https://satnews.com/2026/08/08/ses-completes-iris%c2%b2-milestone-and-finalizes-meo-satellite-capital-commitments/",
-      "pubDate": "Sat, 08 Aug 2026 21:14:15 +0000",
-      "description": "On August 7, 2026, satellite operator SES announced the successful completion of Rendez-vous 1 (RDV1) under the European Union’s Infrastructure for Resilience, Interconnectivity and Security by Satellite (IRIS²) program. The [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "IRIS2 Gets Green Light With More Money and More Satellites",
       "link": "https://europeanspaceflight.com/iris2-gets-green-light-with-more-money-and-more-satellites/",
       "pubDate": "Sat, 08 Aug 2026 06:00:24 +0000",
@@ -77,13 +98,6 @@
       "pubDate": "Fri, 07 Aug 2026 16:48:14 +0000",
       "description": "Satellite operator SES completed the Rendez-vous 1 (RDV1) milestone on the implementation phase of the Infrastructure for Resilience, Interconnectivity and Security by Satellite (IRIS²) constellation program. The goal of the [&#8230;]\nThe post SES, Eutelsat Complete RDV1 Milestone for Europe&#8217;s",
       "feedName": "Via Satellite"
-    },
-    {
-      "title": "Europe increases size and cost of IRIS² constellation",
-      "link": "https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation/",
-      "pubDate": "Fri, 07 Aug 2026 11:51:44 +0000",
-      "description": "\nThe European Commission has reached an agreement with an industrial consortium to proceed with a secure connectivity constellation, increasing the number of satellites as well as its cost.\nThe post Europe increases size and cost of IRIS² constellation appeared first on SpaceNews.\n",
-      "feedName": "SpaceNews"
     },
     {
       "title": "#SpaceWatchGL Inside EO – The Right to be Wrong",
@@ -107,25 +121,11 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Capella, Iceye and Umbra win NRO radar-data contracts",
-      "link": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/",
-      "pubDate": "Wed, 05 Aug 2026 17:05:00 +0000",
-      "description": "\nSAN FRANCISCO – The National Reconnaissance Office has awarded contracts to Capella Space, Iceye U.S. and Umbra to expand the U.S. government’s use of commercial synthetic aperture radar (SAR). The [&#8230;]\nThe post Capella, Iceye and Umbra win NRO radar-data contracts appeared first on SpaceNews.",
-      "feedName": "SpaceNews"
-    },
-    {
       "title": "Why Trump’s Israel Normalization Demand May Kill the Saudi Nuclear Deal",
       "link": "https://warontherocks.com/why-trumps-israel-normalization-demand-may-kill-the-saudi-nuclear-deal/",
       "pubDate": "Wed, 05 Aug 2026 07:30:49 +0000",
       "description": "Only days after the Trump administration celebrated what it called a landmark civilian nuclear agreement with Saudi Arabia, the president himself appeared to place the entire arrangement in jeopardy. In a Truth Social post, President Donald Trump declared the deal &#8220;totally subject&#8221; to Sa",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "LiveEO Secures German Space Agency Grant to Build a Multimodal ‘Vision Foundation’ AI Model for Earth Observation",
-      "link": "https://spacewatch.global/2026/08/liveeo-secures-german-space-agency-grant-to-build-a-multimodal-vision-foundation-ai-model-for-earth-observation/",
-      "pubDate": "Wed, 05 Aug 2026 06:00:00 +0000",
-      "description": "LiveEO has received a high six-figure grant from the German Space Agency at DLR, funded by the BMFTR, for an 18-month feasibility study into a Vision Foundation Model that detects change across both optical and SAR satellite imagery in a single architecture - a shift from narrow, task-specific Earth",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "ESA Astronaut Completes Third Test of EuroSuit Prototype Aboard ISS",
@@ -156,13 +156,6 @@
       "feedName": "War on the Rocks"
     },
     {
-      "title": "ESA Ground Station in Spain Cleared to Return to Service After Wildfire Threat",
-      "link": "https://europeanspaceflight.com/esa-ground-station-in-spain-cleared-to-return-to-service-after-wildfire-threat/",
-      "pubDate": "Mon, 27 Jul 2026 07:27:45 +0000",
-      "description": "The European Space Agency Director General Josef Aschbacher announced on 26 July that the agency had cleared its Cebreros deep-space ground station in Spain to return to service after inspections confirmed that the facility escaped damage from wildfires. Aschbacher explained that teams had completed",
-      "feedName": "European Spaceflight"
-    },
-    {
       "title": "How Ukraine Put Russia on the Backfoot",
       "link": "https://warontherocks.com/how-ukraine-put-russia-on-the-backfoot/",
       "pubDate": "Tue, 21 Jul 2026 18:43:04 +0000",
@@ -191,32 +184,11 @@
       "feedName": "War on the Rocks"
     },
     {
-      "title": "Save the date: CDSE User Summit 2026",
-      "link": "https://eomag.eu/save-the-date-cdse-user-summit-2026/?utm_source=rss&utm_medium=rss&utm_campaign=save-the-date-cdse-user-summit-2026",
-      "pubDate": "Tue, 14 Jul 2026 07:34:56 +0000",
-      "description": "The Copernicus Data Space Ecosystem is pleased to announce its annual user community event. Mark your calendar for the&#160;CDSE User Summit 2026&#160;taking place on&#160;Wednesday, 16 September 2026&#160;during INTERGEO 2026 in Munich. The CDSE User Summit is&#160;a hybrid event&#160;that brings&#",
-      "feedName": "EO Mag"
-    },
-    {
       "title": "An Unlearned Lesson: The Sorry Record of Regime Change Operations in the Middle East",
       "link": "https://warontherocks.com/an-unlearned-lesson-the-sorry-record-of-regime-change-operations-in-the-middle-east/",
       "pubDate": "Mon, 13 Jul 2026 07:30:35 +0000",
       "description": "On Feb. 28, 2026, President Donald Trump announced the commencement of Operation Epic Fury, a joint U.S.-Israeli military operation against Iran. Among the mission&#8217;s goals was the overthrow of the Islamic Republic. &#8220;When we are finished,&#8221; Trump told the Iranian people, &#8220;take ",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Building Higher-Quality Geospatial Datasets for AI: Lessons from Enabled Intelligence and New Capabilities from Kili Technology",
-      "link": "https://eomag.eu/building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology/?utm_source=rss&utm_medium=rss&utm_campaign=building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology",
-      "pubDate": "Thu, 09 Jul 2026 13:35:07 +0000",
-      "description": "What does mission-critical accuracy look like in practice? Enabled Intelligence, an AI technology and services provider specialising in geospatial analysis, builds models for government and commercial clients across military intelligence, disaster recovery, transportation logistics and agricultural ",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Focus on Dynamics: Semantic Data Cube as a key to Sentinel-2-based Landscape Analysis",
-      "link": "https://eomag.eu/focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis",
-      "pubDate": "Thu, 09 Jul 2026 12:55:49 +0000",
-      "description": "color33 is an automated, cloud-based, online processing service that converts multispectral Earth observation images into actionable categories without requiring any training samples. Unlike unsupervised clustering routines or machine learning approaches, color33 is based on a physical-model, produc",
-      "feedName": "EO Mag"
     },
     {
       "title": "The Pentagon’s Sprint to Get Tech Out of the Lab and to the Warfighter",
@@ -231,13 +203,6 @@
       "pubDate": "Thu, 09 Jul 2026 07:30:48 +0000",
       "description": "Mali is not Syria, and Jama&#8217;at Nusrat al-Islam wal-Muslimin is not Hay&#8217;at Tahrir al-Sham.While the fall of the Bashar al-Assad regime and the rise of the Ahmed al-Sharaa government in Damascus, Syria can be seen as a net positive for regional security in the Levant, a Jama&#8217;at Nusra",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "CloudFerro expands sovereign cloud infrastructure for Earth Observation with a new AI-ready cloud region in Poland",
-      "link": "https://eomag.eu/cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland/?utm_source=rss&utm_medium=rss&utm_campaign=cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland",
-      "pubDate": "Wed, 08 Jul 2026 15:55:23 +0000",
-      "description": "CloudFerro, a Polish sovereign cloud provider, has launched a new public cloud region in Łódź, Poland, further expanding its European cloud infrastructure dedicated to Earth Observation, AI and data-intensive workloads. The new region has been designed to support organisations processing large volum",
-      "feedName": "EO Mag"
     },
     {
       "title": "NATO to add up to five Northrop Grumman Triton drones for maritime surveillance",
