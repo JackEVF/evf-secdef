@@ -1,25 +1,46 @@
 {
-  "generated": "2026-08-12T07:37:22.662Z",
+  "generated": "2026-08-13T07:39:07.413Z",
   "newsItems": [
     {
-      "title": "America’s allies doubt US negotiating tactics in Israel after Netanyahu rejected peace plan",
-      "link": "https://www.politico.com/news/2026/08/11/americas-allies-doubt-us-negotiating-tactics-in-israel-after-netanyahu-rejected-peace-plan-01034498?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Tue, 11 Aug 2026 23:44:58 +0000",
-      "description": "Diplomats say they’re worried the Trump administration’s negotiating efforts in Israel can’t recover.",
+      "title": "Silicon Valley Space Week Speaker Focus: Ian Canning, Eutelsat Network Solutions",
+      "link": "https://satnews.com/2026/08/12/silicon-valley-space-week-speaker-focus-ian-canning-eutelsat-network-solutions/",
+      "pubDate": "Wed, 12 Aug 2026 19:42:49 +0000",
+      "description": "Eutelsat has committed €3.39 billion to build and operate the low Earth orbit segment of Europe's IRIS² constellation. Ian Canning runs the subsidiary that sells the company's existing constellation to the U.S. government, and he opens the Satellite Innovation track's second day at Silicon Valley Sp",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Eurovision bars countries at war or in ‘sensitive geopolitical situations’ from hosting",
+      "link": "https://www.politico.eu/article/eurovision-countries-war-sensitive-geopolitical-situations-host/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Wed, 12 Aug 2026 17:23:53 +0000",
+      "description": "New rule comes amid controversy over Israel's continued participation in Europe's glitzy song contest.",
       "feedName": "Politico Europe"
+    },
+    {
+      "title": "DARPA seeks ‘unconstrained, radical’ concepts for next-gen hypersonic cruise missile",
+      "link": "https://breakingdefense.com/2026/08/darpa-seeks-unconstrained-radical-concepts-for-next-gen-hypersonic-cruise-missile/",
+      "pubDate": "Wed, 12 Aug 2026 17:16:23 +0000",
+      "description": "The Pentagon’s secretive research agency says new advances are needed to counter adversary air defenses, along with innovative manufacturing techniques that can produce hypersonic weapons affordably and at scale.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "BlackSky Awarded Multi-Year International Defense Contract Combining Gen-2 and Gen-3 Satellite Intelligence",
+      "link": "https://satnews.com/2026/08/12/blacksky-awarded-multi-year-international-defense-contract-combining-gen-2-and-gen-3-satellite-intelligence/",
+      "pubDate": "Wed, 12 Aug 2026 15:25:30 +0000",
+      "description": "On August 12, 2026, space-based intelligence provider BlackSky Technology Inc. secured a multi-year international defense contract to deliver high-frequency satellite imagery and AI-enabled analytics to an undisclosed global military customer. [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Satellogic Reaches Financial Turnaround with First Positive Q2 Operating Income and EBITDA",
+      "link": "https://satnews.com/2026/08/12/satellogic-reaches-financial-turnaround-with-first-positive-q2-operating-income-and-ebitda/",
+      "pubDate": "Wed, 12 Aug 2026 14:15:44 +0000",
+      "description": "On August 12, 2026, Earth observation satellite provider Satellogic Inc. reported its financial results for the second quarter of 2026, recording its first quarter of positive operating income and positive [&#8230;]",
+      "feedName": "Satnews"
     },
     {
       "title": "Arianespace Pauses ICARUS Carbon-Composite Upper Stage Upgrade to Focus on Ariane 6 Production Ramp",
       "link": "https://satnews.com/2026/08/11/arianespace-pauses-icarus-carbon-composite-upper-stage-upgrade-to-focus-on-ariane-6-production-ramp/",
       "pubDate": "Tue, 11 Aug 2026 18:07:40 +0000",
       "description": "On August 11, 2026, internal European space sector reports confirmed that Arianespace and the European Space Agency (ESA) have paused development of the ICARUS carbon-composite upper stage project. The decision, [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Marlink to Acquire GRC to Expand Sovereign European Defense and Critical Infrastructure Capabilities",
-      "link": "https://satnews.com/2026/08/11/marlink-to-acquire-grc-to-expand-sovereign-european-defense-and-critical-infrastructure-capabilities/",
-      "pubDate": "Tue, 11 Aug 2026 14:16:51 +0000",
-      "description": "On August 11, 2026, global managed network solutions provider Marlink signed a definitive agreement to acquire 100 percent of Global RadioData Communications Ltd (GRC), a UK-based specialist in defense and [&#8230;]",
       "feedName": "Satnews"
     },
     {
@@ -86,39 +107,11 @@
       "feedName": "European Spaceflight"
     },
     {
-      "title": "Senate installs new chiefs for U.S. military space acquisition, spy satellites",
-      "link": "https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/",
-      "pubDate": "Fri, 07 Aug 2026 21:03:50 +0000",
-      "description": "\nErich Hernandez-Baquero will take over military space acquisition; Roger Mason will lead the National Reconnaissance Office\nThe post Senate installs new chiefs for U.S. military space acquisition, spy satellites appeared first on SpaceNews.\n",
-      "feedName": "SpaceNews"
-    },
-    {
-      "title": "SES, Eutelsat Complete RDV1 Milestone for Europe’s IRIS2 Sovereign Constellation Program",
-      "link": "https://www.satellitetoday.com/connectivity/2026/08/07/ses-eutelsat-complete-rdv1-milestone-for-europes-iris2-sovereign-constellation-program/",
-      "pubDate": "Fri, 07 Aug 2026 16:48:14 +0000",
-      "description": "Satellite operator SES completed the Rendez-vous 1 (RDV1) milestone on the implementation phase of the Infrastructure for Resilience, Interconnectivity and Security by Satellite (IRIS²) constellation program. The goal of the [&#8230;]\nThe post SES, Eutelsat Complete RDV1 Milestone for Europe&#8217;s",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "#SpaceWatchGL Inside EO – The Right to be Wrong",
-      "link": "https://spacewatch.global/2026/08/spacewatchgl-inside-eo-the-right-to-be-wrong/",
-      "pubDate": "Thu, 06 Aug 2026 08:00:00 +0000",
-      "description": " Written by Karolina Sarna  Earth Observation is always a model, sold as a measurement. It cannot become infrastructure until it is allowed to be wrong, and that permission is conferred from outside the vendor, never bought.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
       "title": "The Blood Price: In Israel, Military Sacrifice Is Becoming Political Power",
       "link": "https://warontherocks.com/the-blood-price-in-israel-military-sacrifice-is-becoming-political-power/",
       "pubDate": "Thu, 06 Aug 2026 07:30:42 +0000",
       "description": "In late June, cadets at the Israeli military&#8217;s officer training school sat through a lecture by Ofer Winter, a retired brigadier general and a polarizing figure in the Israel Defense Forces. According to Haaretz, Winter told the future officers that &#8220;there are no uninvolved civilians in ",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Telesat Secures Record $1.64 Billion Arctic Military SatCom Contract from Canada’s Defense Investment Agency",
-      "link": "https://spacewatch.global/2026/08/telesat-secures-record-1-64-billion-arctic-military-satcom-contract-from-canadas-defense-investment-agency/",
-      "pubDate": "Thu, 06 Aug 2026 06:00:00 +0000",
-      "description": "Telesat has signed a C$2.3 billion (US$1.64 billion) Lightspeed contract with Canada's Defence Investment Agency for secure military Ka-band Arctic connectivity - the largest in its history.",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Why Trump’s Israel Normalization Demand May Kill the Saudi Nuclear Deal",
@@ -133,13 +126,6 @@
       "pubDate": "Tue, 04 Aug 2026 10:58:20 +0000",
       "description": "ESA astronaut Sophie Adenot has completed a third and likely final test of EuroSuit, a European intravehicular activity (IVA) spacesuit prototype, aboard the International Space Station (ISS). The suit was developed under a CNES contract by a French consortium led by Spartan Space, which also includ",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Shock wave",
-      "link": "https://www.defenseone.com/ideas/2026/08/shock-wave-fictional-intelligence/415158/",
-      "pubDate": "Sat, 01 Aug 2026 08:00:00 -0400",
-      "description": "What if the U.S. were ahead of China in hypersonic weapons development? Welcome to the latest Fictional Intelligence.",
-      "feedName": "Defense One"
     },
     {
       "title": "The Atlantic Brief: The Strait of Hormuz and the Future of Free Navigation",
@@ -184,11 +170,32 @@
       "feedName": "War on the Rocks"
     },
     {
+      "title": "Save the date: CDSE User Summit 2026",
+      "link": "https://eomag.eu/save-the-date-cdse-user-summit-2026/?utm_source=rss&utm_medium=rss&utm_campaign=save-the-date-cdse-user-summit-2026",
+      "pubDate": "Tue, 14 Jul 2026 07:34:56 +0000",
+      "description": "The Copernicus Data Space Ecosystem is pleased to announce its annual user community event. Mark your calendar for the&#160;CDSE User Summit 2026&#160;taking place on&#160;Wednesday, 16 September 2026&#160;during INTERGEO 2026 in Munich. The CDSE User Summit is&#160;a hybrid event&#160;that brings&#",
+      "feedName": "EO Mag"
+    },
+    {
       "title": "An Unlearned Lesson: The Sorry Record of Regime Change Operations in the Middle East",
       "link": "https://warontherocks.com/an-unlearned-lesson-the-sorry-record-of-regime-change-operations-in-the-middle-east/",
       "pubDate": "Mon, 13 Jul 2026 07:30:35 +0000",
       "description": "On Feb. 28, 2026, President Donald Trump announced the commencement of Operation Epic Fury, a joint U.S.-Israeli military operation against Iran. Among the mission&#8217;s goals was the overthrow of the Islamic Republic. &#8220;When we are finished,&#8221; Trump told the Iranian people, &#8220;take ",
       "feedName": "War on the Rocks"
+    },
+    {
+      "title": "Building Higher-Quality Geospatial Datasets for AI: Lessons from Enabled Intelligence and New Capabilities from Kili Technology",
+      "link": "https://eomag.eu/building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology/?utm_source=rss&utm_medium=rss&utm_campaign=building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology",
+      "pubDate": "Thu, 09 Jul 2026 13:35:07 +0000",
+      "description": "What does mission-critical accuracy look like in practice? Enabled Intelligence, an AI technology and services provider specialising in geospatial analysis, builds models for government and commercial clients across military intelligence, disaster recovery, transportation logistics and agricultural ",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "Focus on Dynamics: Semantic Data Cube as a key to Sentinel-2-based Landscape Analysis",
+      "link": "https://eomag.eu/focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis",
+      "pubDate": "Thu, 09 Jul 2026 12:55:49 +0000",
+      "description": "color33 is an automated, cloud-based, online processing service that converts multispectral Earth observation images into actionable categories without requiring any training samples. Unlike unsupervised clustering routines or machine learning approaches, color33 is based on a physical-model, produc",
+      "feedName": "EO Mag"
     },
     {
       "title": "The Pentagon’s Sprint to Get Tech Out of the Lab and to the Warfighter",
@@ -203,6 +210,13 @@
       "pubDate": "Thu, 09 Jul 2026 07:30:48 +0000",
       "description": "Mali is not Syria, and Jama&#8217;at Nusrat al-Islam wal-Muslimin is not Hay&#8217;at Tahrir al-Sham.While the fall of the Bashar al-Assad regime and the rise of the Ahmed al-Sharaa government in Damascus, Syria can be seen as a net positive for regional security in the Levant, a Jama&#8217;at Nusra",
       "feedName": "War on the Rocks"
+    },
+    {
+      "title": "CloudFerro expands sovereign cloud infrastructure for Earth Observation with a new AI-ready cloud region in Poland",
+      "link": "https://eomag.eu/cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland/?utm_source=rss&utm_medium=rss&utm_campaign=cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland",
+      "pubDate": "Wed, 08 Jul 2026 15:55:23 +0000",
+      "description": "CloudFerro, a Polish sovereign cloud provider, has launched a new public cloud region in Łódź, Poland, further expanding its European cloud infrastructure dedicated to Earth Observation, AI and data-intensive workloads. The new region has been designed to support organisations processing large volum",
+      "feedName": "EO Mag"
     },
     {
       "title": "NATO to add up to five Northrop Grumman Triton drones for maritime surveillance",
