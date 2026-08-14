@@ -1,46 +1,53 @@
 {
-  "generated": "2026-08-13T07:39:07.413Z",
+  "generated": "2026-08-14T07:36:56.807Z",
   "newsItems": [
+    {
+      "title": "Army gears up to ‘engage’ enemy surveillance satellites",
+      "link": "https://breakingdefense.com/2026/08/army-gears-up-to-engage-enemy-surveillance-satellites/",
+      "pubDate": "Thu, 13 Aug 2026 20:32:07 +0000",
+      "description": "The Army&#8217;s space superiority efforts are focused on countering adversary ISR satellites, as well as conducting &#8220;stratospheric warfare,&#8221; Col. Joe Mroszcyck told Breaking Defense. \n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "Silicon Valley Space Week Speaker Focus: Robert Cardillo, Planet Federal",
+      "link": "https://satnews.com/2026/08/13/silicon-valley-space-week-speaker-focus-robert-cardillo-planet-federal/",
+      "pubDate": "Thu, 13 Aug 2026 20:01:19 +0000",
+      "description": "A White House request, not a shutter control order, kept high-resolution commercial imagery of Iran off the public market from March into July. Robert Cardillo, who directed the National Geospatial-Intelligence Agency for more than four years and now chairs Planet Federal, joins the MilSat Symposium",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Telesat Remains Optimistic About Lightspeed Despite Shaky 1H26 Financial Results, Looming Debt",
+      "link": "https://www.satellitetoday.com/finance/2026/08/13/telesat-remains-optimistic-about-lightspeed-despite-shaky-1h26-financial-results-looming-debt/",
+      "pubDate": "Thu, 13 Aug 2026 14:33:49 +0000",
+      "description": "Canadian satellite operator Telesat’s latest financial results paint a picture of short-term pain in the first six months of 2026 and raises concern over debt that matures in the next [&#8230;]\nThe post Telesat Remains Optimistic About Lightspeed Despite Shaky 1H26 Financial Results, Looming Debt ap",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity",
+      "link": "https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity/",
+      "pubDate": "Thu, 13 Aug 2026 14:27:27 +0000",
+      "description": "\nParis, France &#124; July 2026 — The maritime satellite communications market is entering a new phase of growth as next-generation satellite networks transform connectivity at sea. According to Novaspace’s newly [&#8230;]\nThe post Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 a",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "#SpaceWatchGL Inside EO – A Job is not a Market",
+      "link": "https://spacewatch.global/2026/08/spacewatchgl-inside-eo-a-job-is-not-a-market/",
+      "pubDate": "Thu, 13 Aug 2026 08:00:00 +0000",
+      "description": " Written by Karolina Sarna  Seventy-five accountable jobs across nine domains reduce to five. A map of the demand side Earth observation feeds, and why an empty seat is not an opening.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Synspective and Spectee Combine Radar Satellite Imagery and Social Media data to Improve Flood Mapping Precision",
+      "link": "https://spacewatch.global/2026/08/synspective-and-spectee-combine-radar-satellite-imagery-and-social-media-data-to-improve-flood-mapping-precision/",
+      "pubDate": "Thu, 13 Aug 2026 06:00:00 +0000",
+      "description": "Synspective and Spectee have combined SAR satellite imagery with social-media-derived flood-depth data to map flood extents in greater detail than either source manages alone, for faster disaster response.",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "Silicon Valley Space Week Speaker Focus: Ian Canning, Eutelsat Network Solutions",
       "link": "https://satnews.com/2026/08/12/silicon-valley-space-week-speaker-focus-ian-canning-eutelsat-network-solutions/",
       "pubDate": "Wed, 12 Aug 2026 19:42:49 +0000",
       "description": "Eutelsat has committed €3.39 billion to build and operate the low Earth orbit segment of Europe's IRIS² constellation. Ian Canning runs the subsidiary that sells the company's existing constellation to the U.S. government, and he opens the Satellite Innovation track's second day at Silicon Valley Sp",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Eurovision bars countries at war or in ‘sensitive geopolitical situations’ from hosting",
-      "link": "https://www.politico.eu/article/eurovision-countries-war-sensitive-geopolitical-situations-host/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Wed, 12 Aug 2026 17:23:53 +0000",
-      "description": "New rule comes amid controversy over Israel's continued participation in Europe's glitzy song contest.",
-      "feedName": "Politico Europe"
-    },
-    {
-      "title": "DARPA seeks ‘unconstrained, radical’ concepts for next-gen hypersonic cruise missile",
-      "link": "https://breakingdefense.com/2026/08/darpa-seeks-unconstrained-radical-concepts-for-next-gen-hypersonic-cruise-missile/",
-      "pubDate": "Wed, 12 Aug 2026 17:16:23 +0000",
-      "description": "The Pentagon’s secretive research agency says new advances are needed to counter adversary air defenses, along with innovative manufacturing techniques that can produce hypersonic weapons affordably and at scale.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
-      "title": "BlackSky Awarded Multi-Year International Defense Contract Combining Gen-2 and Gen-3 Satellite Intelligence",
-      "link": "https://satnews.com/2026/08/12/blacksky-awarded-multi-year-international-defense-contract-combining-gen-2-and-gen-3-satellite-intelligence/",
-      "pubDate": "Wed, 12 Aug 2026 15:25:30 +0000",
-      "description": "On August 12, 2026, space-based intelligence provider BlackSky Technology Inc. secured a multi-year international defense contract to deliver high-frequency satellite imagery and AI-enabled analytics to an undisclosed global military customer. [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Satellogic Reaches Financial Turnaround with First Positive Q2 Operating Income and EBITDA",
-      "link": "https://satnews.com/2026/08/12/satellogic-reaches-financial-turnaround-with-first-positive-q2-operating-income-and-ebitda/",
-      "pubDate": "Wed, 12 Aug 2026 14:15:44 +0000",
-      "description": "On August 12, 2026, Earth observation satellite provider Satellogic Inc. reported its financial results for the second quarter of 2026, recording its first quarter of positive operating income and positive [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Arianespace Pauses ICARUS Carbon-Composite Upper Stage Upgrade to Focus on Ariane 6 Production Ramp",
-      "link": "https://satnews.com/2026/08/11/arianespace-pauses-icarus-carbon-composite-upper-stage-upgrade-to-focus-on-ariane-6-production-ramp/",
-      "pubDate": "Tue, 11 Aug 2026 18:07:40 +0000",
-      "description": "On August 11, 2026, internal European space sector reports confirmed that Arianespace and the European Space Agency (ESA) have paused development of the ICARUS carbon-composite upper stage project. The decision, [&#8230;]",
       "feedName": "Satnews"
     },
     {
@@ -63,13 +70,6 @@
       "pubDate": "Mon, 10 Aug 2026 20:54:38 +0000",
       "description": "DARPA is developing a hypersonic cruise missile in response to the Pentagon's concerns that American missiles are vulnerable to enemy air defenses.",
       "feedName": "Defense News"
-    },
-    {
-      "title": "Catalyst Completes Infrastructure EO Analysis Pilot Program with UK Rail Operator",
-      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/08/10/catalyst-completes-infrastructure-eo-analysis-pilot-program-with-uk-rail-operator/",
-      "pubDate": "Mon, 10 Aug 2026 16:20:04 +0000",
-      "description": "Network Rail, the owner and operator of Britain&#8217;s railway infrastructure, teamed up with Earth Observation (EO) analytics Catalyst (PCI Geomatics) on a 12-week pilot program that  investigated how weather-driven risks [&#8230;]\nThe post Catalyst Completes Infrastructure EO Analysis Pilot Progr",
-      "feedName": "Via Satellite"
     },
     {
       "title": "Europe’s IRIS2 Constellation Enters the Build Phase",
@@ -237,13 +237,6 @@
       "link": "https://warontherocks.com/the-shifting-fortunes-of-the-kurds/",
       "pubDate": "Tue, 30 Jun 2026 17:45:40 +0000",
       "description": "The Kurds&#8217; fortunes have ebbed and flowed in recent years, but the fall of the Assad regime in Syria in December 2024, the 2025 decision by the Kurdistan Workers&#8217; Party (PKK) to dissolve and engage in talks with the Turkish government, and the 2026 U.S.-Israeli war with Iran had enormous",
-      "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Misreading Myanmar’s War: Why the Junta’s Recent Gains Don’t Mean Imminent Victory",
-      "link": "https://warontherocks.com/misreading-myanmars-war-why-the-juntas-recent-gains-dont-mean-imminent-victory/",
-      "pubDate": "Fri, 26 Jun 2026 07:30:04 +0000",
-      "description": "To understand how close Myanmar&#8217;s pro-democracy resistance came to victory last year &#8212; and how far it has slipped since &#8212; there is no sharper microcosm than the story of a Gen Z sniper. In April 2025, a female teenager, Anina, enraptured the world, her youth-driven &#8220;Spring Re",
       "feedName": "War on the Rocks"
     }
   ],
