@@ -1,6 +1,34 @@
 {
-  "generated": "2026-08-14T07:36:56.807Z",
+  "generated": "2026-08-15T06:42:31.708Z",
   "newsItems": [
+    {
+      "title": "Novaspace Projects $3 Billion Cumulative In-Orbit Servicing Market Over the Next Decade",
+      "link": "https://satnews.com/2026/08/14/novaspace-projects-3-billion-cumulative-in-orbit-servicing-market-over-the-next-decade/",
+      "pubDate": "Fri, 14 Aug 2026 20:29:29 +0000",
+      "description": "On August 14, 2026, space consulting and market intelligence firm Novaspace published its latest In-Orbit Services Markets report, forecasting that emerging in-orbit satellite services will generate approximately $3 billion (€2.59 [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Astranis Unveils Perceptor Space Domain Awareness GEO Satellite",
+      "link": "https://www.satellitetoday.com/manufacturing/2026/08/14/astranis-unveils-perceptor-space-domain-awareness-geo-satellite/",
+      "pubDate": "Fri, 14 Aug 2026 14:58:43 +0000",
+      "description": "Astranis is bringing to market a new space domain awareness and maneuverability satellite for GEO orbit, called &#8220;Perceptor,&#8221; the company announced Thursday. Adding the satellite is Astranis&#8217; latest effort to [&#8230;]\nThe post Astranis Unveils Perceptor Space Domain Awareness GEO S",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
+      "link": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
+      "pubDate": "Fri, 14 Aug 2026 09:00:00 +0000",
+      "description": "\nParis, France &#124; August 2026 – Novaspace’s latest��In-Orbit Services Markets report projects that emerging in-orbit services will generate approximately $3 billion in cumulative service revenues over the next decade, highlighting the early development [&#8230;]\nThe post In-Orbit Services Market",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "Pixxel-led Consortium to Build India’s First Privately Led National Earth observation Constellation",
+      "link": "https://spacewatch.global/2026/08/pixxel-led-consortium-to-build-indias-first-privately-led-national-earth-observation-constellation/",
+      "pubDate": "Fri, 14 Aug 2026 06:00:00 +0000",
+      "description": "The Indian National Space Promotion and Authorization Center (IN-SPACe) has selected a consortium of Indian space companies to design, build, own, and operate the country's first privately led national Earth Observation (EO) constellation under the Public-Private Partnership (EO-PPP) model.",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "Army gears up to ‘engage’ enemy surveillance satellites",
       "link": "https://breakingdefense.com/2026/08/army-gears-up-to-engage-enemy-surveillance-satellites/",
@@ -12,7 +40,7 @@
       "title": "Silicon Valley Space Week Speaker Focus: Robert Cardillo, Planet Federal",
       "link": "https://satnews.com/2026/08/13/silicon-valley-space-week-speaker-focus-robert-cardillo-planet-federal/",
       "pubDate": "Thu, 13 Aug 2026 20:01:19 +0000",
-      "description": "A White House request, not a shutter control order, kept high-resolution commercial imagery of Iran off the public market from March into July. Robert Cardillo, who directed the National Geospatial-Intelligence Agency for more than four years and now chairs Planet Federal, joins the MilSat Symposium",
+      "description": "Robert Cardillo ran the National Geospatial-Intelligence Agency from 2014 to 2019 and now chairs Planet Labs' federal arm. He joins a panel on how commercial satellite imagery is reaching military decisions, on the final day of the MilSat Symposium at Silicon Valley Space Week.",
       "feedName": "Satnews"
     },
     {
@@ -44,13 +72,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Silicon Valley Space Week Speaker Focus: Ian Canning, Eutelsat Network Solutions",
-      "link": "https://satnews.com/2026/08/12/silicon-valley-space-week-speaker-focus-ian-canning-eutelsat-network-solutions/",
-      "pubDate": "Wed, 12 Aug 2026 19:42:49 +0000",
-      "description": "Eutelsat has committed €3.39 billion to build and operate the low Earth orbit segment of Europe's IRIS² constellation. Ian Canning runs the subsidiary that sells the company's existing constellation to the U.S. government, and he opens the Satellite Innovation track's second day at Silicon Valley Sp",
-      "feedName": "Satnews"
-    },
-    {
       "title": "#SpaceWatchGL Opinion: Europe’s Space Leadership Enters an Uncertain Autumn",
       "link": "https://spacewatch.global/2026/08/spacewatchgl-opinion-europes-space-leadership-enters-an-uncertain-autumn/",
       "pubDate": "Tue, 11 Aug 2026 08:00:00 +0000",
@@ -72,31 +93,10 @@
       "feedName": "Defense News"
     },
     {
-      "title": "Europe’s IRIS2 Constellation Enters the Build Phase",
-      "link": "https://payloadspace.com/europes-iris2-constellation-enters-the-build-phase/",
-      "pubDate": "Mon, 10 Aug 2026 12:40:00 +0000",
-      "description": "After seven months of negotiations, officials from the European Commission, ESA, EUSPA, and SpaceRISE have agreed to move into the implementation phase of IRIS2.\nThe post Europe’s IRIS2 Constellation Enters the Build Phase appeared first on Payload.\n",
-      "feedName": "Payload Space"
-    },
-    {
       "title": "#SpaceWatchGL Inside EO – The Value was never in the Satellite",
       "link": "https://spacewatch.global/2026/08/spacewatch-inside-eo-the-value-was-never-in-the-satellite/",
       "pubDate": "Mon, 10 Aug 2026 08:00:00 +0000",
       "description": " Written by Karolina Sarna  Commercial Earth Observation has spent years improving satellite capabilities while searching for demand. In this edition of Inside EO, Karolina Sarna argues that value is not created by better data, reasoning layers, or messaging, but only when an observation changes a d",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "CNES Secures Access to Orbitworks’ ‘Altair’ Earth Observation Constellation in a Multi-Year Deal",
-      "link": "https://spacewatch.global/2026/08/cnes-secures-access-to-orbitworks-altair-earth-observation-constellation-in-a-multi-year-deal/",
-      "pubDate": "Mon, 10 Aug 2026 06:00:00 +0000",
-      "description": "The French Space Agency has secured access to Altair, the ten-satellite, AI-enabled Earth observation constellation being developed and manufactured by Orbitworks, a UAE commercial satellite constellation production and operation joint venture comprising Loft Orbital and Marlan Space. \n\nFeaturing a ",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "HispaSat Confirms Spanish Commitments to IRIS² as Ground Segment Prime Contractor, with the Program Targeting 2029 for Initial Launches",
-      "link": "https://spacewatch.global/2026/08/hispasat-confirms-spanish-commitments-to-iris%c2%b2-as-ground-segment-prime-contractor-with-the-program-targeting-2029-for-initial-launches/",
-      "pubDate": "Mon, 10 Aug 2026 06:00:00 +0000",
-      "description": "The European Commission and ESA have concluded IRIS² negotiations with the SpaceRISE consortium (Eutelsat, HispaSat, SES), naming HispaSat prime contractor for the ground segment, with initial launches targeted for 2029.",
       "feedName": "SpaceWatch Global"
     },
     {
