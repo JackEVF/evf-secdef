@@ -1,6 +1,27 @@
 {
-  "generated": "2026-08-18T06:49:27.330Z",
+  "generated": "2026-08-19T06:49:45.567Z",
   "newsItems": [
+    {
+      "title": "Enterprise Sector Adopts Vertical Analytics Platforms and APIs to Replace Raw Satellite Imagery",
+      "link": "https://satnews.com/2026/08/18/enterprise-sector-adopts-vertical-analytics-platforms-and-apis-to-replace-raw-satellite-imagery/",
+      "pubDate": "Tue, 18 Aug 2026 15:38:12 +0000",
+      "description": "Targeting the operational friction and processing overhead of raw satellite data, Earth observation operators are transitioning from selling unprocessed imagery to delivering vertical-specific analytics platforms via Application Programming Interfaces (APIs). [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Australia, Japan test co-developed high-energy laser",
+      "link": "https://breakingdefense.com/2026/08/australia-japan-test-co-developed-high-energy-laser/",
+      "pubDate": "Tue, 18 Aug 2026 15:26:29 +0000",
+      "description": "Both countries will also accelerate discussions for Japan to use Australian ranges for hypersonic weapon tests\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "Commercial Demand Drives Earth Observation Small Satellite Market Toward $6.90 Billion by 2034",
+      "link": "https://satnews.com/2026/08/18/commercial-demand-drives-earth-observation-small-satellite-market-toward-6-90-billion-by-2034/",
+      "pubDate": "Tue, 18 Aug 2026 14:04:54 +0000",
+      "description": "On August 18, 2026, market intelligence firm Polaris Market Research published analysis projecting the global Earth observation small satellite market to expand from $2.14 billion in 2026 to $6.90 billion [&#8230;]",
+      "feedName": "Satnews"
+    },
     {
       "title": "NASA Demonstrates GPS-Free Autonomous Spacecraft Navigation System on Starling Swarm",
       "link": "https://satnews.com/2026/08/17/nasa-demonstrates-gps-free-autonomous-spacecraft-navigation-system-on-starling-swarm/",
@@ -9,25 +30,11 @@
       "feedName": "Satnews"
     },
     {
-      "title": "US, Israel create working groups for Gaza disarmament",
-      "link": "https://www.politico.com/news/2026/08/17/us-israel-create-working-groups-for-gaza-disarmament-01039713?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Mon, 17 Aug 2026 22:39:40 +0000",
-      "description": "Kushner touts 'lot of progress' despite disagreement over definition of disarmament.",
-      "feedName": "Politico Europe"
-    },
-    {
       "title": "HEO to use Planet satellites for non-Earth imaging",
       "link": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/",
       "pubDate": "Mon, 17 Aug 2026 22:00:00 +0000",
       "description": "\nHEO, the Australian company that uses Earth observation satellites to take images of other spacecraft, has signed an agreement with Planet to access that company’s satellites\nThe post HEO to use Planet satellites for non-Earth imaging appeared first on SpaceNews.\n",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "‘Irish convicts were the original boat people’",
-      "link": "https://www.politico.com/news/2026/08/17/pat-conroy-irish-convicts-original-boat-people-aukus-pacific-01038978?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Mon, 17 Aug 2026 20:48:59 +0000",
-      "description": "Pat Conroy on AUKUS doubters, multiculturalism and Australia's broken system.",
-      "feedName": "Politico Europe"
     },
     {
       "title": "Japan launches second US military payload to monitor space above Indo-Pacific",
@@ -65,38 +72,10 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Novaspace Projects $3 Billion Cumulative In-Orbit Servicing Market Over the Next Decade",
-      "link": "https://satnews.com/2026/08/16/novaspace-projects-3-billion-cumulative-in-orbit-servicing-market-over-the-next-decade/",
-      "pubDate": "Sun, 16 Aug 2026 20:00:00 +0000",
-      "description": "On August 14, 2026, space consulting and market intelligence firm Novaspace published its latest In-Orbit Services Markets report, forecasting that emerging in-orbit satellite services will generate approximately $3 billion (€2.59 [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "U.S. Space Force and Japan Complete QZSS Hosted-Payload Program with Launch of QZS-7",
-      "link": "https://satnews.com/2026/08/16/u-s-space-force-and-japan-complete-qzss-hosted-payload-program-with-launch-of-qzs-7/",
-      "pubDate": "Sun, 16 Aug 2026 14:36:41 +0000",
-      "description": "On August 10, 2026, a Japanese H-3 launch vehicle lifted off from the Tanegashima Space Center carrying Japan’s Quasi-Zenith Satellite 7 (QZS-7) spacecraft, which hosts an optical Space Domain Awareness [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "Lunar orbiter among upcoming NASA CLPS task orders",
       "link": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/",
       "pubDate": "Sat, 15 Aug 2026 23:49:58 +0000",
       "description": "\nNASA plans to award three more lunar missions this year through a commercial services program, including an orbiter that would replace the Lunar Reconnaissance Orbiter\nThe post Lunar orbiter among upcoming NASA CLPS task orders appeared first on SpaceNews.\n",
-      "feedName": "SpaceNews"
-    },
-    {
-      "title": "Astranis Unveils Perceptor Space Domain Awareness GEO Satellite",
-      "link": "https://www.satellitetoday.com/manufacturing/2026/08/14/astranis-unveils-perceptor-space-domain-awareness-geo-satellite/",
-      "pubDate": "Fri, 14 Aug 2026 14:58:43 +0000",
-      "description": "Astranis is bringing to market a new space domain awareness and maneuverability satellite for GEO orbit, called &#8220;Perceptor,&#8221; the company announced Thursday. Adding the satellite is Astranis&#8217; latest effort to [&#8230;]\nThe post Astranis Unveils Perceptor Space Domain Awareness GEO S",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
-      "link": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
-      "pubDate": "Fri, 14 Aug 2026 09:00:00 +0000",
-      "description": "\nParis, France &#124; August 2026 – Novaspace’s latest In-Orbit Services Markets report projects that emerging in-orbit services will generate approximately $3 billion in cumulative service revenues over the next decade, highlighting the early development [&#8230;]\nThe post In-Orbit Services Market ",
       "feedName": "SpaceNews"
     },
     {
@@ -118,13 +97,6 @@
       "link": "https://spacewatch.global/2026/08/synspective-and-spectee-combine-radar-satellite-imagery-and-social-media-data-to-improve-flood-mapping-precision/",
       "pubDate": "Thu, 13 Aug 2026 06:00:00 +0000",
       "description": "Synspective and Spectee have combined SAR satellite imagery with social-media-derived flood-depth data to map flood extents in greater detail than either source manages alone, for faster disaster response.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "#SpaceWatchGL Opinion: Europe’s Space Leadership Enters an Uncertain Autumn",
-      "link": "https://spacewatch.global/2026/08/spacewatchgl-opinion-europes-space-leadership-enters-an-uncertain-autumn/",
-      "pubDate": "Tue, 11 Aug 2026 08:00:00 +0000",
-      "description": " Written by Gilles Rabin  As Europe prepares for a new political and conference season, questions about leadership, industrial strategy and long-term ambition are becoming increasingly difficult to ignore. From lunar exploration to IRIS² and France's role within Europe, the coming months may prove d",
       "feedName": "SpaceWatch Global"
     },
     {
