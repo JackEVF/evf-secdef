@@ -1,33 +1,40 @@
 {
-  "generated": "2026-08-19T06:49:45.567Z",
+  "generated": "2026-08-20T06:51:41.381Z",
   "newsItems": [
     {
-      "title": "Enterprise Sector Adopts Vertical Analytics Platforms and APIs to Replace Raw Satellite Imagery",
-      "link": "https://satnews.com/2026/08/18/enterprise-sector-adopts-vertical-analytics-platforms-and-apis-to-replace-raw-satellite-imagery/",
-      "pubDate": "Tue, 18 Aug 2026 15:38:12 +0000",
-      "description": "Targeting the operational friction and processing overhead of raw satellite data, Earth observation operators are transitioning from selling unprocessed imagery to delivering vertical-specific analytics platforms via Application Programming Interfaces (APIs). [&#8230;]",
+      "title": "Hypersonic missile startup Castelion raises $1 billion ",
+      "link": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/",
+      "pubDate": "Wed, 19 Aug 2026 23:12:41 +0000",
+      "description": "\nCompany founded by former SpaceX executives aims to produce a low-cost hypersonic weapon and a broader portfolio of longer-range strike and missile defense weapons\nThe post Hypersonic missile startup Castelion raises $1 billion  appeared first on SpaceNews.\n",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "Kratos Reports Growing Tri-Band Antenna Demand and Debuts New Model ",
+      "link": "https://www.satellitetoday.com/technology/2026/08/19/kratos-reports-growing-tri-band-antenna-demand-and-debuts-new-model/",
+      "pubDate": "Wed, 19 Aug 2026 20:26:43 +0000",
+      "description": "Kratos Defense &#38; Security Solutions has received multi-million-dollar orders from multiple international customers for GAIA antenna systems by Orbit Communication Systems, now a Kratos company. These orders support Earth Observation [&#8230;]\nThe post Kratos Reports Growing Tri-Band Antenna Dema",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "HEO Expands Non-Earth Imaging Network via Planet Labs’ SkySat Constellation Integration",
+      "link": "https://satnews.com/2026/08/19/heo-expands-non-earth-imaging-network-via-planet-labs-skysat-constellation-integration/",
+      "pubDate": "Wed, 19 Aug 2026 15:09:13 +0000",
+      "description": "On August 18, 2026, Australian space situational awareness vendor HEO announced a strategic partnership with Earth observation operator Planet Labs PBC to integrate Planet&#8217;s SkySat constellation into HEO’s Non-Earth Imaging [&#8230;]",
       "feedName": "Satnews"
+    },
+    {
+      "title": "ESA Astronaut Sophie Adenot Makes History as First Frenchwoman to Perform A Spacewalk",
+      "link": "https://spacewatch.global/2026/08/esa-astronaut-sophie-adenot-makes-history-as-first-frenchwoman-to-perform-a-spacewalk/",
+      "pubDate": "Wed, 19 Aug 2026 06:00:00 +0000",
+      "description": "ESA astronaut Sophie Adenot has become the first Frenchwoman to perform a spacewalk, venturing outside the International Space Station yesterday, 18 August, with NASA astronaut Anil Menon to repair a crucial piece of equipment.",
+      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Australia, Japan test co-developed high-energy laser",
       "link": "https://breakingdefense.com/2026/08/australia-japan-test-co-developed-high-energy-laser/",
       "pubDate": "Tue, 18 Aug 2026 15:26:29 +0000",
-      "description": "Both countries will also accelerate discussions for Japan to use Australian ranges for hypersonic weapon tests\n",
+      "description": "Both countries will also accelerate discussions for Japan to use Australian ranges for hypersonic weapon tests.\n",
       "feedName": "Breaking Defense"
-    },
-    {
-      "title": "Commercial Demand Drives Earth Observation Small Satellite Market Toward $6.90 Billion by 2034",
-      "link": "https://satnews.com/2026/08/18/commercial-demand-drives-earth-observation-small-satellite-market-toward-6-90-billion-by-2034/",
-      "pubDate": "Tue, 18 Aug 2026 14:04:54 +0000",
-      "description": "On August 18, 2026, market intelligence firm Polaris Market Research published analysis projecting the global Earth observation small satellite market to expand from $2.14 billion in 2026 to $6.90 billion [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "NASA Demonstrates GPS-Free Autonomous Spacecraft Navigation System on Starling Swarm",
-      "link": "https://satnews.com/2026/08/17/nasa-demonstrates-gps-free-autonomous-spacecraft-navigation-system-on-starling-swarm/",
-      "pubDate": "Mon, 17 Aug 2026 22:54:43 +0000",
-      "description": "On August 17, 2026, NASA announced the successful flight demonstration of the Fast Autonomous Lost-in-space Catalog-based Optical Navigation (FALCON) system aboard the agency’s Starling CubeSat mission in low Earth orbit. [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "HEO to use Planet satellites for non-Earth imaging",
@@ -41,13 +48,6 @@
       "link": "https://breakingdefense.com/2026/08/japan-launches-second-us-military-payload-to-monitor-space-above-indo-pacific/",
       "pubDate": "Mon, 17 Aug 2026 18:57:04 +0000",
       "description": "The data from the hosted payloads on QZS-7 and its predecessor QZS-6 will feed into the US Space Surveillance Network operated by the 18th Space Defense Squadron.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
-      "title": "What China’s PLA says it is learning from the Iran war",
-      "link": "https://breakingdefense.com/2026/08/what-chinas-pla-says-it-is-learning-from-the-iran-war/",
-      "pubDate": "Mon, 17 Aug 2026 17:19:00 +0000",
-      "description": "From AI integration to the economics of air and missile defense, Chinese military commentators are paying especially close attention to the US-Israel war in Iran.\n",
       "feedName": "Breaking Defense"
     },
     {
@@ -70,13 +70,6 @@
       "pubDate": "Mon, 17 Aug 2026 06:00:00 +0000",
       "description": "A U.S. Space Domain Awareness payload hosted on Japan's Quasi-Zenith Satellite 7 successfully launched aboard Japan's H3 launch vehicle on August 10, 2026. The mission marked the H3 vehicle's second consecutive successful launch following its December 2025 mission failure. ",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Lunar orbiter among upcoming NASA CLPS task orders",
-      "link": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/",
-      "pubDate": "Sat, 15 Aug 2026 23:49:58 +0000",
-      "description": "\nNASA plans to award three more lunar missions this year through a commercial services program, including an orbiter that would replace the Lunar Reconnaissance Orbiter\nThe post Lunar orbiter among upcoming NASA CLPS task orders appeared first on SpaceNews.\n",
-      "feedName": "SpaceNews"
     },
     {
       "title": "Pixxel-led Consortium to Build India’s First Privately Led National Earth observation Constellation",
@@ -237,13 +230,6 @@
       "link": "https://warontherocks.com/from-shin-bet-to-mossad-netanyahu-reshapes-israeli-intelligence/",
       "pubDate": "Wed, 01 Jul 2026 17:30:40 +0000",
       "description": "Editor&#8217;s Note: Rewind and Reconnoiter is one of our weekly members-only newsletters. To access the full archive of Rewind and Reconnoiter as well as our other members-only content, including podcasts, newsletters, and exclusive access to the War on the Rocks app, sign up using the link in the ",
-      "feedName": "War on the Rocks"
-    },
-    {
-      "title": "The Shifting Fortunes of the Kurds",
-      "link": "https://warontherocks.com/the-shifting-fortunes-of-the-kurds/",
-      "pubDate": "Tue, 30 Jun 2026 17:45:40 +0000",
-      "description": "The Kurds&#8217; fortunes have ebbed and flowed in recent years, but the fall of the Assad regime in Syria in December 2024, the 2025 decision by the Kurdistan Workers&#8217; Party (PKK) to dissolve and engage in talks with the Turkish government, and the 2026 U.S.-Israeli war with Iran had enormous",
       "feedName": "War on the Rocks"
     }
   ],
