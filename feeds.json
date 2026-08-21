@@ -1,6 +1,48 @@
 {
-  "generated": "2026-08-20T06:51:41.381Z",
+  "generated": "2026-08-21T06:52:30.434Z",
   "newsItems": [
+    {
+      "title": "SpaceWERX selects 11 firms to scale technologies for military space",
+      "link": "https://spacenews.com/spacewerx-selects-11-firms-to-scale-technologies-for-military-space/",
+      "pubDate": "Thu, 20 Aug 2026 21:44:35 +0000",
+      "description": "\nThe new round of STRATFIs were awarded to Agile Space Industries, Antares Nuclear, EO Solutions, Hydrosat, Kall Morris, Method Security, Muon Space, Scout Space, Sedaro, Star Catcher Industries and ThinkOrbital\nThe post SpaceWERX selects 11 firms to scale technologies for military space appeared fi",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "Rocket Lab Launches SAR Satellite for Japan’s iQPS",
+      "link": "https://www.satellitetoday.com/launch/2026/08/20/rocket-lab-launches-sar-satellite-for-japans-iqps/",
+      "pubDate": "Thu, 20 Aug 2026 20:20:18 +0000",
+      "description": "Rocket Lab completed its ninth launch for Japanese synthetic aperture radar (SAR) company Institute for Q-shu Pioneers of Space, Inc. (iQPS) on Aug. 21 from New Zealand.  iQPS based in [&#8230;]\nThe post Rocket Lab Launches SAR Satellite for Japan’s iQPS appeared first on Via Satellite.\n",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "What’s next for ISR in space",
+      "link": "https://spacenews.com/whats-next-for-isr-in-space/",
+      "pubDate": "Thu, 20 Aug 2026 17:21:33 +0000",
+      "description": "\nIn this episode, SpaceNews correspondent Debra Werner leads a panel of experts to discuss the role of ISR in space and what comes next. This session was recorded in May [&#8230;]\nThe post What&#8217;s next for ISR in space appeared first on SpaceNews.\n",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium ",
+      "link": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/",
+      "pubDate": "Thu, 20 Aug 2026 16:00:00 +0000",
+      "description": "\nHuntsville, AL &#8212; Moog Inc. (NYSE: MOG.A and MOG.B) announces a significant expansion at its Huntsville, AL facility that now includes a new secure Hypersonic/Interceptor Hardware-in-the-Loop (HWIL) lab. It is [&#8230;]\nThe post Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "ESA Confirms Ariane 6 Block 3 Upgrades Have Been Shelved",
+      "link": "https://europeanspaceflight.com/esa-confirms-ariane-6-block-3-upgrades-have-been-shelved/",
+      "pubDate": "Thu, 20 Aug 2026 14:58:48 +0000",
+      "description": "The European Space Agency has confirmed to European Spaceflight that it is no longer considering the Ariane 6 Block 3 evolution, saying there is “no programme need or justification” for the evolution at this time. Questions regarding the scrapping of the Block 3 upgrades arose earlier this month aft",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
+      "link": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission/",
+      "pubDate": "Thu, 20 Aug 2026 10:00:00 +0000",
+      "description": "\nLOS ANGELES, CA, September 8th, 2026. Proteus Space, a dual-use aerospace company delivering rapid, end-to-end access to space, today announced it has been selected by The Charles Stark Draper Laboratory, [&#8230;]\nThe post Draper Selects Proteus Space for Advanced On-Orbit Mission appeared first o",
+      "feedName": "SpaceNews"
+    },
     {
       "title": "Hypersonic missile startup Castelion raises $1 billion ",
       "link": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/",
@@ -30,27 +72,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Australia, Japan test co-developed high-energy laser",
-      "link": "https://breakingdefense.com/2026/08/australia-japan-test-co-developed-high-energy-laser/",
-      "pubDate": "Tue, 18 Aug 2026 15:26:29 +0000",
-      "description": "Both countries will also accelerate discussions for Japan to use Australian ranges for hypersonic weapon tests.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
-      "title": "HEO to use Planet satellites for non-Earth imaging",
-      "link": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/",
-      "pubDate": "Mon, 17 Aug 2026 22:00:00 +0000",
-      "description": "\nHEO, the Australian company that uses Earth observation satellites to take images of other spacecraft, has signed an agreement with Planet to access that company’s satellites\nThe post HEO to use Planet satellites for non-Earth imaging appeared first on SpaceNews.\n",
-      "feedName": "SpaceNews"
-    },
-    {
-      "title": "Japan launches second US military payload to monitor space above Indo-Pacific",
-      "link": "https://breakingdefense.com/2026/08/japan-launches-second-us-military-payload-to-monitor-space-above-indo-pacific/",
-      "pubDate": "Mon, 17 Aug 2026 18:57:04 +0000",
-      "description": "The data from the hosted payloads on QZS-7 and its predecessor QZS-6 will feed into the US Space Surveillance Network operated by the 18th Space Defense Squadron.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "US Space Force, Japan launch sensor to bolster space surveillance above Indo-Pacific",
       "link": "https://www.defensenews.com/industry/techwatch/2026/08/17/us-space-force-japan-launch-sensor-to-bolster-space-surveillance-above-indo-pacific/",
       "pubDate": "Mon, 17 Aug 2026 15:06:00 +0000",
@@ -72,34 +93,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Pixxel-led Consortium to Build India’s First Privately Led National Earth observation Constellation",
-      "link": "https://spacewatch.global/2026/08/pixxel-led-consortium-to-build-indias-first-privately-led-national-earth-observation-constellation/",
-      "pubDate": "Fri, 14 Aug 2026 06:00:00 +0000",
-      "description": "The Indian National Space Promotion and Authorization Center (IN-SPACe) has selected a consortium of Indian space companies to design, build, own, and operate the country's first privately led national Earth Observation (EO) constellation under the Public-Private Partnership (EO-PPP) model.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "#SpaceWatchGL Inside EO – A Job is not a Market",
-      "link": "https://spacewatch.global/2026/08/spacewatchgl-inside-eo-a-job-is-not-a-market/",
-      "pubDate": "Thu, 13 Aug 2026 08:00:00 +0000",
-      "description": " Written by Karolina Sarna  Seventy-five accountable jobs across nine domains reduce to five. A map of the demand side Earth observation feeds, and why an empty seat is not an opening.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Synspective and Spectee Combine Radar Satellite Imagery and Social Media data to Improve Flood Mapping Precision",
-      "link": "https://spacewatch.global/2026/08/synspective-and-spectee-combine-radar-satellite-imagery-and-social-media-data-to-improve-flood-mapping-precision/",
-      "pubDate": "Thu, 13 Aug 2026 06:00:00 +0000",
-      "description": "Synspective and Spectee have combined SAR satellite imagery with social-media-derived flood-depth data to map flood extents in greater detail than either source manages alone, for faster disaster response.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "DARPA developing hypersonic cruise missile to evade enemy air defenses ",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/10/darpa-developing-hypersonic-cruise-missile-to-evade-enemy-air-defenses/",
-      "pubDate": "Mon, 10 Aug 2026 20:54:38 +0000",
-      "description": "DARPA is developing a hypersonic cruise missile in response to the Pentagon's concerns that American missiles are vulnerable to enemy air defenses.",
-      "feedName": "Defense News"
-    },
-    {
       "title": "IRIS2 Gets Green Light With More Money and More Satellites",
       "link": "https://europeanspaceflight.com/iris2-gets-green-light-with-more-money-and-more-satellites/",
       "pubDate": "Sat, 08 Aug 2026 06:00:24 +0000",
@@ -119,13 +112,6 @@
       "pubDate": "Wed, 05 Aug 2026 07:30:49 +0000",
       "description": "Only days after the Trump administration celebrated what it called a landmark civilian nuclear agreement with Saudi Arabia, the president himself appeared to place the entire arrangement in jeopardy. In a Truth Social post, President Donald Trump declared the deal &#8220;totally subject&#8221; to Sa",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "ESA Astronaut Completes Third Test of EuroSuit Prototype Aboard ISS",
-      "link": "https://europeanspaceflight.com/esa-astronaut-completes-third-test-of-eurosuit-prototype-aboard-iss/",
-      "pubDate": "Tue, 04 Aug 2026 10:58:20 +0000",
-      "description": "ESA astronaut Sophie Adenot has completed a third and likely final test of EuroSuit, a European intravehicular activity (IVA) spacesuit prototype, aboard the International Space Station (ISS). The suit was developed under a CNES contract by a French consortium led by Spartan Space, which also includ",
-      "feedName": "European Spaceflight"
     },
     {
       "title": "The Atlantic Brief: The Strait of Hormuz and the Future of Free Navigation",
@@ -224,13 +210,6 @@
       "pubDate": "Tue, 07 Jul 2026 09:42:08 +0000",
       "description": "“It is genuinely made in NATO and is creating jobs on both sides of the Atlantic,” alliance Secretary-General Mark Rutte said.",
       "feedName": "C4ISRNET"
-    },
-    {
-      "title": "From Shin Bet to Mossad, Netanyahu Reshapes Israeli Intelligence",
-      "link": "https://warontherocks.com/from-shin-bet-to-mossad-netanyahu-reshapes-israeli-intelligence/",
-      "pubDate": "Wed, 01 Jul 2026 17:30:40 +0000",
-      "description": "Editor&#8217;s Note: Rewind and Reconnoiter is one of our weekly members-only newsletters. To access the full archive of Rewind and Reconnoiter as well as our other members-only content, including podcasts, newsletters, and exclusive access to the War on the Rocks app, sign up using the link in the ",
-      "feedName": "War on the Rocks"
     }
   ],
   "tenderItems": []
