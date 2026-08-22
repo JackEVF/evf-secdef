@@ -1,12 +1,54 @@
 {
-  "generated": "2026-08-21T06:52:30.434Z",
+  "generated": "2026-08-22T06:45:04.573Z",
   "newsItems": [
     {
-      "title": "SpaceWERX selects 11 firms to scale technologies for military space",
-      "link": "https://spacenews.com/spacewerx-selects-11-firms-to-scale-technologies-for-military-space/",
-      "pubDate": "Thu, 20 Aug 2026 21:44:35 +0000",
-      "description": "\nThe new round of STRATFIs were awarded to Agile Space Industries, Antares Nuclear, EO Solutions, Hydrosat, Kall Morris, Method Security, Muon Space, Scout Space, Sedaro, Star Catcher Industries and ThinkOrbital\nThe post SpaceWERX selects 11 firms to scale technologies for military space appeared fi",
+      "title": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
+      "link": "https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/",
+      "pubDate": "Fri, 21 Aug 2026 19:48:14 +0000",
+      "description": "\nParis, France &#124; August 2026– More than 6,500 Earth observation (EO) satellites are expected to launch by 2035, generating $155.9 billion in manufacturing revenues as governments expand sovereign intelligence, surveillance, [&#8230;]\nThe post New Novaspace forecast: 6,500+ EO satellites to laun",
       "feedName": "SpaceNews"
+    },
+    {
+      "title": "‘Shameful’: Israel faces international backlash after closing probe into Gaza aid strike",
+      "link": "https://www.politico.eu/article/israel-faces-backlash-over-gaza-aid-strike-probe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Fri, 21 Aug 2026 15:06:11 +0000",
+      "description": "\"The victims of this incident and their families deserve justice and accountability, and we will continue to seek answers on their behalf,” the governments said.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "‘Hot competition’: NSA deputy sounds alarm on China threat, AI race",
+      "link": "https://breakingdefense.com/2026/08/hot-competition-nsa-deputy-sounds-alarm-on-china-threat-ai-race/",
+      "pubDate": "Fri, 21 Aug 2026 12:58:20 +0000",
+      "description": "NSA Deputy Director Tim Kosiba said Beijing is playing &#8220;spoiler&#8221; the world over, alleging, for example, that &#8220;Chinese companies provided GEOINT to the Iranians to help hit our bases and our allies.&#8221;\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "Germany plans a €12B missile program to deter Putin",
+      "link": "https://www.politico.eu/article/germany-missile-program-deter-russia-vladimirputin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Fri, 21 Aug 2026 11:44:06 +0000",
+      "description": "Internal defense ministry documents say the plan for a new long-range strike arsenal ranges from cheap cruise missiles to Tomahawks and future hypersonic weapons.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "European Defense Tech Hub Festival 2026 – Benjamin Wolba on Building Europe’s Defense Innovation Network",
+      "link": "https://spacewatch.global/2026/08/european-defense-tech-hub-festival-2026-benjamin-wolba-on-building-europes-defense-innovation-network/",
+      "pubDate": "Fri, 21 Aug 2026 07:00:00 +0000",
+      "description": "From a historic airfield in Neuhardenberg near Berlin, Benjamin Wolba, co-founder of the first-ever European Defense Tech Hub Festival, joins Torsten Kriening to explain how a group of civilians is building a pan-European defense innovation network — from hackathons to live drone demos — and where s",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "HawkEye 360 Secures NRO’s Augmentation Contract on Commercial Radio Frequency Capability",
+      "link": "https://spacewatch.global/2026/08/hawkeye-360-secures-nros-augmentation-contract-on-commercial-radio-frequency-capability/",
+      "pubDate": "Fri, 21 Aug 2026 06:00:00 +0000",
+      "description": "HawkEye 360 has won a contract to provide commercial radio frequency data to support U.S. national security missions under the National Reconnaissance Office’s Commercial Radio Frequency Capability Augmentation program.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "From Prototype to Capability: Europe’s Defence Tech Builders Gather at Neuhardenberg",
+      "link": "https://spacewatch.global/2026/08/from-prototype-to-capability-europes-defence-tech-builders-gather-at-neuhardenberg/",
+      "pubDate": "Fri, 21 Aug 2026 06:00:00 +0000",
+      "description": "The first European Defence Tech Hub Festival opened at Neuhardenberg with more than 200 founders, engineers, soldiers and investors in one hangar. The recurring theme was not invention but translation - how Europe turns prototypes into fielded military capability. The Bundeswehr's Cyber Innovation H",
+      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Rocket Lab Launches SAR Satellite for Japan’s iQPS",
@@ -44,27 +86,6 @@
       "feedName": "SpaceNews"
     },
     {
-      "title": "Hypersonic missile startup Castelion raises $1 billion ",
-      "link": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/",
-      "pubDate": "Wed, 19 Aug 2026 23:12:41 +0000",
-      "description": "\nCompany founded by former SpaceX executives aims to produce a low-cost hypersonic weapon and a broader portfolio of longer-range strike and missile defense weapons\nThe post Hypersonic missile startup Castelion raises $1 billion  appeared first on SpaceNews.\n",
-      "feedName": "SpaceNews"
-    },
-    {
-      "title": "Kratos Reports Growing Tri-Band Antenna Demand and Debuts New Model ",
-      "link": "https://www.satellitetoday.com/technology/2026/08/19/kratos-reports-growing-tri-band-antenna-demand-and-debuts-new-model/",
-      "pubDate": "Wed, 19 Aug 2026 20:26:43 +0000",
-      "description": "Kratos Defense &#38; Security Solutions has received multi-million-dollar orders from multiple international customers for GAIA antenna systems by Orbit Communication Systems, now a Kratos company. These orders support Earth Observation [&#8230;]\nThe post Kratos Reports Growing Tri-Band Antenna Dema",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "HEO Expands Non-Earth Imaging Network via Planet Labs’ SkySat Constellation Integration",
-      "link": "https://satnews.com/2026/08/19/heo-expands-non-earth-imaging-network-via-planet-labs-skysat-constellation-integration/",
-      "pubDate": "Wed, 19 Aug 2026 15:09:13 +0000",
-      "description": "On August 18, 2026, Australian space situational awareness vendor HEO announced a strategic partnership with Earth observation operator Planet Labs PBC to integrate Planet&#8217;s SkySat constellation into HEO’s Non-Earth Imaging [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "ESA Astronaut Sophie Adenot Makes History as First Frenchwoman to Perform A Spacewalk",
       "link": "https://spacewatch.global/2026/08/esa-astronaut-sophie-adenot-makes-history-as-first-frenchwoman-to-perform-a-spacewalk/",
       "pubDate": "Wed, 19 Aug 2026 06:00:00 +0000",
@@ -79,18 +100,18 @@
       "feedName": "Defense News"
     },
     {
-      "title": "#SpaceWatchGL Inside EO – A Satellite cannot see a Difference",
-      "link": "https://spacewatch.global/2026/08/spacewatchgl-inside-eo-a-satellite-cannot-see-a-difference/",
-      "pubDate": "Mon, 17 Aug 2026 08:00:00 +0000",
-      "description": " Written by Karolina Sarna  Why do some Earth Observation applications become thriving commercial markets while others never move beyond pilots? In this edition of Inside EO, Karolina Sarna introduces the Change–Difference Ladder, showing why satellite data only creates value when an external rule t",
-      "feedName": "SpaceWatch Global"
+      "title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
+      "link": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
+      "pubDate": "Fri, 14 Aug 2026 09:00:00 +0000",
+      "description": "\nParis, France &#124; August 2026 – Novaspace’s latest In-Orbit Services Markets report projects that emerging in-orbit services will generate approximately $3 billion in cumulative service revenues over the next decade, highlighting the early development [&#8230;]\nThe post In-Orbit Services Market ",
+      "feedName": "SpaceNews"
     },
     {
-      "title": "U.S. and Japan Strengthen Space Security Alliance with Second SDA Payload Launch Aboard QZS-7",
-      "link": "https://spacewatch.global/2026/08/u-s-and-japan-strengthen-space-security-alliance-with-second-sda-payload-launch-aboard-qzs-7/",
-      "pubDate": "Mon, 17 Aug 2026 06:00:00 +0000",
-      "description": "A U.S. Space Domain Awareness payload hosted on Japan's Quasi-Zenith Satellite 7 successfully launched aboard Japan's H3 launch vehicle on August 10, 2026. The mission marked the H3 vehicle's second consecutive successful launch following its December 2025 mission failure. ",
-      "feedName": "SpaceWatch Global"
+      "title": "Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity",
+      "link": "https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity/",
+      "pubDate": "Thu, 13 Aug 2026 14:27:27 +0000",
+      "description": "\nParis, France &#124; July 2026 — The maritime satellite communications market is entering a new phase of growth as next-generation satellite networks transform connectivity at sea. According to Novaspace’s newly [&#8230;]\nThe post Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 a",
+      "feedName": "SpaceNews"
     },
     {
       "title": "IRIS2 Gets Green Light With More Money and More Satellites",
