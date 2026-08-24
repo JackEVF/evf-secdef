@@ -1,6 +1,20 @@
 {
-  "generated": "2026-08-23T06:46:39.563Z",
+  "generated": "2026-08-24T07:04:24.992Z",
   "newsItems": [
+    {
+      "title": "Der Herbst des Friedrich Merz",
+      "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/der-herbst-des-friedrich-merz/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Mon, 24 Aug 2026 03:30:00 +0000",
+      "description": "Die Sommerpause ist vorbei und Kanzler Friedrich Merz blickt entscheidenden Wochen entgegen. Rasmus Buchsteiner analysiert, wie gefährlich seine schlechten Umfragewerte und die anstehenden Ost-Wahlen für die gesamte Koalition werden könnten. Pünktlich zum ukrainischen Unabhängigkeitstag überrascht d",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "ISRO Transitions Rocket Manufacturing to Domestic Private Sector to Scale India’s Space Economy",
+      "link": "https://satnews.com/2026/08/23/isro-transitions-rocket-manufacturing-to-domestic-private-sector-to-scale-indias-space-economy/",
+      "pubDate": "Sun, 23 Aug 2026 13:24:43 +0000",
+      "description": "On August 23, 2026, coinciding with India’s National Space Day, the Indian Space Research Organisation (ISRO) announced a structural policy pivot to cease direct manufacturing of commercial launch vehicles. Under [&#8230;]",
+      "feedName": "Satnews"
+    },
     {
       "title": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
       "link": "https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/",
@@ -9,25 +23,11 @@
       "feedName": "SpaceNews"
     },
     {
-      "title": "‘Shameful’: Israel faces international backlash after closing probe into Gaza aid strike",
-      "link": "https://www.politico.eu/article/israel-faces-backlash-over-gaza-aid-strike-probe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Fri, 21 Aug 2026 15:06:11 +0000",
-      "description": "\"The victims of this incident and their families deserve justice and accountability, and we will continue to seek answers on their behalf,” the governments said.",
-      "feedName": "Politico Europe"
-    },
-    {
       "title": "‘Hot competition’: NSA deputy sounds alarm on China threat, AI race",
       "link": "https://breakingdefense.com/2026/08/hot-competition-nsa-deputy-sounds-alarm-on-china-threat-ai-race/",
       "pubDate": "Fri, 21 Aug 2026 12:58:20 +0000",
       "description": "NSA Deputy Director Tim Kosiba said Beijing is playing &#8220;spoiler&#8221; the world over, alleging, for example, that &#8220;Chinese companies provided GEOINT to the Iranians to help hit our bases and our allies.&#8221;\n",
       "feedName": "Breaking Defense"
-    },
-    {
-      "title": "Germany plans a €12B missile program to deter Putin",
-      "link": "https://www.politico.eu/article/germany-missile-program-deter-russia-vladimirputin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Fri, 21 Aug 2026 11:44:06 +0000",
-      "description": "Internal defense ministry documents say the plan for a new long-range strike arsenal ranges from cheap cruise missiles to Tomahawks and future hypersonic weapons.",
-      "feedName": "Politico Europe"
     },
     {
       "title": "European Defense Tech Hub Festival 2026 – Benjamin Wolba on Building Europe’s Defense Innovation Network",
@@ -177,32 +177,11 @@
       "feedName": "War on the Rocks"
     },
     {
-      "title": "Save the date: CDSE User Summit 2026",
-      "link": "https://eomag.eu/save-the-date-cdse-user-summit-2026/?utm_source=rss&utm_medium=rss&utm_campaign=save-the-date-cdse-user-summit-2026",
-      "pubDate": "Tue, 14 Jul 2026 07:34:56 +0000",
-      "description": "The Copernicus Data Space Ecosystem is pleased to announce its annual user community event. Mark your calendar for the&#160;CDSE User Summit 2026&#160;taking place on&#160;Wednesday, 16 September 2026&#160;during INTERGEO 2026 in Munich. The CDSE User Summit is&#160;a hybrid event&#160;that brings&#",
-      "feedName": "EO Mag"
-    },
-    {
       "title": "An Unlearned Lesson: The Sorry Record of Regime Change Operations in the Middle East",
       "link": "https://warontherocks.com/an-unlearned-lesson-the-sorry-record-of-regime-change-operations-in-the-middle-east/",
       "pubDate": "Mon, 13 Jul 2026 07:30:35 +0000",
       "description": "On Feb. 28, 2026, President Donald Trump announced the commencement of Operation Epic Fury, a joint U.S.-Israeli military operation against Iran. Among the mission&#8217;s goals was the overthrow of the Islamic Republic. &#8220;When we are finished,&#8221; Trump told the Iranian people, &#8220;take ",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Building Higher-Quality Geospatial Datasets for AI: Lessons from Enabled Intelligence and New Capabilities from Kili Technology",
-      "link": "https://eomag.eu/building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology/?utm_source=rss&utm_medium=rss&utm_campaign=building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology",
-      "pubDate": "Thu, 09 Jul 2026 13:35:07 +0000",
-      "description": "What does mission-critical accuracy look like in practice? Enabled Intelligence, an AI technology and services provider specialising in geospatial analysis, builds models for government and commercial clients across military intelligence, disaster recovery, transportation logistics and agricultural ",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Focus on Dynamics: Semantic Data Cube as a key to Sentinel-2-based Landscape Analysis",
-      "link": "https://eomag.eu/focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis",
-      "pubDate": "Thu, 09 Jul 2026 12:55:49 +0000",
-      "description": "color33 is an automated, cloud-based, online processing service that converts multispectral Earth observation images into actionable categories without requiring any training samples. Unlike unsupervised clustering routines or machine learning approaches, color33 is based on a physical-model, produc",
-      "feedName": "EO Mag"
     },
     {
       "title": "The Pentagon’s Sprint to Get Tech Out of the Lab and to the Warfighter",
@@ -217,13 +196,6 @@
       "pubDate": "Thu, 09 Jul 2026 07:30:48 +0000",
       "description": "Mali is not Syria, and Jama&#8217;at Nusrat al-Islam wal-Muslimin is not Hay&#8217;at Tahrir al-Sham.While the fall of the Bashar al-Assad regime and the rise of the Ahmed al-Sharaa government in Damascus, Syria can be seen as a net positive for regional security in the Levant, a Jama&#8217;at Nusra",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "CloudFerro expands sovereign cloud infrastructure for Earth Observation with a new AI-ready cloud region in Poland",
-      "link": "https://eomag.eu/cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland/?utm_source=rss&utm_medium=rss&utm_campaign=cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland",
-      "pubDate": "Wed, 08 Jul 2026 15:55:23 +0000",
-      "description": "CloudFerro, a Polish sovereign cloud provider, has launched a new public cloud region in Łódź, Poland, further expanding its European cloud infrastructure dedicated to Earth Observation, AI and data-intensive workloads. The new region has been designed to support organisations processing large volum",
-      "feedName": "EO Mag"
     },
     {
       "title": "NATO to add up to five Northrop Grumman Triton drones for maritime surveillance",
