@@ -1,12 +1,40 @@
 {
-  "generated": "2026-08-24T07:04:24.992Z",
+  "generated": "2026-08-25T06:53:42.553Z",
   "newsItems": [
     {
-      "title": "Der Herbst des Friedrich Merz",
-      "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/der-herbst-des-friedrich-merz/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Mon, 24 Aug 2026 03:30:00 +0000",
-      "description": "Die Sommerpause ist vorbei und Kanzler Friedrich Merz blickt entscheidenden Wochen entgegen. Rasmus Buchsteiner analysiert, wie gefährlich seine schlechten Umfragewerte und die anstehenden Ost-Wahlen für die gesamte Koalition werden könnten. Pünktlich zum ukrainischen Unabhängigkeitstag überrascht d",
+      "title": "How a 17th-century Irish law is shielding Big Tech from class actions in Europe",
+      "link": "https://www.politico.eu/article/17th-century-ireland-law-shielding-big-tech-class-actions-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Mon, 24 Aug 2026 18:45:47 +0000",
+      "description": "Ireland has limits on outside funding for court challenges, stopping Europeans from seeking compensation from Big Tech for harms.",
       "feedName": "Politico Europe"
+    },
+    {
+      "title": "Shield AI and Sedaro Validate On-Orbit AI Pilot and Edge Autonomy Onboard LEO Satellite",
+      "link": "https://satnews.com/2026/08/24/shield-ai-and-sedaro-validate-on-orbit-ai-pilot-and-edge-autonomy-onboard-leo-satellite/",
+      "pubDate": "Mon, 24 Aug 2026 16:06:04 +0000",
+      "description": "On August 24, 2026, aerospace software developer Sedaro and defense technology firm Shield AI announced the completion of initial on-orbit flight tests pairing Shield AI’s Hivemind autonomy with Sedaro’s trusted [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Kongsberg NanoAvionics Unveils 500 kg MP42D Platform and Defense-Focused Gen-2 Satellite Lineup",
+      "link": "https://satnews.com/2026/08/24/kongsberg-nanoavionics-unveils-500-kg-mp42d-platform-and-defense-focused-gen-2-satellite-lineup/",
+      "pubDate": "Mon, 24 Aug 2026 15:53:56 +0000",
+      "description": "Targeting expanding requirements for high-power intelligence, surveillance, and reconnaissance (ISR) payloads, Kongsberg NanoAvionics introduced its Gen-2 MP42 family of ITAR-free microsatellite buses on August 24, 2026. The updated product line [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "ESA to Adapt Ariane 6 for Nuclear-Powered Argonaut Missions",
+      "link": "https://europeanspaceflight.com/esa-to-adapt-ariane-6-for-nuclear-powered-argonaut-missions/",
+      "pubDate": "Mon, 24 Aug 2026 14:31:56 +0000",
+      "description": "The European Space Agency expects to make specific safety adaptations to the Ariane 6 rocket for future launches of its Argonaut lunar landers that will carry a Radioisotope Power System. The modifications will not, however, be required for the spacecraft’s first mission. Argonaut is ESA’s planned h",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "Synspective Sets 31 August Launch for 11th ‘StriX’ Constellation Satellite on Rocket Lab Electron",
+      "link": "https://spacewatch.global/2026/08/synspective-sets-31-august-launch-for-11th-strix-constellation-satellite-on-rocket-lab-electron/",
+      "pubDate": "Mon, 24 Aug 2026 06:00:00 +0000",
+      "description": "Synspective has set 31 August for the launch of its 11th StriX SAR satellite, flying on Rocket Lab's Electron from Mahia, New Zealand.",
+      "feedName": "SpaceWatch Global"
     },
     {
       "title": "ISRO Transitions Rocket Manufacturing to Domestic Private Sector to Scale India’s Space Economy",
@@ -49,13 +77,6 @@
       "pubDate": "Fri, 21 Aug 2026 06:00:00 +0000",
       "description": "The first European Defence Tech Hub Festival opened at Neuhardenberg with more than 200 founders, engineers, soldiers and investors in one hangar. The recurring theme was not invention but translation - how Europe turns prototypes into fielded military capability. The Bundeswehr's Cyber Innovation H",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Rocket Lab Launches SAR Satellite for Japan’s iQPS",
-      "link": "https://www.satellitetoday.com/launch/2026/08/20/rocket-lab-launches-sar-satellite-for-japans-iqps/",
-      "pubDate": "Thu, 20 Aug 2026 20:20:18 +0000",
-      "description": "Rocket Lab completed its ninth launch for Japanese synthetic aperture radar (SAR) company Institute for Q-shu Pioneers of Space, Inc. (iQPS) on Aug. 21 from New Zealand.  iQPS based in [&#8230;]\nThe post Rocket Lab Launches SAR Satellite for Japan’s iQPS appeared first on Via Satellite.\n",
-      "feedName": "Via Satellite"
     },
     {
       "title": "What’s next for ISR in space",
@@ -177,11 +198,32 @@
       "feedName": "War on the Rocks"
     },
     {
+      "title": "Save the date: CDSE User Summit 2026",
+      "link": "https://eomag.eu/save-the-date-cdse-user-summit-2026/?utm_source=rss&utm_medium=rss&utm_campaign=save-the-date-cdse-user-summit-2026",
+      "pubDate": "Tue, 14 Jul 2026 07:34:56 +0000",
+      "description": "The Copernicus Data Space Ecosystem is pleased to announce its annual user community event. Mark your calendar for the&#160;CDSE User Summit 2026&#160;taking place on&#160;Wednesday, 16 September 2026&#160;during INTERGEO 2026 in Munich. The CDSE User Summit is&#160;a hybrid event&#160;that brings&#",
+      "feedName": "EO Mag"
+    },
+    {
       "title": "An Unlearned Lesson: The Sorry Record of Regime Change Operations in the Middle East",
       "link": "https://warontherocks.com/an-unlearned-lesson-the-sorry-record-of-regime-change-operations-in-the-middle-east/",
       "pubDate": "Mon, 13 Jul 2026 07:30:35 +0000",
       "description": "On Feb. 28, 2026, President Donald Trump announced the commencement of Operation Epic Fury, a joint U.S.-Israeli military operation against Iran. Among the mission&#8217;s goals was the overthrow of the Islamic Republic. &#8220;When we are finished,&#8221; Trump told the Iranian people, &#8220;take ",
       "feedName": "War on the Rocks"
+    },
+    {
+      "title": "Building Higher-Quality Geospatial Datasets for AI: Lessons from Enabled Intelligence and New Capabilities from Kili Technology",
+      "link": "https://eomag.eu/building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology/?utm_source=rss&utm_medium=rss&utm_campaign=building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology",
+      "pubDate": "Thu, 09 Jul 2026 13:35:07 +0000",
+      "description": "What does mission-critical accuracy look like in practice? Enabled Intelligence, an AI technology and services provider specialising in geospatial analysis, builds models for government and commercial clients across military intelligence, disaster recovery, transportation logistics and agricultural ",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "Focus on Dynamics: Semantic Data Cube as a key to Sentinel-2-based Landscape Analysis",
+      "link": "https://eomag.eu/focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis",
+      "pubDate": "Thu, 09 Jul 2026 12:55:49 +0000",
+      "description": "color33 is an automated, cloud-based, online processing service that converts multispectral Earth observation images into actionable categories without requiring any training samples. Unlike unsupervised clustering routines or machine learning approaches, color33 is based on a physical-model, produc",
+      "feedName": "EO Mag"
     },
     {
       "title": "The Pentagon’s Sprint to Get Tech Out of the Lab and to the Warfighter",
@@ -196,6 +238,13 @@
       "pubDate": "Thu, 09 Jul 2026 07:30:48 +0000",
       "description": "Mali is not Syria, and Jama&#8217;at Nusrat al-Islam wal-Muslimin is not Hay&#8217;at Tahrir al-Sham.While the fall of the Bashar al-Assad regime and the rise of the Ahmed al-Sharaa government in Damascus, Syria can be seen as a net positive for regional security in the Levant, a Jama&#8217;at Nusra",
       "feedName": "War on the Rocks"
+    },
+    {
+      "title": "CloudFerro expands sovereign cloud infrastructure for Earth Observation with a new AI-ready cloud region in Poland",
+      "link": "https://eomag.eu/cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland/?utm_source=rss&utm_medium=rss&utm_campaign=cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland",
+      "pubDate": "Wed, 08 Jul 2026 15:55:23 +0000",
+      "description": "CloudFerro, a Polish sovereign cloud provider, has launched a new public cloud region in Łódź, Poland, further expanding its European cloud infrastructure dedicated to Earth Observation, AI and data-intensive workloads. The new region has been designed to support organisations processing large volum",
+      "feedName": "EO Mag"
     },
     {
       "title": "NATO to add up to five Northrop Grumman Triton drones for maritime surveillance",
