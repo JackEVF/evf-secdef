@@ -1,25 +1,46 @@
 {
-  "generated": "2026-08-25T06:53:42.553Z",
+  "generated": "2026-08-26T06:54:41.644Z",
   "newsItems": [
     {
-      "title": "How a 17th-century Irish law is shielding Big Tech from class actions in Europe",
-      "link": "https://www.politico.eu/article/17th-century-ireland-law-shielding-big-tech-class-actions-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Mon, 24 Aug 2026 18:45:47 +0000",
-      "description": "Ireland has limits on outside funding for court challenges, stopping Europeans from seeking compensation from Big Tech for harms.",
-      "feedName": "Politico Europe"
+      "title": "SpaceX Expands ‘Stargaze’ Free Space Safety Service for Commercial Satellite Operators",
+      "link": "https://satnews.com/2026/08/25/spacex-expands-stargaze-free-space-safety-service-for-commercial-satellite-operators/",
+      "pubDate": "Tue, 25 Aug 2026 17:34:57 +0000",
+      "description": "Addressing increasing low Earth orbit (LEO) congestion and collision risks, SpaceX has opened its &#8220;Stargaze&#8221; Space Situational Awareness (SSA) and conjunction screening platform to external satellite operators on August 25, [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "KSAT Delivers Integrated Mission Services for Expanded N3X Maritime Surveillance Constellation",
+      "link": "https://satnews.com/2026/08/25/ksat-delivers-integrated-mission-services-for-expanded-n3x-maritime-surveillance-constellation/",
+      "pubDate": "Tue, 25 Aug 2026 14:43:14 +0000",
+      "description": "On August 25, 2026, at the SmallSat conference in Logan, Utah, Kongsberg Satellite Services (KSAT) detailed its role delivering Integrated Mission Services (IMS) as the primary ground and operational backbone [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Hypersonics, rocket startup Ursa Major to go public in $2.3B deal",
+      "link": "https://breakingdefense.com/2026/08/hypersonics-rocket-startup-ursa-major-to-go-public-in-2-3b-deal/",
+      "pubDate": "Tue, 25 Aug 2026 13:29:29 +0000",
+      "description": " &#8220;This transaction will help us turn that foundation into the production capacity our customers need,” CEO Chris Spagnoletti said.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "ESA’s Draco Reentry Mission Clears Its Critical Design Review",
+      "link": "https://europeanspaceflight.com/esas-draco-reentry-mission-clears-its-critical-design-review/",
+      "pubDate": "Tue, 25 Aug 2026 10:38:56 +0000",
+      "description": "The European Space Agency has announced that its Draco mission has passed its Critical Design Review, clearing it to enter full-scale manufacturing, integration and testing ahead of its planned launch in 2027. ESA announced the milestone on 17 August, saying the review had validated the design of al",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "Shield AI, Sedaro, and NOVI Demo Trusted AI Autonomy Ops in Orbit",
+      "link": "https://spacewatch.global/2026/08/shield-ai-sedaro-and-novi-demonstrate-trusted-ai-autonomy-operations-in-orbit-with-hivemind-ai-pilot/",
+      "pubDate": "Tue, 25 Aug 2026 06:00:00 +0000",
+      "description": "Shield AI, Sedaro, and NOVI Space have completed an in-orbit demonstration of trusted satellite autonomy, layering AI decision-making with onboard validation onto existing and future constellations.",
+      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Shield AI and Sedaro Validate On-Orbit AI Pilot and Edge Autonomy Onboard LEO Satellite",
       "link": "https://satnews.com/2026/08/24/shield-ai-and-sedaro-validate-on-orbit-ai-pilot-and-edge-autonomy-onboard-leo-satellite/",
       "pubDate": "Mon, 24 Aug 2026 16:06:04 +0000",
       "description": "On August 24, 2026, aerospace software developer Sedaro and defense technology firm Shield AI announced the completion of initial on-orbit flight tests pairing Shield AI’s Hivemind autonomy with Sedaro’s trusted [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Kongsberg NanoAvionics Unveils 500 kg MP42D Platform and Defense-Focused Gen-2 Satellite Lineup",
-      "link": "https://satnews.com/2026/08/24/kongsberg-nanoavionics-unveils-500-kg-mp42d-platform-and-defense-focused-gen-2-satellite-lineup/",
-      "pubDate": "Mon, 24 Aug 2026 15:53:56 +0000",
-      "description": "Targeting expanding requirements for high-power intelligence, surveillance, and reconnaissance (ISR) payloads, Kongsberg NanoAvionics introduced its Gen-2 MP42 family of ITAR-free microsatellite buses on August 24, 2026. The updated product line [&#8230;]",
       "feedName": "Satnews"
     },
     {
@@ -37,25 +58,11 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "ISRO Transitions Rocket Manufacturing to Domestic Private Sector to Scale India’s Space Economy",
-      "link": "https://satnews.com/2026/08/23/isro-transitions-rocket-manufacturing-to-domestic-private-sector-to-scale-indias-space-economy/",
-      "pubDate": "Sun, 23 Aug 2026 13:24:43 +0000",
-      "description": "On August 23, 2026, coinciding with India’s National Space Day, the Indian Space Research Organisation (ISRO) announced a structural policy pivot to cease direct manufacturing of commercial launch vehicles. Under [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
       "link": "https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/",
       "pubDate": "Fri, 21 Aug 2026 19:48:14 +0000",
       "description": "\nParis, France &#124; August 2026– More than 6,500 Earth observation (EO) satellites are expected to launch by 2035, generating $155.9 billion in manufacturing revenues as governments expand sovereign intelligence, surveillance, [&#8230;]\nThe post New Novaspace forecast: 6,500+ EO satellites to laun",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "‘Hot competition’: NSA deputy sounds alarm on China threat, AI race",
-      "link": "https://breakingdefense.com/2026/08/hot-competition-nsa-deputy-sounds-alarm-on-china-threat-ai-race/",
-      "pubDate": "Fri, 21 Aug 2026 12:58:20 +0000",
-      "description": "NSA Deputy Director Tim Kosiba said Beijing is playing &#8220;spoiler&#8221; the world over, alleging, for example, that &#8220;Chinese companies provided GEOINT to the Iranians to help hit our bases and our allies.&#8221;\n",
-      "feedName": "Breaking Defense"
     },
     {
       "title": "European Defense Tech Hub Festival 2026 – Benjamin Wolba on Building Europe’s Defense Innovation Network",
@@ -107,20 +114,6 @@
       "feedName": "SpaceNews"
     },
     {
-      "title": "ESA Astronaut Sophie Adenot Makes History as First Frenchwoman to Perform A Spacewalk",
-      "link": "https://spacewatch.global/2026/08/esa-astronaut-sophie-adenot-makes-history-as-first-frenchwoman-to-perform-a-spacewalk/",
-      "pubDate": "Wed, 19 Aug 2026 06:00:00 +0000",
-      "description": "ESA astronaut Sophie Adenot has become the first Frenchwoman to perform a spacewalk, venturing outside the International Space Station yesterday, 18 August, with NASA astronaut Anil Menon to repair a crucial piece of equipment.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "US Space Force, Japan launch sensor to bolster space surveillance above Indo-Pacific",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/17/us-space-force-japan-launch-sensor-to-bolster-space-surveillance-above-indo-pacific/",
-      "pubDate": "Mon, 17 Aug 2026 15:06:00 +0000",
-      "description": "In a bilateral space effort, the U.S. Space Force successfully launched a Space Domain Awareness payload aboard Japan’s Quasi-Zenith Satellite 7.",
-      "feedName": "Defense News"
-    },
-    {
       "title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
       "link": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
       "pubDate": "Fri, 14 Aug 2026 09:00:00 +0000",
@@ -133,13 +126,6 @@
       "pubDate": "Thu, 13 Aug 2026 14:27:27 +0000",
       "description": "\nParis, France &#124; July 2026 — The maritime satellite communications market is entering a new phase of growth as next-generation satellite networks transform connectivity at sea. According to Novaspace’s newly [&#8230;]\nThe post Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 a",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "IRIS2 Gets Green Light With More Money and More Satellites",
-      "link": "https://europeanspaceflight.com/iris2-gets-green-light-with-more-money-and-more-satellites/",
-      "pubDate": "Sat, 08 Aug 2026 06:00:24 +0000",
-      "description": "The European Commission, ESA and the SpaceRISE consortium have completed a key review of Europe’s IRIS2 secure communications constellation, clearing the programme to move forward with full-scale implementation. The completion of the review was announced on 7 August following negotiations that began",
-      "feedName": "European Spaceflight"
     },
     {
       "title": "The Blood Price: In Israel, Military Sacrifice Is Becoming Political Power",
