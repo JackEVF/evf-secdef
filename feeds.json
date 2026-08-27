@@ -1,19 +1,68 @@
 {
-  "generated": "2026-08-26T06:54:41.644Z",
+  "generated": "2026-08-27T17:28:11.710Z",
   "newsItems": [
     {
-      "title": "SpaceX Expands ‘Stargaze’ Free Space Safety Service for Commercial Satellite Operators",
-      "link": "https://satnews.com/2026/08/25/spacex-expands-stargaze-free-space-safety-service-for-commercial-satellite-operators/",
-      "pubDate": "Tue, 25 Aug 2026 17:34:57 +0000",
-      "description": "Addressing increasing low Earth orbit (LEO) congestion and collision risks, SpaceX has opened its &#8220;Stargaze&#8221; Space Situational Awareness (SSA) and conjunction screening platform to external satellite operators on August 25, [&#8230;]",
+      "title": "ESA Awards €544 Million in European Launcher Challenge Contracts",
+      "link": "https://europeanspaceflight.com/esa-awards-e544-million-in-european-launcher-challenge-contracts/",
+      "pubDate": "Thu, 27 Aug 2026 15:26:18 +0000",
+      "description": "The European Space Agency has signed the first contracts under its European Launcher Challenge, committing a combined €543.6 million to Isar Aerospace, Rocket Factory Augsburg, and PLD Space. MaiaSpace was notably not among the awardees, with the agency stating that the contract award process with t",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "The fight over the FY27 defense budget is on. Here’s 13 key issues for Congress to resolve.",
+      "link": "https://breakingdefense.com/2026/08/the-fight-over-the-fy27-defense-budget-is-on-heres-13-key-issues-for-congress-to-resolve/",
+      "pubDate": "Thu, 27 Aug 2026 15:05:00 +0000",
+      "description": "From the Iran supplemental to the debate over a third reconciliation bill, Congress will have its hands full with a long list of defense funding needs when it returns from recess in September.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "ESA Awards PLD Space €158.9M European Launcher Challenge Contract for MIURA 5 Scaling and Reusability",
+      "link": "https://satnews.com/2026/08/27/esa-awards-pld-space-e158-9m-european-launcher-challenge-contract-for-miura-5-scaling-and-reusability/",
+      "pubDate": "Thu, 27 Aug 2026 14:00:39 +0000",
+      "description": "On August 27, 2026, Spanish launch provider PLD Space was selected by the European Space Agency (ESA) under the European Launcher Challenge (ELC) initiative, securing a contract valued at €158.9 [&#8230;]",
       "feedName": "Satnews"
     },
     {
-      "title": "KSAT Delivers Integrated Mission Services for Expanded N3X Maritime Surveillance Constellation",
-      "link": "https://satnews.com/2026/08/25/ksat-delivers-integrated-mission-services-for-expanded-n3x-maritime-surveillance-constellation/",
-      "pubDate": "Tue, 25 Aug 2026 14:43:14 +0000",
-      "description": "On August 25, 2026, at the SmallSat conference in Logan, Utah, Kongsberg Satellite Services (KSAT) detailed its role delivering Integrated Mission Services (IMS) as the primary ground and operational backbone [&#8230;]",
-      "feedName": "Satnews"
+      "title": "Simera Sense Expands Small-Satellite Imaging Portfolio With Loft Orbital Deal and New Dual-Use Payload",
+      "link": "https://spacewatch.global/2026/08/simera-sense-expands-small-satellite-imaging-portfolio-with-loft-orbital-deal-and-new-dual-use-payload/",
+      "pubDate": "Thu, 27 Aug 2026 06:00:00 +0000",
+      "description": "Loft Orbital has contracted Simera Sense for 10 HyperScape100 hyperspectral imagers, expanding Simera's role as a European provider of optical payloads for small-satellite missions.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Adenot and Menon Complete Second Spacewalk to Restore ISS Communications Antenna",
+      "link": "https://spacewatch.global/2026/08/adenot-and-menon-complete-second-spacewalk-to-restore-iss-communications-antenna/",
+      "pubDate": "Thu, 27 Aug 2026 06:00:00 +0000",
+      "description": "NASA astronaut Anil Menon and ESA astronaut Sophie Adenot completed a follow-up spacewalk on 25 August, successfully installing a replacement for the failed Space-to-Ground Antenna 2 (SGANT-2) after delays during their initial 18 August EVA.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Polish Institute Reports Continued GNSS Disruption Along Country’s North Coast",
+      "link": "https://europeanspaceflight.com/polish-institute-reports-continued-gnss-disruption-along-countrys-north-coast/",
+      "pubDate": "Wed, 26 Aug 2026 20:12:39 +0000",
+      "description": "Poland’s state-run National Institute of Telecommunications has noted a sharp increase in deliberate satellite navigation signal interference around Gdańsk, on the country’s northern coast. The institute reports that significant disruption occurred on almost two-thirds of days during the first half ",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "Italy to request EU defense loan after all, but scales back amount",
+      "link": "https://www.defensenews.com/global/europe/2026/08/26/italy-to-request-eu-defense-loan-after-all-but-scales-back-amount/",
+      "pubDate": "Wed, 26 Aug 2026 16:59:30 +0000",
+      "description": "Italy has requested €8 billion euros ($9.3 billion) in cheap loans from the European Union’s SAFE program following earlier doubts about the move.",
+      "feedName": "Defense News"
+    },
+    {
+      "title": "First North Korea-Russia road bridge nearly complete, symbolizing new era of military cooperation",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/08/26/first-north-korea-russia-road-bridge-nearly-complete-symbolizing-new-era-of-military-cooperation/",
+      "pubDate": "Wed, 26 Aug 2026 09:03:18 +0000",
+      "description": "The first-ever road bridge linking North Korea and Russia across the Tumen River appears close to completion, according to satellite imagery reviewed by De",
+      "feedName": "Defense News"
+    },
+    {
+      "title": "#SpaceWatchGL Analysis: How IRIS2 Became a Market Rescue Programme Wrapped in the Language of European Strategic Autonomy",
+      "link": "https://spacewatch.global/2026/08/spacewatchgl-analysis-how-iris2-became-a-market-rescue-programme-wrapped-in-the-language-of-european-strategic-autonomy/",
+      "pubDate": "Wed, 26 Aug 2026 08:00:00 +0000",
+      "description": " Written by K.-P. Ludwig  The IRIS2 programme was conceived to address a sincere and urgent strategic need: a sovereign European satellite communication infrastructure, independent of non-European providers, capable of serving both governmental and military requirements. The instrument chosen to del",
+      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Hypersonics, rocket startup Ursa Major to go public in $2.3B deal",
@@ -37,13 +86,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Shield AI and Sedaro Validate On-Orbit AI Pilot and Edge Autonomy Onboard LEO Satellite",
-      "link": "https://satnews.com/2026/08/24/shield-ai-and-sedaro-validate-on-orbit-ai-pilot-and-edge-autonomy-onboard-leo-satellite/",
-      "pubDate": "Mon, 24 Aug 2026 16:06:04 +0000",
-      "description": "On August 24, 2026, aerospace software developer Sedaro and defense technology firm Shield AI announced the completion of initial on-orbit flight tests pairing Shield AI’s Hivemind autonomy with Sedaro’s trusted [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "ESA to Adapt Ariane 6 for Nuclear-Powered Argonaut Missions",
       "link": "https://europeanspaceflight.com/esa-to-adapt-ariane-6-for-nuclear-powered-argonaut-missions/",
       "pubDate": "Mon, 24 Aug 2026 14:31:56 +0000",
@@ -63,27 +105,6 @@
       "pubDate": "Fri, 21 Aug 2026 19:48:14 +0000",
       "description": "\nParis, France &#124; August 2026– More than 6,500 Earth observation (EO) satellites are expected to launch by 2035, generating $155.9 billion in manufacturing revenues as governments expand sovereign intelligence, surveillance, [&#8230;]\nThe post New Novaspace forecast: 6,500+ EO satellites to laun",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "European Defense Tech Hub Festival 2026 – Benjamin Wolba on Building Europe’s Defense Innovation Network",
-      "link": "https://spacewatch.global/2026/08/european-defense-tech-hub-festival-2026-benjamin-wolba-on-building-europes-defense-innovation-network/",
-      "pubDate": "Fri, 21 Aug 2026 07:00:00 +0000",
-      "description": "From a historic airfield in Neuhardenberg near Berlin, Benjamin Wolba, co-founder of the first-ever European Defense Tech Hub Festival, joins Torsten Kriening to explain how a group of civilians is building a pan-European defense innovation network — from hackathons to live drone demos — and where s",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "HawkEye 360 Secures NRO’s Augmentation Contract on Commercial Radio Frequency Capability",
-      "link": "https://spacewatch.global/2026/08/hawkeye-360-secures-nros-augmentation-contract-on-commercial-radio-frequency-capability/",
-      "pubDate": "Fri, 21 Aug 2026 06:00:00 +0000",
-      "description": "HawkEye 360 has won a contract to provide commercial radio frequency data to support U.S. national security missions under the National Reconnaissance Office’s Commercial Radio Frequency Capability Augmentation program.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "From Prototype to Capability: Europe’s Defence Tech Builders Gather at Neuhardenberg",
-      "link": "https://spacewatch.global/2026/08/from-prototype-to-capability-europes-defence-tech-builders-gather-at-neuhardenberg/",
-      "pubDate": "Fri, 21 Aug 2026 06:00:00 +0000",
-      "description": "The first European Defence Tech Hub Festival opened at Neuhardenberg with more than 200 founders, engineers, soldiers and investors in one hangar. The recurring theme was not invention but translation - how Europe turns prototypes into fielded military capability. The Bundeswehr's Cyber Innovation H",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "What’s next for ISR in space",
@@ -111,20 +132,6 @@
       "link": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission/",
       "pubDate": "Thu, 20 Aug 2026 10:00:00 +0000",
       "description": "\nLOS ANGELES, CA, September 8th, 2026. Proteus Space, a dual-use aerospace company delivering rapid, end-to-end access to space, today announced it has been selected by The Charles Stark Draper Laboratory, [&#8230;]\nThe post Draper Selects Proteus Space for Advanced On-Orbit Mission appeared first o",
-      "feedName": "SpaceNews"
-    },
-    {
-      "title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
-      "link": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
-      "pubDate": "Fri, 14 Aug 2026 09:00:00 +0000",
-      "description": "\nParis, France &#124; August 2026 – Novaspace’s latest In-Orbit Services Markets report projects that emerging in-orbit services will generate approximately $3 billion in cumulative service revenues over the next decade, highlighting the early development [&#8230;]\nThe post In-Orbit Services Market ",
-      "feedName": "SpaceNews"
-    },
-    {
-      "title": "Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity",
-      "link": "https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity/",
-      "pubDate": "Thu, 13 Aug 2026 14:27:27 +0000",
-      "description": "\nParis, France &#124; July 2026 — The maritime satellite communications market is entering a new phase of growth as next-generation satellite networks transform connectivity at sea. According to Novaspace’s newly [&#8230;]\nThe post Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 a",
       "feedName": "SpaceNews"
     },
     {
@@ -216,13 +223,6 @@
       "link": "https://warontherocks.com/cogs-of-war/the-pentagons-sprint-to-get-tech-out-of-the-lab-and-to-the-warfighter/",
       "pubDate": "Thu, 09 Jul 2026 08:00:22 +0000",
       "description": "Joe Jewell left academia and his role directing hypersonic wind tunnels to oversee the Pentagon&#8217;s science and technology enterprise. He wants more researchers to make the same move. He joins Jonathan to discuss the Pentagon&#8217;s science enterprise, why he thinks academia is the envy of Amer",
-      "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Victory for al-Qaeda’s Affiliate in Mali Would be a Catastrophe",
-      "link": "https://warontherocks.com/victory-for-al-qaedas-affiliate-in-mali-would-be-a-catastrophe/",
-      "pubDate": "Thu, 09 Jul 2026 07:30:48 +0000",
-      "description": "Mali is not Syria, and Jama&#8217;at Nusrat al-Islam wal-Muslimin is not Hay&#8217;at Tahrir al-Sham.While the fall of the Bashar al-Assad regime and the rise of the Ahmed al-Sharaa government in Damascus, Syria can be seen as a net positive for regional security in the Levant, a Jama&#8217;at Nusra",
       "feedName": "War on the Rocks"
     },
     {
