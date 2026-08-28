@@ -1,6 +1,55 @@
 {
-  "generated": "2026-08-27T17:28:11.710Z",
+  "generated": "2026-08-28T18:21:46.299Z",
   "newsItems": [
+    {
+      "title": "Military uses AV directed energy system to ‘defeat’ drones at the border",
+      "link": "https://breakingdefense.com/2026/08/military-uses-av-directed-energy-system-to-defeat-drones-at-the-border/",
+      "pubDate": "Fri, 28 Aug 2026 15:54:53 +0000",
+      "description": "The task force did not disclose exactly where the drones were engaged or who was suspected of flying them, but suggested they could have been used for reconnaissance by a drug cartel. \n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "In southern Lebanon, fighting Hezbollah in the hills becomes a strategic conundrum",
+      "link": "https://www.defensenews.com/global/mideast-africa/2026/08/28/in-southern-lebanon-fighting-hezbollah-in-the-hills-becomes-a-strategic-conundrum/",
+      "pubDate": "Fri, 28 Aug 2026 09:50:51 +0000",
+      "description": "In hilly southern Lebanon, local forces are keen to maintain control over areas from which Israeli troops have withdrawn.",
+      "feedName": "Defense News"
+    },
+    {
+      "title": "ESA Launches Next Phase of European Launcher Challenge With €543.6 Million in Contracts",
+      "link": "https://spacewatch.global/2026/08/esa-launches-next-phase-of-european-launcher-challenge-with-e543-6-million-in-contracts/",
+      "pubDate": "Fri, 28 Aug 2026 06:00:00 +0000",
+      "description": "The first contracts under the European Launcher Challenge between the European Space Agency (ESA) and European launch service providers have been signed, concluding the second stage of the tender process.\n\nThe next stage of the European Launcher Challenge will shift the focus from contract awards to",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Arianespace Launches Thales Alenia Space MTG-I2 Satellite Aboard Ariane 62 Rocket",
+      "link": "https://satnews.com/2026/08/27/arianespace-launches-thales-alenia-space-mtg-i2-satellite-aboard-ariane-62-rocket/",
+      "pubDate": "Thu, 27 Aug 2026 22:59:23 +0000",
+      "description": "On August 27, 2026, Arianespace successfully launched the MTG-I2 weather satellite aboard an Ariane 62 vehicle from Europe’s Spaceport in Kourou, French Guiana. Built by prime contractor Thales Alenia Space [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "PLD Space, Isar Aerospace, and Rocket Factory Augsburg Land ESA Contracts in Launch Challenge",
+      "link": "https://www.satellitetoday.com/launch/2026/08/27/pld-space-isar-aerospace-and-rocket-factory-augsburg-land-esa-contracts-in-launch-challenge/",
+      "pubDate": "Thu, 27 Aug 2026 21:00:37 +0000",
+      "description": "The European Space Agency (ESA) has awarded more than 500 million euro in funding for the European Launch Challenge between PLD Space, Isar Aerospace, and Rocket Factory Augsburg. ESA also [&#8230;]\nThe post PLD Space, Isar Aerospace, and Rocket Factory Augsburg Land ESA Contracts in Launch Challeng",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "US military bought commercial satellite images of alleged narco airstrips, Chinese naval fleet",
+      "link": "https://www.defenseone.com/technology/2026/08/us-military-bought-commercial-satellite-images-alleged-narco-airstrips-chinese-naval-fleet/415684/",
+      "pubDate": "Thu, 27 Aug 2026 16:54:02 -0400",
+      "description": "The Space Force can improve how it embraces commercial intel, a new GAO report says.",
+      "feedName": "Defense One"
+    },
+    {
+      "title": "Kepler Enters Optical Tech Partnership, Hosted Payload Agreement with NorthStar",
+      "link": "https://www.satellitetoday.com/technology/2026/08/27/kepler-enters-optical-tech-partnership-hosted-payload-agreement-with-northstar/",
+      "pubDate": "Thu, 27 Aug 2026 20:26:10 +0000",
+      "description": "Kepler Communications will combine its optical data relay infrastructure with NorthStar’s Space Domain Awareness (SDA) services under the terms of a new strategic partnership the two companies announced Thursday. The deal [&#8230;]\nThe post Kepler Enters Optical Tech Partnership, Hosted Payload Agre",
+      "feedName": "Via Satellite"
+    },
     {
       "title": "ESA Awards €544 Million in European Launcher Challenge Contracts",
       "link": "https://europeanspaceflight.com/esa-awards-e544-million-in-european-launcher-challenge-contracts/",
@@ -65,13 +114,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Hypersonics, rocket startup Ursa Major to go public in $2.3B deal",
-      "link": "https://breakingdefense.com/2026/08/hypersonics-rocket-startup-ursa-major-to-go-public-in-2-3b-deal/",
-      "pubDate": "Tue, 25 Aug 2026 13:29:29 +0000",
-      "description": " &#8220;This transaction will help us turn that foundation into the production capacity our customers need,” CEO Chris Spagnoletti said.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "ESA’s Draco Reentry Mission Clears Its Critical Design Review",
       "link": "https://europeanspaceflight.com/esas-draco-reentry-mission-clears-its-critical-design-review/",
       "pubDate": "Tue, 25 Aug 2026 10:38:56 +0000",
@@ -91,13 +133,6 @@
       "pubDate": "Mon, 24 Aug 2026 14:31:56 +0000",
       "description": "The European Space Agency expects to make specific safety adaptations to the Ariane 6 rocket for future launches of its Argonaut lunar landers that will carry a Radioisotope Power System. The modifications will not, however, be required for the spacecraft’s first mission. Argonaut is ESA’s planned h",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Synspective Sets 31 August Launch for 11th ‘StriX’ Constellation Satellite on Rocket Lab Electron",
-      "link": "https://spacewatch.global/2026/08/synspective-sets-31-august-launch-for-11th-strix-constellation-satellite-on-rocket-lab-electron/",
-      "pubDate": "Mon, 24 Aug 2026 06:00:00 +0000",
-      "description": "Synspective has set 31 August for the launch of its 11th StriX SAR satellite, flying on Rocket Lab's Electron from Mahia, New Zealand.",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
@@ -217,13 +252,6 @@
       "pubDate": "Thu, 09 Jul 2026 12:55:49 +0000",
       "description": "color33 is an automated, cloud-based, online processing service that converts multispectral Earth observation images into actionable categories without requiring any training samples. Unlike unsupervised clustering routines or machine learning approaches, color33 is based on a physical-model, produc",
       "feedName": "EO Mag"
-    },
-    {
-      "title": "The Pentagon’s Sprint to Get Tech Out of the Lab and to the Warfighter",
-      "link": "https://warontherocks.com/cogs-of-war/the-pentagons-sprint-to-get-tech-out-of-the-lab-and-to-the-warfighter/",
-      "pubDate": "Thu, 09 Jul 2026 08:00:22 +0000",
-      "description": "Joe Jewell left academia and his role directing hypersonic wind tunnels to oversee the Pentagon&#8217;s science and technology enterprise. He wants more researchers to make the same move. He joins Jonathan to discuss the Pentagon&#8217;s science enterprise, why he thinks academia is the envy of Amer",
-      "feedName": "War on the Rocks"
     },
     {
       "title": "CloudFerro expands sovereign cloud infrastructure for Earth Observation with a new AI-ready cloud region in Poland",
