@@ -1,6 +1,20 @@
 {
-  "generated": "2026-08-30T11:33:05.971Z",
+  "generated": "2026-08-31T13:07:17.604Z",
   "newsItems": [
+    {
+      "title": "SES Awards OHB €1 billion for IRIS2 MEO Satellites",
+      "link": "https://europeanspaceflight.com/ses-awards-ohb-e1-billion-for-iris2-meo-satellites/",
+      "pubDate": "Mon, 31 Aug 2026 11:09:59 +0000",
+      "description": "European satellite operator SES has awarded OHB a contract worth almost €1 billion to develop and build satellite platforms for the medium Earth orbit component of Europe’s €15.6 billion IRIS2 secure communications constellation. OHB announced that it had been awarded the contract on 31 August, desc",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "Israel, Greece seal €3B ‘Achilles Shield’ defense deal",
+      "link": "https://www.politico.eu/article/israel-greece-strike-3b-air-defense-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Mon, 31 Aug 2026 10:18:36 +0000",
+      "description": "The package will cover ballistic missiles, aircraft and drones.",
+      "feedName": "Politico Europe"
+    },
     {
       "title": "Military uses AV directed-energy system to ‘defeat’ drones at the border",
       "link": "https://breakingdefense.com/2026/08/military-uses-av-directed-energy-system-to-defeat-drones-at-the-border/",
@@ -65,13 +79,6 @@
       "feedName": "Breaking Defense"
     },
     {
-      "title": "ESA Awards PLD Space €158.9M European Launcher Challenge Contract for MIURA 5 Scaling and Reusability",
-      "link": "https://satnews.com/2026/08/27/esa-awards-pld-space-e158-9m-european-launcher-challenge-contract-for-miura-5-scaling-and-reusability/",
-      "pubDate": "Thu, 27 Aug 2026 14:00:39 +0000",
-      "description": "On August 27, 2026, Spanish launch provider PLD Space was selected by the European Space Agency (ESA) under the European Launcher Challenge (ELC) initiative, securing a contract valued at €158.9 [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "Simera Sense Expands Small-Satellite Imaging Portfolio With Loft Orbital Deal and New Dual-Use Payload",
       "link": "https://spacewatch.global/2026/08/simera-sense-expands-small-satellite-imaging-portfolio-with-loft-orbital-deal-and-new-dual-use-payload/",
       "pubDate": "Thu, 27 Aug 2026 06:00:00 +0000",
@@ -119,13 +126,6 @@
       "pubDate": "Tue, 25 Aug 2026 10:38:56 +0000",
       "description": "The European Space Agency has announced that its Draco mission has passed its Critical Design Review, clearing it to enter full-scale manufacturing, integration and testing ahead of its planned launch in 2027. ESA announced the milestone on 17 August, saying the review had validated the design of al",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Shield AI, Sedaro, and NOVI Demo Trusted AI Autonomy Ops in Orbit",
-      "link": "https://spacewatch.global/2026/08/shield-ai-sedaro-and-novi-demonstrate-trusted-ai-autonomy-operations-in-orbit-with-hivemind-ai-pilot/",
-      "pubDate": "Tue, 25 Aug 2026 06:00:00 +0000",
-      "description": "Shield AI, Sedaro, and NOVI Space have completed an in-orbit demonstration of trusted satellite autonomy, layering AI decision-making with onboard validation onto existing and future constellations.",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "ESA to Adapt Ariane 6 for Nuclear-Powered Argonaut Missions",
