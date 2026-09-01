@@ -1,19 +1,68 @@
 {
-  "generated": "2026-08-31T13:07:17.604Z",
+  "generated": "2026-09-01T11:21:15.109Z",
   "newsItems": [
+    {
+      "title": "OHB Signs First Major Industrial Contract Worth Nearly €1 billion Under Europe’s IRIS² Program",
+      "link": "https://spacewatch.global/2026/09/ohb-signs-first-major-industrial-contract-worth-nearly-e1-billion-under-europes-iris%c2%b2-program/",
+      "pubDate": "Tue, 01 Sep 2026 06:00:00 +0000",
+      "description": "OHB has signed the first major contract under the IRIS² concession with SES, following the launch of the program's implementation phase on 6 August. Worth nearly €1 billion, the contract covers the development and production of 18 medium Earth orbit satellite platforms for Europe's new flagship secu",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "NorthStar Selected by European Space Agency to Lead FALCON Reentry Tracking Consortium",
+      "link": "https://satnews.com/2026/08/31/northstar-selected-by-european-space-agency-to-lead-falcon-reentry-tracking-consortium/",
+      "pubDate": "Mon, 31 Aug 2026 21:12:57 +0000",
+      "description": "On August 31, 2026, space situational awareness (SSA) provider NorthStar Earth &#38; Space was selected by the European Space Agency (ESA) to lead the FALCON initiative, an international industrial and [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "US Air Force chief of staff discusses ‘regional situation’ with Israeli military officials",
+      "link": "https://www.defensenews.com/news/your-military/2026/08/31/us-air-force-chief-of-staff-discusses-regional-situation-with-israeli-military-officials/",
+      "pubDate": "Mon, 31 Aug 2026 20:09:41 +0000",
+      "description": "U.S. Air Force Chief of Staff Ken Wilsbach visited Israel recently and met with Israel Defense Forces and Israeli Air Force top officials.",
+      "feedName": "Defense News"
+    },
+    {
+      "title": "NorthStar to Lead ESA Consortium on Uncontrolled Reentry ",
+      "link": "https://www.satellitetoday.com/sustainability/2026/08/31/northstar-to-lead-esa-consortium-on-uncontrolled-reentry/",
+      "pubDate": "Mon, 31 Aug 2026 19:32:44 +0000",
+      "description": "The European Space Agency (ESA) has selected NorthStar Earth &#38; Space to lead a study on uncontrolled atmospheric re-entry.  NorthStar’s European subsidiary will lead a consortium for ESA’s Forecasting of [&#8230;]\nThe post NorthStar to Lead ESA Consortium on Uncontrolled Reentry  appeared first ",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "OHB to Build 18 MEO Satellites for IRIS² in Nearly €1B Award",
+      "link": "https://www.satellitetoday.com/connectivity/2026/08/31/ohb-to-build-18-meo-satellites-for-iris%c2%b2-in-nearly-e1b-award/",
+      "pubDate": "Mon, 31 Aug 2026 19:29:36 +0000",
+      "description": "SES awarded a contract to OHB to manufacture 18 Medium-Earth Orbit (MEO) satellites for Europe’s IRIS² constellation in a deal announced Monday. OHB said the contract is worth nearly 1 [&#8230;]\nThe post OHB to Build 18 MEO Satellites for IRIS² in Nearly €1B Award appeared first on Via Satellite.\n",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Greece inks $3.4B deal for multi-layered Israeli air defense system",
+      "link": "https://breakingdefense.com/2026/08/greece-inks-3-4b-deal-for-multi-layered-israeli-air-defense-system/",
+      "pubDate": "Mon, 31 Aug 2026 17:16:41 +0000",
+      "description": "Defense cooperation between the two countries has increased in recent years as Israel sees Greece as a strategic partner in the Eastern Mediterranean.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "ISRO Deploys First Geostationary Earth Imager as NavIC Constellation Operates Below Baseline Threshold",
+      "link": "https://satnews.com/2026/08/31/isro-deploys-first-geostationary-earth-imager-as-navic-constellation-operates-below-baseline-threshold/",
+      "pubDate": "Mon, 31 Aug 2026 17:08:19 +0000",
+      "description": "On August 31, 2026, the Indian Space Research Organisation (ISRO) achieved an orbital milestone by deploying its first geostationary Earth observation imager. The satellite platform provides persistent meteorological imaging and [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Israel signs $3.5 billion air defense deal with Greece",
+      "link": "https://www.defensenews.com/global/europe/2026/08/31/israel-signs-35-billion-air-defense-deal-with-greece/",
+      "pubDate": "Mon, 31 Aug 2026 16:50:39 +0000",
+      "description": "Israel and Greece signed a €3 billion ($3.5 billion) defense deal on Monday under which Israel will build a multi-layered air defense system for Greece.",
+      "feedName": "Defense News"
+    },
     {
       "title": "SES Awards OHB €1 billion for IRIS2 MEO Satellites",
       "link": "https://europeanspaceflight.com/ses-awards-ohb-e1-billion-for-iris2-meo-satellites/",
       "pubDate": "Mon, 31 Aug 2026 11:09:59 +0000",
       "description": "European satellite operator SES has awarded OHB a contract worth almost €1 billion to develop and build satellite platforms for the medium Earth orbit component of Europe’s €15.6 billion IRIS2 secure communications constellation. OHB announced that it had been awarded the contract on 31 August, desc",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Israel, Greece seal €3B ‘Achilles Shield’ defense deal",
-      "link": "https://www.politico.eu/article/israel-greece-strike-3b-air-defense-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Mon, 31 Aug 2026 10:18:36 +0000",
-      "description": "The package will cover ballistic missiles, aircraft and drones.",
-      "feedName": "Politico Europe"
     },
     {
       "title": "Military uses AV directed-energy system to ‘defeat’ drones at the border",
@@ -37,13 +86,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Arianespace Launches Thales Alenia Space MTG-I2 Satellite Aboard Ariane 62 Rocket",
-      "link": "https://satnews.com/2026/08/27/arianespace-launches-thales-alenia-space-mtg-i2-satellite-aboard-ariane-62-rocket/",
-      "pubDate": "Thu, 27 Aug 2026 22:59:23 +0000",
-      "description": "On August 27, 2026, Arianespace successfully launched the MTG-I2 weather satellite aboard an Ariane 62 vehicle from Europe’s Spaceport in Kourou, French Guiana. Built by prime contractor Thales Alenia Space [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "PLD Space, Isar Aerospace, and Rocket Factory Augsburg Land ESA Contracts in Launch Challenge",
       "link": "https://www.satellitetoday.com/launch/2026/08/27/pld-space-isar-aerospace-and-rocket-factory-augsburg-land-esa-contracts-in-launch-challenge/",
       "pubDate": "Thu, 27 Aug 2026 21:00:37 +0000",
@@ -58,25 +100,11 @@
       "feedName": "Defense One"
     },
     {
-      "title": "Kepler Enters Optical Tech Partnership, Hosted Payload Agreement with NorthStar",
-      "link": "https://www.satellitetoday.com/technology/2026/08/27/kepler-enters-optical-tech-partnership-hosted-payload-agreement-with-northstar/",
-      "pubDate": "Thu, 27 Aug 2026 20:26:10 +0000",
-      "description": "Kepler Communications will combine its optical data relay infrastructure with NorthStar’s Space Domain Awareness (SDA) services under the terms of a new strategic partnership the two companies announced Thursday. The deal [&#8230;]\nThe post Kepler Enters Optical Tech Partnership, Hosted Payload Agre",
-      "feedName": "Via Satellite"
-    },
-    {
       "title": "ESA Awards €544 Million in European Launcher Challenge Contracts",
       "link": "https://europeanspaceflight.com/esa-awards-e544-million-in-european-launcher-challenge-contracts/",
       "pubDate": "Thu, 27 Aug 2026 15:26:18 +0000",
       "description": "The European Space Agency has signed the first contracts under its European Launcher Challenge, committing a combined €543.6 million to Isar Aerospace, Rocket Factory Augsburg, and PLD Space. MaiaSpace was notably not among the awardees, with the agency stating that the contract award process with t",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "The fight over the FY27 defense budget is on. Here’s 13 key issues for Congress to resolve.",
-      "link": "https://breakingdefense.com/2026/08/the-fight-over-the-fy27-defense-budget-is-on-heres-13-key-issues-for-congress-to-resolve/",
-      "pubDate": "Thu, 27 Aug 2026 15:05:00 +0000",
-      "description": "From the Iran supplemental to the debate over a third reconciliation bill, Congress will have its hands full with a long list of defense funding needs when it returns from recess in September.\n",
-      "feedName": "Breaking Defense"
     },
     {
       "title": "Simera Sense Expands Small-Satellite Imaging Portfolio With Loft Orbital Deal and New Dual-Use Payload",
@@ -104,13 +132,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/08/26/italy-to-request-eu-defense-loan-after-all-but-scales-back-amount/",
       "pubDate": "Wed, 26 Aug 2026 16:59:30 +0000",
       "description": "Italy has requested €8 billion euros ($9.3 billion) in cheap loans from the European Union’s SAFE program following earlier doubts about the move.",
-      "feedName": "Defense News"
-    },
-    {
-      "title": "First North Korea-Russia road bridge nearly complete, symbolizing new era of military cooperation",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/08/26/first-north-korea-russia-road-bridge-nearly-complete-symbolizing-new-era-of-military-cooperation/",
-      "pubDate": "Wed, 26 Aug 2026 09:03:18 +0000",
-      "description": "The first-ever road bridge linking North Korea and Russia across the Tumen River appears close to completion, according to satellite imagery reviewed by De",
       "feedName": "Defense News"
     },
     {
@@ -231,13 +252,6 @@
       "pubDate": "Tue, 14 Jul 2026 07:34:56 +0000",
       "description": "The Copernicus Data Space Ecosystem is pleased to announce its annual user community event. Mark your calendar for the&#160;CDSE User Summit 2026&#160;taking place on&#160;Wednesday, 16 September 2026&#160;during INTERGEO 2026 in Munich. The CDSE User Summit is&#160;a hybrid event&#160;that brings&#",
       "feedName": "EO Mag"
-    },
-    {
-      "title": "An Unlearned Lesson: The Sorry Record of Regime Change Operations in the Middle East",
-      "link": "https://warontherocks.com/an-unlearned-lesson-the-sorry-record-of-regime-change-operations-in-the-middle-east/",
-      "pubDate": "Mon, 13 Jul 2026 07:30:35 +0000",
-      "description": "On Feb. 28, 2026, President Donald Trump announced the commencement of Operation Epic Fury, a joint U.S.-Israeli military operation against Iran. Among the mission&#8217;s goals was the overthrow of the Islamic Republic. &#8220;When we are finished,&#8221; Trump told the Iranian people, &#8220;take ",
-      "feedName": "War on the Rocks"
     },
     {
       "title": "Building Higher-Quality Geospatial Datasets for AI: Lessons from Enabled Intelligence and New Capabilities from Kili Technology",
