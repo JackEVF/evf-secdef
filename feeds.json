@@ -1,11 +1,39 @@
 {
-  "generated": "2026-09-01T11:21:15.109Z",
+  "generated": "2026-09-02T10:55:37.851Z",
   "newsItems": [
+    {
+      "title": "CycloKinetics and Venus Aerospace Complete Initial Hot-Fire Testing of CycloRP Fuel in Rotating Detonation Rocket Engine",
+      "link": "https://satnews.com/2026/09/01/cyclokinetics-and-venus-aerospace-complete-initial-hot-fire-testing-of-cyclorp-fuel-in-rotating-detonation-rocket-engine/",
+      "pubDate": "Tue, 01 Sep 2026 23:24:33 +0000",
+      "description": "On September 1, 2026, propellant developer CycloKinetics and hypersonic propulsion company Venus Aerospace announced the successful completion of initial hot-fire detonation tests using CycloRP fuel. The test campaign evaluated CycloRP—a [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Telesat Considers Space-to-Ground Optical Coms with Cailabs ",
+      "link": "https://www.satellitetoday.com/technology/2026/09/01/telesat-considers-space-to-ground-optical-coms-with-cailabs/",
+      "pubDate": "Tue, 01 Sep 2026 19:41:05 +0000",
+      "description": "Telesat will consider adopting space-to-ground optical communications capabilities through a new strategic collaboration agreement with Cailabs. Under the agreement announced Tuesday, the companies will explore integrating Cailabs optical space-to-ground connectivity [&#8230;]\nThe post Telesat Consi",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Space Defense in 2040: A Networked, Weaponized, and Contested Frontier",
+      "link": "https://www.satellitetoday.com/government-military/2026/09/01/space-defense-in-2040-a-networked-weaponized-and-contested-frontier/",
+      "pubDate": "Tue, 01 Sep 2026 16:46:36 +0000",
+      "description": "Autonomous systems, ubiquitous sensors, and AI-optimized targeting are positioned to transform tomorrow’s warfighting domain, where the ability to see, decide, and act first may rest with constellations in orbit rather [&#8230;]\nThe post Space Defense in 2040: A Networked, Weaponized, and Contested ",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "US approves potential $800 million helicopter sale to Iraq",
+      "link": "https://breakingdefense.com/2026/09/us-approves-potential-800-million-helicopter-sale-to-iraq/",
+      "pubDate": "Tue, 01 Sep 2026 13:26:16 +0000",
+      "description": "The proposed sale “will improve Iraq’s capability to meet current and future threats by improving its rotary wing transport, reconnaissance, and air-to-surface targeting capabilities,&#8221; the State Department said.\n",
+      "feedName": "Breaking Defense"
+    },
     {
       "title": "OHB Signs First Major Industrial Contract Worth Nearly €1 billion Under Europe’s IRIS² Program",
       "link": "https://spacewatch.global/2026/09/ohb-signs-first-major-industrial-contract-worth-nearly-e1-billion-under-europes-iris%c2%b2-program/",
       "pubDate": "Tue, 01 Sep 2026 06:00:00 +0000",
-      "description": "OHB has signed the first major contract under the IRIS² concession with SES, following the launch of the program's implementation phase on 6 August. Worth nearly €1 billion, the contract covers the development and production of 18 medium Earth orbit satellite platforms for Europe's new flagship secu",
+      "description": "OHB has signed the first major contract under the IRIS² concession with SES - worth nearly €1 billion for 18 medium Earth orbit satellite platforms, marking the programme's shift from planning into industrial deployment.",
       "feedName": "SpaceWatch Global"
     },
     {
@@ -21,27 +49,6 @@
       "pubDate": "Mon, 31 Aug 2026 20:09:41 +0000",
       "description": "U.S. Air Force Chief of Staff Ken Wilsbach visited Israel recently and met with Israel Defense Forces and Israeli Air Force top officials.",
       "feedName": "Defense News"
-    },
-    {
-      "title": "NorthStar to Lead ESA Consortium on Uncontrolled Reentry ",
-      "link": "https://www.satellitetoday.com/sustainability/2026/08/31/northstar-to-lead-esa-consortium-on-uncontrolled-reentry/",
-      "pubDate": "Mon, 31 Aug 2026 19:32:44 +0000",
-      "description": "The European Space Agency (ESA) has selected NorthStar Earth &#38; Space to lead a study on uncontrolled atmospheric re-entry.  NorthStar’s European subsidiary will lead a consortium for ESA’s Forecasting of [&#8230;]\nThe post NorthStar to Lead ESA Consortium on Uncontrolled Reentry  appeared first ",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "OHB to Build 18 MEO Satellites for IRIS² in Nearly €1B Award",
-      "link": "https://www.satellitetoday.com/connectivity/2026/08/31/ohb-to-build-18-meo-satellites-for-iris%c2%b2-in-nearly-e1b-award/",
-      "pubDate": "Mon, 31 Aug 2026 19:29:36 +0000",
-      "description": "SES awarded a contract to OHB to manufacture 18 Medium-Earth Orbit (MEO) satellites for Europe’s IRIS² constellation in a deal announced Monday. OHB said the contract is worth nearly 1 [&#8230;]\nThe post OHB to Build 18 MEO Satellites for IRIS² in Nearly €1B Award appeared first on Via Satellite.\n",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "Greece inks $3.4B deal for multi-layered Israeli air defense system",
-      "link": "https://breakingdefense.com/2026/08/greece-inks-3-4b-deal-for-multi-layered-israeli-air-defense-system/",
-      "pubDate": "Mon, 31 Aug 2026 17:16:41 +0000",
-      "description": "Defense cooperation between the two countries has increased in recent years as Israel sees Greece as a strategic partner in the Eastern Mediterranean.\n",
-      "feedName": "Breaking Defense"
     },
     {
       "title": "ISRO Deploys First Geostationary Earth Imager as NavIC Constellation Operates Below Baseline Threshold",
@@ -65,13 +72,6 @@
       "feedName": "European Spaceflight"
     },
     {
-      "title": "Military uses AV directed-energy system to ‘defeat’ drones at the border",
-      "link": "https://breakingdefense.com/2026/08/military-uses-av-directed-energy-system-to-defeat-drones-at-the-border/",
-      "pubDate": "Fri, 28 Aug 2026 15:54:53 +0000",
-      "description": "The task force did not disclose exactly where the drones were engaged or who was suspected of flying them, but suggested they could have been used for reconnaissance by a drug cartel. \n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "In southern Lebanon, fighting Hezbollah in the hills becomes a strategic conundrum",
       "link": "https://www.defensenews.com/global/mideast-africa/2026/08/28/in-southern-lebanon-fighting-hezbollah-in-the-hills-becomes-a-strategic-conundrum/",
       "pubDate": "Fri, 28 Aug 2026 09:50:51 +0000",
@@ -84,13 +84,6 @@
       "pubDate": "Fri, 28 Aug 2026 06:00:00 +0000",
       "description": "The first contracts under the European Launcher Challenge between the European Space Agency (ESA) and European launch service providers have been signed, concluding the second stage of the tender process.\n\nThe next stage of the European Launcher Challenge will shift the focus from contract awards to",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "PLD Space, Isar Aerospace, and Rocket Factory Augsburg Land ESA Contracts in Launch Challenge",
-      "link": "https://www.satellitetoday.com/launch/2026/08/27/pld-space-isar-aerospace-and-rocket-factory-augsburg-land-esa-contracts-in-launch-challenge/",
-      "pubDate": "Thu, 27 Aug 2026 21:00:37 +0000",
-      "description": "The European Space Agency (ESA) has awarded more than 500 million euro in funding for the European Launch Challenge between PLD Space, Isar Aerospace, and Rocket Factory Augsburg. ESA also [&#8230;]\nThe post PLD Space, Isar Aerospace, and Rocket Factory Augsburg Land ESA Contracts in Launch Challeng",
-      "feedName": "Via Satellite"
     },
     {
       "title": "US military bought commercial satellite images of alleged narco airstrips, Chinese naval fleet",
@@ -126,20 +119,6 @@
       "pubDate": "Wed, 26 Aug 2026 20:12:39 +0000",
       "description": "Poland’s state-run National Institute of Telecommunications has noted a sharp increase in deliberate satellite navigation signal interference around Gdańsk, on the country’s northern coast. The institute reports that significant disruption occurred on almost two-thirds of days during the first half ",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Italy to request EU defense loan after all, but scales back amount",
-      "link": "https://www.defensenews.com/global/europe/2026/08/26/italy-to-request-eu-defense-loan-after-all-but-scales-back-amount/",
-      "pubDate": "Wed, 26 Aug 2026 16:59:30 +0000",
-      "description": "Italy has requested €8 billion euros ($9.3 billion) in cheap loans from the European Union’s SAFE program following earlier doubts about the move.",
-      "feedName": "Defense News"
-    },
-    {
-      "title": "#SpaceWatchGL Analysis: How IRIS2 Became a Market Rescue Programme Wrapped in the Language of European Strategic Autonomy",
-      "link": "https://spacewatch.global/2026/08/spacewatchgl-analysis-how-iris2-became-a-market-rescue-programme-wrapped-in-the-language-of-european-strategic-autonomy/",
-      "pubDate": "Wed, 26 Aug 2026 08:00:00 +0000",
-      "description": " Written by K.-P. Ludwig  The IRIS2 programme was conceived to address a sincere and urgent strategic need: a sovereign European satellite communication infrastructure, independent of non-European providers, capable of serving both governmental and military requirements. The instrument chosen to del",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "ESA’s Draco Reentry Mission Clears Its Critical Design Review",
@@ -182,13 +161,6 @@
       "pubDate": "Thu, 20 Aug 2026 14:58:48 +0000",
       "description": "The European Space Agency has confirmed to European Spaceflight that it is no longer considering the Ariane 6 Block 3 evolution, saying there is “no programme need or justification” for the evolution at this time. Questions regarding the scrapping of the Block 3 upgrades arose earlier this month aft",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
-      "link": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission/",
-      "pubDate": "Thu, 20 Aug 2026 10:00:00 +0000",
-      "description": "\nLOS ANGELES, CA, September 8th, 2026. Proteus Space, a dual-use aerospace company delivering rapid, end-to-end access to space, today announced it has been selected by The Charles Stark Draper Laboratory, [&#8230;]\nThe post Draper Selects Proteus Space for Advanced On-Orbit Mission appeared first o",
-      "feedName": "SpaceNews"
     },
     {
       "title": "The Blood Price: In Israel, Military Sacrifice Is Becoming Political Power",
@@ -240,13 +212,6 @@
       "feedName": "C4ISRNET"
     },
     {
-      "title": "NATO’s Unity on Paper and Fractures Beneath the Surface",
-      "link": "https://warontherocks.com/natos-unity-on-paper-and-fractures-beneath-the-surface/",
-      "pubDate": "Tue, 14 Jul 2026 18:00:17 +0000",
-      "description": "On July 7-8, NATO held its 36th official summit in Ankara, Turkey. There were several consequential topics to discuss at this year&#8217;s meeting, chief among them the wars in Ukraine and Iran and the uncertain future of European defense and security. We asked five experts to assess the outcomes of",
-      "feedName": "War on the Rocks"
-    },
-    {
       "title": "Save the date: CDSE User Summit 2026",
       "link": "https://eomag.eu/save-the-date-cdse-user-summit-2026/?utm_source=rss&utm_medium=rss&utm_campaign=save-the-date-cdse-user-summit-2026",
       "pubDate": "Tue, 14 Jul 2026 07:34:56 +0000",
@@ -273,13 +238,6 @@
       "pubDate": "Wed, 08 Jul 2026 15:55:23 +0000",
       "description": "CloudFerro, a Polish sovereign cloud provider, has launched a new public cloud region in Łódź, Poland, further expanding its European cloud infrastructure dedicated to Earth Observation, AI and data-intensive workloads. The new region has been designed to support organisations processing large volum",
       "feedName": "EO Mag"
-    },
-    {
-      "title": "NATO to add up to five Northrop Grumman Triton drones for maritime surveillance",
-      "link": "https://www.c4isrnet.com/global/europe/2026/07/07/nato-to-add-up-to-five-northrop-grumman-triton-drones-for-maritime-surveillance/",
-      "pubDate": "Tue, 07 Jul 2026 09:42:08 +0000",
-      "description": "“It is genuinely made in NATO and is creating jobs on both sides of the Atlantic,” alliance Secretary-General Mark Rutte said.",
-      "feedName": "C4ISRNET"
     }
   ],
   "tenderItems": []
