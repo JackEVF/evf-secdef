@@ -1,18 +1,46 @@
 {
-  "generated": "2026-09-03T10:54:24.675Z",
+  "generated": "2026-09-04T10:54:25.964Z",
   "newsItems": [
     {
-      "title": "Teresa Ribera schlägt eine Ölsteuer und gemeinsame Schulden vor, um Europa klimaresistent zu machen",
-      "link": "https://www.politico.eu/article/teresa-ribera-schlaegt-eine-oelsteuer-und-gemeinsame-schulden-vor-um-europa-klimaresistent-zu-machen-2/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Thu, 03 Sep 2026 10:04:08 +0000",
-      "description": "Die EU-Kommissarin fordert den Staatenbund auf, mehr darüber nachzudenken, wie er die Herausforderungen einer sich erwärmenden Welt bewältigen könne. ",
-      "feedName": "Politico Europe"
+      "title": "German Space Situation Awareness Startup Project-S Emerges from Stealth",
+      "link": "https://europeanspaceflight.com/german-space-situation-awareness-startup-project-s-emerges-from-stealth/",
+      "pubDate": "Fri, 04 Sep 2026 10:31:17 +0000",
+      "description": "Munich-based space situational awareness startup Project-S has emerged from stealth with what it describes as “multi-million-euro backing.” The company is currently preparing for the first in-orbit demonstration of its active radar, with a spokesperson telling European Spaceflight that it is schedul",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "Axelspace Partners with Airbus and Star Signal To Expand Earth Observation And Space Safety Services",
+      "link": "https://spacewatch.global/2026/09/axelspace-partners-with-airbus-and-star-signal-to-expand-earth-observation-and-space-safety-services/",
+      "pubDate": "Fri, 04 Sep 2026 06:00:00 +0000",
+      "description": "Axelspace Corporation has signed an agreement with Airbus Defence and Space to provide medium-resolution optical imagery from its GRUS Earth observation microsatellites.\n\nAt the same time, the company is also collaborating with Japan-based space situational awareness technology startup Star Signal S",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Axelspace to Reach Broader Market With Airbus Imagery Deal ",
+      "link": "https://www.satellitetoday.com/earth-observation/2026/09/03/axelspace-to-reach-broader-market-with-airbus-imagery-deal/",
+      "pubDate": "Thu, 03 Sep 2026 19:29:26 +0000",
+      "description": "Japanese satellite imagery provider Axelspace signed an agreement with Airbus Defence and Space to provide Airbus with the company’s mid-resolution optical images. The partners plan to jointly develop and deliver [&#8230;]\nThe post Axelspace to Reach Broader Market With Airbus Imagery Deal  appeared",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "SynMax Secures Exclusive Maritime Channel Deal for Satellogic’s Upcoming Merlin Satellite Constellation",
+      "link": "https://satnews.com/2026/09/03/synmax-secures-exclusive-maritime-channel-deal-for-satellogics-upcoming-merlin-satellite-constellation/",
+      "pubDate": "Thu, 03 Sep 2026 15:50:33 +0000",
+      "description": "On Thursday, September 3, 2026, Houston-based AI analytics company SynMax and Earth observation provider Satellogic Inc. (NASDAQ: SATL) announced an exclusive channel agreement. Under the terms of the deal, all [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
+      "link": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/",
+      "pubDate": "Thu, 03 Sep 2026 13:00:00 +0000",
+      "description": "\nLeuven, Belgium &#38; Halifax, Canada – 3 September 2026 – European optical payload provider Simera Sense today announced that Canadian space technology company Galaxia has acquired a HyperScape100 hyperspectral imaging [&#8230;]\nThe post Galaxia Takes Next Step in Earth Observation with purchase o",
+      "feedName": "SpaceNews"
     },
     {
       "title": "ESA’s Cluster Spacecraft Complete Final Reentries After Decades in Orbit",
       "link": "https://spacewatch.global/2026/09/esas-cluster-spacecraft-complete-final-reentries-after-decades-in-orbit/",
       "pubDate": "Thu, 03 Sep 2026 06:00:00 +0000",
-      "description": "The last pair of spacecraft from ESA's 2000 Cluster mission, Samba and Tango, reentered Earth's atmosphere on 31 August and 1 September, respectively, bringing the end-of-life sequence of the decades-old mission to a close. \n\nWhile the Cluster mission's scientific operations ended in 2024, ESA manag",
+      "description": "ESA's last two Cluster spacecraft, Samba and Tango, reentered on 31 August and 1 September, closing a mission launched in 2000 through a series of targeted end-of-life reentries.",
       "feedName": "SpaceWatch Global"
     },
     {
@@ -23,24 +51,10 @@
       "feedName": "Breaking Defense"
     },
     {
-      "title": "CycloKinetics and Venus Aerospace Complete Initial Hot-Fire Testing of CycloRP Fuel in Rotating Detonation Rocket Engine",
-      "link": "https://satnews.com/2026/09/01/cyclokinetics-and-venus-aerospace-complete-initial-hot-fire-testing-of-cyclorp-fuel-in-rotating-detonation-rocket-engine/",
-      "pubDate": "Tue, 01 Sep 2026 23:24:33 +0000",
-      "description": "On September 1, 2026, propellant developer CycloKinetics and hypersonic propulsion company Venus Aerospace announced the successful completion of initial hot-fire detonation tests using CycloRP fuel. The test campaign evaluated CycloRP—a [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "Telesat Considers Space-to-Ground Optical Coms with Cailabs ",
       "link": "https://www.satellitetoday.com/technology/2026/09/01/telesat-considers-space-to-ground-optical-coms-with-cailabs/",
       "pubDate": "Tue, 01 Sep 2026 19:41:05 +0000",
       "description": "Telesat will consider adopting space-to-ground optical communications capabilities through a new strategic collaboration agreement with Cailabs. Under the agreement announced Tuesday, the companies will explore integrating Cailabs optical space-to-ground connectivity [&#8230;]\nThe post Telesat Consi",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "Space Defense in 2040: A Networked, Weaponized, and Contested Frontier",
-      "link": "https://www.satellitetoday.com/government-military/2026/09/01/space-defense-in-2040-a-networked-weaponized-and-contested-frontier/",
-      "pubDate": "Tue, 01 Sep 2026 16:46:36 +0000",
-      "description": "Autonomous systems, ubiquitous sensors, and AI-optimized targeting are positioned to transform tomorrow’s warfighting domain, where the ability to see, decide, and act first may rest with constellations in orbit rather [&#8230;]\nThe post Space Defense in 2040: A Networked, Weaponized, and Contested ",
       "feedName": "Via Satellite"
     },
     {
@@ -72,13 +86,6 @@
       "feedName": "European Spaceflight"
     },
     {
-      "title": "ESA Launches Next Phase of European Launcher Challenge With €543.6 Million in Contracts",
-      "link": "https://spacewatch.global/2026/08/esa-launches-next-phase-of-european-launcher-challenge-with-e543-6-million-in-contracts/",
-      "pubDate": "Fri, 28 Aug 2026 06:00:00 +0000",
-      "description": "The first contracts under the European Launcher Challenge between the European Space Agency (ESA) and European launch service providers have been signed, concluding the second stage of the tender process.\n\nThe next stage of the European Launcher Challenge will shift the focus from contract awards to",
-      "feedName": "SpaceWatch Global"
-    },
-    {
       "title": "US military bought commercial satellite images of alleged narco airstrips, Chinese naval fleet",
       "link": "https://www.defenseone.com/technology/2026/08/us-military-bought-commercial-satellite-images-alleged-narco-airstrips-chinese-naval-fleet/415684/",
       "pubDate": "Thu, 27 Aug 2026 16:54:02 -0400",
@@ -104,13 +111,6 @@
       "link": "https://europeanspaceflight.com/esas-draco-reentry-mission-clears-its-critical-design-review/",
       "pubDate": "Tue, 25 Aug 2026 10:38:56 +0000",
       "description": "The European Space Agency has announced that its Draco mission has passed its Critical Design Review, clearing it to enter full-scale manufacturing, integration and testing ahead of its planned launch in 2027. ESA announced the milestone on 17 August, saying the review had validated the design of al",
-      "feedName": "European Spaceflight"
-    },
-    {
-      "title": "ESA to Adapt Ariane 6 for Nuclear-Powered Argonaut Missions",
-      "link": "https://europeanspaceflight.com/esa-to-adapt-ariane-6-for-nuclear-powered-argonaut-missions/",
-      "pubDate": "Mon, 24 Aug 2026 14:31:56 +0000",
-      "description": "The European Space Agency expects to make specific safety adaptations to the Ariane 6 rocket for future launches of its Argonaut lunar landers that will carry a Radioisotope Power System. The modifications will not, however, be required for the spacecraft’s first mission. Argonaut is ESA’s planned h",
       "feedName": "European Spaceflight"
     },
     {
