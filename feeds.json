@@ -1,6 +1,13 @@
 {
-  "generated": "2026-09-04T10:54:25.964Z",
+  "generated": "2026-09-05T10:14:13.974Z",
   "newsItems": [
+    {
+      "title": "Planet’s Sovereign Wins Drive Nearly 60% Revenue Growth in Q2 ",
+      "link": "https://www.satellitetoday.com/finance/2026/09/04/planets-sovereign-wins-drive-nearly-60-revenue-growth-in-q2/",
+      "pubDate": "Fri, 04 Sep 2026 18:00:25 +0000",
+      "description": "Planet grew revenue by nearly 60% year-over-year in the second quarter of 2026 and narrowed its net loss as the satellite imagery company sees growing momentum with sovereign deals for [&#8230;]\nThe post Planet’s Sovereign Wins Drive Nearly 60% Revenue Growth in Q2  appeared first on Via Satellite.\n",
+      "feedName": "Via Satellite"
+    },
     {
       "title": "German Space Situation Awareness Startup Project-S Emerges from Stealth",
       "link": "https://europeanspaceflight.com/german-space-situation-awareness-startup-project-s-emerges-from-stealth/",
@@ -12,7 +19,7 @@
       "title": "Axelspace Partners with Airbus and Star Signal To Expand Earth Observation And Space Safety Services",
       "link": "https://spacewatch.global/2026/09/axelspace-partners-with-airbus-and-star-signal-to-expand-earth-observation-and-space-safety-services/",
       "pubDate": "Fri, 04 Sep 2026 06:00:00 +0000",
-      "description": "Axelspace Corporation has signed an agreement with Airbus Defence and Space to provide medium-resolution optical imagery from its GRUS Earth observation microsatellites.\n\nAt the same time, the company is also collaborating with Japan-based space situational awareness technology startup Star Signal S",
+      "description": "Axelspace has signed an agreement with Airbus Defence and Space to supply medium-resolution optical imagery from its GRUS microsatellites, and is separately evaluating SSA services with Star Signal Solutions.",
       "feedName": "SpaceWatch Global"
     },
     {
@@ -44,39 +51,11 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "GE wins deals for F/A-18 engine parts, hypersonic test",
-      "link": "https://breakingdefense.com/2026/09/ge-wins-deals-for-f-a-18-engine-parts-hypersonic-test/",
-      "pubDate": "Wed, 02 Sep 2026 20:23:26 +0000",
-      "description": "The company was separately awarded one deal worth up to $2.9 billion to supply parts for its F414 engine, and another to provide a hypersonic test vehicle for the Defense Innovation Unit. \n",
-      "feedName": "Breaking Defense"
-    },
-    {
-      "title": "Telesat Considers Space-to-Ground Optical Coms with Cailabs ",
-      "link": "https://www.satellitetoday.com/technology/2026/09/01/telesat-considers-space-to-ground-optical-coms-with-cailabs/",
-      "pubDate": "Tue, 01 Sep 2026 19:41:05 +0000",
-      "description": "Telesat will consider adopting space-to-ground optical communications capabilities through a new strategic collaboration agreement with Cailabs. Under the agreement announced Tuesday, the companies will explore integrating Cailabs optical space-to-ground connectivity [&#8230;]\nThe post Telesat Consi",
-      "feedName": "Via Satellite"
-    },
-    {
       "title": "OHB Signs First Major Industrial Contract Worth Nearly €1 billion Under Europe’s IRIS² Program",
       "link": "https://spacewatch.global/2026/09/ohb-signs-first-major-industrial-contract-worth-nearly-e1-billion-under-europes-iris%c2%b2-program/",
       "pubDate": "Tue, 01 Sep 2026 06:00:00 +0000",
       "description": "OHB has signed the first major contract under the IRIS² concession with SES - worth nearly €1 billion for 18 medium Earth orbit satellite platforms, marking the programme's shift from planning into industrial deployment.",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "US Air Force chief of staff discusses ‘regional situation’ with Israeli military officials",
-      "link": "https://www.defensenews.com/news/your-military/2026/08/31/us-air-force-chief-of-staff-discusses-regional-situation-with-israeli-military-officials/",
-      "pubDate": "Mon, 31 Aug 2026 20:09:41 +0000",
-      "description": "U.S. Air Force Chief of Staff Ken Wilsbach visited Israel recently and met with Israel Defense Forces and Israeli Air Force top officials.",
-      "feedName": "Defense News"
-    },
-    {
-      "title": "Israel signs $3.5 billion air defense deal with Greece",
-      "link": "https://www.defensenews.com/global/europe/2026/08/31/israel-signs-35-billion-air-defense-deal-with-greece/",
-      "pubDate": "Mon, 31 Aug 2026 16:50:39 +0000",
-      "description": "Israel and Greece signed a €3 billion ($3.5 billion) defense deal on Monday under which Israel will build a multi-layered air defense system for Greece.",
-      "feedName": "Defense News"
     },
     {
       "title": "SES Awards OHB €1 billion for IRIS2 MEO Satellites",
@@ -104,13 +83,6 @@
       "link": "https://europeanspaceflight.com/polish-institute-reports-continued-gnss-disruption-along-countrys-north-coast/",
       "pubDate": "Wed, 26 Aug 2026 20:12:39 +0000",
       "description": "Poland’s state-run National Institute of Telecommunications has noted a sharp increase in deliberate satellite navigation signal interference around Gdańsk, on the country’s northern coast. The institute reports that significant disruption occurred on almost two-thirds of days during the first half ",
-      "feedName": "European Spaceflight"
-    },
-    {
-      "title": "ESA’s Draco Reentry Mission Clears Its Critical Design Review",
-      "link": "https://europeanspaceflight.com/esas-draco-reentry-mission-clears-its-critical-design-review/",
-      "pubDate": "Tue, 25 Aug 2026 10:38:56 +0000",
-      "description": "The European Space Agency has announced that its Draco mission has passed its Critical Design Review, clearing it to enter full-scale manufacturing, integration and testing ahead of its planned launch in 2027. ESA announced the milestone on 17 August, saying the review had validated the design of al",
       "feedName": "European Spaceflight"
     },
     {
