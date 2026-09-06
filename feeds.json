@@ -1,6 +1,20 @@
 {
-  "generated": "2026-09-05T10:14:13.974Z",
+  "generated": "2026-09-06T10:34:52.129Z",
   "newsItems": [
+    {
+      "title": "Isar Aerospace Completes First Successful Spectrum Flight",
+      "link": "https://europeanspaceflight.com/isar-aerospace-completes-first-successful-spectrum-flight/",
+      "pubDate": "Sun, 06 Sep 2026 05:40:14 +0000",
+      "description": "German launch services provider Isar Aerospace has completed the first successful launch of its Spectrum rocket, deploying five CubeSats into low Earth orbit. The mission marked the first time a privately funded European orbital rocket had successfully reached orbit and the first successful orbital ",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "BREAKING: Isar Aerospace Launches Spectrum Flight 2 Today, First Mission With Payloads",
+      "link": "https://spacewatch.global/2026/09/breaking-isar-aerospace-launches-spectrum-flight-2-today-first-mission-with-payloads/",
+      "pubDate": "Sat, 05 Sep 2026 11:05:00 +0000",
+      "description": "Isar Aerospace flies the second mission of its Spectrum launch vehicle tonight from Andøya, Norway. \"Onward and Upward\" is both the vehicle's qualification flight and the first to carry payloads - five CubeSats and one experiment, selected through the German Space Agency at DLR's first Microlauncher",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "Planet’s Sovereign Wins Drive Nearly 60% Revenue Growth in Q2 ",
       "link": "https://www.satellitetoday.com/finance/2026/09/04/planets-sovereign-wins-drive-nearly-60-revenue-growth-in-q2/",
@@ -76,13 +90,6 @@
       "link": "https://europeanspaceflight.com/esa-awards-e544-million-in-european-launcher-challenge-contracts/",
       "pubDate": "Thu, 27 Aug 2026 15:26:18 +0000",
       "description": "The European Space Agency has signed the first contracts under its European Launcher Challenge, committing a combined €543.6 million to Isar Aerospace, Rocket Factory Augsburg, and PLD Space. MaiaSpace was notably not among the awardees, with the agency stating that the contract award process with t",
-      "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Polish Institute Reports Continued GNSS Disruption Along Country’s North Coast",
-      "link": "https://europeanspaceflight.com/polish-institute-reports-continued-gnss-disruption-along-countrys-north-coast/",
-      "pubDate": "Wed, 26 Aug 2026 20:12:39 +0000",
-      "description": "Poland’s state-run National Institute of Telecommunications has noted a sharp increase in deliberate satellite navigation signal interference around Gdańsk, on the country’s northern coast. The institute reports that significant disruption occurred on almost two-thirds of days during the first half ",
       "feedName": "European Spaceflight"
     },
     {
