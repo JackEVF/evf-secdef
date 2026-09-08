@@ -1,6 +1,62 @@
 {
-  "generated": "2026-09-07T11:58:58.955Z",
+  "generated": "2026-09-08T10:54:18.744Z",
   "newsItems": [
+    {
+      "title": "EU abruptly shelves Kallas-led defense panel after pushback from Berlin, Paris, Rome",
+      "link": "https://www.defensenews.com/global/europe/2026/09/08/eu-abruptly-shelves-kallas-led-defense-panel-after-pushback-from-berlin-paris-rome/",
+      "pubDate": "Tue, 08 Sep 2026 09:54:35 +0000",
+      "description": "EU foreign policy chief Kaja Kallas scrapped plans to launch a high-level advisory group on European defense just hours before its scheduled unveiling.",
+      "feedName": "Defense News"
+    },
+    {
+      "title": "US escalates ahead of UK trade sanctions on Israeli settlements",
+      "link": "https://www.politico.eu/article/us-escalates-ahead-of-uk-trade-sanctions-on-israeli-settlements/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Tue, 08 Sep 2026 09:17:26 +0000",
+      "description": "U.K. Foreign Secretary Ed Miliband is expected to formally announce a trade ban as part of a promised reset on policy. ",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Inside Burnham’s big Israel gamble",
+      "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/inside-burnhams-big-israel-gamble/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Tue, 08 Sep 2026 07:32:51 +0000",
+      "description": "Britain is about to take its toughest stance yet against Israel &#8211; but will it make a difference, or will it leave the UK isolated on the international stage? Andy Burnham and Ed Miliband will unveil a package of sanctions targeting Israeli settlements in the West Bank, putting Britain at the f",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "ESA Set to Discuss Europe’s Space Future at the International Space Summit in Paris",
+      "link": "https://spacewatch.global/2026/09/esa-set-to-discuss-europes-space-future-at-the-international-space-summit-in-paris/",
+      "pubDate": "Tue, 08 Sep 2026 06:00:00 +0000",
+      "description": "The inaugural International Space Summit takes place in Paris on 9 and 10 September, bringing together heads of state, ministers, industry, and astronauts to discuss Europe's role in the next phase of exploration.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "As BepiColombo Nears Mercury, Terma Continues Supporting the Mission",
+      "link": "https://spacewatch.global/2026/09/as-bepicolombo-nears-mercury-terma-continues-supporting-the-mission/",
+      "pubDate": "Tue, 08 Sep 2026 06:00:00 +0000",
+      "description": "The ESA/JAXA BepiColombo mission, launched in October 2018 to study Mercury and its environment, is scheduled to enter orbit around the planet on 21 November 2026. \n\nThe mission has relied on technical support from European space companies throughout its development and eight-year journey, including",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Hydrosat And Kazakhstan Target Thermal Satellite Capability For Central Asian Water Security",
+      "link": "https://spacewatch.global/2026/09/hydrosat-and-kazakhstan-target-thermal-satellite-capability-for-central-asian-water-security/",
+      "pubDate": "Tue, 08 Sep 2026 06:00:00 +0000",
+      "description": "Hydrosat and JSC “NC “KGS” have established a framework to evaluate the development of a dedicated thermal infrared satellite constellation. \n\nThe proposed constellation is intended to strengthen national Earth observation capabilities and provide governments in Kazakhstan and the broader Central As",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "ISRO Clarifies National Space Mandate, Confirming Agency Will Not Face Privatization",
+      "link": "https://satnews.com/2026/09/07/isro-clarifies-national-space-mandate-confirming-agency-will-not-face-privatization/",
+      "pubDate": "Mon, 07 Sep 2026 22:08:00 +0000",
+      "description": "On September 4, 2026, the Indian Space Research Organisation (ISRO) issued an official statement regarding its organizational roadmap, confirming that the state space agency will neither be privatized nor undergo [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "ERC 2026 – Lucy van der Tas of ESA on Careers Beyond Astronauts and Following Your Passion",
+      "link": "https://spacewatch.global/2026/09/erc-2026-lucy-van-der-tas-of-esa-on-careers-beyond-astronauts-and-following-your-passion/",
+      "pubDate": "Mon, 07 Sep 2026 19:00:00 +0000",
+      "description": "From the European Rover Challenge in Kraków, ESA's Senior Talent Acquisition Advisor Lucy van der Tas joins Daniela Jovic to bust the myth that space careers mean astronauts, explain who really thrives at ESA, and share a moving story about why encouraging women in engineering matters.",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "#SpaceWatchGL Opinion: Europe Has Discovered the Customer. Now It Has to Buy Something",
       "link": "https://spacewatch.global/2026/09/spacewatchgl-opinion-europe-has-discovered-the-customer-now-it-has-to-buy-something/",
@@ -28,13 +84,6 @@
       "pubDate": "Mon, 07 Sep 2026 06:00:00 +0000",
       "description": "ISRO's EOS-05 has completed two orbit-raising manoeuvres following its 4 September launch, with further burns planned to reach its operational geosynchronous orbit.",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "ISRO Clarifies National Space Mandate, Confirming Agency Will Not Face Privatization",
-      "link": "https://satnews.com/2026/09/06/isro-clarifies-national-space-mandate-confirming-agency-will-not-face-privatization/",
-      "pubDate": "Sun, 06 Sep 2026 23:08:13 +0000",
-      "description": "On September 4, 2026, the Indian Space Research Organisation (ISRO) issued an official statement regarding its organizational roadmap, confirming that the state space agency will neither be privatized nor undergo [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "Isar Aerospace Reaches Orbit: First Commercial European Company to Deploy Satellites",
@@ -86,25 +135,11 @@
       "feedName": "Via Satellite"
     },
     {
-      "title": "SynMax Secures Exclusive Maritime Channel Deal for Satellogic’s Upcoming Merlin Satellite Constellation",
-      "link": "https://satnews.com/2026/09/03/synmax-secures-exclusive-maritime-channel-deal-for-satellogics-upcoming-merlin-satellite-constellation/",
-      "pubDate": "Thu, 03 Sep 2026 15:50:33 +0000",
-      "description": "On Thursday, September 3, 2026, Houston-based AI analytics company SynMax and Earth observation provider Satellogic Inc. (NASDAQ: SATL) announced an exclusive channel agreement. Under the terms of the deal, all [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
       "link": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/",
       "pubDate": "Thu, 03 Sep 2026 13:00:00 +0000",
       "description": "\nLeuven, Belgium &#38; Halifax, Canada – 3 September 2026 – European optical payload provider Simera Sense today announced that Canadian space technology company Galaxia has acquired a HyperScape100 hyperspectral imaging [&#8230;]\nThe post Galaxia Takes Next Step in Earth Observation with purchase o",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "ESA’s Cluster Spacecraft Complete Final Reentries After Decades in Orbit",
-      "link": "https://spacewatch.global/2026/09/esas-cluster-spacecraft-complete-final-reentries-after-decades-in-orbit/",
-      "pubDate": "Thu, 03 Sep 2026 06:00:00 +0000",
-      "description": "ESA's last two Cluster spacecraft, Samba and Tango, reentered on 31 August and 1 September, closing a mission launched in 2000 through a series of targeted end-of-life reentries.",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "SES Awards OHB €1 billion for IRIS2 MEO Satellites",
@@ -119,13 +154,6 @@
       "pubDate": "Thu, 27 Aug 2026 16:54:02 -0400",
       "description": "The Space Force can improve how it embraces commercial intel, a new GAO report says.",
       "feedName": "Defense One"
-    },
-    {
-      "title": "ESA Awards €544 Million in European Launcher Challenge Contracts",
-      "link": "https://europeanspaceflight.com/esa-awards-e544-million-in-european-launcher-challenge-contracts/",
-      "pubDate": "Thu, 27 Aug 2026 15:26:18 +0000",
-      "description": "The European Space Agency has signed the first contracts under its European Launcher Challenge, committing a combined €543.6 million to Isar Aerospace, Rocket Factory Augsburg, and PLD Space. MaiaSpace was notably not among the awardees, with the agency stating that the contract award process with t",
-      "feedName": "European Spaceflight"
     },
     {
       "title": "The Blood Price: In Israel, Military Sacrifice Is Becoming Political Power",
