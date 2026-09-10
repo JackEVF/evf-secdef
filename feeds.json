@@ -1,19 +1,40 @@
 {
-  "generated": "2026-09-09T10:58:31.896Z",
+  "generated": "2026-09-10T10:55:25.463Z",
   "newsItems": [
     {
-      "title": "Is Andy Burnham talking about the right stuff?",
-      "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/is-andy-burnham-talking-about-the-right-stuff/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Wed, 09 Sep 2026 07:20:17 +0000",
-      "description": "There&#8217;s fallout from the U.K.&#8217;s move to announce sanctions on illegal Israeli settlements in the occupied West Bank. Israel is closing the U.K.&#8217;s consulate in Jerusalem and considering other measures. Sam Coates and Anne McElvoy look at the reaction and wonder if the new PM should ",
+      "title": "#SpaceWatchGl Opinion: Space Has Inspired the Public for Decades. Now It Needs to Listen.",
+      "link": "https://spacewatch.global/2026/09/spacewatchgl-opinion-space-has-inspired-the-public-for-decades-now-it-needs-to-listen/",
+      "pubDate": "Thu, 10 Sep 2026 08:00:00 +0000",
+      "description": " Written by Judith Delany  Europe depends on space more than most citizens realise. As Josef Aschbacher calls for greater public engagement, new initiatives from ESA and ESPI are exploring how to turn space outreach into a two-way conversation.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Why the US is staying so measured about allies’ sanctions on Israeli settlements",
+      "link": "https://www.politico.com/news/2026/09/10/why-the-us-is-staying-so-measured-about-allies-sanction-on-israeli-settlements-01070067?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Thu, 10 Sep 2026 05:35:07 +0000",
+      "description": "U.S. Ambassador to Israel Mike Huckabee “is totally out on his own” with his threats against the U.K., as most of the Trump administration treads carefully.",
       "feedName": "Politico Europe"
     },
     {
-      "title": "The EU’s Israel dilemma",
-      "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-eus-israel-dilemma/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Wed, 09 Sep 2026 04:05:00 +0000",
-      "description": "Relations between the EU and Israel have been deeply strained over the war in Gaza. But the bloc is struggling to withstand the allure of Israel’s tech and&#160;missile defense&#160;prowess. On today’s show, Zoya Sheftalovich and Ian Wishart discuss how EU capitals are looking again to Israel for co",
+      "title": "August declared the hottest month ever recorded",
+      "link": "https://www.politico.eu/article/august-declared-the-hottest-month-ever-recorded/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Thu, 10 Sep 2026 02:00:00 +0000",
+      "description": "Record-breaking global temperatures were caused by burning fossil fuels, the EU's earth observation unit said. ",
       "feedName": "Politico Europe"
+    },
+    {
+      "title": "Israeli-based defense company rebrands American subsidiary to Twenty-Six Defense",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/09/09/israeli-based-defense-company-rebrands-american-subsidiary-to-twenty-six-defense/",
+      "pubDate": "Wed, 09 Sep 2026 23:32:12 +0000",
+      "description": "The U.S. arm of Israeli-based Elbit Systems has rebranded to Twenty-Six Defense, a new name that emphasizes the subsidiary’s American-made brand.",
+      "feedName": "Defense News"
+    },
+    {
+      "title": "Elbit America rebrands as Twenty-Six Defense",
+      "link": "https://breakingdefense.com/2026/09/elbit-america-rebrands-as-twenty-six-defense/",
+      "pubDate": "Wed, 09 Sep 2026 16:36:30 +0000",
+      "description": "The US arm of the Israeli weapons firm employs 3,300 people across 10 states, the company said on its website.\n",
+      "feedName": "Breaking Defense"
     },
     {
       "title": "Defense a key focus for new UK $10.6B, 4-year space spending plan",
@@ -44,24 +65,10 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "ISRO Clarifies National Space Mandate, Confirming Agency Will Not Face Privatization",
-      "link": "https://satnews.com/2026/09/07/isro-clarifies-national-space-mandate-confirming-agency-will-not-face-privatization/",
-      "pubDate": "Mon, 07 Sep 2026 22:08:00 +0000",
-      "description": "On September 4, 2026, the Indian Space Research Organisation (ISRO) issued an official statement regarding its organizational roadmap, confirming that the state space agency will neither be privatized nor undergo [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "ERC 2026 – Lucy van der Tas of ESA on Careers Beyond Astronauts and Following Your Passion",
       "link": "https://spacewatch.global/2026/09/erc-2026-lucy-van-der-tas-of-esa-on-careers-beyond-astronauts-and-following-your-passion/",
       "pubDate": "Mon, 07 Sep 2026 19:00:00 +0000",
       "description": "From the European Rover Challenge in Kraków, ESA's Senior Talent Acquisition Advisor Lucy van der Tas joins Daniela Jovic to bust the myth that space careers mean astronauts, explain who really thrives at ESA, and share a moving story about why encouraging women in engineering matters.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "#SpaceWatchGL Opinion: Europe Has Discovered the Customer. Now It Has to Buy Something",
-      "link": "https://spacewatch.global/2026/09/spacewatchgl-opinion-europe-has-discovered-the-customer-now-it-has-to-buy-something/",
-      "pubDate": "Mon, 07 Sep 2026 08:00:00 +0000",
-      "description": " Written by Niels Buus  Europe has learned how to fund space technology. The harder challenge is turning capability into customers, orders and sustainable businesses. At ESA’s Space for Inspiration, procurement emerged as the missing link.",
       "feedName": "SpaceWatch Global"
     },
     {
@@ -72,46 +79,11 @@
       "feedName": "War on the Rocks"
     },
     {
-      "title": "Project-S Emerges from Stealth with Ambition to Build European Space Safety Layer",
-      "link": "https://spacewatch.global/2026/09/project-s-emerges-from-stealth-with-ambition-to-build-european-space-safety-layer/",
-      "pubDate": "Mon, 07 Sep 2026 06:00:00 +0000",
-      "description": "Munich-based Project-S has emerged from stealth, developing space-based radar payloads and AI-enabled orbital intelligence to detect and track small debris and strengthen space situational awareness.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "ISRO’s EOS-05 Begins Orbital Ascent Towards India’s First Geosynchronous Imaging Mission",
-      "link": "https://spacewatch.global/2026/09/isros-eos-05-begins-orbital-ascent-towards-indias-first-geosynchronous-imaging-mission/",
-      "pubDate": "Mon, 07 Sep 2026 06:00:00 +0000",
-      "description": "ISRO's EOS-05 has completed two orbit-raising manoeuvres following its 4 September launch, with further burns planned to reach its operational geosynchronous orbit.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Isar Aerospace Reaches Orbit: First Commercial European Company to Deploy Satellites",
-      "link": "https://spacewatch.global/2026/09/isar-aerospace-reaches-orbit-first-commercial-european-company-to-deploy-satellites/",
-      "pubDate": "Sun, 06 Sep 2026 11:00:00 +0000",
-      "description": "Isar Aerospace has become the first commercial company from continental Europe to deliver satellites to orbit. Mission \"Onward and Upward\" lifted off from Andøya at 22:12 CEST on 5 September, completing orbital insertion and deploying five CubeSats and one experiment on Spectrum's second flight. At ",
-      "feedName": "SpaceWatch Global"
-    },
-    {
       "title": "Isar Aerospace Completes First Successful Spectrum Flight",
       "link": "https://europeanspaceflight.com/isar-aerospace-completes-first-successful-spectrum-flight/",
       "pubDate": "Sun, 06 Sep 2026 05:40:14 +0000",
       "description": "German launch services provider Isar Aerospace has completed the first successful launch of its Spectrum rocket, deploying five CubeSats into low Earth orbit. The mission marked the first time a privately funded European orbital rocket had successfully reached orbit and the first successful orbital ",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "BREAKING: Isar Aerospace Launches Spectrum Flight 2 Today, First Mission With Payloads",
-      "link": "https://spacewatch.global/2026/09/breaking-isar-aerospace-launches-spectrum-flight-2-today-first-mission-with-payloads/",
-      "pubDate": "Sat, 05 Sep 2026 11:05:00 +0000",
-      "description": "Isar Aerospace flies the second mission of its Spectrum launch vehicle tonight from Andøya, Norway. \"Onward and Upward\" is both the vehicle's qualification flight and the first to carry payloads - five CubeSats and one experiment, selected through the German Space Agency at DLR's first Microlauncher",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Planet’s Sovereign Wins Drive Nearly 60% Revenue Growth in Q2 ",
-      "link": "https://www.satellitetoday.com/finance/2026/09/04/planets-sovereign-wins-drive-nearly-60-revenue-growth-in-q2/",
-      "pubDate": "Fri, 04 Sep 2026 18:00:25 +0000",
-      "description": "Planet grew revenue by nearly 60% year-over-year in the second quarter of 2026 and narrowed its net loss as the satellite imagery company sees growing momentum with sovereign deals for [&#8230;]\nThe post Planet’s Sovereign Wins Drive Nearly 60% Revenue Growth in Q2  appeared first on Via Satellite.\n",
-      "feedName": "Via Satellite"
     },
     {
       "title": "German Space Situation Awareness Startup Project-S Emerges from Stealth",
@@ -126,20 +98,6 @@
       "pubDate": "Thu, 03 Sep 2026 13:00:00 +0000",
       "description": "\nLeuven, Belgium &#38; Halifax, Canada – 3 September 2026 – European optical payload provider Simera Sense today announced that Canadian space technology company Galaxia has acquired a HyperScape100 hyperspectral imaging [&#8230;]\nThe post Galaxia Takes Next Step in Earth Observation with purchase o",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "SES Awards OHB €1 billion for IRIS2 MEO Satellites",
-      "link": "https://europeanspaceflight.com/ses-awards-ohb-e1-billion-for-iris2-meo-satellites/",
-      "pubDate": "Mon, 31 Aug 2026 11:09:59 +0000",
-      "description": "European satellite operator SES has awarded OHB a contract worth almost €1 billion to develop and build satellite platforms for the medium Earth orbit component of Europe’s €15.6 billion IRIS2 secure communications constellation. OHB announced that it had been awarded the contract on 31 August, desc",
-      "feedName": "European Spaceflight"
-    },
-    {
-      "title": "US military bought commercial satellite images of alleged narco airstrips, Chinese naval fleet",
-      "link": "https://www.defenseone.com/technology/2026/08/us-military-bought-commercial-satellite-images-alleged-narco-airstrips-chinese-naval-fleet/415684/",
-      "pubDate": "Thu, 27 Aug 2026 16:54:02 -0400",
-      "description": "The Space Force can improve how it embraces commercial intel, a new GAO report says.",
-      "feedName": "Defense One"
     },
     {
       "title": "The Blood Price: In Israel, Military Sacrifice Is Becoming Political Power",
@@ -170,13 +128,6 @@
       "feedName": "War on the Rocks"
     },
     {
-      "title": "How Ukraine Put Russia on the Backfoot",
-      "link": "https://warontherocks.com/how-ukraine-put-russia-on-the-backfoot/",
-      "pubDate": "Tue, 21 Jul 2026 18:43:04 +0000",
-      "description": "Ukraine&#8217;s expanding use of drones at all ranges has changed the war&#8217;s momentum. This episode examines how Kyiv is reaching deeper into Russian territory, disrupting operations and logistics as well as energy infrastructure. How is Russia adapting (or not)? Can these strikes produce lasti",
-      "feedName": "War on the Rocks"
-    },
-    {
       "title": "Israel’s IAI unveils ‘Hypnosis’ system for confusing enemy drone swarms",
       "link": "https://www.c4isrnet.com/industry/2026/07/20/israels-iai-unveils-hypnosis-system-for-confusing-enemy-drone-swarms/",
       "pubDate": "Mon, 20 Jul 2026 13:26:51 +0000",
@@ -189,6 +140,34 @@
       "pubDate": "Wed, 15 Jul 2026 10:27:52 +0000",
       "description": "Elbit Systems detailed a new maritime concept centered on its Hermes 650 Spark unmanned aircraft, envisioning the conversion of commercial surface ships.",
       "feedName": "C4ISRNET"
+    },
+    {
+      "title": "Save the date: CDSE User Summit 2026",
+      "link": "https://eomag.eu/save-the-date-cdse-user-summit-2026/?utm_source=rss&utm_medium=rss&utm_campaign=save-the-date-cdse-user-summit-2026",
+      "pubDate": "Tue, 14 Jul 2026 07:34:56 +0000",
+      "description": "The Copernicus Data Space Ecosystem is pleased to announce its annual user community event. Mark your calendar for the&#160;CDSE User Summit 2026&#160;taking place on&#160;Wednesday, 16 September 2026&#160;during INTERGEO 2026 in Munich. The CDSE User Summit is&#160;a hybrid event&#160;that brings&#",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "Building Higher-Quality Geospatial Datasets for AI: Lessons from Enabled Intelligence and New Capabilities from Kili Technology",
+      "link": "https://eomag.eu/building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology/?utm_source=rss&utm_medium=rss&utm_campaign=building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology",
+      "pubDate": "Thu, 09 Jul 2026 13:35:07 +0000",
+      "description": "What does mission-critical accuracy look like in practice? Enabled Intelligence, an AI technology and services provider specialising in geospatial analysis, builds models for government and commercial clients across military intelligence, disaster recovery, transportation logistics and agricultural ",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "Focus on Dynamics: Semantic Data Cube as a key to Sentinel-2-based Landscape Analysis",
+      "link": "https://eomag.eu/focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis",
+      "pubDate": "Thu, 09 Jul 2026 12:55:49 +0000",
+      "description": "color33 is an automated, cloud-based, online processing service that converts multispectral Earth observation images into actionable categories without requiring any training samples. Unlike unsupervised clustering routines or machine learning approaches, color33 is based on a physical-model, produc",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "CloudFerro expands sovereign cloud infrastructure for Earth Observation with a new AI-ready cloud region in Poland",
+      "link": "https://eomag.eu/cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland/?utm_source=rss&utm_medium=rss&utm_campaign=cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland",
+      "pubDate": "Wed, 08 Jul 2026 15:55:23 +0000",
+      "description": "CloudFerro, a Polish sovereign cloud provider, has launched a new public cloud region in Łódź, Poland, further expanding its European cloud infrastructure dedicated to Earth Observation, AI and data-intensive workloads. The new region has been designed to support organisations processing large volum",
+      "feedName": "EO Mag"
     }
   ],
   "tenderItems": []
