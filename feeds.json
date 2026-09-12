@@ -1,11 +1,39 @@
 {
-  "generated": "2026-09-11T10:53:30.859Z",
+  "generated": "2026-09-12T10:21:08.698Z",
   "newsItems": [
+    {
+      "title": "NATO Invests for the New Era of Space Defense: Interview with NCIA GM Dylan Browne",
+      "link": "https://www.satellitetoday.com/government-military/2026/09/11/nato-invests-for-the-new-era-of-space-defense-interview-with-ncia-gm-dylan-browne/",
+      "pubDate": "Fri, 11 Sep 2026 21:52:59 +0000",
+      "description": "The era of space defense has well and truly arrived. NATO, one of the key organizations focused on space and defense, has made a number of signature announcements over the [&#8230;]\nThe post NATO Invests for the New Era of Space Defense: Interview with NCIA GM Dylan Browne appeared first on Via Sate",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "International Space Summit – Meganne Christian on Europe’s Astronaut Corps and the Road to Rome",
+      "link": "https://spacewatch.global/2026/09/international-space-summit-meganne-christian-on-europes-astronaut-corps-and-the-road-to-rome/",
+      "pubDate": "Fri, 11 Sep 2026 15:00:00 +0000",
+      "description": "From the International Space Summit in Paris, ESA reserve astronaut Meganne Christian joins Laura Todd to discuss Europe's push for autonomous access to space, the road to December's exploration ministerial in Rome, her own training journey, and why in-orbit manufacturing is a capability worth backi",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "25 years after 9/11, spy agencies face old lessons and new threats ",
+      "link": "https://www.defenseone.com/threats/2026/09/25-years-after-911-spy-agencies-face-old-lessons-and-new-threats/415941/",
+      "pubDate": "Fri, 11 Sep 2026 11:00:00 -0400",
+      "description": "Former intelligence officials describe a nation better equipped to disrupt terrorist plots, but still wrestling with the costs.",
+      "feedName": "Defense One"
+    },
     {
       "title": "Europe’s IRIS² LEO Component Moves into Production With Aerospacelab, Airbus and Thales Alenia Space Contracts",
       "link": "https://spacewatch.global/2026/09/europes-iris%c2%b2-leo-component-moves-into-production-with-aerospacelab-airbus-and-thales-alenia-space-contracts/",
       "pubDate": "Fri, 11 Sep 2026 06:00:00 +0000",
-      "description": "Aerospacelab has secured a €2.4 billion contract as prime contractor to build 264 of the 330 low Earth orbit (LEO) satellites planned for the European Commission’s IRIS² program. Meanwhile, Airbus Defense and Space has signed the initial contract to design and build the remaining 66 satellites, comp",
+      "description": "Aerospacelab has secured a €2.4 billion prime contract for 264 of IRIS²'s 330 LEO satellites, with Airbus building the remaining 66 and Thales Alenia Space providing governmental payloads across all 330 - moving the constellation's LEO component into production.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Vast-Greece Mission Advances European Human Spaceflight As Macron Calls For Greater Autonomy",
+      "link": "https://spacewatch.global/2026/09/vast-greece-mission-advances-european-human-spaceflight-as-macron-calls-for-greater-autonomy/",
+      "pubDate": "Fri, 11 Sep 2026 06:00:00 +0000",
+      "description": "ESA has signed with Vast for a Greek astronaut mission to the ISS under NASA's private astronaut framework, as Macron calls for Europe to establish its own crewed capability within a decade.",
       "feedName": "SpaceWatch Global"
     },
     {
@@ -72,13 +100,6 @@
       "feedName": "Defense News"
     },
     {
-      "title": "EU abruptly shelves Kallas-led defense panel after pushback from Berlin, Paris, Rome",
-      "link": "https://www.defensenews.com/global/europe/2026/09/08/eu-abruptly-shelves-kallas-led-defense-panel-after-pushback-from-berlin-paris-rome/",
-      "pubDate": "Tue, 08 Sep 2026 09:54:35 +0000",
-      "description": "EU foreign policy chief Kaja Kallas scrapped plans to launch a high-level advisory group on European defense just hours before its scheduled unveiling.",
-      "feedName": "Defense News"
-    },
-    {
       "title": "Shrinking Buffers: Why Turkey and Israel Are on a Collision Course",
       "link": "https://warontherocks.com/shrinking-buffers-why-turkey-and-israel-are-on-a-collision-course/",
       "pubDate": "Mon, 07 Sep 2026 07:30:31 +0000",
@@ -90,13 +111,6 @@
       "link": "https://europeanspaceflight.com/isar-aerospace-completes-first-successful-spectrum-flight/",
       "pubDate": "Sun, 06 Sep 2026 05:40:14 +0000",
       "description": "German launch services provider Isar Aerospace has completed the first successful launch of its Spectrum rocket, deploying five CubeSats into low Earth orbit. The mission marked the first time a privately funded European orbital rocket had successfully reached orbit and the first successful orbital ",
-      "feedName": "European Spaceflight"
-    },
-    {
-      "title": "German Space Situation Awareness Startup Project-S Emerges from Stealth",
-      "link": "https://europeanspaceflight.com/german-space-situation-awareness-startup-project-s-emerges-from-stealth/",
-      "pubDate": "Fri, 04 Sep 2026 10:31:17 +0000",
-      "description": "Munich-based space situational awareness startup Project-S has emerged from stealth with what it describes as “multi-million-euro backing.” The company is currently preparing for the first in-orbit demonstration of its active radar, with a spokesperson telling European Spaceflight that it is schedul",
       "feedName": "European Spaceflight"
     },
     {
