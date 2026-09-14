@@ -1,12 +1,26 @@
 {
-  "generated": "2026-09-13T11:22:03.671Z",
+  "generated": "2026-09-14T12:14:31.117Z",
   "newsItems": [
+    {
+      "title": "International Space Summit – EUSPA’s Rodrigo da Costa on What Europe Achieves Together",
+      "link": "https://spacewatch.global/2026/09/international-space-summit-euspas-rodrigo-da-costa-on-what-europe-achieves-together/",
+      "pubDate": "Mon, 14 Sep 2026 12:00:00 +0000",
+      "description": "From the close of the International Space Summit in Paris, EUSPA Executive Director Rodrigo da Costa joins Torsten Kriening to reflect on two intense days, Ursula von der Leyen's case for European space, and EUSPA's readiness as space moves into the European Competitiveness Fund.",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "NATO Invests for the New Era of Space Defense: Interview with NCIA GM Dylan Browne",
       "link": "https://www.satellitetoday.com/government-military/2026/09/11/nato-invests-for-the-new-era-of-space-defense-interview-with-ncia-gm-dylan-browne/",
       "pubDate": "Fri, 11 Sep 2026 21:52:59 +0000",
       "description": "The era of space defense has well and truly arrived. NATO, one of the key organizations focused on space and defense, has made a number of signature announcements over the [&#8230;]\nThe post NATO Invests for the New Era of Space Defense: Interview with NCIA GM Dylan Browne appeared first on Via Sate",
       "feedName": "Via Satellite"
+    },
+    {
+      "title": "International Space Summit – ESA DG Josef Aschbacher on Europe’s Case for Human Spaceflight",
+      "link": "https://spacewatch.global/2026/09/international-space-summit-esa-dg-josef-aschbacher-on-europes-case-for-human-spaceflight/",
+      "pubDate": "Fri, 11 Sep 2026 19:00:00 +0000",
+      "description": "From the close of the International Space Summit in Paris, ESA Director General Josef Aschbacher joins Torsten Kriening to call the summit a huge success for Europe, unveil his proposal for European human spaceflight capability, and explain why investing in space lifts every other sector with it.",
+      "feedName": "SpaceWatch Global"
     },
     {
       "title": "International Space Summit – Meganne Christian on Europe’s Astronaut Corps and the Road to Rome",
@@ -56,13 +70,6 @@
       "pubDate": "Thu, 10 Sep 2026 18:30:00 +0000",
       "description": "&#8220;The battlefield is changing at a dizzying pace, and we are changing with it,” Israeli military Chief of Staff Lt. Gen. Eyal Zamir said.\n",
       "feedName": "Breaking Defense"
-    },
-    {
-      "title": "Thales Alenia Space Secures €500 Million Initial Tranche to Manufacture Digital Payloads for 330 IRIS² LEO Satellites",
-      "link": "https://satnews.com/2026/09/10/thales-alenia-space-secures-e500-million-initial-tranche-to-manufacture-digital-payloads-for-330-iris%c2%b2-leo-satellites/",
-      "pubDate": "Thu, 10 Sep 2026 14:22:31 +0000",
-      "description": "On Thursday, September 10, 2026, satellite manufacturer Thales Alenia Space—a joint venture between Thales (67%) and Leonardo (33%)—announced the signing of a Letter of Agreement with satellite operator Eutelsat. Under [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "International Space Summit – Dr. Kai-Uwe Schrogl on European Space Diplomacy and Exploration Ambition",
@@ -161,34 +168,6 @@
       "pubDate": "Wed, 15 Jul 2026 10:27:52 +0000",
       "description": "Elbit Systems detailed a new maritime concept centered on its Hermes 650 Spark unmanned aircraft, envisioning the conversion of commercial surface ships.",
       "feedName": "C4ISRNET"
-    },
-    {
-      "title": "Save the date: CDSE User Summit 2026",
-      "link": "https://eomag.eu/save-the-date-cdse-user-summit-2026/?utm_source=rss&utm_medium=rss&utm_campaign=save-the-date-cdse-user-summit-2026",
-      "pubDate": "Tue, 14 Jul 2026 07:34:56 +0000",
-      "description": "The Copernicus Data Space Ecosystem is pleased to announce its annual user community event. Mark your calendar for the&#160;CDSE User Summit 2026&#160;taking place on&#160;Wednesday, 16 September 2026&#160;during INTERGEO 2026 in Munich. The CDSE User Summit is&#160;a hybrid event&#160;that brings&#",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Building Higher-Quality Geospatial Datasets for AI: Lessons from Enabled Intelligence and New Capabilities from Kili Technology",
-      "link": "https://eomag.eu/building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology/?utm_source=rss&utm_medium=rss&utm_campaign=building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology",
-      "pubDate": "Thu, 09 Jul 2026 13:35:07 +0000",
-      "description": "What does mission-critical accuracy look like in practice? Enabled Intelligence, an AI technology and services provider specialising in geospatial analysis, builds models for government and commercial clients across military intelligence, disaster recovery, transportation logistics and agricultural ",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Focus on Dynamics: Semantic Data Cube as a key to Sentinel-2-based Landscape Analysis",
-      "link": "https://eomag.eu/focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis",
-      "pubDate": "Thu, 09 Jul 2026 12:55:49 +0000",
-      "description": "color33 is an automated, cloud-based, online processing service that converts multispectral Earth observation images into actionable categories without requiring any training samples. Unlike unsupervised clustering routines or machine learning approaches, color33 is based on a physical-model, produc",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "CloudFerro expands sovereign cloud infrastructure for Earth Observation with a new AI-ready cloud region in Poland",
-      "link": "https://eomag.eu/cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland/?utm_source=rss&utm_medium=rss&utm_campaign=cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland",
-      "pubDate": "Wed, 08 Jul 2026 15:55:23 +0000",
-      "description": "CloudFerro, a Polish sovereign cloud provider, has launched a new public cloud region in Łódź, Poland, further expanding its European cloud infrastructure dedicated to Earth Observation, AI and data-intensive workloads. The new region has been designed to support organisations processing large volum",
-      "feedName": "EO Mag"
     }
   ],
   "tenderItems": []
