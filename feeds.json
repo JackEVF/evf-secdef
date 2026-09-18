@@ -1,6 +1,76 @@
 {
-  "generated": "2026-09-17T11:16:58.278Z",
+  "generated": "2026-09-18T10:50:25.949Z",
   "newsItems": [
+    {
+      "title": "ESA Awards €20M in Contracts to Study Future IRIS2 Services",
+      "link": "https://europeanspaceflight.com/esa-awards-e20m-in-contracts-to-study-future-iris2-services/",
+      "pubDate": "Fri, 18 Sep 2026 07:41:46 +0000",
+      "description": "The European Space Agency has awarded 18 contracts worth a combined €20 million to study potential future evolutions of the European Union’s IRIS2 secure communications service. Signed on 17 September, the contracts bring together nearly 80 European companies to study new satellite-based secure conn",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "ESA Awards Parallel EOGS Architecture Studies to ICEYE and Leonardo",
+      "link": "https://spacewatch.global/2026/09/esa-awards-parallel-eogs-architecture-studies-to-iceye-and-leonardo/",
+      "pubDate": "Fri, 18 Sep 2026 06:00:00 +0000",
+      "description": "ICEYE and Leonardo have been selected by the European Space Agency to lead parallel studies to develop architectural blueprints for the European Union’s planned Earth Observation Governmental Service. The contracts mark an early step toward defining a sovereign and secure Earth-observation capabilit",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Galileo Demonstrates First Civil Authenticated Position Fix Under Spoofing",
+      "link": "https://spacewatch.global/2026/09/galileo-demonstrates-first-civil-authenticated-position-fix-under-spoofing/",
+      "pubDate": "Fri, 18 Sep 2026 06:00:00 +0000",
+      "description": "The European Union’s Galileo satellite navigation system has demonstrated its first civil authenticated position fix under real-world spoofing conditions, marking a step toward more resilient and trustworthy positioning for civilian users.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "ESA Signs €20 Million in Low-LEO Contracts as IRIS² Enters Hardware Development",
+      "link": "https://spacewatch.global/2026/09/esa-signs-e20-million-in-low-leo-contracts-as-iris%c2%b2-enters-hardware-development/",
+      "pubDate": "Fri, 18 Sep 2026 06:00:00 +0000",
+      "description": "The European Space Agency has signed 18 contracts worth a combined €20 million to advance Low-LEO activities supporting the future evolution of the European Union’s IRIS² secure connectivity system. \n\nSigned in Madrid on September 17, the contracts bring together nearly 80 companies to study new sec",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "EnduroSat Secures $205 Million Funding Round and Wins 24-Bus Contract for Vantor Earth Observation Constellation",
+      "link": "https://satnews.com/2026/09/17/endurosat-secures-205-million-funding-round-and-wins-24-bus-contract-for-vantor-earth-observation-constellation/",
+      "pubDate": "Thu, 17 Sep 2026 15:59:11 +0000",
+      "description": "On Sept. 17, 2026, satellite bus manufacturer EnduroSat closed a $205 million Series B financing round to fund production scaling and expand its operational footprint into the United States defense [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "ESA Signs 18 Contracts with 80 Industrial Partners to Advance Next-Phase IRIS² Low-LEO Architecture",
+      "link": "https://satnews.com/2026/09/17/esa-signs-18-contracts-with-80-industrial-partners-to-advance-next-phase-iris%c2%b2-low-leo-architecture/",
+      "pubDate": "Thu, 17 Sep 2026 15:48:30 +0000",
+      "description": "On Sept. 17, 2026, the European Space Agency (ESA) initiated the next technology development phase for the European Union&#8217;s Infrastructure for Resilience, Interconnection and Security by Satellite (IRIS²) multi-orbit constellation. [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "US Navy awards defense startup $200 million for Blackbeard hypersonic missile",
+      "link": "https://www.defensenews.com/news/your-navy/2026/09/17/us-navy-awards-defense-startup-200-million-for-blackbeard-hypersonic-missile/",
+      "pubDate": "Thu, 17 Sep 2026 15:35:43 +0000",
+      "description": "The U.S. Navy awarded defense startup Castelion $200 million for the production of its Blackbeard hypersonic missile.",
+      "feedName": "Defense News"
+    },
+    {
+      "title": "Russian Satellite Imagery Assists Iranian Targeting of U.S. Military Facilities",
+      "link": "https://satnews.com/2026/09/17/russian-satellite-imagery-assists-iranian-targeting-of-u-s-military-facilities/",
+      "pubDate": "Thu, 17 Sep 2026 14:44:17 +0000",
+      "description": "On Sept. 17, 2026, defense intelligence assessments revealed that Russian Earth observation and synthetic aperture radar (SAR) satellite constellations are actively providing high-resolution imagery to Iranian military forces to assist [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Orange and Telesat Commission First European Gateway for Telesat Lightspeed Constellation",
+      "link": "https://satnews.com/2026/09/17/orange-and-telesat-commission-first-european-gateway-for-telesat-lightspeed-constellation/",
+      "pubDate": "Thu, 17 Sep 2026 14:33:17 +0000",
+      "description": "On Sept. 17, 2026, telecommunications operator Orange and Telesat LEO ULC, a subsidiary of Telesat Corporation, announced the commissioning of the first European gateway for the Telesat Lightspeed Low Earth [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "SatPort to Build Landing Stations for Telesat Lightspeed ",
+      "link": "https://www.satellitetoday.com/technology/2026/09/17/satport-to-build-landing-stations-for-telesat-lightspeed/",
+      "pubDate": "Thu, 17 Sep 2026 12:05:21 +0000",
+      "description": "SatPort Infrastructure will develop, build, and host landing stations for the Telesat Lightspeed constellation, to connect Lightspeed to terrestrial networks. The two companies announced a master services agreement on Sept. [&#8230;]\nThe post SatPort to Build Landing Stations for Telesat Lightspeed ",
+      "feedName": "Via Satellite"
+    },
     {
       "title": "#SpaceWatchGL Recap: SPIN – Europe Has the Money. Now Comes the Hard Part.",
       "link": "https://spacewatch.global/2026/09/spacewatchgl-recap-spin-europe-has-the-money-now-comes-the-hard-part/",
@@ -37,25 +107,11 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "German-Israeli company FTS unveils new light combat vehicle for German Special Forces",
-      "link": "https://breakingdefense.com/2026/09/german-israeli-company-fts-unveils-new-light-airborne-combat-vehicle/",
-      "pubDate": "Wed, 16 Sep 2026 17:20:28 +0000",
-      "description": "Dubbed TAHR, the vehicle can be dropped from the air, with two of them able to fit inside a Chinook helicopter. \n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "Israel’s SPICE 1000 bombs can soon drop from F-35 fighters",
       "link": "https://www.defensenews.com/global/mideast-africa/2026/09/16/israels-spice-1000-bombs-can-soon-drop-from-f-35-fighters/",
       "pubDate": "Wed, 16 Sep 2026 17:15:01 +0000",
       "description": "The Israeli air force can look forward to yet another bomb type for its F-35 fleet.",
       "feedName": "Defense News"
-    },
-    {
-      "title": "Involve Space Secures ESA InCubed Funding to Develop StratoSAR Stratospheric Radar Platform",
-      "link": "https://satnews.com/2026/09/16/involve-space-secures-esa-incubed-funding-to-develop-stratosar-stratospheric-radar-platform/",
-      "pubDate": "Wed, 16 Sep 2026 14:03:10 +0000",
-      "description": "On Sept. 16, 2026, Italian aerospace developer Involve Space secured project funding from the European Space Agency under the Investing in Industrial Innovation (InCubed) programme to develop StratoSAR, a stratospheric [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "Hydrosat Unveils Osiris Constellation Ahead of 2027 Launch",
@@ -100,13 +156,6 @@
       "feedName": "European Spaceflight"
     },
     {
-      "title": "Sovereign EO Space Capabilities Are Ready to Go to the Next Level",
-      "link": "https://www.satellitetoday.com/government-military/2026/09/15/sovereign-eo-space-capabilities-are-ready-to-go-to-the-next-level/",
-      "pubDate": "Tue, 15 Sep 2026 19:45:36 +0000",
-      "description": "PARIS — Executives from BlackSky, Planet, Iceye and HawkEye 360 assessed the changing dynamics of the sovereign Earth Observation (EO) satellite market at the Space Defense and Security (SDSS) summit [&#8230;]\nThe post Sovereign EO Space Capabilities Are Ready to Go to the Next Level appeared first ",
-      "feedName": "Via Satellite"
-    },
-    {
       "title": "WSBW Day 2 – Niels Buus and T. Kriening on Big Budgets, Bubbles, and Europe’s Integration Question",
       "link": "https://spacewatch.global/2026/09/wsbw-day-2-niels-buus-and-t-kriening-on-big-budgets-bubbles-and-europes-integration-question/",
       "pubDate": "Tue, 15 Sep 2026 14:00:00 +0000",
@@ -114,39 +163,11 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Russia and Iran deepen weapons partnership amid wars in Ukraine, Middle East",
-      "link": "https://www.defensenews.com/news/your-military/2026/09/15/russia-and-iran-deepen-weapons-partnership-amid-wars-in-ukraine-middle-east/",
-      "pubDate": "Tue, 15 Sep 2026 13:42:46 +0000",
-      "description": "Russia has begun sending Iran upgraded munitions, satellite imagery and targeting data used against American forces in the Middle East.",
-      "feedName": "Defense News"
-    },
-    {
-      "title": "Space-based ISR launches to grow fourfold in next decade, Novaspace says",
-      "link": "https://www.defensenews.com/space/2026/09/15/space-based-isr-launches-to-grow-fourfold-in-next-decade-novaspace-says/",
-      "pubDate": "Tue, 15 Sep 2026 10:16:49 +0000",
-      "description": "The number of satellites launched to provide militaries and defense departments with ISR data from space is expected to increase more than fourfold.",
-      "feedName": "Defense News"
-    },
-    {
       "title": "Avio Launches Second Successful Vega C Flight of 2026",
       "link": "https://europeanspaceflight.com/avio-launches-second-successful-vega-c-flight-of-2026/",
       "pubDate": "Tue, 15 Sep 2026 08:30:01 +0000",
       "description": "Italian launch services provider Avio has successfully completed its second Vega-C flight of 2026, deploying the European Commission’s third Sentinel-3 Earth observation satellite and ESA’s FLEX mission. The Vega-C rocket lifted off from the Guiana Space Centre at 01:21 UTC on 15 September. Followin",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "#SpaceWatchGL Recap: WSBW Day One – The Money Is Here. The Business Models Aren’t Finished.",
-      "link": "https://spacewatch.global/2026/09/spacewatchgl-recap-wsbw-day-one-the-money-is-here-the-business-models-arent-finished/",
-      "pubDate": "Tue, 15 Sep 2026 07:00:00 +0000",
-      "description": " Written by Torsten Kriening  Five days after the International Space Summit set Europe's ambition, WSBW spent Monday asking who pays for it. Aschbacher confirmed ESA will put a crew transportation decision to ministers in Rome. The financing panel confirmed many listed space companies trade well be",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "WSBW 2026 – Pacôme Revillon of Novaspace on the Next Cycle of Space Innovation",
-      "link": "https://spacewatch.global/2026/09/wsbw-2026-pacome-revillon-of-novaspace-on-the-next-cycle-of-space-innovation/",
-      "pubDate": "Mon, 14 Sep 2026 16:00:00 +0000",
-      "description": "From the opening of World Space Business Week 2026 in Paris, Novaspace's Pacôme Revillon joins Laura Todd to argue that \"new space\" is now a decade old - and that a second cycle of innovation is beginning, shaped by sovereignty, orbital data centres, AI, and an industry finally reaching scale.",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "25 years after 9/11, spy agencies face old lessons and new threats ",
