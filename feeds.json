@@ -1,6 +1,34 @@
 {
-  "generated": "2026-09-18T10:50:25.949Z",
+  "generated": "2026-09-19T10:33:41.638Z",
   "newsItems": [
+    {
+      "title": "Myriad ways that drones, satellites, and common controls reshape ISR",
+      "link": "https://breakingdefense.com/2026/09/myriad-ways-that-drones-satellites-and-common-controls-reshape-isr/",
+      "pubDate": "Fri, 18 Sep 2026 21:37:51 +0000",
+      "description": "Connecting platforms and data across domains is key to keeping ISR effective under attack.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "Iceye-led ARISE Consortium to Conduct Space Intelligence Architecture Study for ESA",
+      "link": "https://www.satellitetoday.com/government-military/2026/09/18/iceye-led-arise-consortium-to-conduct-space-intelligence-architecture-study-for-esa/",
+      "pubDate": "Fri, 18 Sep 2026 15:12:47 +0000",
+      "description": "The Architecture for Resilient and Federated ISR in Sovereign Europe (ARISE), a European sovereign intelligence consortium led by Iceye, will conduct an architecture design study for the European Space Agency [&#8230;]\nThe post Iceye-led ARISE Consortium to Conduct Space Intelligence Architecture St",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "‘Totally new’: Nammo pursues rocket motor engine for latest IRIS-T air defense",
+      "link": "https://breakingdefense.com/2026/09/totally-new-nammo-pursues-rocket-motor-engine-for-latest-iris-t-air-defense/",
+      "pubDate": "Fri, 18 Sep 2026 14:45:10 +0000",
+      "description": "The push comes as German defense firm Diehl targets a first Safety Integrity Level (SIL) firing test of the surface-launched IRIS-T SLX in 2027.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "#SpaceWatchGL Recap: Europe Signs the Blueprint. Then Someone Asked Who Was Missing.",
+      "link": "https://spacewatch.global/2026/09/spacewatchgl-recap-europe-signs-the-blueprint-then-someone-asked-who-was-missing/",
+      "pubDate": "Fri, 18 Sep 2026 09:00:00 +0000",
+      "description": "ESA signed two competing architecture studies for the EU's future Earth Observation Governmental Service - one led by Leonardo, one by ICEYE. Two hours later, a question from the floor exposed who wasn't in either consortium. From the final day of World Space Business Week and the Summit on Earth Ob",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "ESA Awards €20M in Contracts to Study Future IRIS2 Services",
       "link": "https://europeanspaceflight.com/esa-awards-e20m-in-contracts-to-study-future-iris2-services/",
@@ -26,7 +54,14 @@
       "title": "ESA Signs €20 Million in Low-LEO Contracts as IRIS² Enters Hardware Development",
       "link": "https://spacewatch.global/2026/09/esa-signs-e20-million-in-low-leo-contracts-as-iris%c2%b2-enters-hardware-development/",
       "pubDate": "Fri, 18 Sep 2026 06:00:00 +0000",
-      "description": "The European Space Agency has signed 18 contracts worth a combined €20 million to advance Low-LEO activities supporting the future evolution of the European Union’s IRIS² secure connectivity system. \n\nSigned in Madrid on September 17, the contracts bring together nearly 80 companies to study new sec",
+      "description": "ESA has signed 18 contracts worth €20 million in Madrid, bringing nearly 80 companies into Low-LEO studies that could expand IRIS² beyond its initial architecture.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "WSBW 2026 – Day 4 from the Arc de Triomphe: “A Grant Is Not a Customer”",
+      "link": "https://spacewatch.global/2026/09/wsbw-2026-day-4-from-the-arc-de-triomphe-a-grant-is-not-a-customer/",
+      "pubDate": "Thu, 17 Sep 2026 18:00:00 +0000",
+      "description": "From a chilly Arc de Triomphe on the final day of World Space Business Week, Niels Buus and Torsten Kriening review the week - the shift from innovation to scaling, IRIS² under contract, Europe's production capacity gap, solar thermal propulsion, and why a grant is not a customer.",
       "feedName": "SpaceWatch Global"
     },
     {
@@ -86,20 +121,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Space Force’s GMTI program gets a name, with Northrop as prime: General",
-      "link": "https://breakingdefense.com/2026/09/space-forces-gmti-program-gets-a-name-with-northrop-as-prime-general/",
-      "pubDate": "Wed, 16 Sep 2026 20:28:18 +0000",
-      "description": "Separately, the Space Force plans to issue the first operational contracts for space domain awareness to commercial firms “very soon,” according to Space Force Col. Timothy Tremailo. \n",
-      "feedName": "Breaking Defense"
-    },
-    {
-      "title": "SPACECOM needs more capabilities to target space adversaries: Whiting",
-      "link": "https://breakingdefense.com/2026/09/spacecom-needs-more-capabilities-to-target-space-adversaries-whiting/",
-      "pubDate": "Wed, 16 Sep 2026 19:08:28 +0000",
-      "description": "SPACECOM also is focusing on developing the baseline capabilities, such as space domain awareness and satellite communications, to undertake cislunar operations, said Gen. Stephen Whiting.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "WSBW Day 3 – “Someone Has to Build It” – Laura Todd and Torsten Kriening",
       "link": "https://spacewatch.global/2026/09/wsbw-day-3-someone-has-to-build-it-laura-todd-and-torsten-kriening/",
       "pubDate": "Wed, 16 Sep 2026 19:00:00 +0000",
@@ -121,13 +142,6 @@
       "feedName": "Payload Space"
     },
     {
-      "title": "Space Security: How Can Europe Connect the Dots Better?",
-      "link": "https://www.satellitetoday.com/government-military/2026/09/16/space-security-how-can-europe-connect-the-dots-better/",
-      "pubDate": "Wed, 16 Sep 2026 09:49:02 +0000",
-      "description": "PARIS — Europe needs to embrace risk if it is to benefit more from next generation of space capabilities and keep its space assets secure. This was one of the [&#8230;]\nThe post Space Security: How Can Europe Connect the Dots Better? appeared first on Via Satellite.\n",
-      "feedName": "Via Satellite"
-    },
-    {
       "title": "#SpaceWatchGL Recap: SDSS Day One -Sovereignty Is Not Self-Sufficiency",
       "link": "https://spacewatch.global/2026/09/spacewatchgl-recap-sdss-day-one-sovereignty-is-not-self-sufficiency/",
       "pubDate": "Wed, 16 Sep 2026 09:00:00 +0000",
@@ -142,25 +156,11 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Nigeria Moves Ahead With Satellite Upgrade as Thales Wins NigComSat-2A Contract",
-      "link": "https://spacewatch.global/2026/09/nigeria-moves-ahead-with-satellite-upgrade-as-thales-wins-nigcomsat-2a-contract/",
-      "pubDate": "Wed, 16 Sep 2026 06:00:00 +0000",
-      "description": "Nigeria's NIGCOMSAT has contracted Thales Alenia Space for the NigComSat-2A telecommunications satellite, part of a broader architecture serving national and wider African markets.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
       "title": "Open Cosmos Raises €300 Million as Investors Back Europe’s Space Push",
       "link": "https://europeanspaceflight.com/open-cosmos-raises-e300-million-as-investors-back-europes-space-push/",
       "pubDate": "Tue, 15 Sep 2026 20:20:00 +0000",
       "description": "UK-based satellite maker Open Cosmos announced on 14 September that it had closed a €300 million funding round. The company said it would use the new funding to expand its manufacturing capacity and accelerate the deployment of its Earth observation and communications constellations. The €300 millio",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "WSBW Day 2 – Niels Buus and T. Kriening on Big Budgets, Bubbles, and Europe’s Integration Question",
-      "link": "https://spacewatch.global/2026/09/wsbw-day-2-niels-buus-and-t-kriening-on-big-budgets-bubbles-and-europes-integration-question/",
-      "pubDate": "Tue, 15 Sep 2026 14:00:00 +0000",
-      "description": "From day two of World Space Business Week and the opening of SDSS in Paris, Niels Buus and Torsten Kriening unpack the launcher and spending figures shaping the sector, ESA's search for its future role, whether Europe's rising valuations are a bubble, and why horizontal integration may be Europe's s",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Avio Launches Second Successful Vega C Flight of 2026",
@@ -188,13 +188,6 @@
       "link": "https://europeanspaceflight.com/esa-awards-the-exploration-company-a-e760m-space-station-cargo-contract/",
       "pubDate": "Thu, 10 Sep 2026 13:51:07 +0000",
       "description": "The European Space Agency has awarded The Exploration Company a €760 million contract under the second phase of its European cargo return programme, covering an initial demonstration of its Nyx spacecraft and options for two additional flights. ESA announced that it had awarded The Exploration Compa",
-      "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Aerospacelab, Thales Alenia Space Secure €5.4 Billion in IRIS2 Contracts",
-      "link": "https://europeanspaceflight.com/aerospacelab-thales-alenia-space-secure-e5-4-billion-in-iris2-contracts/",
-      "pubDate": "Thu, 10 Sep 2026 13:05:42 +0000",
-      "description": "Aerospacelab and Thales Alenia Space have secured IRIS2 contracts expected to total more than €5.4 billion, covering satellite platforms and communications payloads for the European Union’s secure communications constellation. While the company didn’t disclose the contract value, Airbus has been sel",
       "feedName": "European Spaceflight"
     },
     {
