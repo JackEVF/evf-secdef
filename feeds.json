@@ -1,12 +1,54 @@
 {
-  "generated": "2026-09-20T10:56:34.258Z",
+  "generated": "2026-09-21T12:22:28.497Z",
   "newsItems": [
     {
-      "title": "Massive Ukrainian drone attack hits Moscow on last day of Russian elections",
-      "link": "https://www.politico.eu/article/ukraine-drone-attack-moscow-elections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Sun, 20 Sep 2026 09:23:27 +0000",
-      "description": "\"This unprecedented attack was clearly planned with the aim of disrupting the ⁠elections,\" said Moscow Mayor Sergei Sobyanin. ",
-      "feedName": "Politico Europe"
+      "title": "ESA Acknowledges Ariane 6 Delays Following Reports of Turbopump Issue",
+      "link": "https://europeanspaceflight.com/esa-acknowledges-ariane-6-delays-following-reports-of-turbopump-issue/",
+      "pubDate": "Mon, 21 Sep 2026 08:05:18 +0000",
+      "description": "The European Space Agency (ESA) has confirmed that it is aware of delays affecting the Ariane 6 launch schedule following reports of an engine turbopump anomaly. French news outlet La Tribune first reported an issue with an unspecified Ariane 6 component on 17 September. According to the report, the",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "#SpaceWatchGL GRAY SPACE – PIXXEL, from student’s dream to winning bet: hyperspectral opportunities for Europe?",
+      "link": "https://spacewatch.global/2026/09/spacewatchgl-gray-space-pixxel-from-students-dream-to-winning-bet-hyperspectral-opportunities-for-europe/",
+      "pubDate": "Mon, 21 Sep 2026 08:00:00 +0000",
+      "description": " Written by Christophe Bosquillon  From a Bengaluru student dormitory to US government contracts and a $100 million Series C, Pixxel bet early on hyperspectral Earth observation. Christophe Bosquillon asks what its trajectory can teach Europe as the hyperspectral market approaches a potential inflec",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Integrasys Selected to Lead Consortium Developing EOBLINDING Counter-Surveillance System",
+      "link": "https://spacewatch.global/2026/09/integrasys-selected-to-lead-consortium-developing-eoblinding-counter-surveillance-system/",
+      "pubDate": "Mon, 21 Sep 2026 06:00:00 +0000",
+      "description": "The European Defence Fund has selected a consortium led by Spanish satellite communications company Integrasys to develop a capability designed to counter space-based surveillance, bringing together European companies working across space surveillance, radio-frequency systems and other sensing techn",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Rocket Lab Launches 12th StriX Satellite as Synspective Expands its Constellation Strategy",
+      "link": "https://spacewatch.global/2026/09/rocket-lab-launches-12th-strix-satellite-as-synspective-expands-its-constellation-strategy/",
+      "pubDate": "Mon, 21 Sep 2026 06:00:00 +0000",
+      "description": "Rocket Lab has launched Synspective's 12th StriX SAR satellite from Mahia, New Zealand, continuing a launch relationship that dates back to 2020.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Dhruva Space and Thales Alenia Space Sign MoU on Global Satellite Opportunities",
+      "link": "https://spacewatch.global/2026/09/dhruva-space-and-thales-alenia-space-sign-mou-on-global-satellite-opportunities/",
+      "pubDate": "Mon, 21 Sep 2026 06:00:00 +0000",
+      "description": "Dhruva Space and Thales Alenia Space have signed an MoU to explore collaboration on satellite constellations, space infrastructure and advanced systems, as India's private sector expands beyond its home market.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "DIU and SSC Announce Joint GHOST-R Mission",
+      "link": "https://payloadspace.com/diu-and-ssc-announce-joint-ghost-r-mission/",
+      "pubDate": "Mon, 21 Sep 2026 03:50:39 +0000",
+      "description": "DIU and SSC announced GHOST-R, a joint effort to bring low-cost reconnaissance to GEO under SSC's RG-XX program.\nThe post DIU and SSC Announce Joint GHOST-R Mission appeared first on Payload.\n",
+      "feedName": "Payload Space"
+    },
+    {
+      "title": "Northrop Grumman Wins U.S. Space Force Prototype Contract for GHOST-R Space Domain Awareness Mission",
+      "link": "https://satnews.com/2026/09/20/northrop-grumman-wins-u-s-space-force-prototype-contract-for-ghost-r-space-domain-awareness-mission/",
+      "pubDate": "Sun, 20 Sep 2026 15:28:41 +0000",
+      "description": "On Sept. 20, 2026, defense prime contractor Northrop Grumman secured a award from the U.S. Space Force to design and construct a prototype satellite for the Geosynchronous Space Situational Awareness [&#8230;]",
+      "feedName": "Satnews"
     },
     {
       "title": "Myriad ways that drones, satellites, and common controls reshape ISR",
@@ -14,6 +56,13 @@
       "pubDate": "Fri, 18 Sep 2026 21:37:51 +0000",
       "description": "Connecting platforms and data across domains is key to keeping ISR effective under attack.\n",
       "feedName": "Breaking Defense"
+    },
+    {
+      "title": "WSBW 2026 – Pieter Fossel of Hydrosat on Thermal Intelligence and Removing the Cover of Darkness",
+      "link": "https://spacewatch.global/2026/09/wsbw-2026-pieter-fossel-of-hydrosat-on-thermal-intelligence-and-removing-the-cover-of-darkness/",
+      "pubDate": "Fri, 18 Sep 2026 17:00:00 +0000",
+      "description": "From World Space Business Week in Paris, Hydrosat CEO Pieter Fossel joins Torsten Kriening to unveil the Osiris constellation - 25-metre thermal resolution across a 340 km swath - and explain why thermal intelligence, visible day and night, removes the cover of darkness.",
+      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Iceye-led ARISE Consortium to Conduct Space Intelligence Architecture Study for ESA",
@@ -79,32 +128,11 @@
       "feedName": "Satnews"
     },
     {
-      "title": "ESA Signs 18 Contracts with 80 Industrial Partners to Advance Next-Phase IRIS² Low-LEO Architecture",
-      "link": "https://satnews.com/2026/09/17/esa-signs-18-contracts-with-80-industrial-partners-to-advance-next-phase-iris%c2%b2-low-leo-architecture/",
-      "pubDate": "Thu, 17 Sep 2026 15:48:30 +0000",
-      "description": "On Sept. 17, 2026, the European Space Agency (ESA) initiated the next technology development phase for the European Union&#8217;s Infrastructure for Resilience, Interconnection and Security by Satellite (IRIS²) multi-orbit constellation. [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "US Navy awards defense startup $200 million for Blackbeard hypersonic missile",
       "link": "https://www.defensenews.com/news/your-navy/2026/09/17/us-navy-awards-defense-startup-200-million-for-blackbeard-hypersonic-missile/",
       "pubDate": "Thu, 17 Sep 2026 15:35:43 +0000",
       "description": "The U.S. Navy awarded defense startup Castelion $200 million for the production of its Blackbeard hypersonic missile.",
       "feedName": "Defense News"
-    },
-    {
-      "title": "Russian Satellite Imagery Assists Iranian Targeting of U.S. Military Facilities",
-      "link": "https://satnews.com/2026/09/17/russian-satellite-imagery-assists-iranian-targeting-of-u-s-military-facilities/",
-      "pubDate": "Thu, 17 Sep 2026 14:44:17 +0000",
-      "description": "On Sept. 17, 2026, defense intelligence assessments revealed that Russian Earth observation and synthetic aperture radar (SAR) satellite constellations are actively providing high-resolution imagery to Iranian military forces to assist [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Orange and Telesat Commission First European Gateway for Telesat Lightspeed Constellation",
-      "link": "https://satnews.com/2026/09/17/orange-and-telesat-commission-first-european-gateway-for-telesat-lightspeed-constellation/",
-      "pubDate": "Thu, 17 Sep 2026 14:33:17 +0000",
-      "description": "On Sept. 17, 2026, telecommunications operator Orange and Telesat LEO ULC, a subsidiary of Telesat Corporation, announced the commissioning of the first European gateway for the Telesat Lightspeed Low Earth [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "SatPort to Build Landing Stations for Telesat Lightspeed ",
@@ -121,20 +149,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Airbus to Build SpainSat NG-III as Spain Replaces Lost Communications Satellite",
-      "link": "https://spacewatch.global/2026/09/airbus-to-build-spainsat-ng-iii-as-spain-replaces-lost-communications-satellite/",
-      "pubDate": "Thu, 17 Sep 2026 06:00:00 +0000",
-      "description": "Spanish satellite operator Hisdesat has contracted Airbus Defence and Space to develop and build SpainSat NG-III, a new secure communications satellite intended to strengthen Spain’s strategic communications capabilities and replace the damaged SpainSat NG-II.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "WSBW Day 3 – “Someone Has to Build It” – Laura Todd and Torsten Kriening",
-      "link": "https://spacewatch.global/2026/09/wsbw-day-3-someone-has-to-build-it-laura-todd-and-torsten-kriening/",
-      "pubDate": "Wed, 16 Sep 2026 19:00:00 +0000",
-      "description": "Day three at World Space Business Week: Laura Todd and Torsten Kriening open SPIN with a frank review — more networking and real business being done, unresolved questions about where funding lanes lie, and why IRIS² has finally given Europe a blueprint for scaling up.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
       "title": "Israel’s SPICE 1000 bombs can soon drop from F-35 fighters",
       "link": "https://www.defensenews.com/global/mideast-africa/2026/09/16/israels-spice-1000-bombs-can-soon-drop-from-f-35-fighters/",
       "pubDate": "Wed, 16 Sep 2026 17:15:01 +0000",
@@ -147,20 +161,6 @@
       "pubDate": "Wed, 16 Sep 2026 13:00:00 +0000",
       "description": "Very rarely can someone offer you the best of both worlds, but Hydrosat’s newest constellation claims to do just that.\nThe post Hydrosat Unveils Osiris Constellation Ahead of 2027 Launch appeared first on Payload.\n",
       "feedName": "Payload Space"
-    },
-    {
-      "title": "#SpaceWatchGL Recap: SDSS Day One -Sovereignty Is Not Self-Sufficiency",
-      "link": "https://spacewatch.global/2026/09/spacewatchgl-recap-sdss-day-one-sovereignty-is-not-self-sufficiency/",
-      "pubDate": "Wed, 16 Sep 2026 09:00:00 +0000",
-      "description": "Europe wants sovereign space capability, and Europe needs capability now. Those two sentences do not point in the same direction. From day one of the Space Defense &#038; Security Summit in Paris: Germany's bid to become Europe's integrator, IRIS² built for crisis, and an industry quietly redefining",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "#SpaceWatchGL GRAY SPACE – The Factory Floor Is the Frontline: What NATO DIANA Reveals About the Real Bottleneck",
-      "link": "https://spacewatch.global/2026/09/spacewatchgl-gray-space-the-factory-floor-is-the-frontline-what-nato-diana-reveals-about-the-real-bottleneck/",
-      "pubDate": "Wed, 16 Sep 2026 08:00:00 +0000",
-      "description": " Written by Christophe Bosquillon  NATO DIANA has selected 15 companies for its Mission Track. But identifying promising technology is the easy part. Christophe Bosquillon examines the demand, supply-chain and workforce bottlenecks that could determine whether innovation ever reaches operational sca",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Open Cosmos Raises €300 Million as Investors Back Europe’s Space Push",
@@ -189,13 +189,6 @@
       "pubDate": "Fri, 11 Sep 2026 05:32:49 +0000",
       "description": "\nAustralian Earth observation satellite company LatConnect 60 (LC60) has strengthened its position in India with two strategic agreements announced at the Bengaluru Space Expo 2026 on September 7th, spanning satellite [&#8230;]\nThe post LatConnect 60 Expands India Market Presence for SWIRSAT With NS",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "ESA Awards The Exploration Company a €760M Space Station Cargo Contract",
-      "link": "https://europeanspaceflight.com/esa-awards-the-exploration-company-a-e760m-space-station-cargo-contract/",
-      "pubDate": "Thu, 10 Sep 2026 13:51:07 +0000",
-      "description": "The European Space Agency has awarded The Exploration Company a €760 million contract under the second phase of its European cargo return programme, covering an initial demonstration of its Nyx spacecraft and options for two additional flights. ESA announced that it had awarded The Exploration Compa",
-      "feedName": "European Spaceflight"
     },
     {
       "title": "Shrinking Buffers: Why Turkey and Israel Are on a Collision Course",
