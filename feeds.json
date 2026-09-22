@@ -1,6 +1,55 @@
 {
-  "generated": "2026-09-21T12:22:28.497Z",
+  "generated": "2026-09-22T11:13:36.505Z",
   "newsItems": [
+    {
+      "title": "Marble Imaging and msg Systems Partner on European Sovereign ISR Capabilities",
+      "link": "https://spacewatch.global/2026/09/marble-imaging-and-msg-systems-partner-on-european-sovereign-isr-capabilities/",
+      "pubDate": "Tue, 22 Sep 2026 06:00:00 +0000",
+      "description": "Marble Imaging and msg systems have signed a memorandum of understanding to develop sovereign intelligence, surveillance and reconnaissance solutions, combining satellite-based Earth observation with AI, open-source intelligence and secure digital infrastructure.\n\nThe partnership is intended to supp",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Aerospacelab Reaches Profitability Ahead of Booking $2.75 Billion IRIS² Satellite Contract",
+      "link": "https://satnews.com/2026/09/21/aerospacelab-reaches-profitability-ahead-of-booking-2-75-billion-iris%c2%b2-satellite-contract/",
+      "pubDate": "Mon, 21 Sep 2026 23:56:55 +0000",
+      "description": "On Sept. 21, 2026, Belgian satellite manufacturer Aerospacelab confirmed it achieved financial profitability in early 2026, prior to securing a €2.4 billion ($2.75 billion) prime contract to construct 264 satellites [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "True Anomaly and Northrop Grumman Aiming to Build GHOST-R Prototypes to Reduce RG-XX Costs",
+      "link": "https://www.satellitetoday.com/government-military/2026/09/21/true-anomaly-and-northrop-grumman-aiming-to-build-ghost-r-prototypes-to-reduce-rg-xx-costs/",
+      "pubDate": "Mon, 21 Sep 2026 19:59:43 +0000",
+      "description": "The Defense Innovation Unit and U.S. Space Force’s Space Systems Command (SSC) have awarded True Anomaly and Northrop Grumman Geosynchronous High-Resolution Optical Space-Based Tactical Reconnaissance (GHOST-R) prototype contracts to deliver “lower-cost” reconnaissance satellites [&#8230;]\nThe post ",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Europe Grapples With Faster Procurement Amid Space Defense Push",
+      "link": "https://www.satellitetoday.com/government-military/2026/09/21/europe-grapples-with-faster-procurement-amid-space-defense-push/",
+      "pubDate": "Mon, 21 Sep 2026 19:51:59 +0000",
+      "description": "As Europe works to move faster in its space defense capabilities, leaders at the Space and Defense &#38; Security Summit say Ukraine accelerated a shift in institutional urgency yet challenges [&#8230;]\nThe post Europe Grapples With Faster Procurement Amid Space Defense Push appeared first on Via Sa",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Commercial Geostationary Satellite Orders Rebound to 14 in 2026 Driven by Spectrum Transitions",
+      "link": "https://satnews.com/2026/09/21/commercial-geostationary-satellite-orders-rebound-to-14-in-2026-driven-by-spectrum-transitions/",
+      "pubDate": "Mon, 21 Sep 2026 17:34:15 +0000",
+      "description": "On Sept. 21, 2026, space market intelligence firm Novaspace released market data confirming that commercial geostationary (GEO) communications satellite orders reached 14 spacecraft announced year-to-date. The figure marks a recovery [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "SSC Space and Airbus Expand Ground Segment Support for Pléiades Neo and Pléiades Neo Next",
+      "link": "https://satnews.com/2026/09/21/ssc-space-and-airbus-expand-ground-segment-support-for-pleiades-neo-and-pleiades-neo-next/",
+      "pubDate": "Mon, 21 Sep 2026 16:18:44 +0000",
+      "description": "On Sept. 21, 2026, space operations provider SSC Space signed a multi-year contract with Airbus Defence and Space to serve as the prime ground segment provider for the Pléiades Neo [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "ESA Industry Space Days 2026 – Martin Jüssi of KappaZeta on Why Money Really Does Grow on Trees",
+      "link": "https://spacewatch.global/2026/09/esa-industry-space-days-2026-martin-jussi-of-kappazeta-on-why-money-really-does-grow-on-trees/",
+      "pubDate": "Mon, 21 Sep 2026 16:00:00 +0000",
+      "description": "From ESA Industry Space Days at ESTEC, KappaZeta CEO Martin Jüssi joins Daniela Jovic to explain how Earth observation turns forests into measurable value, why the industry should start with user needs rather than technology, and how the company is now developing its own mission.",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "ESA Acknowledges Ariane 6 Delays Following Reports of Turbopump Issue",
       "link": "https://europeanspaceflight.com/esa-acknowledges-ariane-6-delays-following-reports-of-turbopump-issue/",
@@ -93,41 +142,6 @@
       "feedName": "European Spaceflight"
     },
     {
-      "title": "ESA Awards Parallel EOGS Architecture Studies to ICEYE and Leonardo",
-      "link": "https://spacewatch.global/2026/09/esa-awards-parallel-eogs-architecture-studies-to-iceye-and-leonardo/",
-      "pubDate": "Fri, 18 Sep 2026 06:00:00 +0000",
-      "description": "ICEYE and Leonardo have been selected by the European Space Agency to lead parallel studies to develop architectural blueprints for the European Union’s planned Earth Observation Governmental Service. The contracts mark an early step toward defining a sovereign and secure Earth-observation capabilit",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Galileo Demonstrates First Civil Authenticated Position Fix Under Spoofing",
-      "link": "https://spacewatch.global/2026/09/galileo-demonstrates-first-civil-authenticated-position-fix-under-spoofing/",
-      "pubDate": "Fri, 18 Sep 2026 06:00:00 +0000",
-      "description": "The European Union’s Galileo satellite navigation system has demonstrated its first civil authenticated position fix under real-world spoofing conditions, marking a step toward more resilient and trustworthy positioning for civilian users.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "ESA Signs €20 Million in Low-LEO Contracts as IRIS² Enters Hardware Development",
-      "link": "https://spacewatch.global/2026/09/esa-signs-e20-million-in-low-leo-contracts-as-iris%c2%b2-enters-hardware-development/",
-      "pubDate": "Fri, 18 Sep 2026 06:00:00 +0000",
-      "description": "ESA has signed 18 contracts worth €20 million in Madrid, bringing nearly 80 companies into Low-LEO studies that could expand IRIS² beyond its initial architecture.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "WSBW 2026 – Day 4 from the Arc de Triomphe: “A Grant Is Not a Customer”",
-      "link": "https://spacewatch.global/2026/09/wsbw-2026-day-4-from-the-arc-de-triomphe-a-grant-is-not-a-customer/",
-      "pubDate": "Thu, 17 Sep 2026 18:00:00 +0000",
-      "description": "From a chilly Arc de Triomphe on the final day of World Space Business Week, Niels Buus and Torsten Kriening review the week - the shift from innovation to scaling, IRIS² under contract, Europe's production capacity gap, solar thermal propulsion, and why a grant is not a customer.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "EnduroSat Secures $205 Million Funding Round and Wins 24-Bus Contract for Vantor Earth Observation Constellation",
-      "link": "https://satnews.com/2026/09/17/endurosat-secures-205-million-funding-round-and-wins-24-bus-contract-for-vantor-earth-observation-constellation/",
-      "pubDate": "Thu, 17 Sep 2026 15:59:11 +0000",
-      "description": "On Sept. 17, 2026, satellite bus manufacturer EnduroSat closed a $205 million Series B financing round to fund production scaling and expand its operational footprint into the United States defense [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "US Navy awards defense startup $200 million for Blackbeard hypersonic missile",
       "link": "https://www.defensenews.com/news/your-navy/2026/09/17/us-navy-awards-defense-startup-200-million-for-blackbeard-hypersonic-missile/",
       "pubDate": "Thu, 17 Sep 2026 15:35:43 +0000",
@@ -140,13 +154,6 @@
       "pubDate": "Thu, 17 Sep 2026 12:05:21 +0000",
       "description": "SatPort Infrastructure will develop, build, and host landing stations for the Telesat Lightspeed constellation, to connect Lightspeed to terrestrial networks. The two companies announced a master services agreement on Sept. [&#8230;]\nThe post SatPort to Build Landing Stations for Telesat Lightspeed ",
       "feedName": "Via Satellite"
-    },
-    {
-      "title": "#SpaceWatchGL Recap: SPIN – Europe Has the Money. Now Comes the Hard Part.",
-      "link": "https://spacewatch.global/2026/09/spacewatchgl-recap-spin-europe-has-the-money-now-comes-the-hard-part/",
-      "pubDate": "Thu, 17 Sep 2026 09:00:00 +0000",
-      "description": "Yesterday's summit argued about sovereignty. Today's asked whether European industry can actually build it. From the Space Innovation Summit in Paris: Isar's scale-first bet, the first IRIS² satellites under contract, and two serious investors disagreeing in public about whether Europe's problem is ",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Israel’s SPICE 1000 bombs can soon drop from F-35 fighters",
@@ -177,13 +184,6 @@
       "feedName": "European Spaceflight"
     },
     {
-      "title": "25 years after 9/11, spy agencies face old lessons and new threats ",
-      "link": "https://www.defenseone.com/threats/2026/09/25-years-after-911-spy-agencies-face-old-lessons-and-new-threats/415941/",
-      "pubDate": "Fri, 11 Sep 2026 11:00:00 -0400",
-      "description": "Former intelligence officials describe a nation better equipped to disrupt terrorist plots, but still wrestling with the costs.",
-      "feedName": "Defense One"
-    },
-    {
       "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
       "link": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/",
       "pubDate": "Fri, 11 Sep 2026 05:32:49 +0000",
@@ -209,13 +209,6 @@
       "link": "https://warontherocks.com/why-trumps-israel-normalization-demand-may-kill-the-saudi-nuclear-deal/",
       "pubDate": "Wed, 05 Aug 2026 07:30:49 +0000",
       "description": "Only days after the Trump administration celebrated what it called a landmark civilian nuclear agreement with Saudi Arabia, the president himself appeared to place the entire arrangement in jeopardy. In a Truth Social post, President Donald Trump declared the deal &#8220;totally subject&#8221; to Sa",
-      "feedName": "War on the Rocks"
-    },
-    {
-      "title": "The Atlantic Brief: The Strait of Hormuz and the Future of Free Navigation",
-      "link": "https://warontherocks.com/the-atlantic-brief-the-strait-of-hormuz-and-the-future-of-free-navigation/",
-      "pubDate": "Fri, 31 Jul 2026 20:27:03 +0000",
-      "description": "In February 2026, the United States and Israel initiated a war in the Middle East against Iran. Since then, the warring sides have oscillated between strikes, a fragile ceasefire, and the blocking of the Strait of Hormuz. Open hostilities resumed in mid-July. More recently, the Houthis in Yemen have",
       "feedName": "War on the Rocks"
     },
     {
