@@ -1,11 +1,39 @@
 {
-  "generated": "2026-09-22T11:13:36.505Z",
+  "generated": "2026-09-23T11:05:04.451Z",
   "newsItems": [
+    {
+      "title": "Estonian Company CybExer to Play Key Role in Testing IRIS² Security",
+      "link": "https://www.satellitetoday.com/cybersecurity/2026/09/22/estonian-company-cybexer-to-play-key-role-in-testing-iris%c2%b2-security/",
+      "pubDate": "Tue, 22 Sep 2026 21:12:19 +0000",
+      "description": "CybExer, an Estonian cybersecurity company, is to play a key role in helping keep the EU’s future secure satellite connectivity system, IRIS² secure. It will lead a ten-company European consortium [&#8230;]\nThe post Estonian Company CybExer to Play Key Role in Testing IRIS² Security appeared first o",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Australian MQ-4C Tritons, MC-55A Peregrines reach Initial Operational Capability",
+      "link": "https://breakingdefense.com/2026/09/australian-mq-4c-tritons-mc-55a-peregrines-reach-initial-operational-capability/",
+      "pubDate": "Tue, 22 Sep 2026 18:40:00 +0000",
+      "description": "Attaining IOC for the RAAF&#8217;s MQ-4Cs has “significantly strengthened its ability to deliver persistent intelligence, surveillance and reconnaissance effects across Australia’s primary area of military interest,” according to the announcement.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "ESA and ISRO Extend Bilateral Space Agreement to 2032",
+      "link": "https://satnews.com/2026/09/22/esa-and-isro-extend-bilateral-space-agreement-to-2032/",
+      "pubDate": "Tue, 22 Sep 2026 15:46:00 +0000",
+      "description": "In an exchange of letters finalized on September 10, 2026, during the International Space Summit in Paris, the European Space Agency (ESA) and the Indian Space Research Organisation (ISRO) formally [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Planet Opens Berlin Satellite Factory as Sovereignty Takes Centre Stage",
+      "link": "https://spacewatch.global/2026/09/planet-opens-berlin-satellite-factory-as-sovereignty-takes-centre-stage/",
+      "pubDate": "Tue, 22 Sep 2026 09:00:00 +0000",
+      "description": "Planet has opened its new satellite manufacturing facility in Berlin, bringing Pelican production to Europe for the first time. The move strengthens Planet’s role in European Earth observation while raising key questions around sovereignty, shutter control, resilience and future security application",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "Marble Imaging and msg Systems Partner on European Sovereign ISR Capabilities",
       "link": "https://spacewatch.global/2026/09/marble-imaging-and-msg-systems-partner-on-european-sovereign-isr-capabilities/",
       "pubDate": "Tue, 22 Sep 2026 06:00:00 +0000",
-      "description": "Marble Imaging and msg systems have signed a memorandum of understanding to develop sovereign intelligence, surveillance and reconnaissance solutions, combining satellite-based Earth observation with AI, open-source intelligence and secure digital infrastructure.\n\nThe partnership is intended to supp",
+      "description": "Marble Imaging and msg systems have signed an MoU to develop sovereign European ISR solutions, combining satellite Earth observation with AI, open-source intelligence and secure digital infrastructure.",
       "feedName": "SpaceWatch Global"
     },
     {
@@ -93,48 +121,6 @@
       "feedName": "Payload Space"
     },
     {
-      "title": "Northrop Grumman Wins U.S. Space Force Prototype Contract for GHOST-R Space Domain Awareness Mission",
-      "link": "https://satnews.com/2026/09/20/northrop-grumman-wins-u-s-space-force-prototype-contract-for-ghost-r-space-domain-awareness-mission/",
-      "pubDate": "Sun, 20 Sep 2026 15:28:41 +0000",
-      "description": "On Sept. 20, 2026, defense prime contractor Northrop Grumman secured a award from the U.S. Space Force to design and construct a prototype satellite for the Geosynchronous Space Situational Awareness [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Myriad ways that drones, satellites, and common controls reshape ISR",
-      "link": "https://breakingdefense.com/2026/09/myriad-ways-that-drones-satellites-and-common-controls-reshape-isr/",
-      "pubDate": "Fri, 18 Sep 2026 21:37:51 +0000",
-      "description": "Connecting platforms and data across domains is key to keeping ISR effective under attack.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
-      "title": "WSBW 2026 – Pieter Fossel of Hydrosat on Thermal Intelligence and Removing the Cover of Darkness",
-      "link": "https://spacewatch.global/2026/09/wsbw-2026-pieter-fossel-of-hydrosat-on-thermal-intelligence-and-removing-the-cover-of-darkness/",
-      "pubDate": "Fri, 18 Sep 2026 17:00:00 +0000",
-      "description": "From World Space Business Week in Paris, Hydrosat CEO Pieter Fossel joins Torsten Kriening to unveil the Osiris constellation - 25-metre thermal resolution across a 340 km swath - and explain why thermal intelligence, visible day and night, removes the cover of darkness.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Iceye-led ARISE Consortium to Conduct Space Intelligence Architecture Study for ESA",
-      "link": "https://www.satellitetoday.com/government-military/2026/09/18/iceye-led-arise-consortium-to-conduct-space-intelligence-architecture-study-for-esa/",
-      "pubDate": "Fri, 18 Sep 2026 15:12:47 +0000",
-      "description": "The Architecture for Resilient and Federated ISR in Sovereign Europe (ARISE), a European sovereign intelligence consortium led by Iceye, will conduct an architecture design study for the European Space Agency [&#8230;]\nThe post Iceye-led ARISE Consortium to Conduct Space Intelligence Architecture St",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "‘Totally new’: Nammo pursues rocket motor engine for latest IRIS-T air defense",
-      "link": "https://breakingdefense.com/2026/09/totally-new-nammo-pursues-rocket-motor-engine-for-latest-iris-t-air-defense/",
-      "pubDate": "Fri, 18 Sep 2026 14:45:10 +0000",
-      "description": "The push comes as German defense firm Diehl targets a first Safety Integrity Level (SIL) firing test of the surface-launched IRIS-T SLX in 2027.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
-      "title": "#SpaceWatchGL Recap: Europe Signs the Blueprint. Then Someone Asked Who Was Missing.",
-      "link": "https://spacewatch.global/2026/09/spacewatchgl-recap-europe-signs-the-blueprint-then-someone-asked-who-was-missing/",
-      "pubDate": "Fri, 18 Sep 2026 09:00:00 +0000",
-      "description": "ESA signed two competing architecture studies for the EU's future Earth Observation Governmental Service - one led by Leonardo, one by ICEYE. Two hours later, a question from the floor exposed who wasn't in either consortium. From the final day of World Space Business Week and the Summit on Earth Ob",
-      "feedName": "SpaceWatch Global"
-    },
-    {
       "title": "ESA Awards €20M in Contracts to Study Future IRIS2 Services",
       "link": "https://europeanspaceflight.com/esa-awards-e20m-in-contracts-to-study-future-iris2-services/",
       "pubDate": "Fri, 18 Sep 2026 07:41:46 +0000",
@@ -147,27 +133,6 @@
       "pubDate": "Thu, 17 Sep 2026 15:35:43 +0000",
       "description": "The U.S. Navy awarded defense startup Castelion $200 million for the production of its Blackbeard hypersonic missile.",
       "feedName": "Defense News"
-    },
-    {
-      "title": "SatPort to Build Landing Stations for Telesat Lightspeed ",
-      "link": "https://www.satellitetoday.com/technology/2026/09/17/satport-to-build-landing-stations-for-telesat-lightspeed/",
-      "pubDate": "Thu, 17 Sep 2026 12:05:21 +0000",
-      "description": "SatPort Infrastructure will develop, build, and host landing stations for the Telesat Lightspeed constellation, to connect Lightspeed to terrestrial networks. The two companies announced a master services agreement on Sept. [&#8230;]\nThe post SatPort to Build Landing Stations for Telesat Lightspeed ",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "Israel’s SPICE 1000 bombs can soon drop from F-35 fighters",
-      "link": "https://www.defensenews.com/global/mideast-africa/2026/09/16/israels-spice-1000-bombs-can-soon-drop-from-f-35-fighters/",
-      "pubDate": "Wed, 16 Sep 2026 17:15:01 +0000",
-      "description": "The Israeli air force can look forward to yet another bomb type for its F-35 fleet.",
-      "feedName": "Defense News"
-    },
-    {
-      "title": "Hydrosat Unveils Osiris Constellation Ahead of 2027 Launch",
-      "link": "https://payloadspace.com/hydrosat-unveils-osiris-constellation-ahead-of-2027-launch/",
-      "pubDate": "Wed, 16 Sep 2026 13:00:00 +0000",
-      "description": "Very rarely can someone offer you the best of both worlds, but Hydrosat’s newest constellation claims to do just that.\nThe post Hydrosat Unveils Osiris Constellation Ahead of 2027 Launch appeared first on Payload.\n",
-      "feedName": "Payload Space"
     },
     {
       "title": "Open Cosmos Raises €300 Million as Investors Back Europe’s Space Push",
