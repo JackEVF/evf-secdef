@@ -1,6 +1,41 @@
 {
-  "generated": "2026-09-23T11:05:04.451Z",
+  "generated": "2026-09-24T11:22:39.864Z",
   "newsItems": [
+    {
+      "title": "ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations",
+      "link": "https://europeanspaceflight.com/esa-awards-rfa-e2-7-million-in-new-funding-for-saxavord-operations/",
+      "pubDate": "Thu, 24 Sep 2026 06:00:15 +0000",
+      "description": "The European Space Agency (ESA) has awarded Rocket Factory Augsburg (RFA) a contract amendment that will provide the company with €2.7 million in additional co-funding to support the build-out of the company’s launch and testing infrastructure at SaxaVord in Scotland. According to the agency, RFA is",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "Space Norway Marks 40 Years of Satellite Operations at Nittedal Teleport",
+      "link": "https://spacewatch.global/2026/09/space-norway-marks-40-years-of-satellite-operations-at-nittedal-teleport/",
+      "pubDate": "Thu, 24 Sep 2026 06:00:00 +0000",
+      "description": "Space Norway marks 40 years of satellite operations at Nittedal Teleport near Oslo, now one of Europe's largest earth stations with more than 50 antennas.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "UK Space Agency Opens Tender for International Disaster Charter Support",
+      "link": "https://spacewatch.global/2026/09/uk-space-agency-opens-tender-for-international-disaster-charter-support/",
+      "pubDate": "Thu, 24 Sep 2026 06:00:00 +0000",
+      "description": "The UK Space Agency is seeking a commercial Earth observation provider to deliver operational support to the International Charter: Space and Major Disasters under a procurement estimated at £546,693.\n\nThe contract, scheduled to run from January 2027 through March 2029, is intended to support the pr",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Streeting: “This Century Will Depend on Control of Space”",
+      "link": "https://spacewatch.global/2026/09/streeting-this-century-will-depend-on-control-of-space/",
+      "pubDate": "Wed, 23 Sep 2026 17:00:00 +0000",
+      "description": "UK Defence Secretary Wes Streeting closed day one of the UK Space Power Conference by placing control of space at the heart of British deterrence, and warned that adversaries use satellite disruption to fuel populism.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Impulse Space Secures $28 Million U.S. Space Force Contract for Geostationary Space Domain Awareness Mission",
+      "link": "https://satnews.com/2026/09/23/impulse-space-secures-28-million-u-s-space-force-contract-for-geostationary-space-domain-awareness-mission/",
+      "pubDate": "Wed, 23 Sep 2026 14:25:07 +0000",
+      "description": "On Sept. 22, 2026, in-space transportation services provider Impulse Space secured a $28 million contract from the U.S. Space Force to deliver an orbital Space Domain Awareness (SDA) demonstration mission. [&#8230;]",
+      "feedName": "Satnews"
+    },
     {
       "title": "Estonian Company CybExer to Play Key Role in Testing IRIS² Security",
       "link": "https://www.satellitetoday.com/cybersecurity/2026/09/22/estonian-company-cybexer-to-play-key-role-in-testing-iris%c2%b2-security/",
@@ -37,13 +72,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Aerospacelab Reaches Profitability Ahead of Booking $2.75 Billion IRIS² Satellite Contract",
-      "link": "https://satnews.com/2026/09/21/aerospacelab-reaches-profitability-ahead-of-booking-2-75-billion-iris%c2%b2-satellite-contract/",
-      "pubDate": "Mon, 21 Sep 2026 23:56:55 +0000",
-      "description": "On Sept. 21, 2026, Belgian satellite manufacturer Aerospacelab confirmed it achieved financial profitability in early 2026, prior to securing a €2.4 billion ($2.75 billion) prime contract to construct 264 satellites [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "True Anomaly and Northrop Grumman Aiming to Build GHOST-R Prototypes to Reduce RG-XX Costs",
       "link": "https://www.satellitetoday.com/government-military/2026/09/21/true-anomaly-and-northrop-grumman-aiming-to-build-ghost-r-prototypes-to-reduce-rg-xx-costs/",
       "pubDate": "Mon, 21 Sep 2026 19:59:43 +0000",
@@ -51,67 +79,11 @@
       "feedName": "Via Satellite"
     },
     {
-      "title": "Europe Grapples With Faster Procurement Amid Space Defense Push",
-      "link": "https://www.satellitetoday.com/government-military/2026/09/21/europe-grapples-with-faster-procurement-amid-space-defense-push/",
-      "pubDate": "Mon, 21 Sep 2026 19:51:59 +0000",
-      "description": "As Europe works to move faster in its space defense capabilities, leaders at the Space and Defense &#38; Security Summit say Ukraine accelerated a shift in institutional urgency yet challenges [&#8230;]\nThe post Europe Grapples With Faster Procurement Amid Space Defense Push appeared first on Via Sa",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "Commercial Geostationary Satellite Orders Rebound to 14 in 2026 Driven by Spectrum Transitions",
-      "link": "https://satnews.com/2026/09/21/commercial-geostationary-satellite-orders-rebound-to-14-in-2026-driven-by-spectrum-transitions/",
-      "pubDate": "Mon, 21 Sep 2026 17:34:15 +0000",
-      "description": "On Sept. 21, 2026, space market intelligence firm Novaspace released market data confirming that commercial geostationary (GEO) communications satellite orders reached 14 spacecraft announced year-to-date. The figure marks a recovery [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "SSC Space and Airbus Expand Ground Segment Support for Pléiades Neo and Pléiades Neo Next",
-      "link": "https://satnews.com/2026/09/21/ssc-space-and-airbus-expand-ground-segment-support-for-pleiades-neo-and-pleiades-neo-next/",
-      "pubDate": "Mon, 21 Sep 2026 16:18:44 +0000",
-      "description": "On Sept. 21, 2026, space operations provider SSC Space signed a multi-year contract with Airbus Defence and Space to serve as the prime ground segment provider for the Pléiades Neo [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "ESA Industry Space Days 2026 – Martin Jüssi of KappaZeta on Why Money Really Does Grow on Trees",
-      "link": "https://spacewatch.global/2026/09/esa-industry-space-days-2026-martin-jussi-of-kappazeta-on-why-money-really-does-grow-on-trees/",
-      "pubDate": "Mon, 21 Sep 2026 16:00:00 +0000",
-      "description": "From ESA Industry Space Days at ESTEC, KappaZeta CEO Martin Jüssi joins Daniela Jovic to explain how Earth observation turns forests into measurable value, why the industry should start with user needs rather than technology, and how the company is now developing its own mission.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
       "title": "ESA Acknowledges Ariane 6 Delays Following Reports of Turbopump Issue",
       "link": "https://europeanspaceflight.com/esa-acknowledges-ariane-6-delays-following-reports-of-turbopump-issue/",
       "pubDate": "Mon, 21 Sep 2026 08:05:18 +0000",
       "description": "The European Space Agency (ESA) has confirmed that it is aware of delays affecting the Ariane 6 launch schedule following reports of an engine turbopump anomaly. French news outlet La Tribune first reported an issue with an unspecified Ariane 6 component on 17 September. According to the report, the",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "#SpaceWatchGL GRAY SPACE – PIXXEL, from student’s dream to winning bet: hyperspectral opportunities for Europe?",
-      "link": "https://spacewatch.global/2026/09/spacewatchgl-gray-space-pixxel-from-students-dream-to-winning-bet-hyperspectral-opportunities-for-europe/",
-      "pubDate": "Mon, 21 Sep 2026 08:00:00 +0000",
-      "description": " Written by Christophe Bosquillon  From a Bengaluru student dormitory to US government contracts and a $100 million Series C, Pixxel bet early on hyperspectral Earth observation. Christophe Bosquillon asks what its trajectory can teach Europe as the hyperspectral market approaches a potential inflec",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Integrasys Selected to Lead Consortium Developing EOBLINDING Counter-Surveillance System",
-      "link": "https://spacewatch.global/2026/09/integrasys-selected-to-lead-consortium-developing-eoblinding-counter-surveillance-system/",
-      "pubDate": "Mon, 21 Sep 2026 06:00:00 +0000",
-      "description": "The European Defence Fund has selected a consortium led by Spanish satellite communications company Integrasys to develop a capability designed to counter space-based surveillance, bringing together European companies working across space surveillance, radio-frequency systems and other sensing techn",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Rocket Lab Launches 12th StriX Satellite as Synspective Expands its Constellation Strategy",
-      "link": "https://spacewatch.global/2026/09/rocket-lab-launches-12th-strix-satellite-as-synspective-expands-its-constellation-strategy/",
-      "pubDate": "Mon, 21 Sep 2026 06:00:00 +0000",
-      "description": "Rocket Lab has launched Synspective's 12th StriX SAR satellite from Mahia, New Zealand, continuing a launch relationship that dates back to 2020.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Dhruva Space and Thales Alenia Space Sign MoU on Global Satellite Opportunities",
-      "link": "https://spacewatch.global/2026/09/dhruva-space-and-thales-alenia-space-sign-mou-on-global-satellite-opportunities/",
-      "pubDate": "Mon, 21 Sep 2026 06:00:00 +0000",
-      "description": "Dhruva Space and Thales Alenia Space have signed an MoU to explore collaboration on satellite constellations, space infrastructure and advanced systems, as India's private sector expands beyond its home market.",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "DIU and SSC Announce Joint GHOST-R Mission",
@@ -126,13 +98,6 @@
       "pubDate": "Fri, 18 Sep 2026 07:41:46 +0000",
       "description": "The European Space Agency has awarded 18 contracts worth a combined €20 million to study potential future evolutions of the European Union’s IRIS2 secure communications service. Signed on 17 September, the contracts bring together nearly 80 European companies to study new satellite-based secure conn",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "US Navy awards defense startup $200 million for Blackbeard hypersonic missile",
-      "link": "https://www.defensenews.com/news/your-navy/2026/09/17/us-navy-awards-defense-startup-200-million-for-blackbeard-hypersonic-missile/",
-      "pubDate": "Thu, 17 Sep 2026 15:35:43 +0000",
-      "description": "The U.S. Navy awarded defense startup Castelion $200 million for the production of its Blackbeard hypersonic missile.",
-      "feedName": "Defense News"
     },
     {
       "title": "Open Cosmos Raises €300 Million as Investors Back Europe’s Space Push",
@@ -167,13 +132,6 @@
       "link": "https://warontherocks.com/the-blood-price-in-israel-military-sacrifice-is-becoming-political-power/",
       "pubDate": "Thu, 06 Aug 2026 07:30:42 +0000",
       "description": "In late June, cadets at the Israeli military&#8217;s officer training school sat through a lecture by Ofer Winter, a retired brigadier general and a polarizing figure in the Israel Defense Forces. According to Haaretz, Winter told the future officers that &#8220;there are no uninvolved civilians in ",
-      "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Why Trump’s Israel Normalization Demand May Kill the Saudi Nuclear Deal",
-      "link": "https://warontherocks.com/why-trumps-israel-normalization-demand-may-kill-the-saudi-nuclear-deal/",
-      "pubDate": "Wed, 05 Aug 2026 07:30:49 +0000",
-      "description": "Only days after the Trump administration celebrated what it called a landmark civilian nuclear agreement with Saudi Arabia, the president himself appeared to place the entire arrangement in jeopardy. In a Truth Social post, President Donald Trump declared the deal &#8220;totally subject&#8221; to Sa",
       "feedName": "War on the Rocks"
     },
     {
