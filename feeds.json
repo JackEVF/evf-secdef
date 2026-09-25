@@ -1,6 +1,41 @@
 {
-  "generated": "2026-09-24T11:22:39.864Z",
+  "generated": "2026-09-25T11:28:01.846Z",
   "newsItems": [
+    {
+      "title": "Netanyahu uses UN address to highlight Trump ties — and harangue everyone else",
+      "link": "https://www.politico.com/news/2026/09/24/netanyahu-uses-un-address-to-highlight-trump-ties-and-harangue-everyone-else-01092551?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Thu, 24 Sep 2026 22:33:02 +0000",
+      "description": "The Israeli leader, increasingly isolated on the world stage, emphasized his relationship with the U.S. president during an otherwise confrontational speech.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "GomSpace Selected for ESA-Funded Arctic Maritime Communications Satellite Feasibility Study",
+      "link": "https://satnews.com/2026/09/24/gomspace-selected-for-esa-funded-arctic-maritime-communications-satellite-feasibility-study/",
+      "pubDate": "Thu, 24 Sep 2026 15:57:35 +0000",
+      "description": "On Sept. 24, 2026, satellite manufacturer GomSpace confirmed its participation in an ESA-funded feasibility study to define system concepts for a dedicated Arctic satellite constellation. Executed alongside industry partners Sternula, [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "True or false on space industry trends with Pacôme Révillon",
+      "link": "https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/",
+      "pubDate": "Thu, 24 Sep 2026 15:51:42 +0000",
+      "description": "\nIn this episode, SpaceNews’ Mike Gruss and Novaspace CEO Pacôme Révillon look at what to expect from the space industry in the next year by playing a game of true [&#8230;]\nThe post True or false on space industry trends with Pacôme Révillon appeared first on SpaceNews.\n",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "U.K. Launches Dedicated Squadron to Protect Space Assets",
+      "link": "https://www.satellitetoday.com/government-military/2026/09/24/u-k-launches-dedicated-squadron-to-protect-space-assets/",
+      "pubDate": "Thu, 24 Sep 2026 14:47:10 +0000",
+      "description": "The U.K. Government has made a major new space defense initiative by launching its first ever dedicated squadron to protect its satellites. The No. 3 Space Effects Squadron (SES) will [&#8230;]\nThe post U.K. Launches Dedicated Squadron to Protect Space Assets appeared first on Via Satellite.\n",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "ESA Seeks Funding Increase to €350 Million for European Military ISR Satellite Constellation",
+      "link": "https://satnews.com/2026/09/24/esa-seeks-funding-increase-to-e350-million-for-european-military-isr-satellite-constellation/",
+      "pubDate": "Thu, 24 Sep 2026 14:22:23 +0000",
+      "description": "On Sept. 23, 2026, the European Space Agency (ESA) initiated the selection phase for in-orbit demonstration missions supporting the European Union’s planned military Intelligence, Surveillance, and Reconnaissance (ISR) satellite network. [&#8230;]",
+      "feedName": "Satnews"
+    },
     {
       "title": "ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations",
       "link": "https://europeanspaceflight.com/esa-awards-rfa-e2-7-million-in-new-funding-for-saxavord-operations/",
@@ -30,32 +65,11 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Impulse Space Secures $28 Million U.S. Space Force Contract for Geostationary Space Domain Awareness Mission",
-      "link": "https://satnews.com/2026/09/23/impulse-space-secures-28-million-u-s-space-force-contract-for-geostationary-space-domain-awareness-mission/",
-      "pubDate": "Wed, 23 Sep 2026 14:25:07 +0000",
-      "description": "On Sept. 22, 2026, in-space transportation services provider Impulse Space secured a $28 million contract from the U.S. Space Force to deliver an orbital Space Domain Awareness (SDA) demonstration mission. [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "Estonian Company CybExer to Play Key Role in Testing IRIS² Security",
       "link": "https://www.satellitetoday.com/cybersecurity/2026/09/22/estonian-company-cybexer-to-play-key-role-in-testing-iris%c2%b2-security/",
       "pubDate": "Tue, 22 Sep 2026 21:12:19 +0000",
       "description": "CybExer, an Estonian cybersecurity company, is to play a key role in helping keep the EU’s future secure satellite connectivity system, IRIS² secure. It will lead a ten-company European consortium [&#8230;]\nThe post Estonian Company CybExer to Play Key Role in Testing IRIS² Security appeared first o",
       "feedName": "Via Satellite"
-    },
-    {
-      "title": "Australian MQ-4C Tritons, MC-55A Peregrines reach Initial Operational Capability",
-      "link": "https://breakingdefense.com/2026/09/australian-mq-4c-tritons-mc-55a-peregrines-reach-initial-operational-capability/",
-      "pubDate": "Tue, 22 Sep 2026 18:40:00 +0000",
-      "description": "Attaining IOC for the RAAF&#8217;s MQ-4Cs has “significantly strengthened its ability to deliver persistent intelligence, surveillance and reconnaissance effects across Australia’s primary area of military interest,” according to the announcement.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
-      "title": "ESA and ISRO Extend Bilateral Space Agreement to 2032",
-      "link": "https://satnews.com/2026/09/22/esa-and-isro-extend-bilateral-space-agreement-to-2032/",
-      "pubDate": "Tue, 22 Sep 2026 15:46:00 +0000",
-      "description": "In an exchange of letters finalized on September 10, 2026, during the International Space Summit in Paris, the European Space Agency (ESA) and the Indian Space Research Organisation (ISRO) formally [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "Planet Opens Berlin Satellite Factory as Sovereignty Takes Centre Stage",
@@ -65,32 +79,11 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Marble Imaging and msg Systems Partner on European Sovereign ISR Capabilities",
-      "link": "https://spacewatch.global/2026/09/marble-imaging-and-msg-systems-partner-on-european-sovereign-isr-capabilities/",
-      "pubDate": "Tue, 22 Sep 2026 06:00:00 +0000",
-      "description": "Marble Imaging and msg systems have signed an MoU to develop sovereign European ISR solutions, combining satellite Earth observation with AI, open-source intelligence and secure digital infrastructure.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "True Anomaly and Northrop Grumman Aiming to Build GHOST-R Prototypes to Reduce RG-XX Costs",
-      "link": "https://www.satellitetoday.com/government-military/2026/09/21/true-anomaly-and-northrop-grumman-aiming-to-build-ghost-r-prototypes-to-reduce-rg-xx-costs/",
-      "pubDate": "Mon, 21 Sep 2026 19:59:43 +0000",
-      "description": "The Defense Innovation Unit and U.S. Space Force’s Space Systems Command (SSC) have awarded True Anomaly and Northrop Grumman Geosynchronous High-Resolution Optical Space-Based Tactical Reconnaissance (GHOST-R) prototype contracts to deliver “lower-cost” reconnaissance satellites [&#8230;]\nThe post ",
-      "feedName": "Via Satellite"
-    },
-    {
       "title": "ESA Acknowledges Ariane 6 Delays Following Reports of Turbopump Issue",
       "link": "https://europeanspaceflight.com/esa-acknowledges-ariane-6-delays-following-reports-of-turbopump-issue/",
       "pubDate": "Mon, 21 Sep 2026 08:05:18 +0000",
       "description": "The European Space Agency (ESA) has confirmed that it is aware of delays affecting the Ariane 6 launch schedule following reports of an engine turbopump anomaly. French news outlet La Tribune first reported an issue with an unspecified Ariane 6 component on 17 September. According to the report, the",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "DIU and SSC Announce Joint GHOST-R Mission",
-      "link": "https://payloadspace.com/diu-and-ssc-announce-joint-ghost-r-mission/",
-      "pubDate": "Mon, 21 Sep 2026 03:50:39 +0000",
-      "description": "DIU and SSC announced GHOST-R, a joint effort to bring low-cost reconnaissance to GEO under SSC's RG-XX program.\nThe post DIU and SSC Announce Joint GHOST-R Mission appeared first on Payload.\n",
-      "feedName": "Payload Space"
     },
     {
       "title": "ESA Awards €20M in Contracts to Study Future IRIS2 Services",
@@ -100,46 +93,11 @@
       "feedName": "European Spaceflight"
     },
     {
-      "title": "Open Cosmos Raises €300 Million as Investors Back Europe’s Space Push",
-      "link": "https://europeanspaceflight.com/open-cosmos-raises-e300-million-as-investors-back-europes-space-push/",
-      "pubDate": "Tue, 15 Sep 2026 20:20:00 +0000",
-      "description": "UK-based satellite maker Open Cosmos announced on 14 September that it had closed a €300 million funding round. The company said it would use the new funding to expand its manufacturing capacity and accelerate the deployment of its Earth observation and communications constellations. The €300 millio",
-      "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Avio Launches Second Successful Vega C Flight of 2026",
-      "link": "https://europeanspaceflight.com/avio-launches-second-successful-vega-c-flight-of-2026/",
-      "pubDate": "Tue, 15 Sep 2026 08:30:01 +0000",
-      "description": "Italian launch services provider Avio has successfully completed its second Vega-C flight of 2026, deploying the European Commission’s third Sentinel-3 Earth observation satellite and ESA’s FLEX mission. The Vega-C rocket lifted off from the Guiana Space Centre at 01:21 UTC on 15 September. Followin",
-      "feedName": "European Spaceflight"
-    },
-    {
-      "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
-      "link": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/",
-      "pubDate": "Fri, 11 Sep 2026 05:32:49 +0000",
-      "description": "\nAustralian Earth observation satellite company LatConnect 60 (LC60) has strengthened its position in India with two strategic agreements announced at the Bengaluru Space Expo 2026 on September 7th, spanning satellite [&#8230;]\nThe post LatConnect 60 Expands India Market Presence for SWIRSAT With NS",
-      "feedName": "SpaceNews"
-    },
-    {
       "title": "Shrinking Buffers: Why Turkey and Israel Are on a Collision Course",
       "link": "https://warontherocks.com/shrinking-buffers-why-turkey-and-israel-are-on-a-collision-course/",
       "pubDate": "Mon, 07 Sep 2026 07:30:31 +0000",
       "description": "When Israeli warplanes struck the Abu al-Duhur airbase in Syria on Aug. 18, 2026, the smoke rose over the demolition of an old geopolitical assumption about the Middle East. This time, Israel directly targeted a strategic sphere of influence where the Turkish military had been working to build local",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "The Blood Price: In Israel, Military Sacrifice Is Becoming Political Power",
-      "link": "https://warontherocks.com/the-blood-price-in-israel-military-sacrifice-is-becoming-political-power/",
-      "pubDate": "Thu, 06 Aug 2026 07:30:42 +0000",
-      "description": "In late June, cadets at the Israeli military&#8217;s officer training school sat through a lecture by Ofer Winter, a retired brigadier general and a polarizing figure in the Israel Defense Forces. According to Haaretz, Winter told the future officers that &#8220;there are no uninvolved civilians in ",
-      "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Israel’s IAI unveils ‘Hypnosis’ system for confusing enemy drone swarms",
-      "link": "https://www.c4isrnet.com/industry/2026/07/20/israels-iai-unveils-hypnosis-system-for-confusing-enemy-drone-swarms/",
-      "pubDate": "Mon, 20 Jul 2026 13:26:51 +0000",
-      "description": "The system, called Hypnosis, consists of an array of mobile “stations” around a defended area that send out jamming signals against drone swarms.",
-      "feedName": "C4ISRNET"
     },
     {
       "title": "Save the date: CDSE User Summit 2026",
