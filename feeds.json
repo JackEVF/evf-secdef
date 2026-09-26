@@ -1,12 +1,26 @@
 {
-  "generated": "2026-09-25T11:28:01.846Z",
+  "generated": "2026-09-26T11:03:19.353Z",
   "newsItems": [
     {
-      "title": "Netanyahu uses UN address to highlight Trump ties — and harangue everyone else",
-      "link": "https://www.politico.com/news/2026/09/24/netanyahu-uses-un-address-to-highlight-trump-ties-and-harangue-everyone-else-01092551?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Thu, 24 Sep 2026 22:33:02 +0000",
-      "description": "The Israeli leader, increasingly isolated on the world stage, emphasized his relationship with the U.S. president during an otherwise confrontational speech.",
-      "feedName": "Politico Europe"
+      "title": "Europe Decides in December Whether to Launch Its Own Astronauts. The Money Comes Later.",
+      "link": "https://satnews.com/2026/09/25/europe-decides-in-december-whether-to-launch-its-own-astronauts-the-money-comes-later/",
+      "pubDate": "Fri, 25 Sep 2026 15:30:00 +0000",
+      "description": "ESA's director general used the first fireside chat of World Space Business Week to set out what ministers will be asked in Rome on Dec. 15, a scope that runs from the rocket to crew recovery. Funding follows through ESA's usual subscription process.",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Satellite Primes Quoted Factory Rates of Up to Two a Day in Paris. The Component Tier Below Them Described 18-Month Waits.",
+      "link": "https://satnews.com/2026/09/25/satellite-primes-quoted-factory-rates-of-up-to-two-a-day-in-paris-the-component-tier-below-them-described-18-month-waits/",
+      "pubDate": "Fri, 25 Sep 2026 14:00:00 +0000",
+      "description": "Executives at Thales Alenia Space and MDA described factories built to turn out one or two satellites a day at World Space Business Week. Component makers at the same conference described lines already at or above capacity and 18-month waits for solar cells.",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "BlackSky CEO: Sovereign is the No. 1 Market Opportunity Right Now",
+      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/09/25/blacksky-ceo-sovereign-is-the-no-1-market-opportunity-right-now/",
+      "pubDate": "Fri, 25 Sep 2026 13:14:05 +0000",
+      "description": "At the Space Defense and Security in Summit (SDSS) in Paris last week, Via Satellite Senior Editorial Director Mark Holmes sat down with BlackSky CEO Brian O’Toole to talk about [&#8230;]\nThe post BlackSky CEO: Sovereign is the No. 1 Market Opportunity Right Now appeared first on Via Satellite.\n",
+      "feedName": "Via Satellite"
     },
     {
       "title": "GomSpace Selected for ESA-Funded Arctic Maritime Communications Satellite Feasibility Study",
@@ -28,13 +42,6 @@
       "pubDate": "Thu, 24 Sep 2026 14:47:10 +0000",
       "description": "The U.K. Government has made a major new space defense initiative by launching its first ever dedicated squadron to protect its satellites. The No. 3 Space Effects Squadron (SES) will [&#8230;]\nThe post U.K. Launches Dedicated Squadron to Protect Space Assets appeared first on Via Satellite.\n",
       "feedName": "Via Satellite"
-    },
-    {
-      "title": "ESA Seeks Funding Increase to €350 Million for European Military ISR Satellite Constellation",
-      "link": "https://satnews.com/2026/09/24/esa-seeks-funding-increase-to-e350-million-for-european-military-isr-satellite-constellation/",
-      "pubDate": "Thu, 24 Sep 2026 14:22:23 +0000",
-      "description": "On Sept. 23, 2026, the European Space Agency (ESA) initiated the selection phase for in-orbit demonstration missions supporting the European Union’s planned military Intelligence, Surveillance, and Reconnaissance (ISR) satellite network. [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations",
@@ -63,13 +70,6 @@
       "pubDate": "Wed, 23 Sep 2026 17:00:00 +0000",
       "description": "UK Defence Secretary Wes Streeting closed day one of the UK Space Power Conference by placing control of space at the heart of British deterrence, and warned that adversaries use satellite disruption to fuel populism.",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Estonian Company CybExer to Play Key Role in Testing IRIS² Security",
-      "link": "https://www.satellitetoday.com/cybersecurity/2026/09/22/estonian-company-cybexer-to-play-key-role-in-testing-iris%c2%b2-security/",
-      "pubDate": "Tue, 22 Sep 2026 21:12:19 +0000",
-      "description": "CybExer, an Estonian cybersecurity company, is to play a key role in helping keep the EU’s future secure satellite connectivity system, IRIS² secure. It will lead a ten-company European consortium [&#8230;]\nThe post Estonian Company CybExer to Play Key Role in Testing IRIS² Security appeared first o",
-      "feedName": "Via Satellite"
     },
     {
       "title": "Planet Opens Berlin Satellite Factory as Sovereignty Takes Centre Stage",
