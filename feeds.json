@@ -1,19 +1,47 @@
 {
-  "generated": "2026-09-29T12:25:30.149Z",
+  "generated": "2026-09-30T12:10:46.073Z",
   "newsItems": [
     {
-      "title": "EU zuversichtlich, dass Trump seinen Plan für einen Dieselexport-Stopp aufgeben wird",
-      "link": "https://www.politico.eu/article/eu-zuversichtlich-dass-trump-seinen-plan-fuer-einen-dieselexport-stopp-aufgeben-wird/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Tue, 29 Sep 2026 10:02:59 +0000",
-      "description": "Der irische Energieminister Darragh O'Brien sagte, nach seinen Informationen habe Washington „keine Bestrebungen in diese Richtung“. ",
-      "feedName": "Politico Europe"
+      "title": "ESA Selects Airbus and OHB to Lead European Space Station Studies",
+      "link": "https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/",
+      "pubDate": "Wed, 30 Sep 2026 10:10:12 +0000",
+      "description": "The European Space Agency has selected consortia led by Airbus Defence and Space and OHB to carry out parallel studies examining the feasibility of a future European-led outpost in low Earth orbit. ESA announced the two lead companies on 29 September. The agency added that six additional industrial ",
+      "feedName": "European Spaceflight"
     },
     {
-      "title": "EU officials confident Trump will drop plan to ban diesel exports",
-      "link": "https://www.politico.eu/article/eu-officials-confident-trump-will-drop-plan-to-ban-diesel-exports/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Tue, 29 Sep 2026 09:27:05 +0000",
-      "description": "Irish Energy Minister Darragh O'Brien said the threat \"doesn't look like ... something that would happen.\"",
-      "feedName": "Politico Europe"
+      "title": "Mission-K Day 2 “Give Us Tactical ISR from Space”: Lessons from Ukraine and Three Defence Challenges",
+      "link": "https://spacewatch.global/2026/09/mission-k-day-2-give-us-tactical-isr-from-space-lessons-from-ukraine-and-three-defence-challenges/",
+      "pubDate": "Wed, 30 Sep 2026 09:00:00 +0000",
+      "description": "From day two of Mission-K in Kalkar, Torsten Kriening reviews an intense opening day - real threats in orbit, Germany's Space Innovation Gateway, Stark Defence's call for tactical ISR from space, and why the story matters as much as the hardware - before three Space Defence Challenges get underway.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "GPS Interference Near Los Angeles Raises New Questions for U.S. Aviation",
+      "link": "https://spacewatch.global/2026/09/gps-interference-near-los-angeles-raises-new-questions-for-u-s-aviation/",
+      "pubDate": "Wed, 30 Sep 2026 06:00:00 +0000",
+      "description": "Several United Airlines flights reported GPS interference near Los Angeles on 25 September, highlighting civil aviation's exposure to navigation disruption - uncommon in US airspace, but increasingly familiar in parts of Europe.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Pentagon update on National Defense Strategy cites progress, omits key threats",
+      "link": "https://www.defenseone.com/threats/2026/09/pentagon-update-national-defense-strategy-cites-progress-omits-key-threats/416329/",
+      "pubDate": "Wed, 30 Sep 2026 00:41:40 -0400",
+      "description": "The report to Congress  notes accomplishments but masks depleted arsenals, strategic distractions, and a quiet retreat from European defense.",
+      "feedName": "Defense One"
+    },
+    {
+      "title": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
+      "link": "https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/",
+      "pubDate": "Tue, 29 Sep 2026 20:32:07 +0000",
+      "description": "\nParis, France &#124; September 2026 — Novaspace’s Satellite Communications for Defense and Security, 2nd Edition highlights a defense Satcom market poised for rapid growth. By 2035, commercial satellite service revenues [&#8230;]\nThe post Commercial Defense Satcom Service Revenues to Surpass $22.6B",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "Silicon Valley Space Week Speaker Focus: Allyson Jenkins, Pixxel",
+      "link": "https://satnews.com/2026/09/29/silicon-valley-space-week-speaker-focus-allyson-jenkins-pixxel/",
+      "pubDate": "Tue, 29 Sep 2026 18:41:14 +0000",
+      "description": "The National Reconnaissance Office awarded Pixxel a Strategic Commercial Enhancements contract in May to demonstrate what hyperspectral imagery can characterize that conventional imaging does not. Allyson Jenkins, the company's Vice President of Public Sector, joins the final full panel of the MilSa",
+      "feedName": "Satnews"
     },
     {
       "title": "#SpaceWatchGL GRAY SPACE – COSCO Spy Ships: How Space Can Help Until the West Weans Itself Off Maritime Dependency",
@@ -44,32 +72,11 @@
       "feedName": "Payload Space"
     },
     {
-      "title": "Israel’s Uvision, Estonia’s Lendurai to integrate systems for NATO military",
-      "link": "https://breakingdefense.com/2026/09/israels-uvision-estonias-lendurai-to-integrate-systems-for-nato-military/",
-      "pubDate": "Mon, 28 Sep 2026 08:13:00 +0000",
-      "description": "The companies did not disclose which military the teaming effort is for. \n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "Indian Startup TakeMe2Space to Launch Orbital Computing Satellite on SpaceX Transporter-18 Mission",
       "link": "https://spacewatch.global/2026/09/indian-startup-takeme2space-to-launch-orbital-computing-satellite-on-spacex-transporter-18-mission/",
       "pubDate": "Mon, 28 Sep 2026 06:00:00 +0000",
       "description": "Indian space startup TakeMe2Space is preparing to launch what it describes as India’s first orbital computing satellite aboard a SpaceX Falcon 9, as it seeks to process Earth observation data in orbit rather than send raw imagery back to Earth for processing.",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Satellite Primes Quoted Factory Rates of Up to Two a Day in Paris. The Component Tier Below Them Described 18-Month Waits.",
-      "link": "https://satnews.com/2026/09/27/satellite-primes-quoted-factory-rates-of-up-to-two-a-day-in-paris-the-component-tier-below-them-described-18-month-waits/",
-      "pubDate": "Sun, 27 Sep 2026 21:34:36 +0000",
-      "description": "Executives at Thales Alenia Space and MDA described factories built to turn out one or two satellites a day at World Space Business Week. Component makers at the same conference described lines already at or above capacity and 18-month waits for solar cells.",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Planet Labs Delivers Pelican-12 Spacecraft to Cape Canaveral for SpaceX Bandwagon-5 Mission",
-      "link": "https://satnews.com/2026/09/27/planet-labs-delivers-pelican-12-spacecraft-to-cape-canaveral-for-spacex-bandwagon-5-mission/",
-      "pubDate": "Sun, 27 Sep 2026 14:56:48 +0000",
-      "description": "On Sept. 27, 2026, Earth observation satellite operator Planet Labs delivered its next-generation Pelican-12 satellite to Cape Canaveral Space Force Station in Florida. The spacecraft will undergo final processing, fueling, [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "BlackSky CEO: Sovereign is the No. 1 Market Opportunity Right Now",
@@ -93,24 +100,10 @@
       "feedName": "European Spaceflight"
     },
     {
-      "title": "Space Norway Marks 40 Years of Satellite Operations at Nittedal Teleport",
-      "link": "https://spacewatch.global/2026/09/space-norway-marks-40-years-of-satellite-operations-at-nittedal-teleport/",
-      "pubDate": "Thu, 24 Sep 2026 06:00:00 +0000",
-      "description": "Space Norway marks 40 years of satellite operations at Nittedal Teleport near Oslo, now one of Europe's largest earth stations with more than 50 antennas.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
       "title": "ESA Acknowledges Ariane 6 Delays Following Reports of Turbopump Issue",
       "link": "https://europeanspaceflight.com/esa-acknowledges-ariane-6-delays-following-reports-of-turbopump-issue/",
       "pubDate": "Mon, 21 Sep 2026 08:05:18 +0000",
       "description": "The European Space Agency (ESA) has confirmed that it is aware of delays affecting the Ariane 6 launch schedule following reports of an engine turbopump anomaly. French news outlet La Tribune first reported an issue with an unspecified Ariane 6 component on 17 September. According to the report, the",
-      "feedName": "European Spaceflight"
-    },
-    {
-      "title": "ESA Awards €20M in Contracts to Study Future IRIS2 Services",
-      "link": "https://europeanspaceflight.com/esa-awards-e20m-in-contracts-to-study-future-iris2-services/",
-      "pubDate": "Fri, 18 Sep 2026 07:41:46 +0000",
-      "description": "The European Space Agency has awarded 18 contracts worth a combined €20 million to study potential future evolutions of the European Union’s IRIS2 secure communications service. Signed on 17 September, the contracts bring together nearly 80 European companies to study new satellite-based secure conn",
       "feedName": "European Spaceflight"
     },
     {
