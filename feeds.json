@@ -1,6 +1,55 @@
 {
-  "generated": "2026-09-30T12:10:46.073Z",
+  "generated": "2026-10-01T12:44:43.282Z",
   "newsItems": [
+    {
+      "title": "The €865 billion brainstorming session",
+      "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-e865-billion-brainstorming-session/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Thu, 01 Oct 2026 04:05:00 +0000",
+      "description": "Ukraine’s prime minister is warning of a $20 billion defense funding gap as Russia intensifies its attacks and Kyiv struggles to protect its skies and keep the country running. Zoya Sheftalovich and Sarah Wheaton look at just how much pressure Ukraine is under — from its military finances to farmers",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
+      "link": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/",
+      "pubDate": "Thu, 01 Oct 2026 00:24:08 +0000",
+      "description": "\nGalileo Space is building satellites designed to turn signals into answers in orbit. Modern defense and commercial operations need fast answers about what is happening and where. Existing systems can [&#8230;]\nThe post Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit app",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "True Anomaly Selected as Title Sponsor for Spacepower Conference 2026",
+      "link": "https://satnews.com/2026/09/30/true-anomaly-selected-as-title-sponsor-for-spacepower-conference-2026/",
+      "pubDate": "Wed, 30 Sep 2026 23:20:30 +0000",
+      "description": "Orlando, Florida — On Wednesday, September 30, 2026, the Space Force Association announced space defense technology provider True Anomaly as the primary title sponsor for the upcoming Spacepower Conference 2026. [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Trusted Computing Group Creates Key New Working Group Focusing on Aerospace Security",
+      "link": "https://www.satellitetoday.com/technology/2026/09/30/trusted-computing-group-creates-key-new-working-group-focusing-on-aerospace-security/",
+      "pubDate": "Wed, 30 Sep 2026 20:13:57 +0000",
+      "description": "The Trusted Computing Group (TCG) has created a new Aerospace and Non-Terrestrial Systems Solutions Working Group (AERO-SWG) as it looks to play a key role in keeping satellite systems secure. [&#8230;]\nThe post Trusted Computing Group Creates Key New Working Group Focusing on Aerospace Security app",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "China opens training center with Laos, marking third overseas military base",
+      "link": "https://breakingdefense.com/2026/09/china-opens-training-center-with-laos-marking-third-overseas-military-base/",
+      "pubDate": "Wed, 30 Sep 2026 16:33:40 +0000",
+      "description": "Satellite imagery shows the new facility is built in part on a purported old US airstrip used during the Vietnam War.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "Mission-K 2026: Tom Segert of Berlin Space Technologies on the Catch-22 Blocking Germany’s Startups",
+      "link": "https://spacewatch.global/2026/09/mission-k-2026-tom-segert-of-berlin-space-technologies-on-the-catch-22-blocking-germanys-startups/",
+      "pubDate": "Wed, 30 Sep 2026 15:00:00 +0000",
+      "description": "From Mission-K in Kalkar, Tom Segert, CEO and co-founder of Berlin Space Technologies, joins Torsten Kriening to discuss why space has always been dual use, what the shift toward defence means for a civil Earth observation company - and the unsolved catch-22 keeping Germany's space startups out of d",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Mission-K 2026: Jeroen Wink on Flying Space Planes Today and Refuelling Satellites Tomorrow",
+      "link": "https://spacewatch.global/2026/09/mission-k-2026-jeroen-wink-on-flying-space-planes-today-and-refuelling-satellites-tomorrow/",
+      "pubDate": "Wed, 30 Sep 2026 14:00:00 +0000",
+      "description": "From Mission-K in Kalkar, Dawn Aerospace CRO Jeroen Wink joins Torsten Kriening to explain how the company's rocket-powered Mk-II Aurora flies supersonic multiple times a day, how it represents hypersonic threats for defence exercises today, and why in-orbit refuelling could turn satellites from exp",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "ESA Selects Airbus and OHB to Lead European Space Station Studies",
       "link": "https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/",
@@ -51,13 +100,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "UK to gather defense CEOs for ‘closed-door’ Russian security briefing",
-      "link": "https://breakingdefense.com/2026/09/uk-to-gather-defense-ceos-for-closed-door-russian-security-briefing/",
-      "pubDate": "Mon, 28 Sep 2026 16:22:42 +0000",
-      "description": "The government warned the Russian &#8220;state and its proxies knowingly seek to disrupt businesses and organisations that underpin the British way of life or are vital to the defence of Ukraine.&#8221;\n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "UK Creates Space Effects Squadron to Protect Its Satellites",
       "link": "https://europeanspaceflight.com/uk-creates-space-effects-squadron-to-protect-its-satellites/",
       "pubDate": "Mon, 28 Sep 2026 13:33:49 +0000",
@@ -70,20 +112,6 @@
       "pubDate": "Mon, 28 Sep 2026 12:59:00 +0000",
       "description": "“Meridian will carry forward the satcom infrastructure business… SpinLaunch will continue to build on its vision for a lower-cost approach to launch, with further applications in hypersonics to support the Golden Dome program and in the lunar economy,\" Meridian Space CEO Massimiliano Ladovaz told Pa",
       "feedName": "Payload Space"
-    },
-    {
-      "title": "Indian Startup TakeMe2Space to Launch Orbital Computing Satellite on SpaceX Transporter-18 Mission",
-      "link": "https://spacewatch.global/2026/09/indian-startup-takeme2space-to-launch-orbital-computing-satellite-on-spacex-transporter-18-mission/",
-      "pubDate": "Mon, 28 Sep 2026 06:00:00 +0000",
-      "description": "Indian space startup TakeMe2Space is preparing to launch what it describes as India’s first orbital computing satellite aboard a SpaceX Falcon 9, as it seeks to process Earth observation data in orbit rather than send raw imagery back to Earth for processing.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "BlackSky CEO: Sovereign is the No. 1 Market Opportunity Right Now",
-      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/09/25/blacksky-ceo-sovereign-is-the-no-1-market-opportunity-right-now/",
-      "pubDate": "Fri, 25 Sep 2026 13:14:05 +0000",
-      "description": "At the Space Defense and Security in Summit (SDSS) in Paris last week, Via Satellite Senior Editorial Director Mark Holmes sat down with BlackSky CEO Brian O’Toole to talk about [&#8230;]\nThe post BlackSky CEO: Sovereign is the No. 1 Market Opportunity Right Now appeared first on Via Satellite.\n",
-      "feedName": "Via Satellite"
     },
     {
       "title": "True or false on space industry trends with Pacôme Révillon",
