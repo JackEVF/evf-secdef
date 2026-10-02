@@ -1,12 +1,40 @@
 {
-  "generated": "2026-10-01T12:44:43.282Z",
+  "generated": "2026-10-02T12:08:46.531Z",
   "newsItems": [
     {
-      "title": "The €865 billion brainstorming session",
-      "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-e865-billion-brainstorming-session/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Thu, 01 Oct 2026 04:05:00 +0000",
-      "description": "Ukraine’s prime minister is warning of a $20 billion defense funding gap as Russia intensifies its attacks and Kyiv struggles to protect its skies and keep the country running. Zoya Sheftalovich and Sarah Wheaton look at just how much pressure Ukraine is under — from its military finances to farmers",
-      "feedName": "Politico Europe"
+      "title": "#SpaceWatchGL Opinion: A Satellite Is Only the Beginning – Tanzania’s KiboCUBE Path to Lasting Space Capability",
+      "link": "https://spacewatch.global/2026/10/spacewatchgl-opinion-a-satellite-is-only-the-beginning-tanzanias-kibocube-path-to-lasting-space-capability/",
+      "pubDate": "Fri, 02 Oct 2026 08:00:00 +0000",
+      "description": " Written by Joshua Faleti  TanzaniteSat-1 is more than a first satellite mission. Tanzania and Côte d'Ivoire are using KiboCUBE to build skills, infrastructure, commercial opportunities and regional partnerships that could support lasting national space capabilities.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "BAE Systems Awarded $16 Million Collins Aerospace Contract to Deliver M-Code GPS for U.S. Navy Carrier Landings",
+      "link": "https://satnews.com/2026/10/01/bae-systems-awarded-16-million-collins-aerospace-contract-to-deliver-m-code-gps-for-u-s-navy-carrier-landings/",
+      "pubDate": "Thu, 01 Oct 2026 15:55:31 +0000",
+      "description": "Cedar Rapids, Iowa — On Thursday, October 1, 2026, defense prime BAE Systems received a $16 million contract from Collins Aerospace to design and integrate an M-Code Global Positioning System [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
+      "link": "https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/",
+      "pubDate": "Thu, 01 Oct 2026 14:40:51 +0000",
+      "description": "\nNoordwijk, the Netherlands &#124; September 22, 2026&#160;&#8211; During the international Industry Space Days 2026 event at the European Space Agency’s ESTEC facility in Noordwijk, the Netherlands, the Latvian Mobile Telephone [&#8230;]\nThe post LMT Group and Novaspace partner to develop strategy ",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "Novaspace Releases Defense and Security Satellite Communications Report",
+      "link": "https://satnews.com/2026/10/01/novaspace-releases-defense-and-security-satellite-communications-report/",
+      "pubDate": "Thu, 01 Oct 2026 14:11:42 +0000",
+      "description": "Paris, France — On Thursday, October 1, 2026, space market intelligence firm Novaspace published its latest edition of the &#8220;Satellite Communications for Defense &#38; Security&#8221; report. The comprehensive industry analysis [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Space Force picks two companies to build new ‘space-to-space’ satellites by 2028",
+      "link": "https://www.defensenews.com/space/2026/10/01/space-force-picks-two-companies-to-build-new-space-to-space-satellites-by-2028/",
+      "pubDate": "Thu, 01 Oct 2026 12:49:43 +0000",
+      "description": "The Pentagon announced Northrop Grumman and True Anomaly will build new ISR satellites in space, after admitting the U.S. already has weapons in orbit.",
+      "feedName": "Defense News"
     },
     {
       "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
@@ -28,13 +56,6 @@
       "pubDate": "Wed, 30 Sep 2026 20:13:57 +0000",
       "description": "The Trusted Computing Group (TCG) has created a new Aerospace and Non-Terrestrial Systems Solutions Working Group (AERO-SWG) as it looks to play a key role in keeping satellite systems secure. [&#8230;]\nThe post Trusted Computing Group Creates Key New Working Group Focusing on Aerospace Security app",
       "feedName": "Via Satellite"
-    },
-    {
-      "title": "China opens training center with Laos, marking third overseas military base",
-      "link": "https://breakingdefense.com/2026/09/china-opens-training-center-with-laos-marking-third-overseas-military-base/",
-      "pubDate": "Wed, 30 Sep 2026 16:33:40 +0000",
-      "description": "Satellite imagery shows the new facility is built in part on a purported old US airstrip used during the Vietnam War.\n",
-      "feedName": "Breaking Defense"
     },
     {
       "title": "Mission-K 2026: Tom Segert of Berlin Space Technologies on the Catch-22 Blocking Germany’s Startups",
@@ -84,20 +105,6 @@
       "pubDate": "Tue, 29 Sep 2026 20:32:07 +0000",
       "description": "\nParis, France &#124; September 2026 — Novaspace’s Satellite Communications for Defense and Security, 2nd Edition highlights a defense Satcom market poised for rapid growth. By 2035, commercial satellite service revenues [&#8230;]\nThe post Commercial Defense Satcom Service Revenues to Surpass $22.6B",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "Silicon Valley Space Week Speaker Focus: Allyson Jenkins, Pixxel",
-      "link": "https://satnews.com/2026/09/29/silicon-valley-space-week-speaker-focus-allyson-jenkins-pixxel/",
-      "pubDate": "Tue, 29 Sep 2026 18:41:14 +0000",
-      "description": "The National Reconnaissance Office awarded Pixxel a Strategic Commercial Enhancements contract in May to demonstrate what hyperspectral imagery can characterize that conventional imaging does not. Allyson Jenkins, the company's Vice President of Public Sector, joins the final full panel of the MilSa",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "#SpaceWatchGL GRAY SPACE – COSCO Spy Ships: How Space Can Help Until the West Weans Itself Off Maritime Dependency",
-      "link": "https://spacewatch.global/2026/09/spacewatchgl-gray-space-cosco-spy-ships-how-space-can-help-until-the-west-weans-itself-off-maritime-dependency/",
-      "pubDate": "Tue, 29 Sep 2026 08:00:00 +0000",
-      "description": " Written by Christophe Bosquillon  US allegations that COSCO vessels have supported Chinese intelligence collection expose a difficult Western dependency. Christophe Bosquillon examines how space-based maritime domain awareness could help manage the security risk without disrupting critical global s",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "UK Creates Space Effects Squadron to Protect Its Satellites",
