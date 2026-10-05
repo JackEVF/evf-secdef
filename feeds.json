@@ -1,6 +1,20 @@
 {
-  "generated": "2026-10-04T12:00:12.081Z",
+  "generated": "2026-10-05T14:02:12.196Z",
   "newsItems": [
+    {
+      "title": "Airbus and OHB to Lead ESA Studies on Future European Orbital Outpost as ISS Era Nears End",
+      "link": "https://spacewatch.global/2026/10/airbus-and-ohb-to-lead-esa-studies-on-future-european-orbital-outpost-as-iss-era-nears-end/",
+      "pubDate": "Mon, 05 Oct 2026 06:00:00 +0000",
+      "description": "ESA has awarded contracts to two European consortia, led by Airbus and OHB, for preliminary studies into a European-led orbital outpost in low Earth orbit as the agency plans for the post-ISS era.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "GomSpace Prepares 8U CubeSat GOMX-5 for SpaceX Transporter-18 Launch to Demonstrate Satellite Communications Technology",
+      "link": "https://satnews.com/2026/10/04/gomspace-prepares-8u-cubesat-gomx-5-for-spacex-transporter-18-launch-to-demonstrate-satellite-communications-technology/",
+      "pubDate": "Sun, 04 Oct 2026 20:01:16 +0000",
+      "description": "On October 1, 2026, satellite developer GomSpace announced the upcoming launch of its GOMX-5 technology demonstration mission aboard SpaceX&#8217;s Transporter-18 rideshare mission. Supported by the European Space Agency (ESA), the [&#8230;]",
+      "feedName": "Satnews"
+    },
     {
       "title": "Sateliot Launches Five Alén Space-Built CubeSats for Draconis 5G NTN IoT Mission",
       "link": "https://satnews.com/2026/10/03/sateliot-launches-five-alen-space-built-cubesats-for-draconis-5g-ntn-iot-mission/",
@@ -51,13 +65,6 @@
       "feedName": "SpaceNews"
     },
     {
-      "title": "Novaspace Releases Defense and Security Satellite Communications Report",
-      "link": "https://satnews.com/2026/10/01/novaspace-releases-defense-and-security-satellite-communications-report/",
-      "pubDate": "Thu, 01 Oct 2026 14:11:42 +0000",
-      "description": "Paris, France — On Thursday, October 1, 2026, space market intelligence firm Novaspace published its latest edition of the &#8220;Satellite Communications for Defense &#38; Security&#8221; report. The comprehensive industry analysis [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "Space Force picks two companies to build new ‘space-to-space’ satellites by 2028",
       "link": "https://www.defensenews.com/space/2026/10/01/space-force-picks-two-companies-to-build-new-space-to-space-satellites-by-2028/",
       "pubDate": "Thu, 01 Oct 2026 12:49:43 +0000",
@@ -72,13 +79,6 @@
       "feedName": "SpaceNews"
     },
     {
-      "title": "True Anomaly Selected as Title Sponsor for Spacepower Conference 2026",
-      "link": "https://satnews.com/2026/09/30/true-anomaly-selected-as-title-sponsor-for-spacepower-conference-2026/",
-      "pubDate": "Wed, 30 Sep 2026 23:20:30 +0000",
-      "description": "Orlando, Florida — On Wednesday, September 30, 2026, the Space Force Association announced space defense technology provider True Anomaly as the primary title sponsor for the upcoming Spacepower Conference 2026. [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "Trusted Computing Group Creates Key New Working Group Focusing on Aerospace Security",
       "link": "https://www.satellitetoday.com/technology/2026/09/30/trusted-computing-group-creates-key-new-working-group-focusing-on-aerospace-security/",
       "pubDate": "Wed, 30 Sep 2026 20:13:57 +0000",
@@ -86,39 +86,11 @@
       "feedName": "Via Satellite"
     },
     {
-      "title": "Mission-K 2026: Tom Segert of Berlin Space Technologies on the Catch-22 Blocking Germany’s Startups",
-      "link": "https://spacewatch.global/2026/09/mission-k-2026-tom-segert-of-berlin-space-technologies-on-the-catch-22-blocking-germanys-startups/",
-      "pubDate": "Wed, 30 Sep 2026 15:00:00 +0000",
-      "description": "From Mission-K in Kalkar, Tom Segert, CEO and co-founder of Berlin Space Technologies, joins Torsten Kriening to discuss why space has always been dual use, what the shift toward defence means for a civil Earth observation company - and the unsolved catch-22 keeping Germany's space startups out of d",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Mission-K 2026: Jeroen Wink on Flying Space Planes Today and Refuelling Satellites Tomorrow",
-      "link": "https://spacewatch.global/2026/09/mission-k-2026-jeroen-wink-on-flying-space-planes-today-and-refuelling-satellites-tomorrow/",
-      "pubDate": "Wed, 30 Sep 2026 14:00:00 +0000",
-      "description": "From Mission-K in Kalkar, Dawn Aerospace CRO Jeroen Wink joins Torsten Kriening to explain how the company's rocket-powered Mk-II Aurora flies supersonic multiple times a day, how it represents hypersonic threats for defence exercises today, and why in-orbit refuelling could turn satellites from exp",
-      "feedName": "SpaceWatch Global"
-    },
-    {
       "title": "ESA Selects Airbus and OHB to Lead European Space Station Studies",
       "link": "https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/",
       "pubDate": "Wed, 30 Sep 2026 10:10:12 +0000",
       "description": "The European Space Agency has selected consortia led by Airbus Defence and Space and OHB to carry out parallel studies examining the feasibility of a future European-led outpost in low Earth orbit. ESA announced the two lead companies on 29 September. The agency added that six additional industrial ",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Mission-K Day 2 “Give Us Tactical ISR from Space”: Lessons from Ukraine and Three Defence Challenges",
-      "link": "https://spacewatch.global/2026/09/mission-k-day-2-give-us-tactical-isr-from-space-lessons-from-ukraine-and-three-defence-challenges/",
-      "pubDate": "Wed, 30 Sep 2026 09:00:00 +0000",
-      "description": "From day two of Mission-K in Kalkar, Torsten Kriening reviews an intense opening day - real threats in orbit, Germany's Space Innovation Gateway, Stark Defence's call for tactical ISR from space, and why the story matters as much as the hardware - before three Space Defence Challenges get underway.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "GPS Interference Near Los Angeles Raises New Questions for U.S. Aviation",
-      "link": "https://spacewatch.global/2026/09/gps-interference-near-los-angeles-raises-new-questions-for-u-s-aviation/",
-      "pubDate": "Wed, 30 Sep 2026 06:00:00 +0000",
-      "description": "Several United Airlines flights reported GPS interference near Los Angeles on 25 September, highlighting civil aviation's exposure to navigation disruption - uncommon in US airspace, but increasingly familiar in parts of Europe.",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Pentagon update on National Defense Strategy cites progress, omits key threats",
@@ -140,13 +112,6 @@
       "pubDate": "Mon, 28 Sep 2026 13:33:49 +0000",
       "description": "The United Kingdom has established a new specialised unit within the Royal Air Force to counter hostile threats to the country’s satellites. The Ministry of Defence announced the formation of No. III Space Effects Squadron on 23 September, describing it as the UK’s first unit dedicated to “disruptin",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Exclusive: Meridian Space Spins Out from SpinLaunch",
-      "link": "https://payloadspace.com/exclusive-meridian-space-spins-out-from-spinlaunch/",
-      "pubDate": "Mon, 28 Sep 2026 12:59:00 +0000",
-      "description": "“Meridian will carry forward the satcom infrastructure business… SpinLaunch will continue to build on its vision for a lower-cost approach to launch, with further applications in hypersonics to support the Golden Dome program and in the lunar economy,\" Meridian Space CEO Massimiliano Ladovaz told Pa",
-      "feedName": "Payload Space"
     },
     {
       "title": "True or false on space industry trends with Pacôme Révillon",
