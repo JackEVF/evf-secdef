@@ -1,6 +1,55 @@
 {
-  "generated": "2026-10-05T14:02:12.196Z",
+  "generated": "2026-10-06T13:01:36.775Z",
   "newsItems": [
+    {
+      "title": "EU Parliament spat as MEP challenges Metsola’s claims over Israeli flag",
+      "link": "https://www.politico.eu/article/eu-parliament-spat-as-mep-rima-hassan-challenges-roberta-metsola-claims-over-israeli-flag/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Tue, 06 Oct 2026 12:51:34 +0000",
+      "description": "MEP Rima Hassan says Parliament president made \"factually false\" claims.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Iran Faces Severe Challenges to Rebuild Missile and Drone Production",
+      "link": "https://warontherocks.com/iran-faces-severe-challenges-to-rebuild-missile-and-drone-production/",
+      "pubDate": "Tue, 06 Oct 2026 07:30:13 +0000",
+      "description": "With the significant Israeli and U.S. military attacks against Iran in 2025 and early 2026, analysts have discussed and debated Iran&#8217;s ability to replenish its missile and drone arsenal. Since 2024, Iran has burned through thousands of ballistic missiles, cruise missiles, and one-way attack dr",
+      "feedName": "War on the Rocks"
+    },
+    {
+      "title": "KSAT and Xoople Partner to Support Rapid Delivery of High-Volume Earth Observation Data",
+      "link": "https://spacewatch.global/2026/10/ksat-and-xoople-partner-to-support-rapid-delivery-of-high-volume-earth-observation-data/",
+      "pubDate": "Tue, 06 Oct 2026 06:00:00 +0000",
+      "description": "KSAT and Xoople have partnered to support Xoople's planned constellation, using KSAT's automated KSATlite ground segment to downlink high volumes of Earth observation data.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Airbus Completes First 32 OneWeb Replenishment Satellites for Eutelsat Fleet Refresh",
+      "link": "https://satnews.com/2026/10/05/airbus-completes-first-32-oneweb-replenishment-satellites-for-eutelsat-fleet-refresh/",
+      "pubDate": "Mon, 05 Oct 2026 21:24:24 +0000",
+      "description": "On October 5, 2026, Airbus Defence and Space completed manufacturing of the first 32 OneWeb refresh satellites for satellite operator Eutelsat. Rolling off the production line at Airbus&#8217;s assembly facility [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "York to Integrate Space Force Tetra 3 and 4 Missions on GEO Spacecraft ",
+      "link": "https://www.satellitetoday.com/government-military/2026/10/05/york-to-integrate-space-force-tetra-3-and-4-missions-on-geo-spacecraft/",
+      "pubDate": "Mon, 05 Oct 2026 20:02:00 +0000",
+      "description": "York Space Systems will integrate a government space domain awareness (SDA) into a spacecraft headed to Geostationary Orbit (GEO), marking the first time the company has integrated a satellite for [&#8230;]\nThe post York to Integrate Space Force Tetra 3 and 4 Missions on GEO Spacecraft  appeared fir",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "European defense startups to raise record $10.5 billion in 2026, Dealroom forecasts",
+      "link": "https://www.defensenews.com/global/europe/2026/10/05/european-defense-startups-to-raise-record-105-billion-in-2026-dealroom-forecasts/",
+      "pubDate": "Mon, 05 Oct 2026 14:54:11 +0000",
+      "description": "“This is Europe catching up rather than the U.S. slowing,” Dealroom said of the trend. “EU 27 funding more than doubled in a year.”",
+      "feedName": "Defense News"
+    },
+    {
+      "title": "CASSINI Entrepreneurship Days- Fiammetta Diani on Building a Space Market, Not Just Space Technology",
+      "link": "https://spacewatch.global/2026/10/cassini-entrepreneurship-days-fiammetta-diani-on-building-a-space-market-not-just-space-technology/",
+      "pubDate": "Mon, 05 Oct 2026 14:00:00 +0000",
+      "description": "From the CASSINI Entrepreneurship Days in Prague, EUSPA's Fiammetta Diani joins Daniela Jovic to chart the event's growth from four investors in a lobby to hundreds of startups, explain why excellent technology is no longer enough, and introduce Make It With Space - a new demand-driven scheme for Eu",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "Airbus and OHB to Lead ESA Studies on Future European Orbital Outpost as ISS Era Nears End",
       "link": "https://spacewatch.global/2026/10/airbus-and-ohb-to-lead-esa-studies-on-future-european-orbital-outpost-as-iss-era-nears-end/",
@@ -13,20 +62,6 @@
       "link": "https://satnews.com/2026/10/04/gomspace-prepares-8u-cubesat-gomx-5-for-spacex-transporter-18-launch-to-demonstrate-satellite-communications-technology/",
       "pubDate": "Sun, 04 Oct 2026 20:01:16 +0000",
       "description": "On October 1, 2026, satellite developer GomSpace announced the upcoming launch of its GOMX-5 technology demonstration mission aboard SpaceX&#8217;s Transporter-18 rideshare mission. Supported by the European Space Agency (ESA), the [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Sateliot Launches Five Alén Space-Built CubeSats for Draconis 5G NTN IoT Mission",
-      "link": "https://satnews.com/2026/10/03/sateliot-launches-five-alen-space-built-cubesats-for-draconis-5g-ntn-iot-mission/",
-      "pubDate": "Sat, 03 Oct 2026 23:29:51 +0000",
-      "description": "Vandenberg Space Force Base, California — On Friday, October 2, 2026, European satellite telecommunications operator Sateliot successfully deployed five new 6U CubeSats into low Earth orbit aboard a SpaceX Falcon [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Qorvo Unveils Integrated X-Band RF Front-End Solution for AESA Radar Systems",
-      "link": "https://satnews.com/2026/10/03/qorvo-unveils-integrated-x-band-rf-front-end-solution-for-aesa-radar-systems/",
-      "pubDate": "Sat, 03 Oct 2026 23:20:04 +0000",
-      "description": "London, United Kingdom — On Friday, October 2, 2026, semiconductor manufacturer Qorvo introduced an integrated X-band radio frequency (RF) front-end solution designed for active electronically scanned array (AESA) radar systems [&#8230;]",
       "feedName": "Satnews"
     },
     {
@@ -51,13 +86,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "BAE Systems Awarded $16 Million Collins Aerospace Contract to Deliver M-Code GPS for U.S. Navy Carrier Landings",
-      "link": "https://satnews.com/2026/10/01/bae-systems-awarded-16-million-collins-aerospace-contract-to-deliver-m-code-gps-for-u-s-navy-carrier-landings/",
-      "pubDate": "Thu, 01 Oct 2026 15:55:31 +0000",
-      "description": "Cedar Rapids, Iowa — On Thursday, October 1, 2026, defense prime BAE Systems received a $16 million contract from Collins Aerospace to design and integrate an M-Code Global Positioning System [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
       "link": "https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/",
       "pubDate": "Thu, 01 Oct 2026 14:40:51 +0000",
@@ -77,13 +105,6 @@
       "pubDate": "Thu, 01 Oct 2026 00:24:08 +0000",
       "description": "\nGalileo Space is building satellites designed to turn signals into answers in orbit. Modern defense and commercial operations need fast answers about what is happening and where. Existing systems can [&#8230;]\nThe post Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit app",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "Trusted Computing Group Creates Key New Working Group Focusing on Aerospace Security",
-      "link": "https://www.satellitetoday.com/technology/2026/09/30/trusted-computing-group-creates-key-new-working-group-focusing-on-aerospace-security/",
-      "pubDate": "Wed, 30 Sep 2026 20:13:57 +0000",
-      "description": "The Trusted Computing Group (TCG) has created a new Aerospace and Non-Terrestrial Systems Solutions Working Group (AERO-SWG) as it looks to play a key role in keeping satellite systems secure. [&#8230;]\nThe post Trusted Computing Group Creates Key New Working Group Focusing on Aerospace Security app",
-      "feedName": "Via Satellite"
     },
     {
       "title": "ESA Selects Airbus and OHB to Lead European Space Station Studies",
