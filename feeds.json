@@ -1,12 +1,47 @@
 {
-  "generated": "2026-10-06T13:01:36.775Z",
+  "generated": "2026-10-07T12:56:07.022Z",
   "newsItems": [
     {
-      "title": "EU Parliament spat as MEP challenges Metsola’s claims over Israeli flag",
-      "link": "https://www.politico.eu/article/eu-parliament-spat-as-mep-rima-hassan-challenges-roberta-metsola-claims-over-israeli-flag/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Tue, 06 Oct 2026 12:51:34 +0000",
-      "description": "MEP Rima Hassan says Parliament president made \"factually false\" claims.",
-      "feedName": "Politico Europe"
+      "title": "ArianeGroup Completes Second Themis Wet Dress Rehearsal",
+      "link": "https://europeanspaceflight.com/arianegroup-completes-second-themis-wet-dress-rehearsal/",
+      "pubDate": "Wed, 07 Oct 2026 08:21:45 +0000",
+      "description": "The European Space Agency announced that ArianeGroup and SSC Space completed a second wet dress rehearsal of the Themis reusable rocket demonstrator at Esrange in Sweden. ESA announced the completion of the latest rehearsal on 7 October, saying that the test had taken place on 29 September. As with ",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "Rheinmetall ICEYE Space Solutions Provides German Armed Forces with Dedicated Radar Imagery",
+      "link": "https://spacewatch.global/2026/10/rheinmetall-iceye-space-solutions-provides-german-armed-forces-with-dedicated-radar-imagery/",
+      "pubDate": "Wed, 07 Oct 2026 06:00:00 +0000",
+      "description": "Germany is moving to expand its space-based military reconnaissance capabilities through the SPOCK 1 program, with Rheinmetall ICEYE Space Solutions providing the Bundeswehr with dedicated access to a constellation of Synthetic Aperture Radar (SAR) satellites. ",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Dawn Aerospace Expands into Germany Amid Growing Space Defense Investment",
+      "link": "https://spacewatch.global/2026/10/dawn-aerospace-expands-into-germany-amid-growing-space-defense-investment/",
+      "pubDate": "Wed, 07 Oct 2026 06:00:00 +0000",
+      "description": "Dawn Aerospace is expanding into Germany with plans to establish Dawn Aerospace Deutschland GmbH, as the company seeks to support the country’s growing defense and national security space sectors. The expansion intends to provide a localized supply of Dawn’s flight-proven propulsion systems while su",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Kindling, Catalyst, and Containment: Will the West Bank Ignite?",
+      "link": "https://warontherocks.com/kindling-catalyst-and-containment-will-the-west-bank-ignite/",
+      "pubDate": "Tue, 06 Oct 2026 20:25:37 +0000",
+      "description": "As violence by Israeli settlers against Palestinians in the West Bank has escalated, often with the acquiescence or support of Israel&#8217;s military, and the Israeli government has increasingly constricted Palestinian daily life, the potential for a new intifada &#8212; or uprising &#8212; has int",
+      "feedName": "War on the Rocks"
+    },
+    {
+      "title": "EU deepens collective space security with mutual defense pact",
+      "link": "https://breakingdefense.com/2026/10/eu-deepens-collective-space-security-with-mutual-defense-pact/",
+      "pubDate": "Tue, 06 Oct 2026 16:04:45 +0000",
+      "description": "The move is one more step in the EU&#8217;s long-running, but recently accelerated, effort to create &#8220;strategic autonomy&#8221; in the space arena. \n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "HawkEye 360 Adapts Commercial Satellite RF Sensors for Space Domain Awareness Under AFRL Contract",
+      "link": "https://satnews.com/2026/10/06/hawkeye-360-adapts-commercial-satellite-rf-sensors-for-space-domain-awareness-under-afrl-contract/",
+      "pubDate": "Tue, 06 Oct 2026 14:10:36 +0000",
+      "description": "Targeting a critical operational gap in non-terrestrial signal tracking, space-based radio frequency (RF) analytics provider HawkEye 360 has successfully demonstrated the use of its commercial satellite constellation for space domain [&#8230;]",
+      "feedName": "Satnews"
     },
     {
       "title": "Iran Faces Severe Challenges to Rebuild Missile and Drone Production",
@@ -58,13 +93,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "GomSpace Prepares 8U CubeSat GOMX-5 for SpaceX Transporter-18 Launch to Demonstrate Satellite Communications Technology",
-      "link": "https://satnews.com/2026/10/04/gomspace-prepares-8u-cubesat-gomx-5-for-spacex-transporter-18-launch-to-demonstrate-satellite-communications-technology/",
-      "pubDate": "Sun, 04 Oct 2026 20:01:16 +0000",
-      "description": "On October 1, 2026, satellite developer GomSpace announced the upcoming launch of its GOMX-5 technology demonstration mission aboard SpaceX&#8217;s Transporter-18 rideshare mission. Supported by the European Space Agency (ESA), the [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "NorthStar Earth & Space Goes Public After SPAC Merger ",
       "link": "https://www.satellitetoday.com/finance/2026/10/02/northstar-earth-space-goes-public-after-spac-merger/",
       "pubDate": "Fri, 02 Oct 2026 18:39:55 +0000",
@@ -72,32 +100,11 @@
       "feedName": "Via Satellite"
     },
     {
-      "title": "Airbus Completes 32 OneWeb Refresh Satellites Ahead of Launch",
-      "link": "https://www.satellitetoday.com/manufacturing/2026/10/02/airbus-completes-32-oneweb-refresh-satellites-ahead-of-launch/",
-      "pubDate": "Fri, 02 Oct 2026 18:33:33 +0000",
-      "description": "Eutelsat hit a milestone for its OneWeb refresh plan as Airbus Defence and Space completed the first 32 satellites in the refresh for launch. The satellites are set to be [&#8230;]\nThe post Airbus Completes 32 OneWeb Refresh Satellites Ahead of Launch appeared first on Via Satellite.\n",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "#SpaceWatchGL Opinion: A Satellite Is Only the Beginning – Tanzania’s KiboCUBE Path to Lasting Space Capability",
-      "link": "https://spacewatch.global/2026/10/spacewatchgl-opinion-a-satellite-is-only-the-beginning-tanzanias-kibocube-path-to-lasting-space-capability/",
-      "pubDate": "Fri, 02 Oct 2026 08:00:00 +0000",
-      "description": " Written by Joshua Faleti  TanzaniteSat-1 is more than a first satellite mission. Tanzania and Côte d'Ivoire are using KiboCUBE to build skills, infrastructure, commercial opportunities and regional partnerships that could support lasting national space capabilities.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
       "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
       "link": "https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/",
       "pubDate": "Thu, 01 Oct 2026 14:40:51 +0000",
       "description": "\nNoordwijk, the Netherlands &#124; September 22, 2026&#160;&#8211; During the international Industry Space Days 2026 event at the European Space Agency’s ESTEC facility in Noordwijk, the Netherlands, the Latvian Mobile Telephone [&#8230;]\nThe post LMT Group and Novaspace partner to develop strategy ",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "Space Force picks two companies to build new ‘space-to-space’ satellites by 2028",
-      "link": "https://www.defensenews.com/space/2026/10/01/space-force-picks-two-companies-to-build-new-space-to-space-satellites-by-2028/",
-      "pubDate": "Thu, 01 Oct 2026 12:49:43 +0000",
-      "description": "The Pentagon announced Northrop Grumman and True Anomaly will build new ISR satellites in space, after admitting the U.S. already has weapons in orbit.",
-      "feedName": "Defense News"
     },
     {
       "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
@@ -140,13 +147,6 @@
       "pubDate": "Thu, 24 Sep 2026 15:51:42 +0000",
       "description": "\nIn this episode, SpaceNews’ Mike Gruss and Novaspace CEO Pacôme Révillon look at what to expect from the space industry in the next year by playing a game of true [&#8230;]\nThe post True or false on space industry trends with Pacôme Révillon appeared first on SpaceNews.\n",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "ESA Awards RFA €2.7 Million in New Funding for SaxaVord Operations",
-      "link": "https://europeanspaceflight.com/esa-awards-rfa-e2-7-million-in-new-funding-for-saxavord-operations/",
-      "pubDate": "Thu, 24 Sep 2026 06:00:15 +0000",
-      "description": "The European Space Agency (ESA) has awarded Rocket Factory Augsburg (RFA) a contract amendment that will provide the company with €2.7 million in additional co-funding to support the build-out of the company’s launch and testing infrastructure at SaxaVord in Scotland. According to the agency, RFA is",
-      "feedName": "European Spaceflight"
     },
     {
       "title": "Shrinking Buffers: Why Turkey and Israel Are on a Collision Course",
