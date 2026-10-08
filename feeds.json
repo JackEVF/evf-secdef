@@ -1,6 +1,55 @@
 {
-  "generated": "2026-10-07T12:56:07.022Z",
+  "generated": "2026-10-08T13:04:18.410Z",
   "newsItems": [
+    {
+      "title": "UK and Israel broker compromise over East Jerusalem consulate",
+      "link": "https://www.politico.eu/article/uk-and-israel-broker-compromise-over-east-jerusalem-consulate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Thu, 08 Oct 2026 08:24:56 +0000",
+      "description": "Both sides claim a win — but relations have soured over British plans to sanction West Bank settlements.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "#SpaceWatchGL Recap: Space on the masthead: Germany’s intelligence community looks up",
+      "link": "https://spacewatch.global/2026/10/spacewatchgl-recap-space-on-the-masthead-germanys-intelligence-community-looks-up/",
+      "pubDate": "Thu, 08 Oct 2026 08:00:00 +0000",
+      "description": "Germany's intelligence community put space on its masthead for the first time. Day one of the ND-Konferenz in Berlin delivered a blunt message: orbit is already a battlefield, Leipzig was a wake-up call, and Germany has the strategy and the money for space security, but not yet anyone clearly in cha",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "#SpaceWatchGL Recap: IAC 2026 Day Three: The Regions Speak Up",
+      "link": "https://spacewatch.global/2026/10/spacewatchgl-recap-iac-2026-day-three-the-regions-speak-up/",
+      "pubDate": "Thu, 08 Oct 2026 07:30:00 +0000",
+      "description": " Written by Torsten Kriening  On Day Three of IAC 2026, the regions spoke up. ESA, APSCO, SANSA and Brazil debated whether \"minilateralism\" can fill the gaps of global cooperation. Brazil disclosed a debris strike on Amazonia-1 and a move towards ALCE. In the afternoon, the next generation asked for",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Azercosmos Launches AI Platform",
+      "link": "https://www.satellitetoday.com/technology/2026/10/07/azercosmos-launches-ai-platform/",
+      "pubDate": "Wed, 07 Oct 2026 20:17:55 +0000",
+      "description": "Azercosmos has made a significant move in the AI arena. It has launched Platerra, an AI-powered platform designed to automatically analyze satellite imagery and turn it into geospatial information that [&#8230;]\nThe post Azercosmos Launches AI Platform appeared first on Via Satellite.\n",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Recent Taiwan simulation highlights US cyberdefense gaps against China, experts warn",
+      "link": "https://www.defenseone.com/threats/2026/10/recent-taiwan-simulation-highlights-us-cyberdefense-gaps-against-china-experts-warn/416487/",
+      "pubDate": "Wed, 07 Oct 2026 11:59:00 -0400",
+      "description": "Organizers of a cyber exercise say Washington needs to prepare for attacks that both disrupt civilian services and pressure Taipei without triggering outright military conflict.",
+      "feedName": "Defense One"
+    },
+    {
+      "title": "Russia’s LEO Advances Put New Pressure on Europe to Bolster its Space Security",
+      "link": "https://www.satellitetoday.com/government-military/2026/10/07/russias-leo-advances-put-new-pressure-on-europe-to-bolster-its-space-security/",
+      "pubDate": "Wed, 07 Oct 2026 15:50:22 +0000",
+      "description": "As Russia begins deploying its military RASSVET constellation, internal political fractures and slow-moving bureaucracy are leaving Europe completely reliant on the U.S. for security in orbit. And things won’t change [&#8230;]\nThe post Russia’s LEO Advances Put New Pressure on Europe to Bolster its ",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Azercosmos Launches Platerra AI Platform for Automated Geospatial and Satellite Imagery Analysis",
+      "link": "https://satnews.com/2026/10/07/azercosmos-launches-platerra-ai-platform-for-automated-geospatial-and-satellite-imagery-analysis/",
+      "pubDate": "Wed, 07 Oct 2026 14:33:37 +0000",
+      "description": "On October 7, 2026, national satellite operator Azercosmos announced the launch of Platerra, an artificial intelligence-driven platform engineered to automate satellite imagery processing and generate actionable geospatial intelligence. Developed in [&#8230;]",
+      "feedName": "Satnews"
+    },
     {
       "title": "ArianeGroup Completes Second Themis Wet Dress Rehearsal",
       "link": "https://europeanspaceflight.com/arianegroup-completes-second-themis-wet-dress-rehearsal/",
@@ -37,13 +86,6 @@
       "feedName": "Breaking Defense"
     },
     {
-      "title": "HawkEye 360 Adapts Commercial Satellite RF Sensors for Space Domain Awareness Under AFRL Contract",
-      "link": "https://satnews.com/2026/10/06/hawkeye-360-adapts-commercial-satellite-rf-sensors-for-space-domain-awareness-under-afrl-contract/",
-      "pubDate": "Tue, 06 Oct 2026 14:10:36 +0000",
-      "description": "Targeting a critical operational gap in non-terrestrial signal tracking, space-based radio frequency (RF) analytics provider HawkEye 360 has successfully demonstrated the use of its commercial satellite constellation for space domain [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "Iran Faces Severe Challenges to Rebuild Missile and Drone Production",
       "link": "https://warontherocks.com/iran-faces-severe-challenges-to-rebuild-missile-and-drone-production/",
       "pubDate": "Tue, 06 Oct 2026 07:30:13 +0000",
@@ -58,46 +100,11 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Airbus Completes First 32 OneWeb Replenishment Satellites for Eutelsat Fleet Refresh",
-      "link": "https://satnews.com/2026/10/05/airbus-completes-first-32-oneweb-replenishment-satellites-for-eutelsat-fleet-refresh/",
-      "pubDate": "Mon, 05 Oct 2026 21:24:24 +0000",
-      "description": "On October 5, 2026, Airbus Defence and Space completed manufacturing of the first 32 OneWeb refresh satellites for satellite operator Eutelsat. Rolling off the production line at Airbus&#8217;s assembly facility [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "York to Integrate Space Force Tetra 3 and 4 Missions on GEO Spacecraft ",
-      "link": "https://www.satellitetoday.com/government-military/2026/10/05/york-to-integrate-space-force-tetra-3-and-4-missions-on-geo-spacecraft/",
-      "pubDate": "Mon, 05 Oct 2026 20:02:00 +0000",
-      "description": "York Space Systems will integrate a government space domain awareness (SDA) into a spacecraft headed to Geostationary Orbit (GEO), marking the first time the company has integrated a satellite for [&#8230;]\nThe post York to Integrate Space Force Tetra 3 and 4 Missions on GEO Spacecraft  appeared fir",
-      "feedName": "Via Satellite"
-    },
-    {
       "title": "European defense startups to raise record $10.5 billion in 2026, Dealroom forecasts",
       "link": "https://www.defensenews.com/global/europe/2026/10/05/european-defense-startups-to-raise-record-105-billion-in-2026-dealroom-forecasts/",
       "pubDate": "Mon, 05 Oct 2026 14:54:11 +0000",
       "description": "“This is Europe catching up rather than the U.S. slowing,” Dealroom said of the trend. “EU 27 funding more than doubled in a year.”",
       "feedName": "Defense News"
-    },
-    {
-      "title": "CASSINI Entrepreneurship Days- Fiammetta Diani on Building a Space Market, Not Just Space Technology",
-      "link": "https://spacewatch.global/2026/10/cassini-entrepreneurship-days-fiammetta-diani-on-building-a-space-market-not-just-space-technology/",
-      "pubDate": "Mon, 05 Oct 2026 14:00:00 +0000",
-      "description": "From the CASSINI Entrepreneurship Days in Prague, EUSPA's Fiammetta Diani joins Daniela Jovic to chart the event's growth from four investors in a lobby to hundreds of startups, explain why excellent technology is no longer enough, and introduce Make It With Space - a new demand-driven scheme for Eu",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Airbus and OHB to Lead ESA Studies on Future European Orbital Outpost as ISS Era Nears End",
-      "link": "https://spacewatch.global/2026/10/airbus-and-ohb-to-lead-esa-studies-on-future-european-orbital-outpost-as-iss-era-nears-end/",
-      "pubDate": "Mon, 05 Oct 2026 06:00:00 +0000",
-      "description": "ESA has awarded contracts to two European consortia, led by Airbus and OHB, for preliminary studies into a European-led orbital outpost in low Earth orbit as the agency plans for the post-ISS era.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "NorthStar Earth & Space Goes Public After SPAC Merger ",
-      "link": "https://www.satellitetoday.com/finance/2026/10/02/northstar-earth-space-goes-public-after-spac-merger/",
-      "pubDate": "Fri, 02 Oct 2026 18:39:55 +0000",
-      "description": "Canadian space domain awareness (SDA) company NorthStar Earth &#38; Space began trading on the New York Stock Exchange on Friday morning after completing a SPAC merger this week.  NorthStar completed [&#8230;]\nThe post NorthStar Earth &#038; Space Goes Public After SPAC Merger  appeared first on Via",
-      "feedName": "Via Satellite"
     },
     {
       "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
@@ -140,13 +147,6 @@
       "pubDate": "Mon, 28 Sep 2026 13:33:49 +0000",
       "description": "The United Kingdom has established a new specialised unit within the Royal Air Force to counter hostile threats to the country’s satellites. The Ministry of Defence announced the formation of No. III Space Effects Squadron on 23 September, describing it as the UK’s first unit dedicated to “disruptin",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "True or false on space industry trends with Pacôme Révillon",
-      "link": "https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/",
-      "pubDate": "Thu, 24 Sep 2026 15:51:42 +0000",
-      "description": "\nIn this episode, SpaceNews’ Mike Gruss and Novaspace CEO Pacôme Révillon look at what to expect from the space industry in the next year by playing a game of true [&#8230;]\nThe post True or false on space industry trends with Pacôme Révillon appeared first on SpaceNews.\n",
-      "feedName": "SpaceNews"
     },
     {
       "title": "Shrinking Buffers: Why Turkey and Israel Are on a Collision Course",
