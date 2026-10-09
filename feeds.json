@@ -1,12 +1,47 @@
 {
-  "generated": "2026-10-08T13:04:18.410Z",
+  "generated": "2026-10-09T12:50:51.840Z",
   "newsItems": [
     {
-      "title": "UK and Israel broker compromise over East Jerusalem consulate",
-      "link": "https://www.politico.eu/article/uk-and-israel-broker-compromise-over-east-jerusalem-consulate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Thu, 08 Oct 2026 08:24:56 +0000",
-      "description": "Both sides claim a win — but relations have soured over British plans to sanction West Bank settlements.",
-      "feedName": "Politico Europe"
+      "title": "Bringing real autonomy to battlefield drone swarms",
+      "link": "https://breakingdefense.com/2026/10/bringing-real-autonomy-to-battlefield-drone-swarms/",
+      "pubDate": "Fri, 09 Oct 2026 12:25:00 +0000",
+      "description": "[Sponsored] Decentralized Embodied Collaborative intelligence enables better reconnaissance, logistics and combat capabilities.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "#SpaceWatchGL Recap: IAC 2026 Day Four: Crowded Orbits, Open Interfaces",
+      "link": "https://spacewatch.global/2026/10/spacewatchgl-recap-iac-2026-day-four-crowded-orbits-open-interfaces/",
+      "pubDate": "Fri, 09 Oct 2026 07:30:00 +0000",
+      "description": "On the last plenary day of IAC 2026, ESA’s Holger Krag warned that today’s disposal rules legally leave a thousand dead satellites a year in orbit, Astroscale admitted there is no debris removal market yet, and Japan, ispace, SpaceX and ESA debated how open the Moon’s infrastructure should be. ",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "ESA Releases AI-Powered Earth Virtual Expert (EVE) to Make Earth Observation Knowledge more Accessible",
+      "link": "https://spacewatch.global/2026/10/esa-releases-ai-powered-earth-virtual-expert-eve-to-make-earth-observation-knowledge-more-accessible/",
+      "pubDate": "Fri, 09 Oct 2026 06:00:00 +0000",
+      "description": "ESA has released Earth Virtual Expert (EVE), an AI platform with a conversational interface that draws on research papers and technical resources to make Earth observation knowledge more accessible.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Telespazio BeNeLux Leads Consortium to Build Ground Infrastructure for ESA’s PROSPECT Lunar Mission",
+      "link": "https://spacewatch.global/2026/10/telespazio-belgium-leads-consortium-to-build-ground-infrastructure-for-esas-prospect-lunar-mission/",
+      "pubDate": "Fri, 09 Oct 2026 06:00:00 +0000",
+      "description": "Telespazio BeNeLux will lead a consortium with EarthLab Luxembourg and Hungary’s Astro42 to deliver the operations centre for ESA’s PROSPECT lunar drilling mission, ahead of its 2027 flight.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Europe’s Space Defenses Fall Just Shy of Weaponization",
+      "link": "https://payloadspace.com/europes-space-defenses-fall-just-shy-of-weaponization/",
+      "pubDate": "Fri, 09 Oct 2026 05:13:00 +0000",
+      "description": "Europe doesn’t have any weapons in space—but that doesn’t mean the region is comfortable flying around in orbit defenseless.\nThe post Europe’s Space Defenses Fall Just Shy of Weaponization appeared first on Payload.\n",
+      "feedName": "Payload Space"
+    },
+    {
+      "title": "In first, Israeli firms, delegation display at Morocco’s Marrakech Airshow",
+      "link": "https://breakingdefense.com/2026/10/in-first-israeli-firms-delegation-display-at-moroccos-marrakech-airshow/",
+      "pubDate": "Thu, 08 Oct 2026 20:23:07 +0000",
+      "description": "“This marks Israel&#8217;s first official participation in the defense exhibition held in Morocco since the signing of the Abraham Accords,” Israel’s Ministry of Defense said.\n",
+      "feedName": "Breaking Defense"
     },
     {
       "title": "#SpaceWatchGL Recap: Space on the masthead: Germany’s intelligence community looks up",
@@ -37,20 +72,6 @@
       "feedName": "Defense One"
     },
     {
-      "title": "Russia’s LEO Advances Put New Pressure on Europe to Bolster its Space Security",
-      "link": "https://www.satellitetoday.com/government-military/2026/10/07/russias-leo-advances-put-new-pressure-on-europe-to-bolster-its-space-security/",
-      "pubDate": "Wed, 07 Oct 2026 15:50:22 +0000",
-      "description": "As Russia begins deploying its military RASSVET constellation, internal political fractures and slow-moving bureaucracy are leaving Europe completely reliant on the U.S. for security in orbit. And things won’t change [&#8230;]\nThe post Russia’s LEO Advances Put New Pressure on Europe to Bolster its ",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "Azercosmos Launches Platerra AI Platform for Automated Geospatial and Satellite Imagery Analysis",
-      "link": "https://satnews.com/2026/10/07/azercosmos-launches-platerra-ai-platform-for-automated-geospatial-and-satellite-imagery-analysis/",
-      "pubDate": "Wed, 07 Oct 2026 14:33:37 +0000",
-      "description": "On October 7, 2026, national satellite operator Azercosmos announced the launch of Platerra, an artificial intelligence-driven platform engineered to automate satellite imagery processing and generate actionable geospatial intelligence. Developed in [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "ArianeGroup Completes Second Themis Wet Dress Rehearsal",
       "link": "https://europeanspaceflight.com/arianegroup-completes-second-themis-wet-dress-rehearsal/",
       "pubDate": "Wed, 07 Oct 2026 08:21:45 +0000",
@@ -79,25 +100,11 @@
       "feedName": "War on the Rocks"
     },
     {
-      "title": "EU deepens collective space security with mutual defense pact",
-      "link": "https://breakingdefense.com/2026/10/eu-deepens-collective-space-security-with-mutual-defense-pact/",
-      "pubDate": "Tue, 06 Oct 2026 16:04:45 +0000",
-      "description": "The move is one more step in the EU&#8217;s long-running, but recently accelerated, effort to create &#8220;strategic autonomy&#8221; in the space arena. \n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "Iran Faces Severe Challenges to Rebuild Missile and Drone Production",
       "link": "https://warontherocks.com/iran-faces-severe-challenges-to-rebuild-missile-and-drone-production/",
       "pubDate": "Tue, 06 Oct 2026 07:30:13 +0000",
       "description": "With the significant Israeli and U.S. military attacks against Iran in 2025 and early 2026, analysts have discussed and debated Iran&#8217;s ability to replenish its missile and drone arsenal. Since 2024, Iran has burned through thousands of ballistic missiles, cruise missiles, and one-way attack dr",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "KSAT and Xoople Partner to Support Rapid Delivery of High-Volume Earth Observation Data",
-      "link": "https://spacewatch.global/2026/10/ksat-and-xoople-partner-to-support-rapid-delivery-of-high-volume-earth-observation-data/",
-      "pubDate": "Tue, 06 Oct 2026 06:00:00 +0000",
-      "description": "KSAT and Xoople have partnered to support Xoople's planned constellation, using KSAT's automated KSATlite ground segment to downlink high volumes of Earth observation data.",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "European defense startups to raise record $10.5 billion in 2026, Dealroom forecasts",
