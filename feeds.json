@@ -1,12 +1,61 @@
 {
-  "generated": "2026-10-09T12:50:51.840Z",
+  "generated": "2026-10-10T12:09:03.721Z",
   "newsItems": [
+    {
+      "title": "EU budget slashed by €159B in new Irish proposal",
+      "link": "https://www.politico.eu/article/eu-budget-slashed-by-e159b-in-new-irish-proposal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Sat, 10 Oct 2026 08:22:16 +0000",
+      "description": "The Irish Council presidency's cuts hit competitiveness and development aid, while sparing agriculture and regional funds. ",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Kann VW gerettet werden? Ein Gespräch mit Olaf Lies",
+      "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/kann-vw-gerettet-werden-ein-gesprach-mit-olaf-lies/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Sat, 10 Oct 2026 08:00:00 +0000",
+      "description": "50.000 bedrohte Stellen bei Volkswagen stehen als Symbol für eine tiefe Wirtschaftskrise in Niedersachsen und der gesamten Republik. Wie lässt sich der industrielle Kern des Landes retten, bevor die internationale Wettbewerbsfähigkeit endgültig wegbricht? Der niedersächsische SPD-Ministerpräsident O",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "UK bans Protestant march from Catholic area in Northern Ireland",
+      "link": "https://www.politico.eu/article/uk-bans-protestant-march-from-catholic-area-in-northern-ireland/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Fri, 09 Oct 2026 21:37:57 +0000",
+      "description": "After a 13-day standoff in Portadown, the reversal thrills Irish republicans and enrages Northern Ireland’s unionists, who had hoped to complete a parade blocked since 1998.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Drones and autonomous warfare: ‘One-way attack’ and reshaping ISR",
+      "link": "https://breakingdefense.com/2026/10/drones-and-autonomous-warfare-one-way-attack-and-reshaping-isr/",
+      "pubDate": "Fri, 09 Oct 2026 19:19:11 +0000",
+      "description": "[Sponsored] Systems that can work independently while still being part of a unit are critical to carrying out multi-domain operations.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "L3Harris to Build Telescope for ESA’s LISA Mission ",
+      "link": "https://www.satellitetoday.com/technology/2026/10/09/l3harris-to-build-telescope-for-esas-lisa-mission/",
+      "pubDate": "Fri, 09 Oct 2026 17:33:59 +0000",
+      "description": "L3Harris will build an all-glass telescope for the Laser Interferometer Space Antenna (LISA) mission expected to launch in the mid-2030s.  The European Space Agency (ESA) is leading the mission, with [&#8230;]\nThe post L3Harris to Build Telescope for ESA’s LISA Mission  appeared first on Via Satelli",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "US Army activates new multi-domain task force to ‘deny, disrupt’ enemies in Indo-Pacific",
+      "link": "https://www.defensenews.com/news/your-military/2026/10/09/us-army-activates-new-multi-domain-task-force-to-deny-disrupt-enemies-in-indo-pacific/",
+      "pubDate": "Fri, 09 Oct 2026 17:15:54 +0000",
+      "description": "The new 4th Multi-Domain Task Force includes four battalions and is planned to grow to 2,100 soldiers. ",
+      "feedName": "Defense News"
+    },
     {
       "title": "Bringing real autonomy to battlefield drone swarms",
       "link": "https://breakingdefense.com/2026/10/bringing-real-autonomy-to-battlefield-drone-swarms/",
       "pubDate": "Fri, 09 Oct 2026 12:25:00 +0000",
       "description": "[Sponsored] Decentralized Embodied Collaborative intelligence enables better reconnaissance, logistics and combat capabilities.\n",
       "feedName": "Breaking Defense"
+    },
+    {
+      "title": "Europe’s Earth Observation Providers Set Their Sights on Satcom",
+      "link": "https://payloadspace.com/europes-earth-observation-providers-set-their-sights-on-satcoms/",
+      "pubDate": "Fri, 09 Oct 2026 10:00:00 +0000",
+      "description": "Open Cosmos recently laid out plans for a 192-satellite comms constellation, and ICEYE announced a partnership with Nokia for its own comms satellite network.\nThe post Europe’s Earth Observation Providers Set Their Sights on Satcoms appeared first on Payload Pro.\nThe post Europe’s Earth Observation ",
+      "feedName": "Payload Space"
     },
     {
       "title": "#SpaceWatchGL Recap: IAC 2026 Day Four: Crowded Orbits, Open Interfaces",
@@ -37,13 +86,6 @@
       "feedName": "Payload Space"
     },
     {
-      "title": "In first, Israeli firms, delegation display at Morocco’s Marrakech Airshow",
-      "link": "https://breakingdefense.com/2026/10/in-first-israeli-firms-delegation-display-at-moroccos-marrakech-airshow/",
-      "pubDate": "Thu, 08 Oct 2026 20:23:07 +0000",
-      "description": "“This marks Israel&#8217;s first official participation in the defense exhibition held in Morocco since the signing of the Abraham Accords,” Israel’s Ministry of Defense said.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "#SpaceWatchGL Recap: Space on the masthead: Germany’s intelligence community looks up",
       "link": "https://spacewatch.global/2026/10/spacewatchgl-recap-space-on-the-masthead-germanys-intelligence-community-looks-up/",
       "pubDate": "Thu, 08 Oct 2026 08:00:00 +0000",
@@ -56,13 +98,6 @@
       "pubDate": "Thu, 08 Oct 2026 07:30:00 +0000",
       "description": " Written by Torsten Kriening  On Day Three of IAC 2026, the regions spoke up. ESA, APSCO, SANSA and Brazil debated whether \"minilateralism\" can fill the gaps of global cooperation. Brazil disclosed a debris strike on Amazonia-1 and a move towards ALCE. In the afternoon, the next generation asked for",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Azercosmos Launches AI Platform",
-      "link": "https://www.satellitetoday.com/technology/2026/10/07/azercosmos-launches-ai-platform/",
-      "pubDate": "Wed, 07 Oct 2026 20:17:55 +0000",
-      "description": "Azercosmos has made a significant move in the AI arena. It has launched Platerra, an AI-powered platform designed to automatically analyze satellite imagery and turn it into geospatial information that [&#8230;]\nThe post Azercosmos Launches AI Platform appeared first on Via Satellite.\n",
-      "feedName": "Via Satellite"
     },
     {
       "title": "Recent Taiwan simulation highlights US cyberdefense gaps against China, experts warn",
@@ -105,13 +140,6 @@
       "pubDate": "Tue, 06 Oct 2026 07:30:13 +0000",
       "description": "With the significant Israeli and U.S. military attacks against Iran in 2025 and early 2026, analysts have discussed and debated Iran&#8217;s ability to replenish its missile and drone arsenal. Since 2024, Iran has burned through thousands of ballistic missiles, cruise missiles, and one-way attack dr",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "European defense startups to raise record $10.5 billion in 2026, Dealroom forecasts",
-      "link": "https://www.defensenews.com/global/europe/2026/10/05/european-defense-startups-to-raise-record-105-billion-in-2026-dealroom-forecasts/",
-      "pubDate": "Mon, 05 Oct 2026 14:54:11 +0000",
-      "description": "“This is Europe catching up rather than the U.S. slowing,” Dealroom said of the trend. “EU 27 funding more than doubled in a year.”",
-      "feedName": "Defense News"
     },
     {
       "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
