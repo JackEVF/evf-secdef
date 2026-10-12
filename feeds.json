@@ -1,19 +1,26 @@
 {
-  "generated": "2026-10-11T12:22:50.437Z",
+  "generated": "2026-10-12T14:51:08.480Z",
   "newsItems": [
     {
       "title": "Ground Robots Are Arriving on the Front Lines",
       "link": "https://warontherocks.com/cogs-of-war/ground-robots-are-arriving-on-the-front-lines/",
-      "pubDate": "Sun, 11 Oct 2026 08:00:11 +0000",
+      "pubDate": "Mon, 12 Oct 2026 08:00:11 +0000",
       "description": "For years, ground autonomy lagged well behind its counterparts in the air. That gap is starting to close. Jonathan is joined by Ryan Hartman (Ondas Sentinel) and Scott Philips (Forterra) to examine what it takes to field autonomous ground vehicles in combat. The conversation ranges across what Ukrai",
       "feedName": "War on the Rocks"
     },
     {
-      "title": "Russians face EU travel curbs to prevent hybrid attacks",
-      "link": "https://www.politico.eu/article/russia-visa-passport-control-face-eu-travel-curbs-to-prevent-hybrid-attacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Sun, 11 Oct 2026 02:01:00 +0000",
-      "description": "Tighter visa rules are expected to be proposed in January to bolster EU defenses against Russian threats. ",
-      "feedName": "Politico Europe"
+      "title": "Three years of war, 100,000 targets struck: IDF releases new conflict data",
+      "link": "https://breakingdefense.com/2026/10/three-years-of-war-100000-targets-struck-idf-releases-new-conflict-data/",
+      "pubDate": "Mon, 12 Oct 2026 08:00:00 +0000",
+      "description": "That figure, which includes strikes in Lebanon, Syria, Yemen and Iran, shows the breadth of conflict Israel has waged since the Hamas terrorist attacks upended the region\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "ESA Director General Outlines €10 Billion 10-Year Plan for Sovereign European Crewed Spaceflight",
+      "link": "https://satnews.com/2026/10/11/esa-director-general-outlines-e10-billion-10-year-plan-for-sovereign-european-crewed-spaceflight/",
+      "pubDate": "Sun, 11 Oct 2026 19:03:26 +0000",
+      "description": "On October 5, 2026, European Space Agency (ESA) Director General Josef Aschbacher outlined a 10-year, €10 billion ($10.9 billion) proposal to establish an independent European crewed spaceflight capability. Presented ahead [&#8230;]",
+      "feedName": "Satnews"
     },
     {
       "title": "Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
@@ -21,27 +28,6 @@
       "pubDate": "Sat, 10 Oct 2026 13:18:04 +0000",
       "description": "Lockheed Martin said PAC-3 Edge incorporates a new seeker, upgraded flight controls and a multi-pulse rocket motor supplied by Northrop Grumman.",
       "feedName": "Defense News"
-    },
-    {
-      "title": "EU budget slashed by €159B in new Irish proposal",
-      "link": "https://www.politico.eu/article/eu-budget-slashed-by-e159b-in-new-irish-proposal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Sat, 10 Oct 2026 08:22:16 +0000",
-      "description": "The Irish Council presidency's cuts hit competitiveness and development aid, while sparing agriculture and regional funds. ",
-      "feedName": "Politico Europe"
-    },
-    {
-      "title": "Kann VW gerettet werden? Ein Gespräch mit Olaf Lies",
-      "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/kann-vw-gerettet-werden-ein-gesprach-mit-olaf-lies/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Sat, 10 Oct 2026 08:00:00 +0000",
-      "description": "50.000 bedrohte Stellen bei Volkswagen stehen als Symbol für eine tiefe Wirtschaftskrise in Niedersachsen und der gesamten Republik. Wie lässt sich der industrielle Kern des Landes retten, bevor die internationale Wettbewerbsfähigkeit endgültig wegbricht? Der niedersächsische SPD-Ministerpräsident O",
-      "feedName": "Politico Europe"
-    },
-    {
-      "title": "UK bans Protestant march from Catholic area in Northern Ireland",
-      "link": "https://www.politico.eu/article/uk-bans-protestant-march-from-catholic-area-in-northern-ireland/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Fri, 09 Oct 2026 21:37:57 +0000",
-      "description": "After a 13-day standoff in Portadown, the reversal thrills Irish republicans and enrages Northern Ireland’s unionists, who had hoped to complete a parade blocked since 1998.",
-      "feedName": "Politico Europe"
     },
     {
       "title": "Drones and autonomous warfare: ‘One-way attack’ and reshaping ISR",
@@ -63,13 +49,6 @@
       "pubDate": "Fri, 09 Oct 2026 17:15:54 +0000",
       "description": "The new 4th Multi-Domain Task Force includes four battalions and is planned to grow to 2,100 soldiers. ",
       "feedName": "Defense News"
-    },
-    {
-      "title": "Bringing real autonomy to battlefield drone swarms",
-      "link": "https://breakingdefense.com/2026/10/bringing-real-autonomy-to-battlefield-drone-swarms/",
-      "pubDate": "Fri, 09 Oct 2026 12:25:00 +0000",
-      "description": "[Sponsored] Decentralized Embodied Collaborative intelligence enables better reconnaissance, logistics and combat capabilities.\n",
-      "feedName": "Breaking Defense"
     },
     {
       "title": "Europe’s Earth Observation Providers Set Their Sights on Satcom",
@@ -133,20 +112,6 @@
       "pubDate": "Wed, 07 Oct 2026 08:21:45 +0000",
       "description": "The European Space Agency announced that ArianeGroup and SSC Space completed a second wet dress rehearsal of the Themis reusable rocket demonstrator at Esrange in Sweden. ESA announced the completion of the latest rehearsal on 7 October, saying that the test had taken place on 29 September. As with ",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Rheinmetall ICEYE Space Solutions Provides German Armed Forces with Dedicated Radar Imagery",
-      "link": "https://spacewatch.global/2026/10/rheinmetall-iceye-space-solutions-provides-german-armed-forces-with-dedicated-radar-imagery/",
-      "pubDate": "Wed, 07 Oct 2026 06:00:00 +0000",
-      "description": "Germany is moving to expand its space-based military reconnaissance capabilities through the SPOCK 1 program, with Rheinmetall ICEYE Space Solutions providing the Bundeswehr with dedicated access to a constellation of Synthetic Aperture Radar (SAR) satellites. ",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Dawn Aerospace Expands into Germany Amid Growing Space Defense Investment",
-      "link": "https://spacewatch.global/2026/10/dawn-aerospace-expands-into-germany-amid-growing-space-defense-investment/",
-      "pubDate": "Wed, 07 Oct 2026 06:00:00 +0000",
-      "description": "Dawn Aerospace is expanding into Germany with plans to establish Dawn Aerospace Deutschland GmbH, as the company seeks to support the country’s growing defense and national security space sectors. The expansion intends to provide a localized supply of Dawn’s flight-proven propulsion systems while su",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Kindling, Catalyst, and Containment: Will the West Bank Ignite?",
