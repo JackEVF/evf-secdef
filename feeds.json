@@ -1,19 +1,33 @@
 {
-  "generated": "2026-10-12T14:51:08.480Z",
+  "generated": "2026-10-13T13:50:44.099Z",
   "newsItems": [
+    {
+      "title": "#SpaceWatchGL Recap: Day One: What Europe Can Learn From Riyadh",
+      "link": "https://spacewatch.global/2026/10/spacewatchgl-recap-day-one-what-europe-can-learn-from-riyadh/",
+      "pubDate": "Tue, 13 Oct 2026 09:00:00 +0000",
+      "description": "Europe was not on the agenda in Riyadh, yet day one of the Global Space Connectivity &#038; Sustainability Events delivered five lessons for Brussels. They cover the D2D kill switch and IRIS², unlicensed satellite service in French overseas territories, Ookla’s D2D measurement data, the GSO/NGSO spe",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "STAR.VISION Unveils Four AI Satellites for Orbital Computing and Earth Observation",
+      "link": "https://spacewatch.global/2026/10/star-vision-unveils-four-ai-satellites-for-orbital-computing-and-earth-observation/",
+      "pubDate": "Tue, 13 Oct 2026 06:00:00 +0000",
+      "description": "STAR.VISION unveiled four AI satellites at IAC in Antalya - two for orbital computing and high-performance AI processing, and two Earth observation satellites developed with Oman Lens.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "METLEN, Thales Alenia Space, and Thales Hellas Partner for Greece’s Defense Satellite Communications System",
+      "link": "https://satnews.com/2026/10/12/metlen-thales-alenia-space-and-thales-hellas-partner-for-greeces-defense-satellite-communications-system/",
+      "pubDate": "Mon, 12 Oct 2026 22:15:50 +0000",
+      "description": "On October 12, 2026, Greek industrial conglomerate METLEN Energy &#38; Metals, satellite manufacturer Thales Alenia Space, and Thales Hellas executed a Memorandum of Understanding (MoU) to collaborate on the development [&#8230;]",
+      "feedName": "Satnews"
+    },
     {
       "title": "Ground Robots Are Arriving on the Front Lines",
       "link": "https://warontherocks.com/cogs-of-war/ground-robots-are-arriving-on-the-front-lines/",
       "pubDate": "Mon, 12 Oct 2026 08:00:11 +0000",
       "description": "For years, ground autonomy lagged well behind its counterparts in the air. That gap is starting to close. Jonathan is joined by Ryan Hartman (Ondas Sentinel) and Scott Philips (Forterra) to examine what it takes to field autonomous ground vehicles in combat. The conversation ranges across what Ukrai",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Three years of war, 100,000 targets struck: IDF releases new conflict data",
-      "link": "https://breakingdefense.com/2026/10/three-years-of-war-100000-targets-struck-idf-releases-new-conflict-data/",
-      "pubDate": "Mon, 12 Oct 2026 08:00:00 +0000",
-      "description": "That figure, which includes strikes in Lebanon, Syria, Yemen and Iran, shows the breadth of conflict Israel has waged since the Hamas terrorist attacks upended the region\n",
-      "feedName": "Breaking Defense"
     },
     {
       "title": "ESA Director General Outlines €10 Billion 10-Year Plan for Sovereign European Crewed Spaceflight",
@@ -23,39 +37,11 @@
       "feedName": "Satnews"
     },
     {
-      "title": "Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/10/lockheed-martin-unveils-pac-3-edge-interceptor-designed-to-counter-hypersonic-threats/",
-      "pubDate": "Sat, 10 Oct 2026 13:18:04 +0000",
-      "description": "Lockheed Martin said PAC-3 Edge incorporates a new seeker, upgraded flight controls and a multi-pulse rocket motor supplied by Northrop Grumman.",
-      "feedName": "Defense News"
-    },
-    {
-      "title": "Drones and autonomous warfare: ‘One-way attack’ and reshaping ISR",
-      "link": "https://breakingdefense.com/2026/10/drones-and-autonomous-warfare-one-way-attack-and-reshaping-isr/",
-      "pubDate": "Fri, 09 Oct 2026 19:19:11 +0000",
-      "description": "[Sponsored] Systems that can work independently while still being part of a unit are critical to carrying out multi-domain operations.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "L3Harris to Build Telescope for ESA’s LISA Mission ",
       "link": "https://www.satellitetoday.com/technology/2026/10/09/l3harris-to-build-telescope-for-esas-lisa-mission/",
       "pubDate": "Fri, 09 Oct 2026 17:33:59 +0000",
       "description": "L3Harris will build an all-glass telescope for the Laser Interferometer Space Antenna (LISA) mission expected to launch in the mid-2030s.  The European Space Agency (ESA) is leading the mission, with [&#8230;]\nThe post L3Harris to Build Telescope for ESA’s LISA Mission  appeared first on Via Satelli",
       "feedName": "Via Satellite"
-    },
-    {
-      "title": "US Army activates new multi-domain task force to ‘deny, disrupt’ enemies in Indo-Pacific",
-      "link": "https://www.defensenews.com/news/your-military/2026/10/09/us-army-activates-new-multi-domain-task-force-to-deny-disrupt-enemies-in-indo-pacific/",
-      "pubDate": "Fri, 09 Oct 2026 17:15:54 +0000",
-      "description": "The new 4th Multi-Domain Task Force includes four battalions and is planned to grow to 2,100 soldiers. ",
-      "feedName": "Defense News"
-    },
-    {
-      "title": "Europe’s Earth Observation Providers Set Their Sights on Satcom",
-      "link": "https://payloadspace.com/europes-earth-observation-providers-set-their-sights-on-satcoms/",
-      "pubDate": "Fri, 09 Oct 2026 10:00:00 +0000",
-      "description": "Open Cosmos recently laid out plans for a 192-satellite comms constellation, and ICEYE announced a partnership with Nokia for its own comms satellite network.\nThe post Europe’s Earth Observation Providers Set Their Sights on Satcoms appeared first on Payload Pro.\nThe post Europe’s Earth Observation ",
-      "feedName": "Payload Space"
     },
     {
       "title": "#SpaceWatchGL Recap: IAC 2026 Day Four: Crowded Orbits, Open Interfaces",
@@ -79,24 +65,10 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Europe’s Space Defenses Fall Just Shy of Weaponization",
-      "link": "https://payloadspace.com/europes-space-defenses-fall-just-shy-of-weaponization/",
-      "pubDate": "Fri, 09 Oct 2026 05:13:00 +0000",
-      "description": "Europe doesn’t have any weapons in space—but that doesn’t mean the region is comfortable flying around in orbit defenseless.\nThe post Europe’s Space Defenses Fall Just Shy of Weaponization appeared first on Payload.\n",
-      "feedName": "Payload Space"
-    },
-    {
       "title": "#SpaceWatchGL Recap: Space on the masthead: Germany’s intelligence community looks up",
       "link": "https://spacewatch.global/2026/10/spacewatchgl-recap-space-on-the-masthead-germanys-intelligence-community-looks-up/",
       "pubDate": "Thu, 08 Oct 2026 08:00:00 +0000",
       "description": "Germany's intelligence community put space on its masthead for the first time. Day one of the ND-Konferenz in Berlin delivered a blunt message: orbit is already a battlefield, Leipzig was a wake-up call, and Germany has the strategy and the money for space security, but not yet anyone clearly in cha",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "#SpaceWatchGL Recap: IAC 2026 Day Three: The Regions Speak Up",
-      "link": "https://spacewatch.global/2026/10/spacewatchgl-recap-iac-2026-day-three-the-regions-speak-up/",
-      "pubDate": "Thu, 08 Oct 2026 07:30:00 +0000",
-      "description": " Written by Torsten Kriening  On Day Three of IAC 2026, the regions spoke up. ESA, APSCO, SANSA and Brazil debated whether \"minilateralism\" can fill the gaps of global cooperation. Brazil disclosed a debris strike on Amazonia-1 and a move towards ALCE. In the afternoon, the next generation asked for",
       "feedName": "SpaceWatch Global"
     },
     {
@@ -154,20 +126,6 @@
       "pubDate": "Wed, 30 Sep 2026 00:41:40 -0400",
       "description": "The report to Congress  notes accomplishments but masks depleted arsenals, strategic distractions, and a quiet retreat from European defense.",
       "feedName": "Defense One"
-    },
-    {
-      "title": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
-      "link": "https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/",
-      "pubDate": "Tue, 29 Sep 2026 20:32:07 +0000",
-      "description": "\nParis, France &#124; September 2026 — Novaspace’s Satellite Communications for Defense and Security, 2nd Edition highlights a defense Satcom market poised for rapid growth. By 2035, commercial satellite service revenues [&#8230;]\nThe post Commercial Defense Satcom Service Revenues to Surpass $22.6B",
-      "feedName": "SpaceNews"
-    },
-    {
-      "title": "UK Creates Space Effects Squadron to Protect Its Satellites",
-      "link": "https://europeanspaceflight.com/uk-creates-space-effects-squadron-to-protect-its-satellites/",
-      "pubDate": "Mon, 28 Sep 2026 13:33:49 +0000",
-      "description": "The United Kingdom has established a new specialised unit within the Royal Air Force to counter hostile threats to the country’s satellites. The Ministry of Defence announced the formation of No. III Space Effects Squadron on 23 September, describing it as the UK’s first unit dedicated to “disruptin",
-      "feedName": "European Spaceflight"
     },
     {
       "title": "Shrinking Buffers: Why Turkey and Israel Are on a Collision Course",
