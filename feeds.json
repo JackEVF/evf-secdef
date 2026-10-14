@@ -1,8 +1,36 @@
 {
-  "generated": "2026-10-13T13:50:44.099Z",
+  "generated": "2026-10-14T11:28:05.628Z",
   "newsItems": [
     {
-      "title": "#SpaceWatchGL Recap: Day One: What Europe Can Learn From Riyadh",
+      "title": "#SpaceWatchGL Analysis: The Sovereignty Test – What Happens When Earth Observation Dependencies Fail?",
+      "link": "https://spacewatch.global/2026/10/spacewatchgl-analysis-the-sovereignty-test-what-happens-when-earth-observation-dependencies-fail/",
+      "pubDate": "Wed, 14 Oct 2026 08:00:00 +0000",
+      "description": " Written by Fernando Kalleder  Sovereign Earth observation is not defined by ownership alone. The real test begins when a supplier, service or system fails. This analysis examines what Europe can learn about preserving decision-making and operational capacity under pressure.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "ESA Selects Planet Subsidiary to Develop Slovenia’s Satellite-Based Disaster Response System",
+      "link": "https://spacewatch.global/2026/10/esa-selects-planet-subsidiary-to-develop-slovenias-satellite-based-disaster-response-system/",
+      "pubDate": "Wed, 14 Oct 2026 06:00:00 +0000",
+      "description": "ESA has selected Planet’s Sinergise Solutions to develop the Slovenia Space Resilience Node, a 12-month pilot linking automated Earth observation with rapid tasking of higher-resolution imagery, starting with wildfire management.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Gogo Wins BizJet Deal for Duncan Aviation ",
+      "link": "https://www.satellitetoday.com/mobility/2026/10/13/gogo-wins-bizjet-deal-for-duncan-aviation/",
+      "pubDate": "Tue, 13 Oct 2026 19:58:36 +0000",
+      "description": "Duncan Aviation, one of the world’s largest privately-owned business jet service providers signed a deal with Gogo to acquire 40 Gogo Galileo HDX systems, marking Gogo’s largest single MRO (maintenance, [&#8230;]\nThe post Gogo Wins BizJet Deal for Duncan Aviation  appeared first on Via Satellite.\n",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Israel’s IAI unveils 3 new air defense systems at AUSA",
+      "link": "https://breakingdefense.com/2026/10/israels-iai-unveils-3-new-air-defense-systems-at-ausa/",
+      "pubDate": "Tue, 13 Oct 2026 17:52:05 +0000",
+      "description": "Unveiled today during the AUSA conference, the three systems represent the different approaches defense companies are pursuing as unmanned aerial vehicles reshape modern warfare.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "#SpaceWatchGL Recap: Riyadh Day One: What Europe Can Learn From Riyadh",
       "link": "https://spacewatch.global/2026/10/spacewatchgl-recap-day-one-what-europe-can-learn-from-riyadh/",
       "pubDate": "Tue, 13 Oct 2026 09:00:00 +0000",
       "description": "Europe was not on the agenda in Riyadh, yet day one of the Global Space Connectivity &#038; Sustainability Events delivered five lessons for Brussels. They cover the D2D kill switch and IRIS², unlicensed satellite service in French overseas territories, Ookla’s D2D measurement data, the GSO/NGSO spe",
@@ -30,45 +58,10 @@
       "feedName": "War on the Rocks"
     },
     {
-      "title": "ESA Director General Outlines €10 Billion 10-Year Plan for Sovereign European Crewed Spaceflight",
-      "link": "https://satnews.com/2026/10/11/esa-director-general-outlines-e10-billion-10-year-plan-for-sovereign-european-crewed-spaceflight/",
-      "pubDate": "Sun, 11 Oct 2026 19:03:26 +0000",
-      "description": "On October 5, 2026, European Space Agency (ESA) Director General Josef Aschbacher outlined a 10-year, €10 billion ($10.9 billion) proposal to establish an independent European crewed spaceflight capability. Presented ahead [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "L3Harris to Build Telescope for ESA’s LISA Mission ",
-      "link": "https://www.satellitetoday.com/technology/2026/10/09/l3harris-to-build-telescope-for-esas-lisa-mission/",
-      "pubDate": "Fri, 09 Oct 2026 17:33:59 +0000",
-      "description": "L3Harris will build an all-glass telescope for the Laser Interferometer Space Antenna (LISA) mission expected to launch in the mid-2030s.  The European Space Agency (ESA) is leading the mission, with [&#8230;]\nThe post L3Harris to Build Telescope for ESA’s LISA Mission  appeared first on Via Satelli",
-      "feedName": "Via Satellite"
-    },
-    {
       "title": "#SpaceWatchGL Recap: IAC 2026 Day Four: Crowded Orbits, Open Interfaces",
       "link": "https://spacewatch.global/2026/10/spacewatchgl-recap-iac-2026-day-four-crowded-orbits-open-interfaces/",
       "pubDate": "Fri, 09 Oct 2026 07:30:00 +0000",
       "description": "On the last plenary day of IAC 2026, ESA’s Holger Krag warned that today’s disposal rules legally leave a thousand dead satellites a year in orbit, Astroscale admitted there is no debris removal market yet, and Japan, ispace, SpaceX and ESA debated how open the Moon’s infrastructure should be. ",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "ESA Releases AI-Powered Earth Virtual Expert (EVE) to Make Earth Observation Knowledge more Accessible",
-      "link": "https://spacewatch.global/2026/10/esa-releases-ai-powered-earth-virtual-expert-eve-to-make-earth-observation-knowledge-more-accessible/",
-      "pubDate": "Fri, 09 Oct 2026 06:00:00 +0000",
-      "description": "ESA has released Earth Virtual Expert (EVE), an AI platform with a conversational interface that draws on research papers and technical resources to make Earth observation knowledge more accessible.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Telespazio BeNeLux Leads Consortium to Build Ground Infrastructure for ESA’s PROSPECT Lunar Mission",
-      "link": "https://spacewatch.global/2026/10/telespazio-belgium-leads-consortium-to-build-ground-infrastructure-for-esas-prospect-lunar-mission/",
-      "pubDate": "Fri, 09 Oct 2026 06:00:00 +0000",
-      "description": "Telespazio BeNeLux will lead a consortium with EarthLab Luxembourg and Hungary’s Astro42 to deliver the operations centre for ESA’s PROSPECT lunar drilling mission, ahead of its 2027 flight.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "#SpaceWatchGL Recap: Space on the masthead: Germany’s intelligence community looks up",
-      "link": "https://spacewatch.global/2026/10/spacewatchgl-recap-space-on-the-masthead-germanys-intelligence-community-looks-up/",
-      "pubDate": "Thu, 08 Oct 2026 08:00:00 +0000",
-      "description": "Germany's intelligence community put space on its masthead for the first time. Day one of the ND-Konferenz in Berlin delivered a blunt message: orbit is already a battlefield, Leipzig was a wake-up call, and Germany has the strategy and the money for space security, but not yet anyone clearly in cha",
       "feedName": "SpaceWatch Global"
     },
     {
