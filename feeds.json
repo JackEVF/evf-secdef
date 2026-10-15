@@ -1,6 +1,41 @@
 {
-  "generated": "2026-10-14T11:28:05.628Z",
+  "generated": "2026-10-15T11:04:40.832Z",
   "newsItems": [
+    {
+      "title": "Frontex suspends reintegration program after blowing through its budget ",
+      "link": "https://www.politico.eu/article/frontex-suspends-reintegration-program-after-blowing-through-its-budget/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Thu, 15 Oct 2026 02:00:00 +0000",
+      "description": "The pause comes ahead of a proposed expansion of the EU border agency's role in returns, sharpening questions over how Brussels will fund its tougher deportation policy.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Why Ukrainian strikes on data centers are a real problem for Russia — and beyond",
+      "link": "https://www.politico.eu/article/ukrainian-strikes-data-centers-problem-russia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Thu, 15 Oct 2026 02:00:00 +0000",
+      "description": "Servers have become a target of war. As well as disrupting daily life, the strikes are raising questions of international law.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Disrupt, Strike, Assault and Endure: The 4 pillars of the US Army’s new warfare guidance ",
+      "link": "https://www.defensenews.com/news/your-military/2026/10/14/disrupt-strike-assault-and-endure-the-4-pillars-of-the-us-armys-new-warfare-guidance/",
+      "pubDate": "Wed, 14 Oct 2026 20:00:00 +0000",
+      "description": "“How The Army Fights” is a new 46-page U.S. Army-issued guide on how the service should fight — and survive — on the modern battlefield.",
+      "feedName": "Defense News"
+    },
+    {
+      "title": "SpaceX Restricts Military Starshield Speeds in Ukraine, Disrupting Pentagon-Funded Tactical Drone Operations",
+      "link": "https://satnews.com/2026/10/14/spacex-restricts-military-starshield-speeds-in-ukraine-disrupting-pentagon-funded-tactical-drone-operations/",
+      "pubDate": "Wed, 14 Oct 2026 13:44:25 +0000",
+      "description": "On Wednesday, October 14, 2026, SpaceX unilaterally implemented speed restrictions on military-grade Starshield satellite communication terminals operating across Ukraine, causing abrupt connectivity loss during active combat missions. The unannounced velocity [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Spain Approves Early Release of €65.8 Million in PAZ 2 Spy Satellite Funding",
+      "link": "https://europeanspaceflight.com/spain-approves-early-release-of-e65-8-million-in-paz-2-spy-satellite-funding/",
+      "pubDate": "Wed, 14 Oct 2026 13:10:12 +0000",
+      "description": "The Spanish government has approved a request from satellite operator Hisdesat to bring forward €65.8 million of a €1 billion loan for the PAZ 2 spy satellite programme to cover payments due earlier than originally anticipated. Published in Spain&#8217;s official gazette on 3 September, the adjustme",
+      "feedName": "European Spaceflight"
+    },
     {
       "title": "#SpaceWatchGL Analysis: The Sovereignty Test – What Happens When Earth Observation Dependencies Fail?",
       "link": "https://spacewatch.global/2026/10/spacewatchgl-analysis-the-sovereignty-test-what-happens-when-earth-observation-dependencies-fail/",
@@ -16,18 +51,18 @@
       "feedName": "SpaceWatch Global"
     },
     {
+      "title": "FBI disrupts North Korean 'laptop farms' used to fund weapons programs",
+      "link": "https://www.defenseone.com/threats/2026/10/fbi-north-korea-weapons/416601/",
+      "pubDate": "Tue, 13 Oct 2026 17:00:00 -0400",
+      "description": "Agents seized nearly 190 laptops across Texas in a crackdown on fraudulent remote workers.",
+      "feedName": "Defense One"
+    },
+    {
       "title": "Gogo Wins BizJet Deal for Duncan Aviation ",
       "link": "https://www.satellitetoday.com/mobility/2026/10/13/gogo-wins-bizjet-deal-for-duncan-aviation/",
       "pubDate": "Tue, 13 Oct 2026 19:58:36 +0000",
       "description": "Duncan Aviation, one of the world’s largest privately-owned business jet service providers signed a deal with Gogo to acquire 40 Gogo Galileo HDX systems, marking Gogo’s largest single MRO (maintenance, [&#8230;]\nThe post Gogo Wins BizJet Deal for Duncan Aviation  appeared first on Via Satellite.\n",
       "feedName": "Via Satellite"
-    },
-    {
-      "title": "Israel’s IAI unveils 3 new air defense systems at AUSA",
-      "link": "https://breakingdefense.com/2026/10/israels-iai-unveils-3-new-air-defense-systems-at-ausa/",
-      "pubDate": "Tue, 13 Oct 2026 17:52:05 +0000",
-      "description": "Unveiled today during the AUSA conference, the three systems represent the different approaches defense companies are pursuing as unmanned aerial vehicles reshape modern warfare.\n",
-      "feedName": "Breaking Defense"
     },
     {
       "title": "#SpaceWatchGL Recap: Riyadh Day One: What Europe Can Learn From Riyadh",
@@ -44,25 +79,11 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "METLEN, Thales Alenia Space, and Thales Hellas Partner for Greece’s Defense Satellite Communications System",
-      "link": "https://satnews.com/2026/10/12/metlen-thales-alenia-space-and-thales-hellas-partner-for-greeces-defense-satellite-communications-system/",
-      "pubDate": "Mon, 12 Oct 2026 22:15:50 +0000",
-      "description": "On October 12, 2026, Greek industrial conglomerate METLEN Energy &#38; Metals, satellite manufacturer Thales Alenia Space, and Thales Hellas executed a Memorandum of Understanding (MoU) to collaborate on the development [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "Ground Robots Are Arriving on the Front Lines",
       "link": "https://warontherocks.com/cogs-of-war/ground-robots-are-arriving-on-the-front-lines/",
       "pubDate": "Mon, 12 Oct 2026 08:00:11 +0000",
       "description": "For years, ground autonomy lagged well behind its counterparts in the air. That gap is starting to close. Jonathan is joined by Ryan Hartman (Ondas Sentinel) and Scott Philips (Forterra) to examine what it takes to field autonomous ground vehicles in combat. The conversation ranges across what Ukrai",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "#SpaceWatchGL Recap: IAC 2026 Day Four: Crowded Orbits, Open Interfaces",
-      "link": "https://spacewatch.global/2026/10/spacewatchgl-recap-iac-2026-day-four-crowded-orbits-open-interfaces/",
-      "pubDate": "Fri, 09 Oct 2026 07:30:00 +0000",
-      "description": "On the last plenary day of IAC 2026, ESA’s Holger Krag warned that today’s disposal rules legally leave a thousand dead satellites a year in orbit, Astroscale admitted there is no debris removal market yet, and Japan, ispace, SpaceX and ESA debated how open the Moon’s infrastructure should be. ",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Recent Taiwan simulation highlights US cyberdefense gaps against China, experts warn",
@@ -105,20 +126,6 @@
       "pubDate": "Thu, 01 Oct 2026 00:24:08 +0000",
       "description": "\nGalileo Space is building satellites designed to turn signals into answers in orbit. Modern defense and commercial operations need fast answers about what is happening and where. Existing systems can [&#8230;]\nThe post Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit app",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "ESA Selects Airbus and OHB to Lead European Space Station Studies",
-      "link": "https://europeanspaceflight.com/esa-selects-airbus-and-ohb-to-lead-european-space-station-studies/",
-      "pubDate": "Wed, 30 Sep 2026 10:10:12 +0000",
-      "description": "The European Space Agency has selected consortia led by Airbus Defence and Space and OHB to carry out parallel studies examining the feasibility of a future European-led outpost in low Earth orbit. ESA announced the two lead companies on 29 September. The agency added that six additional industrial ",
-      "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Pentagon update on National Defense Strategy cites progress, omits key threats",
-      "link": "https://www.defenseone.com/threats/2026/09/pentagon-update-national-defense-strategy-cites-progress-omits-key-threats/416329/",
-      "pubDate": "Wed, 30 Sep 2026 00:41:40 -0400",
-      "description": "The report to Congress  notes accomplishments but masks depleted arsenals, strategic distractions, and a quiet retreat from European defense.",
-      "feedName": "Defense One"
     },
     {
       "title": "Shrinking Buffers: Why Turkey and Israel Are on a Collision Course",
