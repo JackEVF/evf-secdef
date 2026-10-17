@@ -1,19 +1,26 @@
 {
-  "generated": "2026-10-16T11:00:01.216Z",
+  "generated": "2026-10-17T10:21:20.083Z",
   "newsItems": [
+    {
+      "title": "In Europe’s tech capital, Irish labor unions are booming amid AI-driven layoffs",
+      "link": "https://www.politico.eu/article/in-europe-tech-capital-ireland-irish-labor-unions-are-booming-amid-ai-layoffs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Fri, 16 Oct 2026 15:44:22 +0000",
+      "description": "With Ireland's lucrative tech sector hit by waves of layoffs linked to AI, the country's nascent tech union has seen a spike in sign-ups from workers worried about their future.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Israel secures procurement of 12 Apache gunships in last-minute maneuver",
+      "link": "https://www.defensenews.com/global/mideast-africa/2026/10/16/israel-secures-procurement-of-12-apache-gunships-in-last-minute-maneuver/",
+      "pubDate": "Fri, 16 Oct 2026 14:01:24 +0000",
+      "description": "Israel is set to acquire 12 Apache “Echo” attack helicopters from Boeing, according to an Israeli ministry of defense announcement this week.",
+      "feedName": "Defense News"
+    },
     {
       "title": "Latvian official warns Russia ‘tempted to test’ European readiness, sounds alarm over border issues",
       "link": "https://breakingdefense.com/2026/10/latvian-official-warns-russia-tempted-to-test-european-readiness-sounds-alarm-over-border-issues/",
       "pubDate": "Fri, 16 Oct 2026 10:00:00 +0000",
       "description": "Airis Rikveilis, the state secretary at Latvia’s Ministry of Defense, told Breaking Defense the military and border guards are working jointly to stem the tide of illegal entries, including via tunnels.\n",
       "feedName": "Breaking Defense"
-    },
-    {
-      "title": "Starlink and Starshield Throttled Over Ukraine, Renewing Calls for European Solutions",
-      "link": "https://spacewatch.global/2026/10/washington-throttles-starlink-and-starshield-over-ukraine-renewing-calls-for-european-solutions/",
-      "pubDate": "Fri, 16 Oct 2026 06:00:00 +0000",
-      "description": "Services provided by Starlink and its military counterpart Starshield have been curtailed over Ukraine. Devices moving faster than certain speeds having service disrupted. \n\nElon Musk took to X to claim that the cuts were ordered by the White House. Observers in Europe have pointed to the event as a",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Oct. 29: Applying AI to the GEOINT Mission",
@@ -35,13 +42,6 @@
       "pubDate": "Thu, 15 Oct 2026 12:30:00 +0000",
       "description": "BlackSky Technology inked a seven-figure deal to extend its partnership with Australian non-Earth imaging (NEI) provider HEO for another year. \nThe post BlackSky Renews HEO Deal, Adds Gen-3 Imagery for Space Domain Awareness appeared first on Payload.\n",
       "feedName": "Payload Space"
-    },
-    {
-      "title": "Disrupt, Strike, Assault and Endure: The 4 pillars of the US Army’s new warfare guidance ",
-      "link": "https://www.defensenews.com/news/your-military/2026/10/14/disrupt-strike-assault-and-endure-the-4-pillars-of-the-us-armys-new-warfare-guidance/",
-      "pubDate": "Wed, 14 Oct 2026 20:00:00 +0000",
-      "description": "“How The Army Fights” is a new 46-page U.S. Army-issued guide on how the service should fight — and survive — on the modern battlefield.",
-      "feedName": "Defense News"
     },
     {
       "title": "Spain Approves Early Release of €65.8 Million in PAZ 2 Spy Satellite Funding",
@@ -119,13 +119,6 @@
       "pubDate": "Tue, 06 Oct 2026 07:30:13 +0000",
       "description": "With the significant Israeli and U.S. military attacks against Iran in 2025 and early 2026, analysts have discussed and debated Iran&#8217;s ability to replenish its missile and drone arsenal. Since 2024, Iran has burned through thousands of ballistic missiles, cruise missiles, and one-way attack dr",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
-      "link": "https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/",
-      "pubDate": "Thu, 01 Oct 2026 14:40:51 +0000",
-      "description": "\nNoordwijk, the Netherlands &#124; September 22, 2026&#160;&#8211; During the international Industry Space Days 2026 event at the European Space Agency’s ESTEC facility in Noordwijk, the Netherlands, the Latvian Mobile Telephone [&#8230;]\nThe post LMT Group and Novaspace partner to develop strategy ",
-      "feedName": "SpaceNews"
     },
     {
       "title": "Shrinking Buffers: Why Turkey and Israel Are on a Collision Course",
