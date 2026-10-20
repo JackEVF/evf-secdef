@@ -1,6 +1,41 @@
 {
-  "generated": "2026-10-19T12:35:59.644Z",
+  "generated": "2026-10-20T11:09:42.735Z",
   "newsItems": [
+    {
+      "title": "BlackSky and HEO Expand Space-Domain Awareness Capabilities with Gen-3 Satellite Imagery",
+      "link": "https://spacewatch.global/2026/10/blacksky-and-heo-expand-space-domain-awareness-capabilities-with-gen-3-satellite-imagery/",
+      "pubDate": "Tue, 20 Oct 2026 06:00:00 +0000",
+      "description": "US space-based intelligence company BlackSky has signed a seven-figure annual contract extension with Australian space intelligence company HEO, adding imagery from the former's next-generation Gen-3 satellites to their non-Earth imaging partnership. \n\nAnnounced on October 15, 2026, the agreement gi",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "OHB Wins ESA Study Deal for Lunar Infrastructure",
+      "link": "https://www.satellitetoday.com/space-economy/2026/10/19/ohb-wins-esa-study-deal-for-lunar-infrastructure/",
+      "pubDate": "Mon, 19 Oct 2026 20:30:31 +0000",
+      "description": "OHB has won a new lunar infrastructure deal from the European Space Agency (ESA). Its subsidiary, OHB System AG, has won a feasibility and preliminary design studies deal for OASIS [&#8230;]\nThe post OHB Wins ESA Study Deal for Lunar Infrastructure appeared first on Via Satellite.\n",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Silicon Valley Space Week Speaker Focus: Matt Jenkins, Vantor",
+      "link": "https://satnews.com/2026/10/19/silicon-valley-space-week-speaker-focus-matt-jenkins-vantor/",
+      "pubDate": "Mon, 19 Oct 2026 20:05:15 +0000",
+      "description": "Vantor said on October 16 that it had integrated its visual positioning software with Sightline Intelligence's onboard vision system so drones can locate themselves and their targets when GPS is jammed. Matt Jenkins, the company's chief space systems officer, joins the panel on commercial geospatial",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Russian Satellite Maneuvered Within ‘Extreme Proximity’ of Iceye Satellite, LeoLabs Reports",
+      "link": "https://www.satellitetoday.com/government-military/2026/10/19/russian-satellite-maneuvered-within-extreme-proximity-of-iceye-satellite-leolabs-reports/",
+      "pubDate": "Mon, 19 Oct 2026 19:39:11 +0000",
+      "description": "Over the last few days, a Russian satellite deliberately maneuvered within “extreme proximity” of an Iceye satellite, according to space domain awareness data provider LeoLabs. Russia’s COSMOS 2612 began moving [&#8230;]\nThe post Russian Satellite Maneuvered Within ‘Extreme Proximity’ of Iceye Satel",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Commission suspects US fund negligence in Italian telecom deal",
+      "link": "https://www.rapporteur.com/news/commission-suspects-us-fund-negligence-in-italian-telecom-deal/",
+      "pubDate": "Mon, 19 Oct 2026 13:16:54 +0000",
+      "description": "Wholesale access price increased since the merger, telecom operators complained",
+      "feedName": "Euractiv"
+    },
     {
       "title": "#SpaceWatchGL Opinion: Satellites Tell You Where to Look. Then Someone Has to Go and Look.",
       "link": "https://spacewatch.global/2026/10/spacewatchgl-opinion-satellites-tell-you-where-to-look-then-someone-has-to-go-and-look/",
@@ -93,25 +128,11 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "ESA Selects Planet Subsidiary to Develop Slovenia’s Satellite-Based Disaster Response System",
-      "link": "https://spacewatch.global/2026/10/esa-selects-planet-subsidiary-to-develop-slovenias-satellite-based-disaster-response-system/",
-      "pubDate": "Wed, 14 Oct 2026 06:00:00 +0000",
-      "description": "ESA has selected Planet’s Sinergise Solutions to develop the Slovenia Space Resilience Node, a 12-month pilot linking automated Earth observation with rapid tasking of higher-resolution imagery, starting with wildfire management.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
       "title": "FBI disrupts North Korean 'laptop farms' used to fund weapons programs",
       "link": "https://www.defenseone.com/threats/2026/10/fbi-north-korea-weapons/416601/",
       "pubDate": "Tue, 13 Oct 2026 17:00:00 -0400",
       "description": "Agents seized nearly 190 laptops across Texas in a crackdown on fraudulent remote workers.",
       "feedName": "Defense One"
-    },
-    {
-      "title": "#SpaceWatchGL Recap: Riyadh Day One: What Europe Can Learn From Riyadh",
-      "link": "https://spacewatch.global/2026/10/spacewatchgl-recap-day-one-what-europe-can-learn-from-riyadh/",
-      "pubDate": "Tue, 13 Oct 2026 09:00:00 +0000",
-      "description": "Europe was not on the agenda in Riyadh, yet day one of the Global Space Connectivity &#038; Sustainability Events delivered five lessons for Brussels. They cover the D2D kill switch and IRIS², unlicensed satellite service in French overseas territories, Ookla’s D2D measurement data, the GSO/NGSO spe",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Ground Robots Are Arriving on the Front Lines",
