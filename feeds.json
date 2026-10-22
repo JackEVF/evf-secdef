@@ -1,6 +1,69 @@
 {
-  "generated": "2026-10-21T11:25:30.373Z",
+  "generated": "2026-10-22T11:25:26.751Z",
   "newsItems": [
+    {
+      "title": "Marble Imaging, Reflex Aerospace and Odysseus Space Partner on Laser-Enabled High-Res Earth Observation Mission",
+      "link": "https://spacewatch.global/2026/10/marble-imaging-reflex-aerospace-and-odysseus-space-partner-on-laser-enabled-high-res-earth-observation-mission/",
+      "pubDate": "Thu, 22 Oct 2026 06:00:00 +0000",
+      "description": "German Earth-observation company Marble Imaging has partnered with Reflex Aerospace and Odysseus Space on a satellite mission combining high-resolution Earth observation with laser-based data transmission. \n\nThe mission will use Marble Imaging’s first satellite, Marble Sat-1, scheduled to launch in ",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Remondo and Meissa Partner to Advance AI-Powered Earth Observation Solutions",
+      "link": "https://spacewatch.global/2026/10/remondo-and-meissa-partner-to-advance-ai-powered-earth-observation-solutions/",
+      "pubDate": "Thu, 22 Oct 2026 06:00:00 +0000",
+      "description": "Remondo and Meissa have signed an MoU to explore the integration of AI-powered satellite operations, image processing and Earth observation analytics. \n\nAnnounced on October 21, 2026, the agreement covers potential collaboration across the satellite mission lifecycle, from observation planning and d",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "INTERVIEW: European defence AI rivals not battle-tested, Palantir says",
+      "link": "https://www.rapporteur.com/news/interview-european-ai-rivals-are-not-yet-battle-tested-palantir-says/",
+      "pubDate": "Thu, 22 Oct 2026 02:00:41 +0000",
+      "description": "Sovereignty is about control not where your HQ is, the company's European chief says",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "Marble Imaging and Reflex Aerospace Select Odysseus Space Laser Terminal for First Satellite Mission",
+      "link": "https://satnews.com/2026/10/21/marble-imaging-and-reflex-aerospace-select-odysseus-space-laser-terminal-for-first-satellite-mission/",
+      "pubDate": "Wed, 21 Oct 2026 19:23:57 +0000",
+      "description": "On Wednesday, October 21, 2026, Earth observation operator Marble Imaging, satellite manufacturer Reflex Aerospace, and optical communications specialist Odysseus Space announced a joint mission to deploy space-to-ground laser communications aboard [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Silicon Valley Space Week Speaker Focus: Scot Currie, BlackSky",
+      "link": "https://satnews.com/2026/10/21/silicon-valley-space-week-speaker-focus-scot-currie-blacksky/",
+      "pubDate": "Wed, 21 Oct 2026 19:09:30 +0000",
+      "description": "BlackSky said on October 15 that it had extended an agreement with HEO into a third year, putting spare capacity on its imaging satellites to work photographing other satellites. Scot Currie, who ran the National Geospatial-Intelligence Agency group that managed national and commercial satellite ima",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Israel’s Elbit acquires Canadian company focused on autonomous underwater systems",
+      "link": "https://breakingdefense.com/2026/10/israels-elbit-acquires-canadian-company-focused-on-autonomous-underwater-systems/",
+      "pubDate": "Wed, 21 Oct 2026 17:29:24 +0000",
+      "description": "“ISE’s underwater technologies will further strengthen our position as a global provider of comprehensive, integrated maritime solutions,” Elbit President and CEO Bezhalel Machlis said in a company statement.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
+      "link": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/",
+      "pubDate": "Wed, 21 Oct 2026 15:00:22 +0000",
+      "description": "\nParis, France &#124; October 2026 – Global satellite services revenues are forecast to grow 44% to reach $145 billion by 2035, according to the 33rd edition of Novaspace’s Satellite Connectivity [&#8230;]\nThe post Global Satcom Services Revenues to Reach $145 Billion by 2035 appeared first on Space",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration",
+      "link": "https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/",
+      "pubDate": "Wed, 21 Oct 2026 12:00:00 +0000",
+      "description": "\nSAN FRANCISCO – Wi-Fi technology from Solstar Space connected NASA’s R5-S10 cubesat with Momentus’ Vigoride-7 orbital service vehicle during proximity operations and relayed data to NASA’s Johnson Space Center, Solstar [&#8230;]\nThe post Solstar provides Wi-Fi connectivity for NASA proximity operat",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "EXCLUSIVE: Key telecoms law MEP suggests reopening roaming rules",
+      "link": "https://www.rapporteur.com/news/exclusive-key-telecoms-law-mep-suggests-reopening-roaming-rules/",
+      "pubDate": "Wed, 21 Oct 2026 11:31:45 +0000",
+      "description": "Lead rapporteur eyes accelerating reductions in wholesale caps ",
+      "feedName": "Euractiv"
+    },
     {
       "title": "Latitudo 40 Raises €2.9 Million to Advance Agentic Earth Observation and Physical AI",
       "link": "https://spacewatch.global/2026/10/latitudo-40-raises-e2-9-million-to-advance-agentic-earth-observation-and-physical-ai/",
@@ -30,20 +93,6 @@
       "feedName": "Defense News"
     },
     {
-      "title": "Planet Labs Launches Pelican-12 Aboard SpaceX Bandwagon-5 to Test Orbital AI and Satellite Relays",
-      "link": "https://satnews.com/2026/10/20/planet-labs-launches-pelican-12-aboard-spacex-bandwagon-5-to-test-orbital-ai-and-satellite-relays/",
-      "pubDate": "Tue, 20 Oct 2026 15:14:17 +0000",
-      "description": "On Tuesday, October 20, 2026, Earth observation satellite operator Planet Labs PBC successfully launched its Pelican-12 spacecraft aboard SpaceX’s Bandwagon-5 rideshare mission from Cape Canaveral Space Force Station in Florida. [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Callala and University of Strathclyde Secure UK Space Agency Grant to Track Offshore Emissions for Sustainable Finance",
-      "link": "https://satnews.com/2026/10/20/callala-and-university-of-strathclyde-secure-uk-space-agency-grant-to-track-offshore-emissions-for-sustainable-finance/",
-      "pubDate": "Tue, 20 Oct 2026 14:11:14 +0000",
-      "description": "On Monday, October 12, 2026, the UK Space Agency awarded grant funding to environmental consultancy Callala Ltd and the University of Strathclyde to develop an Earth observation emissions tracking platform [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "Kallas warns of food ‘perfect storm’ amid EU price fears",
       "link": "https://www.rapporteur.com/news/kallas-warns-of-food-perfect-storm-amid-eu-price-fears/",
       "pubDate": "Tue, 20 Oct 2026 12:36:47 +0000",
@@ -63,34 +112,6 @@
       "pubDate": "Mon, 19 Oct 2026 20:30:31 +0000",
       "description": "OHB has won a new lunar infrastructure deal from the European Space Agency (ESA). Its subsidiary, OHB System AG, has won a feasibility and preliminary design studies deal for OASIS [&#8230;]\nThe post OHB Wins ESA Study Deal for Lunar Infrastructure appeared first on Via Satellite.\n",
       "feedName": "Via Satellite"
-    },
-    {
-      "title": "Silicon Valley Space Week Speaker Focus: Matt Jenkins, Vantor",
-      "link": "https://satnews.com/2026/10/19/silicon-valley-space-week-speaker-focus-matt-jenkins-vantor/",
-      "pubDate": "Mon, 19 Oct 2026 20:05:15 +0000",
-      "description": "Vantor said on October 16 that it had integrated its visual positioning software with Sightline Intelligence's onboard vision system so drones can locate themselves and their targets when GPS is jammed. Matt Jenkins, the company's chief space systems officer, joins the panel on commercial geospatial",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Russian Satellite Maneuvered Within ‘Extreme Proximity’ of Iceye Satellite, LeoLabs Reports",
-      "link": "https://www.satellitetoday.com/government-military/2026/10/19/russian-satellite-maneuvered-within-extreme-proximity-of-iceye-satellite-leolabs-reports/",
-      "pubDate": "Mon, 19 Oct 2026 19:39:11 +0000",
-      "description": "Over the last few days, a Russian satellite deliberately maneuvered within “extreme proximity” of an Iceye satellite, according to space domain awareness data provider LeoLabs. Russia’s COSMOS 2612 began moving [&#8230;]\nThe post Russian Satellite Maneuvered Within ‘Extreme Proximity’ of Iceye Satel",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "Commission suspects US fund negligence in Italian telecom deal",
-      "link": "https://www.rapporteur.com/news/commission-suspects-us-fund-negligence-in-italian-telecom-deal/",
-      "pubDate": "Mon, 19 Oct 2026 13:16:54 +0000",
-      "description": "Wholesale access price increased since the merger, telecom operators complained",
-      "feedName": "Euractiv"
-    },
-    {
-      "title": "#SpaceWatchGL Opinion: Satellites Tell You Where to Look. Then Someone Has to Go and Look.",
-      "link": "https://spacewatch.global/2026/10/spacewatchgl-opinion-satellites-tell-you-where-to-look-then-someone-has-to-go-and-look/",
-      "pubDate": "Mon, 19 Oct 2026 08:00:00 +0000",
-      "description": " Written by Waqas Jamil  . He argues that Earth observation has become very good at showing where change is happening and much less comfortable with what, why and what to do about it - and that the commercial value is shifting from the pixel that raises the alarm to the verified answer that closes t",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Oct. 29: Applying AI/SI to the GEOINT Mission",
@@ -133,13 +154,6 @@
       "pubDate": "Mon, 12 Oct 2026 08:00:11 +0000",
       "description": "For years, ground autonomy lagged well behind its counterparts in the air. That gap is starting to close. Jonathan is joined by Ryan Hartman (Ondas Sentinel) and Scott Philips (Forterra) to examine what it takes to field autonomous ground vehicles in combat. The conversation ranges across what Ukrai",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "ArianeGroup Completes Second Themis Wet Dress Rehearsal",
-      "link": "https://europeanspaceflight.com/arianegroup-completes-second-themis-wet-dress-rehearsal/",
-      "pubDate": "Wed, 07 Oct 2026 08:21:45 +0000",
-      "description": "The European Space Agency announced that ArianeGroup and SSC Space completed a second wet dress rehearsal of the Themis reusable rocket demonstrator at Esrange in Sweden. ESA announced the completion of the latest rehearsal on 7 October, saying that the test had taken place on 29 September. As with ",
-      "feedName": "European Spaceflight"
     },
     {
       "title": "Kindling, Catalyst, and Containment: Will the West Bank Ignite?",
