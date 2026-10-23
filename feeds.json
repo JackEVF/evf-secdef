@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-22T11:25:26.751Z",
+  "generated": "2026-10-23T11:15:09.999Z",
   "newsItems": [
+    {
+      "title": "ESA Director “Not Sure” Themis Will Make Its First Flight in 2026",
+      "link": "https://europeanspaceflight.com/esa-director-not-sure-themis-will-make-its-first-flight-in-2026/",
+      "pubDate": "Fri, 23 Oct 2026 11:06:47 +0000",
+      "description": "The European Space Agency&#8217;s (ESA) Director of Space Transportation, Géraldine Naja, said on 22 October that she was uncertain whether the agency would be able to complete the first flight of its Themis reusable rocket demonstrator before the end of the year. Speaking at a media briefing follow",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "ESA Council Names New Agency Directors for Commercialisation and Space Operations",
+      "link": "https://spacewatch.global/2026/10/esa-council-names-new-agency-directors-for-commercialisation-and-space-operations/",
+      "pubDate": "Fri, 23 Oct 2026 06:00:00 +0000",
+      "description": "The European Space Agency Council has approved the appointment of Andrzej Banasiak as Director of Commercialisation and Industry Partnership and Nicolaus Hanowski as Director of Space Operations. Announced on October 22 following the Council’s 350th meeting in Paris, both appointments will take effe",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "One Europe, One Market, Better Choices: Europe’s trading practices rules must deliver for farmers and consumers [Promoted Content]",
+      "link": "https://www.rapporteur.com/opinion/one-europe-one-market-better-choices-europes-trading-practices-rules-must-deliver-for-farmers-and-consumers/",
+      "pubDate": "Fri, 23 Oct 2026 05:00:11 +0000",
+      "description": "Written by Christel Delberghe. Europe must protect smaller farmers and keep food affordable. That means keeping unfair trading rules focused on those who need protection, while removing barriers that stop retailers and wholesalers from buying across the Single Market. Every morning, 26 million peopl",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "Space Development Agency Solicits Technologies for Tranche 4 Missile-Tracking Constellation",
+      "link": "https://satnews.com/2026/10/22/space-development-agency-solicits-technologies-for-tranche-4-missile-tracking-constellation/",
+      "pubDate": "Thu, 22 Oct 2026 17:31:14 +0000",
+      "description": "Seeking to close sensor tracking gaps against maneuvering hypersonic missiles throughout their entire flight envelopes, the Space Development Agency (SDA) issued a Request for Information (RFI) on Tuesday, October 20, [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Leonardo Infrared Sensor Returns to Orbit Aboard SatVu HotSat-3 Thermal Imaging Satellite",
+      "link": "https://satnews.com/2026/10/22/leonardo-infrared-sensor-returns-to-orbit-aboard-satvu-hotsat-3-thermal-imaging-satellite/",
+      "pubDate": "Thu, 22 Oct 2026 15:11:29 +0000",
+      "description": "On Thursday, October 1, 2026, British Earth observation company SatVu launched its HotSat-3 thermal imaging satellite aboard SpaceX’s Transporter-18 rideshare mission from Vandenberg Space Force Base in California. The spacecraft [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "ESA Provides New Details on Failed Space Rider Drop Test",
+      "link": "https://europeanspaceflight.com/esa-provides-new-details-on-failed-space-rider-drop-test/",
+      "pubDate": "Thu, 22 Oct 2026 15:02:37 +0000",
+      "description": "The European Space Agency (ESA) has provided new details about the failed Space Rider drop test, confirming that the vehicle&#8217;s parafoil detached during deployment, sending the full-scale test model back to terra firma more rapidly than planned. Speaking at an ESA media briefing on 22 October, ",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "Parliament leaves door open to non-EU countries in next defence budget",
+      "link": "https://www.rapporteur.com/news/parliament-leaves-door-open-to-non-eu-countries-in-next-defence-budget/",
+      "pubDate": "Thu, 22 Oct 2026 12:25:08 +0000",
+      "description": "MEPs want €136.1 billion for defence and space in the next MFF",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "How uncrewed surface vessels performing ISR help build persistent maritime awareness",
+      "link": "https://breakingdefense.com/2026/10/how-uncrewed-surface-vessels-performing-isr-help-build-persistent-maritime-awareness/",
+      "pubDate": "Thu, 22 Oct 2026 12:23:00 +0000",
+      "description": "[Sponsored] Think of sensing and detection as a network as opposed to individual unmanned surface vessels.\n",
+      "feedName": "Breaking Defense"
+    },
     {
       "title": "Marble Imaging, Reflex Aerospace and Odysseus Space Partner on Laser-Enabled High-Res Earth Observation Mission",
       "link": "https://spacewatch.global/2026/10/marble-imaging-reflex-aerospace-and-odysseus-space-partner-on-laser-enabled-high-res-earth-observation-mission/",
@@ -27,13 +83,6 @@
       "link": "https://satnews.com/2026/10/21/marble-imaging-and-reflex-aerospace-select-odysseus-space-laser-terminal-for-first-satellite-mission/",
       "pubDate": "Wed, 21 Oct 2026 19:23:57 +0000",
       "description": "On Wednesday, October 21, 2026, Earth observation operator Marble Imaging, satellite manufacturer Reflex Aerospace, and optical communications specialist Odysseus Space announced a joint mission to deploy space-to-ground laser communications aboard [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Silicon Valley Space Week Speaker Focus: Scot Currie, BlackSky",
-      "link": "https://satnews.com/2026/10/21/silicon-valley-space-week-speaker-focus-scot-currie-blacksky/",
-      "pubDate": "Wed, 21 Oct 2026 19:09:30 +0000",
-      "description": "BlackSky said on October 15 that it had extended an agreement with HEO into a third year, putting spare capacity on its imaging satellites to work photographing other satellites. Scot Currie, who ran the National Geospatial-Intelligence Agency group that managed national and commercial satellite ima",
       "feedName": "Satnews"
     },
     {
@@ -93,27 +142,6 @@
       "feedName": "Defense News"
     },
     {
-      "title": "Kallas warns of food ‘perfect storm’ amid EU price fears",
-      "link": "https://www.rapporteur.com/news/kallas-warns-of-food-perfect-storm-amid-eu-price-fears/",
-      "pubDate": "Tue, 20 Oct 2026 12:36:47 +0000",
-      "description": "Costlier fertilisers and disrupted trade threaten to push up supermarket prices",
-      "feedName": "Euractiv"
-    },
-    {
-      "title": "BlackSky and HEO Expand Space-Domain Awareness Capabilities with Gen-3 Satellite Imagery",
-      "link": "https://spacewatch.global/2026/10/blacksky-and-heo-expand-space-domain-awareness-capabilities-with-gen-3-satellite-imagery/",
-      "pubDate": "Tue, 20 Oct 2026 06:00:00 +0000",
-      "description": "US space-based intelligence company BlackSky has signed a seven-figure annual contract extension with Australian space intelligence company HEO, adding imagery from the former's next-generation Gen-3 satellites to their non-Earth imaging partnership. \n\nAnnounced on October 15, 2026, the agreement gi",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "OHB Wins ESA Study Deal for Lunar Infrastructure",
-      "link": "https://www.satellitetoday.com/space-economy/2026/10/19/ohb-wins-esa-study-deal-for-lunar-infrastructure/",
-      "pubDate": "Mon, 19 Oct 2026 20:30:31 +0000",
-      "description": "OHB has won a new lunar infrastructure deal from the European Space Agency (ESA). Its subsidiary, OHB System AG, has won a feasibility and preliminary design studies deal for OASIS [&#8230;]\nThe post OHB Wins ESA Study Deal for Lunar Infrastructure appeared first on Via Satellite.\n",
-      "feedName": "Via Satellite"
-    },
-    {
       "title": "Oct. 29: Applying AI/SI to the GEOINT Mission",
       "link": "https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/",
       "pubDate": "Thu, 15 Oct 2026 20:41:50 +0000",
@@ -126,13 +154,6 @@
       "pubDate": "Thu, 15 Oct 2026 15:31:35 -0400",
       "description": "WASHINGTON&mdash;Six anti-war protestors disrupted an autonomous warfare discussion featuring Pentagon chief Pete Hegseth and the military service secretaries Wednesday at the Army&rsquo;s annual conference. By the time the third protester shouted denouncements of the U.S.-Iran war, some members of ",
       "feedName": "Defense One"
-    },
-    {
-      "title": "BlackSky Renews HEO Deal, Adds Gen-3 Imagery for Space Domain Awareness",
-      "link": "https://payloadspace.com/blacksky-renews-heo-deal-adds-gen-3-imagery-for-space-domain-awareness/",
-      "pubDate": "Thu, 15 Oct 2026 12:30:00 +0000",
-      "description": "BlackSky Technology inked a seven-figure deal to extend its partnership with Australian non-Earth imaging (NEI) provider HEO for another year. \nThe post BlackSky Renews HEO Deal, Adds Gen-3 Imagery for Space Domain Awareness appeared first on Payload.\n",
-      "feedName": "Payload Space"
     },
     {
       "title": "Spain Approves Early Release of €65.8 Million in PAZ 2 Spy Satellite Funding",
