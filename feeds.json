@@ -1,6 +1,13 @@
 {
-  "generated": "2026-10-24T10:34:17.985Z",
+  "generated": "2026-10-25T10:59:10.614Z",
   "newsItems": [
+    {
+      "title": "Handheld Satellite Downlink System for Frontline Drone Targeting",
+      "link": "https://satnews.com/2026/10/24/handheld-satellite-downlink-system-for-frontline-drone-targeting/",
+      "pubDate": "Sat, 24 Oct 2026 23:50:03 +0000",
+      "description": "Targeting protracted delays in transmitting space-based reconnaissance to forward combat units, Dutch defense technology firm Bravo1Alpha B.V. has deployed its Close Satellite Support tactical system to stream commercial satellite imagery [&#8230;]",
+      "feedName": "Satnews"
+    },
     {
       "title": "What’s not on the ballot in Israel: Peace",
       "link": "https://www.politico.eu/article/peace-is-not-on-the-ballot-in-israeli-elections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
@@ -55,13 +62,6 @@
       "link": "https://satnews.com/2026/10/22/space-development-agency-solicits-technologies-for-tranche-4-missile-tracking-constellation/",
       "pubDate": "Thu, 22 Oct 2026 17:31:14 +0000",
       "description": "Seeking to close sensor tracking gaps against maneuvering hypersonic missiles throughout their entire flight envelopes, the Space Development Agency (SDA) issued a Request for Information (RFI) on Tuesday, October 20, [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Leonardo Infrared Sensor Returns to Orbit Aboard SatVu HotSat-3 Thermal Imaging Satellite",
-      "link": "https://satnews.com/2026/10/22/leonardo-infrared-sensor-returns-to-orbit-aboard-satvu-hotsat-3-thermal-imaging-satellite/",
-      "pubDate": "Thu, 22 Oct 2026 15:11:29 +0000",
-      "description": "On Thursday, October 1, 2026, British Earth observation company SatVu launched its HotSat-3 thermal imaging satellite aboard SpaceX’s Transporter-18 rideshare mission from Vandenberg Space Force Base in California. The spacecraft [&#8230;]",
       "feedName": "Satnews"
     },
     {
@@ -154,13 +154,6 @@
       "pubDate": "Wed, 14 Oct 2026 13:10:12 +0000",
       "description": "The Spanish government has approved a request from satellite operator Hisdesat to bring forward €65.8 million of a €1 billion loan for the PAZ 2 spy satellite programme to cover payments due earlier than originally anticipated. Published in Spain&#8217;s official gazette on 3 September, the adjustme",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "FBI disrupts North Korean 'laptop farms' used to fund weapons programs",
-      "link": "https://www.defenseone.com/threats/2026/10/fbi-north-korea-weapons/416601/",
-      "pubDate": "Tue, 13 Oct 2026 17:00:00 -0400",
-      "description": "Agents seized nearly 190 laptops across Texas in a crackdown on fraudulent remote workers.",
-      "feedName": "Defense One"
     },
     {
       "title": "Ground Robots Are Arriving on the Front Lines",
