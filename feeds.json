@@ -1,19 +1,19 @@
 {
-  "generated": "2026-10-25T10:59:10.614Z",
+  "generated": "2026-10-26T12:31:31.131Z",
   "newsItems": [
+    {
+      "title": "Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg",
+      "link": "https://europeanspaceflight.com/australia-counters-esas-offer-for-mission-to-iss-for-bennell-pegg/",
+      "pubDate": "Mon, 26 Oct 2026 10:53:24 +0000",
+      "description": "The Australian government has submitted a counteroffer to the European Space Agency (ESA) to secure a flight to the International Space Station for Australian astronaut Katherine Bennell-Pegg. Support for the mission is not universal in Australia, with one government official calling the spending “r",
+      "feedName": "European Spaceflight"
+    },
     {
       "title": "Handheld Satellite Downlink System for Frontline Drone Targeting",
       "link": "https://satnews.com/2026/10/24/handheld-satellite-downlink-system-for-frontline-drone-targeting/",
       "pubDate": "Sat, 24 Oct 2026 23:50:03 +0000",
       "description": "Targeting protracted delays in transmitting space-based reconnaissance to forward combat units, Dutch defense technology firm Bravo1Alpha B.V. has deployed its Close Satellite Support tactical system to stream commercial satellite imagery [&#8230;]",
       "feedName": "Satnews"
-    },
-    {
-      "title": "What’s not on the ballot in Israel: Peace",
-      "link": "https://www.politico.eu/article/peace-is-not-on-the-ballot-in-israeli-elections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Sat, 24 Oct 2026 02:00:00 +0000",
-      "description": "At some point, Israelis will have to have conversations about peace and how to reach a settlement with Palestinians. But in this election, the critical issue has just been avoided. ",
-      "feedName": "Politico Europe"
     },
     {
       "title": "Trends in European Space Defense: A Strategic Shift in Space",
@@ -58,13 +58,6 @@
       "feedName": "Euractiv"
     },
     {
-      "title": "Space Development Agency Solicits Technologies for Tranche 4 Missile-Tracking Constellation",
-      "link": "https://satnews.com/2026/10/22/space-development-agency-solicits-technologies-for-tranche-4-missile-tracking-constellation/",
-      "pubDate": "Thu, 22 Oct 2026 17:31:14 +0000",
-      "description": "Seeking to close sensor tracking gaps against maneuvering hypersonic missiles throughout their entire flight envelopes, the Space Development Agency (SDA) issued a Request for Information (RFI) on Tuesday, October 20, [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "ESA Provides New Details on Failed Space Rider Drop Test",
       "link": "https://europeanspaceflight.com/esa-provides-new-details-on-failed-space-rider-drop-test/",
       "pubDate": "Thu, 22 Oct 2026 15:02:37 +0000",
@@ -77,13 +70,6 @@
       "pubDate": "Thu, 22 Oct 2026 12:25:08 +0000",
       "description": "MEPs want €136.1 billion for defence and space in the next MFF",
       "feedName": "Euractiv"
-    },
-    {
-      "title": "How uncrewed surface vessels performing ISR help build persistent maritime awareness",
-      "link": "https://breakingdefense.com/2026/10/how-uncrewed-surface-vessels-performing-isr-help-build-persistent-maritime-awareness/",
-      "pubDate": "Thu, 22 Oct 2026 12:23:00 +0000",
-      "description": "[Sponsored] Think of sensing and detection as a network as opposed to individual unmanned surface vessels.\n",
-      "feedName": "Breaking Defense"
     },
     {
       "title": "Marble Imaging, Reflex Aerospace and Odysseus Space Partner on Laser-Enabled High-Res Earth Observation Mission",
@@ -100,32 +86,11 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "INTERVIEW: European defence AI rivals not battle-tested, Palantir says",
-      "link": "https://www.rapporteur.com/news/interview-european-ai-rivals-are-not-yet-battle-tested-palantir-says/",
-      "pubDate": "Thu, 22 Oct 2026 02:00:41 +0000",
-      "description": "Sovereignty is about control not where your HQ is, the company's European chief says",
-      "feedName": "Euractiv"
-    },
-    {
       "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
       "link": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/",
       "pubDate": "Wed, 21 Oct 2026 15:00:22 +0000",
       "description": "\nParis, France &#124; October 2026 – Global satellite services revenues are forecast to grow 44% to reach $145 billion by 2035, according to the 33rd edition of Novaspace’s Satellite Connectivity [&#8230;]\nThe post Global Satcom Services Revenues to Reach $145 Billion by 2035 appeared first on Space",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "EXCLUSIVE: Key telecoms law MEP suggests reopening roaming rules",
-      "link": "https://www.rapporteur.com/news/exclusive-key-telecoms-law-mep-suggests-reopening-roaming-rules/",
-      "pubDate": "Wed, 21 Oct 2026 11:31:45 +0000",
-      "description": "Lead rapporteur eyes accelerating reductions in wholesale caps ",
-      "feedName": "Euractiv"
-    },
-    {
-      "title": "Latitudo 40 Raises €2.9 Million to Advance Agentic Earth Observation and Physical AI",
-      "link": "https://spacewatch.global/2026/10/latitudo-40-raises-e2-9-million-to-advance-agentic-earth-observation-and-physical-ai/",
-      "pubDate": "Wed, 21 Oct 2026 06:00:00 +0000",
-      "description": "Latitudo 40 has raised €2.9 million to accelerate its technological development and international expansion. Announced on September 30, the investment will fund further development of the company’s technology platform, research and development, and commercial expansion into international markets.",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Congress Seeks Answers On Starlink Disruptions in Ukraine",
