@@ -1,6 +1,62 @@
 {
-  "generated": "2026-10-26T12:31:31.131Z",
+  "generated": "2026-10-27T11:49:31.286Z",
   "newsItems": [
+    {
+      "title": "#SpaceWatchGL Opinion: Space Is Not the Hero. It’s the Infrastructure.",
+      "link": "https://spacewatch.global/2026/10/spacewatchgl-opinion-space-is-not-the-hero-its-the-infrastructure/",
+      "pubDate": "Tue, 27 Oct 2026 09:00:00 +0000",
+      "description": " Written by Torsten Kriening .  Wildfire is testing whether Europe’s space sector can stop selling pixels and start acting like infrastructure. At a Munich Climate Week panel hosted by OroraTech and Airbus Defence and Space, firefighters made clear what they need from orbit: knowledge, connectivity ",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "THE HACK: Anthropic discloses ‘Brussels effect’ risk",
+      "link": "https://www.rapporteur.com/news/the-hack-anthropic-discloses-brussels-effect-risk/",
+      "pubDate": "Tue, 27 Oct 2026 08:28:08 +0000",
+      "description": "In today's edition: Canada-IRIS², EU Inc, French riots",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "Israel’s EU fork in the road",
+      "link": "https://www.rapporteur.com/news/rapporteur-am-israels-eu-fork-in-the-road/",
+      "pubDate": "Tue, 27 Oct 2026 06:26:54 +0000",
+      "description": "Also, in Monday’s edition: a major climate policy shift",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "Parlamentswahl in Israel: Hoffnung auf einen Neuanfang?",
+      "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/parlamentswahl-in-israel-hoffnung-auf-einen-neuanfang/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Tue, 27 Oct 2026 04:15:00 +0000",
+      "description": "Präsentiert von YouTube.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Cyprus to acquire new offshore patrol vessel with ‘advanced’ naval systems from Israel",
+      "link": "https://breakingdefense.com/2026/10/cyprus-to-acquire-new-offshore-patrol-vessel-with-advanced-naval-systems-from-israel/",
+      "pubDate": "Mon, 26 Oct 2026 18:11:59 +0000",
+      "description": "The new patrol vessel will be built by Israel Shipyards and &#8220;support expanded patrol, surveillance, and search-and-rescue missions,&#8221; according to Israel&#8217;s Ministry of Defense.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "EarthDaily Wins $3 Million NASA Task Order to Benchmark Satellite Data Against Landsat Standards",
+      "link": "https://satnews.com/2026/10/26/earthdaily-wins-3-million-nasa-task-order-to-benchmark-satellite-data-against-landsat-standards/",
+      "pubDate": "Mon, 26 Oct 2026 14:35:20 +0000",
+      "description": "On Monday, October 26, 2026, Earth observation operator EarthDaily announced it has received a $3 million task order from NASA to integrate EarthDaily Constellation data with federal land imaging programs. [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Telespazio and EUSPA Sign Agreement to Expand Galileo Fucino Control Centre for Second-Generation Constellation",
+      "link": "https://satnews.com/2026/10/26/telespazio-and-euspa-sign-agreement-to-expand-galileo-fucino-control-centre-for-second-generation-constellation/",
+      "pubDate": "Mon, 26 Oct 2026 14:05:29 +0000",
+      "description": "On Monday, October 26, 2026, European space services provider Telespazio and the European Union Agency for the Space Programme (EUSPA) signed an agreement to expand the Galileo Control Centre at [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "EU eyes Canada joining Europe’s Starlink alternative IRIS²",
+      "link": "https://www.rapporteur.com/news/eu-eyes-canada-joining-europes-starlink-alternative-iris%c2%b2/",
+      "pubDate": "Mon, 26 Oct 2026 13:27:35 +0000",
+      "description": "Toronto wouldn't be first foreign participant in EU's secure satellite constellation",
+      "feedName": "Euractiv"
+    },
     {
       "title": "Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg",
       "link": "https://europeanspaceflight.com/australia-counters-esas-offer-for-mission-to-iss-for-bennell-pegg/",
@@ -14,13 +70,6 @@
       "pubDate": "Sat, 24 Oct 2026 23:50:03 +0000",
       "description": "Targeting protracted delays in transmitting space-based reconnaissance to forward combat units, Dutch defense technology firm Bravo1Alpha B.V. has deployed its Close Satellite Support tactical system to stream commercial satellite imagery [&#8230;]",
       "feedName": "Satnews"
-    },
-    {
-      "title": "Trends in European Space Defense: A Strategic Shift in Space",
-      "link": "https://www.satellitetoday.com/webinar/live-webinar-series/2026/10/23/trends-in-european-space-defense-a-strategic-shift-in-space/",
-      "pubDate": "Fri, 23 Oct 2026 19:16:43 +0000",
-      "description": "Europe is rapidly redefining its approach to space security and defense. Join us for an in-depth webinar exploring the strategies, investments, and initiatives reshaping the European space defense landscape. Across [&#8230;]\nThe post Trends in European Space Defense: A Strategic Shift in Space appea",
-      "feedName": "Via Satellite"
     },
     {
       "title": "Solstar Demonstrated Space Wi-Fi Technology in Recent RPO Mission With NASA ",
@@ -63,13 +112,6 @@
       "pubDate": "Thu, 22 Oct 2026 15:02:37 +0000",
       "description": "The European Space Agency (ESA) has provided new details about the failed Space Rider drop test, confirming that the vehicle&#8217;s parafoil detached during deployment, sending the full-scale test model back to terra firma more rapidly than planned. Speaking at an ESA media briefing on 22 October, ",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Parliament leaves door open to non-EU countries in next defence budget",
-      "link": "https://www.rapporteur.com/news/parliament-leaves-door-open-to-non-eu-countries-in-next-defence-budget/",
-      "pubDate": "Thu, 22 Oct 2026 12:25:08 +0000",
-      "description": "MEPs want €136.1 billion for defence and space in the next MFF",
-      "feedName": "Euractiv"
     },
     {
       "title": "Marble Imaging, Reflex Aerospace and Odysseus Space Partner on Laser-Enabled High-Res Earth Observation Mission",
