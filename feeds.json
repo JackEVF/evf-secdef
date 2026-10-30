@@ -1,6 +1,48 @@
 {
-  "generated": "2026-10-29T12:33:21.456Z",
+  "generated": "2026-10-30T12:24:38.432Z",
   "newsItems": [
+    {
+      "title": "Telesat Stays Quiet on C$2.4B GEO Debt Due in December",
+      "link": "https://payloadspace.com/telesat-stays-quiet-on-c2-4b-geo-debt-due-in-december/",
+      "pubDate": "Fri, 30 Oct 2026 12:00:00 +0000",
+      "description": "Telesat CEO Dan Goldberg told analysts the company was “pretty constrained” in what it could say about refinancing its legacy GEO debt.\nThe post Telesat Stays Quiet on C$2.4B GEO Debt Due in December appeared first on Payload.\n",
+      "feedName": "Payload Space"
+    },
+    {
+      "title": "European Defence Week: connecting Europe’s defence ecosystem [Promoted Content]",
+      "link": "https://www.rapporteur.com/opinion/european-defence-week/",
+      "pubDate": "Fri, 30 Oct 2026 11:00:41 +0000",
+      "description": "Europe is investing heavily in defence, but the real challenge is to enable stakeholders that have historically operated in silos to work together. This is the ambition of the European Defence Alliance, which brings together armed forces, startups, industrial companies and investors, with partners s",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "INTERVIEW: Austria keen for more EU defence cooperation, procurement",
+      "link": "https://www.rapporteur.com/news/interview-austria-keen-for-more-eu-defence-cooperation-procurement/",
+      "pubDate": "Fri, 30 Oct 2026 03:00:48 +0000",
+      "description": "The neutral country however called for a more practical rather than institutional approach",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "INTERVIEW: GEOSAT chief warns of Europe’s space dependencies",
+      "link": "https://www.rapporteur.com/news/interview-geosat-chief-warns-of-europes-space-dependencies/",
+      "pubDate": "Fri, 30 Oct 2026 03:00:18 +0000",
+      "description": "From Starlink disruptions to GPS jamming, Ukraine's war has exposed Europe's space vulnerabilities",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "Telesat Delays Lightspeed Service Entry to Mid-2028; Goldberg Addresses Launch Crunch and Sovereign Demand ",
+      "link": "https://www.satellitetoday.com/finance/2026/10/29/telesat-delays-lightspeed-service-entry-to-mid-2028-goldberg-addresses-launch-crunch-and-sovereign-demand/",
+      "pubDate": "Thu, 29 Oct 2026 19:50:14 +0000",
+      "description": "Telesat is pushing back the full entry into service for its Lightspeed constellation by three months as it deals with a tight launch market to get its initial two satellites [&#8230;]\nThe post Telesat Delays Lightspeed Service Entry to Mid-2028; Goldberg Addresses Launch Crunch and Sovereign Demand ",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "What Israel’s Election Results Mean for the Middle East and Beyond",
+      "link": "https://warontherocks.com/what-israels-election-results-mean-for-the-middle-east-and-beyond/",
+      "pubDate": "Thu, 29 Oct 2026 18:15:57 +0000",
+      "description": "Israeli elections on Oct. 27 produced a complex result, with neither Prime Minister Benjamin Netanyahu&#8217;s bloc nor the opposition alliance, led by Gadi Eisenkot, winning enough seats in the Knesset to form a government. The opposition faces a tricky choice: attempt to form a unity government wi",
+      "feedName": "War on the Rocks"
+    },
     {
       "title": "Irish police fear attack during European summits",
       "link": "https://www.rapporteur.com/news/irish-police-fear-attack-during-european-summits/",
@@ -142,13 +184,6 @@
       "feedName": "Euractiv"
     },
     {
-      "title": "EU floats new powers for Frontex to tackle social media disinformation",
-      "link": "https://www.rapporteur.com/news/eu-floats-new-powers-for-frontex-to-tackle-social-media-disinformation/",
-      "pubDate": "Tue, 27 Oct 2026 15:35:48 +0000",
-      "description": "Border agency could become 'trusted flagger' under EU platform rules, as bloc eyes migrant crises",
-      "feedName": "Euractiv"
-    },
-    {
       "title": "ESA’s INVICTUS Hypersonic Programme Clears First Major Review",
       "link": "https://europeanspaceflight.com/esas-invictus-hypersonic-programme-clears-first-major-review/",
       "pubDate": "Tue, 27 Oct 2026 14:32:07 +0000",
@@ -170,20 +205,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "THE HACK: Anthropic discloses ‘Brussels effect’ risk",
-      "link": "https://www.rapporteur.com/news/the-hack-anthropic-discloses-brussels-effect-risk/",
-      "pubDate": "Tue, 27 Oct 2026 08:28:08 +0000",
-      "description": "In today's edition: Canada-IRIS², EU Inc, French riots",
-      "feedName": "Euractiv"
-    },
-    {
-      "title": "Israel’s EU fork in the road",
-      "link": "https://www.rapporteur.com/news/rapporteur-am-israels-eu-fork-in-the-road/",
-      "pubDate": "Tue, 27 Oct 2026 06:26:54 +0000",
-      "description": "Also, in Tuesday’s edition: a major climate policy shift",
-      "feedName": "Euractiv"
-    },
-    {
       "title": "Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg",
       "link": "https://europeanspaceflight.com/australia-counters-esas-offer-for-mission-to-iss-for-bennell-pegg/",
       "pubDate": "Mon, 26 Oct 2026 10:53:24 +0000",
@@ -196,13 +217,6 @@
       "pubDate": "Fri, 23 Oct 2026 11:06:47 +0000",
       "description": "The European Space Agency&#8217;s (ESA) Director of Space Transportation, Géraldine Naja, said on 22 October that she was uncertain whether the agency would be able to complete the first flight of its Themis reusable rocket demonstrator before the end of the year. Speaking at a media briefing follow",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "ESA Council Names New Agency Directors for Commercialisation and Space Operations",
-      "link": "https://spacewatch.global/2026/10/esa-council-names-new-agency-directors-for-commercialisation-and-space-operations/",
-      "pubDate": "Fri, 23 Oct 2026 06:00:00 +0000",
-      "description": "The European Space Agency Council has approved the appointment of Andrzej Banasiak as Director of Commercialisation and Industry Partnership and Nicolaus Hanowski as Director of Space Operations. Announced on October 22 following the Council’s 350th meeting in Paris, both appointments will take effe",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "ESA Provides New Details on Failed Space Rider Drop Test",
@@ -219,10 +233,10 @@
       "feedName": "SpaceNews"
     },
     {
-      "title": "Oct. 29: Applying AI/SI to the GEOINT Mission",
+      "title": "Replay: Applying AI/SI to the GEOINT Mission",
       "link": "https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/",
       "pubDate": "Thu, 15 Oct 2026 20:41:50 +0000",
-      "description": "\nJoin us for a conversation on how machine learning is transforming the GEOINT mission across different markets\nThe post Oct. 29: Applying AI/SI to the GEOINT Mission appeared first on SpaceNews.\n",
+      "description": "\nA conversation on how machine learning is transforming the GEOINT mission across different markets\nThe post Replay: Applying AI/SI to the GEOINT Mission appeared first on SpaceNews.\n",
       "feedName": "SpaceNews"
     },
     {
