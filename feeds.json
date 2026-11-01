@@ -1,6 +1,27 @@
 {
-  "generated": "2026-10-31T11:54:34.117Z",
+  "generated": "2026-11-01T12:53:55.590Z",
   "newsItems": [
+    {
+      "title": "Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement",
+      "link": "https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/",
+      "pubDate": "Sun, 01 Nov 2026 08:16:51 +0000",
+      "description": "Canadian space technology company MDA Space has signed an agreement with Thales Alenia Space to begin work on digital antennas for the first 66 satellites of the European Union&#8217;s IRIS2 secure connectivity constellation. The agreement comes as Canada and the EU have announced plans to explore C",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "Telesat Delays Lightspeed Constellation Service to Mid-2028 Following Pathfinder Software Delays",
+      "link": "https://satnews.com/2026/10/31/telesat-delays-lightspeed-constellation-service-to-mid-2028-following-pathfinder-software-delays/",
+      "pubDate": "Sat, 31 Oct 2026 22:30:07 +0000",
+      "description": "OTTAWA, Ontario — Telesat has delayed the commercial rollout of its Lightspeed low Earth orbit (LEO) satellite constellation by three months, targeting full global service by the end of the [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "SDSC 2026 – A Sandbox for Space Threats: Mari Allik of Spaceit on Testing Before You Launch",
+      "link": "https://spacewatch.global/2026/10/sdsc-2026-a-sandbox-for-space-threats-mari-allik-of-spaceit-on-testing-before-you-launch/",
+      "pubDate": "Sat, 31 Oct 2026 17:00:00 +0000",
+      "description": "From the Software-Defined Space Conference in Tallinn, Spaceit COO Mari Allik joins Daniela Jovic to explain the ESA-backed Space Cyber Range for testing attack scenarios before launch, and a 16U CubeSat with a quarter of its mission open to anyone wanting to fly code in orbit.",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "MDA Space to Build Antenna Subsystems for 66 IRIS² LEO Satellites",
       "link": "https://www.satellitetoday.com/technology/2026/10/30/mda-space-to-build-antenna-subsystems-for-66-iris%c2%b2-leo-satellites/",
@@ -84,13 +105,6 @@
       "pubDate": "Thu, 29 Oct 2026 07:00:00 +0000",
       "description": "Astroscale’s UK subsidiary has secured a £15 million contract from the UK Ministry of Defence (MoD) to lead Project LEDA, a new defense program intended to strengthen the country’s ability to understand and respond to threats in orbit. \n\nSeparately, OHB SE and Astroscale Holdings Inc. have signed a ",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "DIA Space Security Report Reveals Detailed Orbital Imagery of China’s Shenlong Spaceplane",
-      "link": "https://satnews.com/2026/10/28/dia-space-security-report-reveals-detailed-orbital-imagery-of-chinas-shenlong-spaceplane/",
-      "pubDate": "Wed, 28 Oct 2026 21:34:39 +0000",
-      "description": "In an unclassified space security assessment released Monday, Oct. 26, the Defense Intelligence Agency (DIA) published high-resolution orbital imagery detailing China’s secretive Shenlong robotic spaceplane. The image, collected in 2024 [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "Risk, Reward, and Agility: The New Themes for European Nations in Space Defense",
