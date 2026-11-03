@@ -1,6 +1,48 @@
 {
-  "generated": "2026-11-02T15:08:36.209Z",
+  "generated": "2026-11-03T13:52:11.942Z",
   "newsItems": [
+    {
+      "title": "#SpaceWatchGL Opinion: Bailouts, Billions and Satellites: Europe’s Space Defence Illusion",
+      "link": "https://spacewatch.global/2026/11/spacewatchgl-opinion-bailouts-billions-and-satellites-europes-space-defence-illusion/",
+      "pubDate": "Tue, 03 Nov 2026 09:00:00 +0000",
+      "description": " Written by K.-P. Ludwig.  Europe is spending billions on space security, yet national programmes, industrial interests and fragmented architectures continue to pull in different directions. K.-P. asks whether Europe is building genuine defence capability – or an increasingly expensive target catalo",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "ERMIS-3 Demonstrates 1 Gbps Optical Downlink in Milestone for Greek Space Program",
+      "link": "https://spacewatch.global/2026/11/ermis-3-demonstrates-1-gbps-optical-downlink-in-milestone-for-greek-space-program/",
+      "pubDate": "Tue, 03 Nov 2026 07:00:00 +0000",
+      "description": "Greece's ERMIS-3 CubeSat has successfully established an optical communications link with a ground station in the country, demonstrating laser-based data transmission between a small satellite in low Earth orbit and Earth. \n\nThe achievement marks Greece's first successful optical link with a LEO sat",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "MDA Space Secures C$100M+ Thales Alenia Space Award for First 66 IRIS² Satellites",
+      "link": "https://satnews.com/2026/11/02/mda-space-secures-c100m-thales-alenia-space-award-for-first-66-iris%c2%b2-satellites/",
+      "pubDate": "Mon, 02 Nov 2026 23:50:02 +0000",
+      "description": "TORONTO — Canadian space technology provider MDA Space has secured an initial contract valued at more than C$100 million ($72 million) from prime contractor Thales Alenia Space to supply digital [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Hydrosat Launches Thermal Imaging Capability for Tactical ISR ",
+      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/11/02/hydrosat-launches-thermal-imaging-capability-for-tactical-isr/",
+      "pubDate": "Mon, 02 Nov 2026 21:27:15 +0000",
+      "description": "Hydrosat is launching a new thermal imaging product geared toward tactical intelligence, surveillance, and reconnaissance (ISR) use cases as it plans to expand its manufacturing capabilities in Europe to support [&#8230;]\nThe post Hydrosat Launches Thermal Imaging Capability for Tactical ISR  appear",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Orbital Sentry Develops Persistent Geostationary Infrared Sensor for Real-Time Wildfire Detection",
+      "link": "https://satnews.com/2026/11/02/orbital-sentry-develops-persistent-geostationary-infrared-sensor-for-real-time-wildfire-detection/",
+      "pubDate": "Mon, 02 Nov 2026 16:35:45 +0000",
+      "description": "WASHINGTON — Earth observation startup Orbital Sentry is developing a persistent geostationary infrared monitoring system designed to provide continuous thermal intelligence and rapid wildfire detection across the western United States. [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Hydrosat Unveils Nyktòs Tactical MWIR Program, Expands European Footprint for Sovereign ISR",
+      "link": "https://satnews.com/2026/11/02/hydrosat-unveils-nyktos-tactical-mwir-program-expands-european-footprint-for-sovereign-isr/",
+      "pubDate": "Mon, 02 Nov 2026 15:16:50 +0000",
+      "description": "LUXEMBOURG — Commercial thermal intelligence operator Hydrosat unveiled its Nyktòs program on Monday, Nov. 2, 2026, establishing a dedicated high-resolution mid-wave infrared (MWIR) satellite capability engineered for tactical intelligence, surveillance, [&#8230;]",
+      "feedName": "Satnews"
+    },
     {
       "title": "ESA to Support Industry-Led Reusable Booster Flight Demonstrations",
       "link": "https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/",
@@ -100,25 +142,11 @@
       "feedName": "Euractiv"
     },
     {
-      "title": "Telesat Delays Lightspeed Full Service Entry to Mid-2028; Goldberg Addresses Launch Crunch and Sovereign Demand ",
-      "link": "https://www.satellitetoday.com/finance/2026/10/29/telesat-delays-lightspeed-service-entry-to-mid-2028-goldberg-addresses-launch-crunch-and-sovereign-demand/",
-      "pubDate": "Thu, 29 Oct 2026 19:50:14 +0000",
-      "description": "Telesat is pushing back the full entry into service for its Lightspeed constellation by three months as it deals with a tight launch market to get its initial two satellites [&#8230;]\nThe post Telesat Delays Lightspeed Full Service Entry to Mid-2028; Goldberg Addresses Launch Crunch and Sovereign De",
-      "feedName": "Via Satellite"
-    },
-    {
       "title": "What Israel’s Election Results Mean for the Middle East and Beyond",
       "link": "https://warontherocks.com/what-israels-election-results-mean-for-the-middle-east-and-beyond/",
       "pubDate": "Thu, 29 Oct 2026 18:15:57 +0000",
       "description": "Israeli elections on Oct. 27 produced a complex result, with neither Prime Minister Benjamin Netanyahu&#8217;s bloc nor the opposition alliance, led by Gadi Eisenkot, winning enough seats in the Knesset to form a government. The opposition faces a tricky choice: attempt to form a unity government wi",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Irish police fear attack during European summits",
-      "link": "https://www.rapporteur.com/news/irish-police-fear-attack-during-european-summits/",
-      "pubDate": "Thu, 29 Oct 2026 10:43:21 +0000",
-      "description": "All police leave has been cancelled to cover top-level meetings in Dublin",
-      "feedName": "Euractiv"
     },
     {
       "title": "#SpaceWatchGL Recap: Fifteen Minutes from Orbit, and the Bottleneck Is Us",
@@ -147,20 +175,6 @@
       "pubDate": "Wed, 28 Oct 2026 19:45:24 +0000",
       "description": "In 2018, Barak Mendelsohn wrote,&#160;&#8220;Bound to Fail: Transnational Jihadism and the Aggregation Problem,&#8221;&#160;where he argued that transnational jihadist groups like al-Qaeda and the Islamic State would continue failing to turn local victories into a lasting caliphate, allowing counter",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "#SpaceWatchGL Recap: Germany Stops Whispering About Space Defence",
-      "link": "https://spacewatch.global/2026/10/spacewatchgl-recap-germany-stops-whispering-about-space-defence/",
-      "pubDate": "Wed, 28 Oct 2026 09:30:00 +0000",
-      "description": " Written by Torsten Kriening.  At IABG’s 3rd Space Symposium in Ottobrunn, Germany stopped whispering about space defence. The Chief of the German Air and Space Force said Germany will strike back if attacked, announced a Luftwaffe space unit and admitted that the €35 billion, earmarked for military",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "ESA Orders Four More Galileo Second Generation Satellites to Expand Europe’s Navigation Fleet",
-      "link": "https://spacewatch.global/2026/10/esa-orders-four-more-galileo-second-generation-satellites-to-expand-europes-navigation-fleet/",
-      "pubDate": "Wed, 28 Oct 2026 07:00:00 +0000",
-      "description": "The European Space Agency has extended contracts with Airbus Defence and Space and Thales Alenia Space to procure four additional Galileo Second Generation satellites, bringing the number under contract to 16. \n\nAnnounced on October 27, 2026, the procurement adds two satellites to each manufacturer’",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "ESA’s INVICTUS Hypersonic Programme Clears First Major Review",
