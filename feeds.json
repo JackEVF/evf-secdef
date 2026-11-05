@@ -1,6 +1,55 @@
 {
-  "generated": "2026-11-04T13:59:22.750Z",
+  "generated": "2026-11-05T14:20:02.869Z",
   "newsItems": [
+    {
+      "title": "OHB Awarded €554 Million Contract for Next-Gen Sentinel-3 Satellite",
+      "link": "https://europeanspaceflight.com/ohb-awarded-e554-million-contract-for-next-gen-sentinel-3-satellite/",
+      "pubDate": "Thu, 05 Nov 2026 13:52:57 +0000",
+      "description": "German satellite manufacturer OHB has secured a €554 million contract from the European Space Agency (ESA) to develop the first Sentinel-3 Next Generation Topography (NGT) satellite for the European Union&#8217;s Copernicus programme. In a 4 November announcement, OHB revealed that it would lead the",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "Dublin seeks to rein in Franco-German car emissions deal",
+      "link": "https://www.rapporteur.com/news/dublin-seeks-to-rein-in-franco-german-car-emissions-deal/",
+      "pubDate": "Thu, 05 Nov 2026 12:57:09 +0000",
+      "description": "Irish proposal would deny zero-emission status to cars running on clean fuels",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "Who Repairs the Internet in Wartime?",
+      "link": "https://warontherocks.com/who-repairs-the-internet-in-wartime/",
+      "pubDate": "Thu, 05 Nov 2026 08:30:04 +0000",
+      "description": "In spring 2026, Britain, Norway, and the United States tracked and disrupted a covert Arctic exercise off the coast of Norway involving Russian deep-sea submersibles simulating the deployment of a weapon designed to disable the two 1,400-kilometer submarine cables linking the islands of Svalbard to ",
+      "feedName": "War on the Rocks"
+    },
+    {
+      "title": "ESA’s Trace Gas Orbiter Detects Potential Signs of Volcanic Activity on Mars",
+      "link": "https://spacewatch.global/2026/11/esas-trace-gas-orbiter-detects-potential-signs-of-volcanic-activity-on-mars/",
+      "pubDate": "Thu, 05 Nov 2026 07:00:00 +0000",
+      "description": "The European Space Agency's ExoMars Trace Gas Orbiter has detected atmospheric hydrogen chloride above the northern flanks of Alba Mons, a massive shield volcano on Mars. \nThe findings, published in Science Advances on November 4, 2026, point to a possible source of volcanic gas emissions beneath th",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "OHB Secures €554 Million ESA Contract for Next-Generation Sentinel-3 Topography Mission",
+      "link": "https://spacewatch.global/2026/11/ohb-secures-e554-million-esa-contract-for-next-generation-sentinel-3-topography-mission/",
+      "pubDate": "Thu, 05 Nov 2026 07:00:00 +0000",
+      "description": "OHB System AG has secured a €554 million contract from the European Space Agency to develop the Sentinel-3 Next Generation Topography mission for the European Union's Copernicus Earth observation program. \nThe mission will comprise two identical satellites, with OHB serving as prime contractor and l",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "What now? Budget fight, Hegseth impeachment on deck for defense-focused lawmakers after midterms",
+      "link": "https://breakingdefense.com/2026/11/what-now-budget-fight-hegseth-impeachment-on-deck-for-defense-focused-lawmakers-after-midterms/",
+      "pubDate": "Wed, 04 Nov 2026 22:47:45 +0000",
+      "description": "Republicans now have a small window to advance defense funding priorities before Democrats take control of Capitol Hill.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "EU defence industry warns against funding foreign rivals",
+      "link": "https://www.rapporteur.com/news/eu-defence-industry-warns-against-funding-foreign-rivals/",
+      "pubDate": "Wed, 04 Nov 2026 13:42:00 +0000",
+      "description": "Industry group warns of loopholes that could give non-EU companies access to billions in EU defence funding",
+      "feedName": "Euractiv"
+    },
     {
       "title": "Israel Weapons Industry expands into Southeast Asia with Thailand’s deployment of counter-drone system",
       "link": "https://breakingdefense.com/2026/11/israel-weapons-industry-expands-into-southeast-asia-with-thailands-deployment-of-counter-drone-system/",
@@ -12,7 +61,7 @@
       "title": "Hydrosat Advances Sovereign Thermal Imaging Offering with Complementary Nyktòs and Osiris Programs",
       "link": "https://spacewatch.global/2026/11/hydrosat-advances-sovereign-thermal-imaging-offering-with-complementary-nyktos-and-osiris-programs/",
       "pubDate": "Wed, 04 Nov 2026 07:00:00 +0000",
-      "description": "Hydrosat has announced the Nyktòs program, a planned high-resolution thermal imaging capability designed to provide tactical intelligence, surveillance and reconnaissance services to sovereign customers. \n\nThe program will be supported by an expansion of the company's European technology and manufac",
+      "description": "Hydrosat has announced the Nyktòs program, a planned high-resolution thermal imaging capability designed to provide tactical intelligence, surveillance and reconnaissance services to sovereign customers. \nThe program will be supported by an expansion of the company's European technology and manufact",
       "feedName": "SpaceWatch Global"
     },
     {
@@ -44,13 +93,6 @@
       "feedName": "Via Satellite"
     },
     {
-      "title": "SpaceX Explores Boost Mobile Acquisition in Push to Build Hybrid Terrestrial-Satellite Network",
-      "link": "https://satnews.com/2026/11/03/spacex-explores-boost-mobile-acquisition-in-push-to-build-hybrid-terrestrial-satellite-network/",
-      "pubDate": "Tue, 03 Nov 2026 17:25:35 +0000",
-      "description": "WASHINGTON — SpaceX has held preliminary discussions with EchoStar Corporation regarding a potential acquisition of its Boost Mobile wireless subsidiary or securing wholesale access to its cellular network, according to [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
       "link": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/",
       "pubDate": "Tue, 03 Nov 2026 16:59:43 +0000",
@@ -68,22 +110,8 @@
       "title": "ERMIS-3 Demonstrates 1 Gbps Optical Downlink in Milestone for Greek Space Program",
       "link": "https://spacewatch.global/2026/11/ermis-3-demonstrates-1-gbps-optical-downlink-in-milestone-for-greek-space-program/",
       "pubDate": "Tue, 03 Nov 2026 07:00:00 +0000",
-      "description": "Greece's ERMIS-3 CubeSat has successfully established an optical communications link with a ground station in the country, demonstrating laser-based data transmission between a small satellite in low Earth orbit and Earth. \n\nThe achievement marks Greece's first successful optical link with a LEO sat",
+      "description": "Greece's ERMIS-3 CubeSat has successfully established an optical communications link with a ground station in the country, demonstrating laser-based data transmission between a small satellite in low Earth orbit and Earth. \nThe achievement marks Greece's first successful optical link with a LEO sate",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "MDA Space Secures C$100M+ Thales Alenia Space Award for First 66 IRIS² Satellites",
-      "link": "https://satnews.com/2026/11/02/mda-space-secures-c100m-thales-alenia-space-award-for-first-66-iris%c2%b2-satellites/",
-      "pubDate": "Mon, 02 Nov 2026 23:50:02 +0000",
-      "description": "TORONTO — Canadian space technology provider MDA Space has secured an initial contract valued at more than C$100 million ($72 million) from prime contractor Thales Alenia Space to supply digital [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Hydrosat Launches Thermal Imaging Capability for Tactical ISR ",
-      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/11/02/hydrosat-launches-thermal-imaging-capability-for-tactical-isr/",
-      "pubDate": "Mon, 02 Nov 2026 21:27:15 +0000",
-      "description": "Hydrosat is launching a new thermal imaging product geared toward tactical intelligence, surveillance, and reconnaissance (ISR) use cases as it plans to expand its manufacturing capabilities in Europe to support [&#8230;]\nThe post Hydrosat Launches Thermal Imaging Capability for Tactical ISR  appear",
-      "feedName": "Via Satellite"
     },
     {
       "title": "ESA to Support Industry-Led Reusable Booster Flight Demonstrations",
@@ -91,20 +119,6 @@
       "pubDate": "Mon, 02 Nov 2026 14:13:02 +0000",
       "description": "The European Space Agency has announced plans to support industry-led flight demonstrations of reusable rocket first stages and boosters as part of a new phase of its Boosters for European Space Transportation (BEST!) initiative. On 27 October, ESA published a call for its BEST!2 Flight Demonstratio",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Suspected cyberattacks disrupt supermarkets in Belgium, Sweden, Estonia",
-      "link": "https://www.rapporteur.com/news/suspected-cyberattacks-disrupt-supermarket-fridges-in-belgium-sweden-estonia/",
-      "pubDate": "Mon, 02 Nov 2026 11:42:18 +0000",
-      "description": "Fridge temperature spikes are reported weeks after attacks hit French supermarkets",
-      "feedName": "Euractiv"
-    },
-    {
-      "title": "THE HACK: Cloud industry’s CAIDA gripes",
-      "link": "https://www.rapporteur.com/news/the-hack-cloud-industrys-caida-gripes/",
-      "pubDate": "Mon, 02 Nov 2026 09:10:45 +0000",
-      "description": "In today's edition: Kids Act, Frontex, AI stocks",
-      "feedName": "Euractiv"
     },
     {
       "title": "#SpaceWatchGL Opinion: Europe’s Window on the World Is Wide Open. That’s the Problem.",
@@ -175,20 +189,6 @@
       "pubDate": "Fri, 23 Oct 2026 11:06:47 +0000",
       "description": "The European Space Agency&#8217;s (ESA) Director of Space Transportation, Géraldine Naja, said on 22 October that she was uncertain whether the agency would be able to complete the first flight of its Themis reusable rocket demonstrator before the end of the year. Speaking at a media briefing follow",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "ESA Provides New Details on Failed Space Rider Drop Test",
-      "link": "https://europeanspaceflight.com/esa-provides-new-details-on-failed-space-rider-drop-test/",
-      "pubDate": "Thu, 22 Oct 2026 15:02:37 +0000",
-      "description": "The European Space Agency (ESA) has provided new details about the failed Space Rider drop test, confirming that the vehicle&#8217;s parafoil detached during deployment, sending the full-scale test model back to terra firma more rapidly than planned. Speaking at an ESA media briefing on 22 October, ",
-      "feedName": "European Spaceflight"
-    },
-    {
-      "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
-      "link": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/",
-      "pubDate": "Wed, 21 Oct 2026 15:00:22 +0000",
-      "description": "\nParis, France &#124; October 2026 – Global satellite services revenues are forecast to grow 44% to reach $145 billion by 2035, according to the 33rd edition of Novaspace’s Satellite Connectivity [&#8230;]\nThe post Global Satcom Services Revenues to Reach $145 Billion by 2035 appeared first on Space",
-      "feedName": "SpaceNews"
     },
     {
       "title": "Ground Robots Are Arriving on the Front Lines",
