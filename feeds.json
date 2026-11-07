@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-06T13:57:14.571Z",
+  "generated": "2026-11-07T12:41:18.660Z",
   "newsItems": [
+    {
+      "title": "Blue wave presages a defense-spending showdown",
+      "link": "https://www.defenseone.com/policy/2026/11/blue-wave-presages-defense-spending-showdown/417111/",
+      "pubDate": "Fri, 06 Nov 2026 16:24:24 -0500",
+      "description": "A reconciliation bill is likely off the table, and the presumed HASC chair is talking about a $1-trillion cap.",
+      "feedName": "Defense One"
+    },
+    {
+      "title": "Cut to US aid would impact Israeli acquisition timelines, spending: Analysts",
+      "link": "https://breakingdefense.com/2026/11/cut-to-us-aid-would-impact-israeli-acquisition-timelines-spending-analysts/",
+      "pubDate": "Fri, 06 Nov 2026 16:55:00 +0000",
+      "description": "Israel is actively seeking more Apache helicopters, F-15 and F-35 fighter jets and munitions.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "Wave of bomb threats target Irish media outlets and more European flights",
+      "link": "https://www.politico.eu/article/bomb-threats-target-irish-media-and-more-european-flights/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Fri, 06 Nov 2026 16:50:31 +0000",
+      "description": "The latest spate of threats comes just days before a meeting of the European Political Community in Dublin.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Ireland suspects ‘co-ordinated’ campaign as Europe bomb hoaxes widen",
+      "link": "https://www.rapporteur.com/news/ireland-suspects-co-ordinated-campaign-as-europe-bomb-hoaxes-widen/",
+      "pubDate": "Fri, 06 Nov 2026 16:42:40 +0000",
+      "description": "Dozens of flights disrupted across Europe as authorities struggle to trace those behind the false alarms",
+      "feedName": "Euractiv"
+    },
     {
       "title": "Europe nears decision on competing hypersonic interceptor programs",
       "link": "https://breakingdefense.com/2026/11/europe-nears-decision-on-competing-hypersonic-interceptor-programs/",
@@ -35,6 +63,13 @@
       "pubDate": "Thu, 05 Nov 2026 15:00:00 +0000",
       "description": "From Czech Space Week in Prague, ESA Commercialisation Officer Michele Iapaolo joins Daniela Jovic to explain the agency’s commercialisation journey from ideation to global markets, what judges look for when selecting startups, and the two gaps Europe still needs to close.",
       "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "OHB Awarded €554 Million Contract for Next-Gen Sentinel-3 Satellite",
+      "link": "https://europeanspaceflight.com/ohb-awarded-e554-million-contract-for-next-gen-sentinel-3-satellite/",
+      "pubDate": "Thu, 05 Nov 2026 13:52:57 +0000",
+      "description": "German satellite manufacturer OHB has secured a €554 million contract from the European Space Agency (ESA) to develop the first Sentinel-3 Next Generation Topography (NGT) satellite for the European Union&#8217;s Copernicus programme. In a 4 November announcement, OHB revealed that it would lead the",
+      "feedName": "European Spaceflight"
     },
     {
       "title": "Czech Space Week – Adéla Boranová on Growing Startups, Bigger Funding, and Why Europe Needs Upstream",
@@ -72,13 +107,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "What now? Budget fight, Hegseth impeachment on deck for defense-focused lawmakers after midterms",
-      "link": "https://breakingdefense.com/2026/11/what-now-budget-fight-hegseth-impeachment-on-deck-for-defense-focused-lawmakers-after-midterms/",
-      "pubDate": "Wed, 04 Nov 2026 22:47:45 +0000",
-      "description": "Republicans now have a small window to advance defense funding priorities before Democrats take control of Capitol Hill.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "EU defence industry warns against funding foreign rivals",
       "link": "https://www.rapporteur.com/news/eu-defence-industry-warns-against-funding-foreign-rivals/",
       "pubDate": "Wed, 04 Nov 2026 13:42:00 +0000",
@@ -98,13 +126,6 @@
       "pubDate": "Wed, 04 Nov 2026 03:00:53 +0000",
       "description": "Iran is a burning question for Israelis, do the Europeans get it?",
       "feedName": "Euractiv"
-    },
-    {
-      "title": "NRO Official Details New Cyber Office With $250M Budget; White House Warns of AI-Speed Attacks",
-      "link": "https://www.satellitetoday.com/cybersecurity/2026/11/03/nro-official-details-new-cyber-office-with-250m-budget-white-house-warns-of-ai-speed-attacks/",
-      "pubDate": "Tue, 03 Nov 2026 22:27:12 +0000",
-      "description": "RESTON, Va. — The new Cyber Protection Office at the National Reconnaissance Office (NRO), the secretive agency that builds and operates the nation&#8217;s spy satellites, has a staff of 600-plus [&#8230;]\nThe post NRO Official Details New Cyber Office With $250M Budget; White House Warns of AI-Spee",
-      "feedName": "Via Satellite"
     },
     {
       "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
@@ -128,6 +149,20 @@
       "feedName": "SpaceWatch Global"
     },
     {
+      "title": "ESA to Support Industry-Led Reusable Booster Flight Demonstrations",
+      "link": "https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/",
+      "pubDate": "Mon, 02 Nov 2026 14:13:02 +0000",
+      "description": "The European Space Agency has announced plans to support industry-led flight demonstrations of reusable rocket first stages and boosters as part of a new phase of its Boosters for European Space Transportation (BEST!) initiative. On 27 October, ESA published a call for its BEST!2 Flight Demonstratio",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "Canadian MDA Space Secures €64 Million IRIS2 Antenna Agreement",
+      "link": "https://europeanspaceflight.com/canadian-mda-space-secures-e64-million-iris2-antenna-agreement/",
+      "pubDate": "Sun, 01 Nov 2026 08:16:51 +0000",
+      "description": "Canadian space technology company MDA Space has signed an agreement with Thales Alenia Space to begin work on digital antennas for the first 66 satellites of the European Union&#8217;s IRIS2 secure connectivity constellation. The agreement comes as Canada and the EU have announced plans to explore C",
+      "feedName": "European Spaceflight"
+    },
+    {
       "title": "What Israel’s Election Results Mean for the Middle East and Beyond",
       "link": "https://warontherocks.com/what-israels-election-results-mean-for-the-middle-east-and-beyond/",
       "pubDate": "Thu, 29 Oct 2026 18:15:57 +0000",
@@ -135,11 +170,32 @@
       "feedName": "War on the Rocks"
     },
     {
+      "title": "UK MOD Awards £15 Million Orbital Warfare Project to Astroscale",
+      "link": "https://europeanspaceflight.com/uk-mod-awards-15-million-orbital-warfare-project-to-astroscale/",
+      "pubDate": "Thu, 29 Oct 2026 07:31:25 +0000",
+      "description": "Japanese space technology company Astroscale has officially announced that its UK-based subsidiary has been awarded a £15 million (€17.9 million) Ministry of Defence contract for Project LEDA. While few details about the initiative were shared, an MoD official said it would “form part of the permane",
+      "feedName": "European Spaceflight"
+    },
+    {
       "title": "Jihadism’s Global Struggle, and Where It’s Gaining",
       "link": "https://warontherocks.com/jihadisms-global-struggle-and-where-its-gaining/",
       "pubDate": "Wed, 28 Oct 2026 19:45:24 +0000",
       "description": "In 2018, Barak Mendelsohn wrote,&#160;&#8220;Bound to Fail: Transnational Jihadism and the Aggregation Problem,&#8221;&#160;where he argued that transnational jihadist groups like al-Qaeda and the Islamic State would continue failing to turn local victories into a lasting caliphate, allowing counter",
       "feedName": "War on the Rocks"
+    },
+    {
+      "title": "ESA’s INVICTUS Hypersonic Programme Clears First Major Review",
+      "link": "https://europeanspaceflight.com/esas-invictus-hypersonic-programme-clears-first-major-review/",
+      "pubDate": "Tue, 27 Oct 2026 14:32:07 +0000",
+      "description": "The European Space Agency’s (ESA) INVICTUS hypersonic aircraft programme has cleared its first major requirements review and moved into the next phase of development, with a second review expected in October 2027. Stephan Carroll, INVICTUS chief engineer at Frazer-Nash, confirmed on LinkedIn on 23 O",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg",
+      "link": "https://europeanspaceflight.com/australia-counters-esas-offer-for-mission-to-iss-for-bennell-pegg/",
+      "pubDate": "Mon, 26 Oct 2026 10:53:24 +0000",
+      "description": "The Australian government has submitted a counteroffer to the European Space Agency (ESA) to secure a flight to the International Space Station for Australian astronaut Katherine Bennell-Pegg. Support for the mission is not universal in Australia, with one government official calling the spending “r",
+      "feedName": "European Spaceflight"
     },
     {
       "title": "Ground Robots Are Arriving on the Front Lines",
