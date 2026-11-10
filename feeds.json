@@ -1,12 +1,54 @@
 {
-  "generated": "2026-11-09T15:39:29.541Z",
+  "generated": "2026-11-10T14:33:59.339Z",
   "newsItems": [
     {
-      "title": "Painting bleak picture of France, Olympic icon Teddy Riner announces presidential run",
-      "link": "https://www.politico.eu/article/french-olympian-teddy-riner-announces-presidential-bid/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Mon, 09 Nov 2026 11:09:36 +0000",
-      "description": "The gold medal-winning judoka wants to \"show that we can turn France around.\" ",
-      "feedName": "Politico Europe"
+      "title": "A Pentagon impeachment showdown, plus defense funding in limbo",
+      "link": "https://breakingdefense.com/2026/11/a-pentagon-impeachment-showdown-plus-defense-funding-in-limbo/",
+      "pubDate": "Tue, 10 Nov 2026 14:22:50 +0000",
+      "description": "Hegseth could face a high-profile impeachment battle as Congress struggles to settle major defense spending decisions before the new year.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "Czech Space Week – Michele Iapaolo of ESA on Commercialisation Journey from Idea to Global Market",
+      "link": "https://spacewatch.global/2026/11/czech-space-week-michele-iapaolo-of-esa-on-commercialisation-journey-from-idea-to-global-market/",
+      "pubDate": "Tue, 10 Nov 2026 12:30:00 +0000",
+      "description": "From Czech Space Week in Prague, ESA Commercialisation Officer Michele Iapaolo joins Daniela Jovic to explain the agency’s commercialisation journey from ideation to global markets, what judges look for when selecting startups, and the two gaps Europe still needs to close.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "#SpaceWatchGL Opinion: Europe’s Next Sputnik Moment Won’t Be a Launch",
+      "link": "https://spacewatch.global/2026/11/spacewatchgl-opinion-europes-next-sputnik-moment-wont-be-a-launch/",
+      "pubDate": "Tue, 10 Nov 2026 09:00:00 +0000",
+      "description": " Written by Gilles Rabin.  Europe's space industry is entering a new era, driven by defence spending, industrial consolidation and the pressure to scale. From the relocation of Space Tech Expo to shifting power between ESA, the EU and national governments, Gilles Rabin examines whether Europe is rea",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Lame-duck Trump puts Greece, Turkey and Israel on edge",
+      "link": "https://www.rapporteur.com/news/lame-duck-trump-puts-greece-turkey-and-israel-on-edge/",
+      "pubDate": "Tue, 10 Nov 2026 03:00:51 +0000",
+      "description": "Political change in the US might destabilise an already volatile region",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "Planet Contracts Stoke Space for Multi-Launch Agreement Across Nova Rocket Fleet",
+      "link": "https://satnews.com/2026/11/09/planet-contracts-stoke-space-for-multi-launch-agreement-across-nova-rocket-fleet/",
+      "pubDate": "Tue, 10 Nov 2026 00:35:41 +0000",
+      "description": "SAN FRANCISCO — Earth observation company Planet Labs PBC has entered into a multi-launch agreement with launch vehicle developer Stoke Space to deploy optical imaging satellites aboard its reusable rocket [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "What Starlink Restrictions in Ukraine Reveal About Europe’s Space Sovereignty and the Path Forward",
+      "link": "https://www.satellitetoday.com/podcast/2026/11/09/what-starlink-restrictions-in-ukraine-reveal-about-europes-space-sovereignty-and-the-path-forward/",
+      "pubDate": "Mon, 09 Nov 2026 21:59:13 +0000",
+      "description": "The recent Starlink and Starshield disruptions in Ukraine put satcom access in the center of international news. Ukrainian forces experienced a slowdown in access to Starlink and Starshield that impacted [&#8230;]\nThe post What Starlink Restrictions in Ukraine Reveal About Europe’s Space Sovereignty",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Thales Alenia Space Awarded DGA Contract for French IRIS Military Optical Constellation",
+      "link": "https://satnews.com/2026/11/09/thales-alenia-space-awarded-dga-contract-for-french-iris-military-optical-constellation/",
+      "pubDate": "Mon, 09 Nov 2026 18:06:23 +0000",
+      "description": "CANNES, France — Thales Alenia Space has been awarded a contract by the French Defence Procurement Agency (DGA) to develop the IRIS military optical observation space system under a joint [&#8230;]",
+      "feedName": "Satnews"
     },
     {
       "title": "Space Solutions for Energy Challenges: Register for the Workshop",
@@ -51,20 +93,6 @@
       "feedName": "Euractiv"
     },
     {
-      "title": "Europe nears decision on competing hypersonic interceptor programs",
-      "link": "https://breakingdefense.com/2026/11/europe-nears-decision-on-competing-hypersonic-interceptor-programs/",
-      "pubDate": "Fri, 06 Nov 2026 11:10:00 +0000",
-      "description": "The European Commission is expected to select one of two competing consortia by the end of November to advance development of a European interceptor targeting hypersonic and ballistic missile threats, with a system-level demonstrator targeted for 2030.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
-      "title": "Redwire Wins $20M DARPA Contract for Scaled SabreSat VLEO Precursor Flight",
-      "link": "https://satnews.com/2026/11/05/redwire-wins-20m-darpa-contract-for-scaled-sabresat-vleo-precursor-flight/",
-      "pubDate": "Thu, 05 Nov 2026 22:45:28 +0000",
-      "description": "JACKSONVILLE, Fla. — Redwire Corporation has secured a $20 million contract from the Defense Advanced Research Projects Agency (DARPA) to conduct additional testing and experimentation under the agency’s Otter program, [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
       "link": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
       "pubDate": "Thu, 05 Nov 2026 17:05:59 +0000",
@@ -84,13 +112,6 @@
       "pubDate": "Thu, 05 Nov 2026 13:00:00 +0000",
       "description": "From Czech Space Week in Prague, ESA BIC Czech Republic Programme Manager Adéla Boranová joins Daniela Jovic to share the growth of the Liftoff Challenge, news of a third incubator programme with increased funding per startup, and her call for more upstream innovation in Europe.",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Dublin seeks to rein in Franco-German car emissions deal",
-      "link": "https://www.rapporteur.com/news/dublin-seeks-to-rein-in-franco-german-car-emissions-deal/",
-      "pubDate": "Thu, 05 Nov 2026 12:57:09 +0000",
-      "description": "Irish proposal would deny zero-emission status to cars running on clean fuels",
-      "feedName": "Euractiv"
     },
     {
       "title": "Who Repairs the Internet in Wartime?",
@@ -114,25 +135,11 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Hydrosat Advances Sovereign Thermal Imaging Offering with Complementary Nyktòs and Osiris Programs",
-      "link": "https://spacewatch.global/2026/11/hydrosat-advances-sovereign-thermal-imaging-offering-with-complementary-nyktos-and-osiris-programs/",
-      "pubDate": "Wed, 04 Nov 2026 07:00:00 +0000",
-      "description": "Hydrosat has announced the Nyktòs program, a planned high-resolution thermal imaging capability designed to provide tactical intelligence, surveillance and reconnaissance services to sovereign customers. \n\nThe program will be supported by an expansion of the company's European technology and manufac",
-      "feedName": "SpaceWatch Global"
-    },
-    {
       "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
       "link": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/",
       "pubDate": "Tue, 03 Nov 2026 16:59:43 +0000",
       "description": "\nCzech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200 [&#8230;]\nThe post Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission S",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "#SpaceWatchGL Opinion: Bailouts, Billions and Satellites: Europe’s Space Defence Illusion",
-      "link": "https://spacewatch.global/2026/11/spacewatchgl-opinion-bailouts-billions-and-satellites-europes-space-defence-illusion/",
-      "pubDate": "Tue, 03 Nov 2026 09:00:00 +0000",
-      "description": " Written by K.-P. Ludwig.  Europe is spending billions on space security, yet national programmes, industrial interests and fragmented architectures continue to pull in different directions. K.-P. asks whether Europe is building genuine defence capability – or an increasingly expensive target catalo",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "ESA to Support Industry-Led Reusable Booster Flight Demonstrations",
@@ -154,13 +161,6 @@
       "pubDate": "Thu, 29 Oct 2026 18:15:57 +0000",
       "description": "Israeli elections on Oct. 27 produced a complex result, with neither Prime Minister Benjamin Netanyahu&#8217;s bloc nor the opposition alliance, led by Gadi Eisenkot, winning enough seats in the Knesset to form a government. The opposition faces a tricky choice: attempt to form a unity government wi",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "UK MOD Awards £15 Million Orbital Warfare Project to Astroscale",
-      "link": "https://europeanspaceflight.com/uk-mod-awards-15-million-orbital-warfare-project-to-astroscale/",
-      "pubDate": "Thu, 29 Oct 2026 07:31:25 +0000",
-      "description": "Japanese space technology company Astroscale has officially announced that its UK-based subsidiary has been awarded a £15 million (€17.9 million) Ministry of Defence contract for Project LEDA. While few details about the initiative were shared, an MoD official said it would “form part of the permane",
-      "feedName": "European Spaceflight"
     },
     {
       "title": "Jihadism’s Global Struggle, and Where It’s Gaining",
