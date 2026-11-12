@@ -1,6 +1,69 @@
 {
-  "generated": "2026-11-11T13:48:45.134Z",
+  "generated": "2026-11-12T14:51:42.384Z",
   "newsItems": [
+    {
+      "title": "EU will examine Israel association agreement after massive public petition",
+      "link": "https://www.politico.eu/article/eu-examine-israel-association-agreement-public-petition/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Thu, 12 Nov 2026 14:04:24 +0000",
+      "description": "Organizers say the EU should suspend its trade and political dialogue with Israel.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Brussels accepts petition to suspend Israel trade agreement",
+      "link": "https://www.rapporteur.com/news/brussels-accepts-petition-to-suspend-israel-trade-agreement/",
+      "pubDate": "Thu, 12 Nov 2026 13:48:31 +0000",
+      "description": "Petition accuses Israel of 'an unprecedented level of killing and injury of civilians'",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "Ukraine Starlink speed restrictions in effect again, Zelenskyy says",
+      "link": "https://www.politico.eu/article/starlink-slowed-down-for-ukraine-again/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Thu, 12 Nov 2026 13:26:43 +0000",
+      "description": "Military units have recorded \"significant disruptions\" similar to the speed limits enforced in October, Ukraine's president said.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "EU Parliament wants to stop European defence start-ups selling out",
+      "link": "https://www.rapporteur.com/news/eu-parliament-wants-to-stop-european-defence-start-ups-selling-out/",
+      "pubDate": "Thu, 12 Nov 2026 13:19:36 +0000",
+      "description": "“Europe has no shortage of brilliant ideas\" commented Mārtiņš Staķis.",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "Ukraine’s Starshield connection disrupted again, Zelenskyy says",
+      "link": "https://www.rapporteur.com/news/ukraines-starshield-connection-disrupted-again-zelenskyy-says/",
+      "pubDate": "Thu, 12 Nov 2026 10:56:41 +0000",
+      "description": "Similar to the first incident in October, a speed restriction has been imposed",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "ESA Explains Delay in Signing MaiaSpace Launcher Challenge Contract",
+      "link": "https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/",
+      "pubDate": "Thu, 12 Nov 2026 10:36:32 +0000",
+      "description": "The European Space Agency (ESA) has revealed that MaiaSpace&#8217;s decision to pursue a different funding arrangement from its competitors has complicated negotiations over its European Launcher Challenge contract. Speaking during an ESA media briefing on 22 October, ESA Director of Space Transport",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "UK Ministry of Defence Recommends Lockheed Martin Over Airbus for £2.4B Skynet Contract",
+      "link": "https://satnews.com/2026/11/11/uk-ministry-of-defence-recommends-lockheed-martin-over-airbus-for-2-4b-skynet-contract/",
+      "pubDate": "Wed, 11 Nov 2026 22:40:47 +0000",
+      "description": "On Nov. 5, reports indicated that the UK Ministry of Defence (MoD) recommended selecting Lockheed Martin over incumbent contractor Airbus Defence and Space for the £2.4 billion ($3.2 billion) next-generation [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Germany must rein in debt-fuelled defence spending: experts",
+      "link": "https://www.rapporteur.com/news/germany-must-rein-in-debt-fuelled-defence-spending-experts/",
+      "pubDate": "Wed, 11 Nov 2026 15:53:08 +0000",
+      "description": "The top EU economy is pouring huge sums into bolstering its long-neglected armed forces to face a hostile Russia",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "Firefly CEO Projects Defense Sector Could Comprise 25% of Lunar Services Market",
+      "link": "https://satnews.com/2026/11/11/firefly-ceo-projects-defense-sector-could-comprise-25-of-lunar-services-market/",
+      "pubDate": "Wed, 11 Nov 2026 15:16:25 +0000",
+      "description": "CEDAR PARK, Texas — Military requirements could account for approximately 25% of the emerging lunar services market as defense agencies expand space domain awareness and orbital maneuver capabilities, Firefly Aerospace [&#8230;]",
+      "feedName": "Satnews"
+    },
     {
       "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
       "link": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/",
@@ -37,32 +100,11 @@
       "feedName": "Via Satellite"
     },
     {
-      "title": "France awards $1.7 billion contract to Airbus-Thales team for new military satellites",
-      "link": "https://breakingdefense.com/2026/11/france-awards-1-7-billion-contract-to-airbus-thales-team-for-new-military-satellites/",
-      "pubDate": "Tue, 10 Nov 2026 19:45:00 +0000",
-      "description": "The IRIS orbiters will replace three current satellites in use, known as the Optical Space Component, with better technology to deliver clearer images and faster access to captured imagery.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "Rivada Space Networks Partners with Telespazio Brasil for Latin American Outernet Services",
       "link": "https://satnews.com/2026/11/10/rivada-space-networks-partners-with-telespazio-brasil-for-latin-american-outernet-services/",
       "pubDate": "Tue, 10 Nov 2026 17:26:52 +0000",
       "description": "RIO DE JANEIRO — Commercial satellite operator Rivada Space Networks has entered into a strategic collaboration agreement with Telespazio Brasil to integrate its planned 600-satellite low Earth orbit (LEO) constellation [&#8230;]",
       "feedName": "Satnews"
-    },
-    {
-      "title": "Why Britain needs a maritime-first defense strategy",
-      "link": "https://breakingdefense.com/2026/11/why-britain-needs-a-maritime-first-defense-strategy/",
-      "pubDate": "Tue, 10 Nov 2026 16:14:31 +0000",
-      "description": "As Germany and Poland build up their armies, Britain should look to its historic strengths at sea to secure its future role in European defense.\n",
-      "feedName": "Breaking Defense"
-    },
-    {
-      "title": "A Pentagon impeachment showdown, plus defense funding in limbo",
-      "link": "https://breakingdefense.com/2026/11/a-pentagon-impeachment-showdown-plus-defense-funding-in-limbo/",
-      "pubDate": "Tue, 10 Nov 2026 14:22:50 +0000",
-      "description": "Hegseth could face a high-profile impeachment battle as Congress struggles to settle major defense spending decisions before the new year.\n",
-      "feedName": "Breaking Defense"
     },
     {
       "title": "Czech Space Week – Michele Iapaolo of ESA on Commercialisation Journey from Idea to Global Market",
@@ -86,25 +128,11 @@
       "feedName": "Euractiv"
     },
     {
-      "title": "Planet Contracts Stoke Space for Multi-Launch Agreement Across Nova Rocket Fleet",
-      "link": "https://satnews.com/2026/11/09/planet-contracts-stoke-space-for-multi-launch-agreement-across-nova-rocket-fleet/",
-      "pubDate": "Tue, 10 Nov 2026 00:35:41 +0000",
-      "description": "SAN FRANCISCO — Earth observation company Planet Labs PBC has entered into a multi-launch agreement with launch vehicle developer Stoke Space to deploy optical imaging satellites aboard its reusable rocket [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "What Starlink Restrictions in Ukraine Reveal About Europe’s Space Sovereignty and the Path Forward",
       "link": "https://www.satellitetoday.com/podcast/2026/11/09/what-starlink-restrictions-in-ukraine-reveal-about-europes-space-sovereignty-and-the-path-forward/",
       "pubDate": "Mon, 09 Nov 2026 21:59:13 +0000",
       "description": "The recent Starlink and Starshield disruptions in Ukraine put satcom access in the center of international news. Ukrainian forces experienced a slowdown in access to Starlink and Starshield that impacted [&#8230;]\nThe post What Starlink Restrictions in Ukraine Reveal About Europe’s Space Sovereignty",
       "feedName": "Via Satellite"
-    },
-    {
-      "title": "Thales Alenia Space Awarded DGA Contract for French IRIS Military Optical Constellation",
-      "link": "https://satnews.com/2026/11/09/thales-alenia-space-awarded-dga-contract-for-french-iris-military-optical-constellation/",
-      "pubDate": "Mon, 09 Nov 2026 18:06:23 +0000",
-      "description": "CANNES, France — Thales Alenia Space has been awarded a contract by the French Defence Procurement Agency (DGA) to develop the IRIS military optical observation space system under a joint [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "Space Solutions for Energy Challenges: Register for the Workshop",
@@ -135,13 +163,6 @@
       "feedName": "Defense One"
     },
     {
-      "title": "Ireland suspects ‘coordinated’ campaign as Europe bomb hoaxes widen",
-      "link": "https://www.rapporteur.com/news/ireland-suspects-co-ordinated-campaign-as-europe-bomb-hoaxes-widen/",
-      "pubDate": "Fri, 06 Nov 2026 16:42:40 +0000",
-      "description": "Dozens of flights disrupted across Europe as authorities struggle to trace those behind the false alarms",
-      "feedName": "Euractiv"
-    },
-    {
       "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
       "link": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
       "pubDate": "Thu, 05 Nov 2026 17:05:59 +0000",
@@ -156,13 +177,6 @@
       "feedName": "European Spaceflight"
     },
     {
-      "title": "Czech Space Week – Adéla Boranová on Growing Startups, Bigger Funding, and Why Europe Needs Upstream",
-      "link": "https://spacewatch.global/2026/11/czech-space-week-adela-boranova-on-growing-startups-bigger-funding-and-why-europe-needs-upstream/",
-      "pubDate": "Thu, 05 Nov 2026 13:00:00 +0000",
-      "description": "From Czech Space Week in Prague, ESA BIC Czech Republic Programme Manager Adéla Boranová joins Daniela Jovic to share the growth of the Liftoff Challenge, news of a third incubator programme with increased funding per startup, and her call for more upstream innovation in Europe.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
       "title": "Who Repairs the Internet in Wartime?",
       "link": "https://warontherocks.com/who-repairs-the-internet-in-wartime/",
       "pubDate": "Thu, 05 Nov 2026 08:30:04 +0000",
@@ -175,13 +189,6 @@
       "pubDate": "Tue, 03 Nov 2026 16:59:43 +0000",
       "description": "\nCzech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200 [&#8230;]\nThe post Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission S",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "ESA to Support Industry-Led Reusable Booster Flight Demonstrations",
-      "link": "https://europeanspaceflight.com/esa-to-support-industry-led-reusable-booster-flight-demonstrations/",
-      "pubDate": "Mon, 02 Nov 2026 14:13:02 +0000",
-      "description": "The European Space Agency has announced plans to support industry-led flight demonstrations of reusable rocket first stages and boosters as part of a new phase of its Boosters for European Space Transportation (BEST!) initiative. On 27 October, ESA published a call for its BEST!2 Flight Demonstratio",
-      "feedName": "European Spaceflight"
     },
     {
       "title": "What Israel’s Election Results Mean for the Middle East and Beyond",
