@@ -1,12 +1,61 @@
 {
-  "generated": "2026-11-12T14:51:42.384Z",
+  "generated": "2026-11-13T14:14:20.478Z",
   "newsItems": [
     {
-      "title": "EU will examine Israel association agreement after massive public petition",
-      "link": "https://www.politico.eu/article/eu-examine-israel-association-agreement-public-petition/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Thu, 12 Nov 2026 14:04:24 +0000",
-      "description": "Organizers say the EU should suspend its trade and political dialogue with Israel.",
+      "title": "Microsoft outage renews calls for European tech sovereignty",
+      "link": "https://www.rapporteur.com/news/microsoft-outage-renews-calls-for-european-tech-sovereignty/",
+      "pubDate": "Fri, 13 Nov 2026 12:29:38 +0000",
+      "description": "Service disruption shows vulnerability of overreliance, warn cloud sovereignty lawmakers",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "Tinder owner hit with €11M privacy fine",
+      "link": "https://www.politico.eu/article/tinder-owner-hit-with-e11m-privacy-fine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Fri, 13 Nov 2026 11:01:01 +0000",
+      "description": "The Irish Data Protection Commission ruled that Tinder's \"Download My Data\" tool is not complaint with GDPR. The company plans to appeal.",
       "feedName": "Politico Europe"
+    },
+    {
+      "title": "Microsoft battling to fix global Outlook outage",
+      "link": "https://www.rapporteur.com/news/microsoft-battling-to-fix-global-outlook-outage/",
+      "pubDate": "Fri, 13 Nov 2026 09:18:52 +0000",
+      "description": "Service disruption also affecting other Microsoft software, such as Teams and Copilot",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations",
+      "link": "https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/",
+      "pubDate": "Fri, 13 Nov 2026 07:57:07 +0000",
+      "description": "The European Space Agency (ESA) and ArianeGroup have confirmed that Prometheus engine tests conducted in Lampoldshausen in October were carried out independently of preparations for the long-delayed inaugural flight of the Themis reusable booster demonstrator. In a 6 November press release, ArianeGr",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "ESA’s Euclid Telescope Maps More Than 900 Million Galaxies in First Major Data Release",
+      "link": "https://spacewatch.global/2026/11/esas-euclid-telescope-maps-more-than-900-million-galaxies-in-first-major-data-release/",
+      "pubDate": "Fri, 13 Nov 2026 07:00:00 +0000",
+      "description": "ESA's Euclid space telescope has begun assembling one of the most ambitious maps of the Universe ever attempted, identifying more than 900 million galaxies in its first major data release. \n\nPublished on November 12, 2026, the dataset marks a significant milestone in the mission's effort to map the ",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "European citizens overwhelmingly back creation of an EU army, survey finds",
+      "link": "https://www.politico.eu/article/european-citizens-overwhelmingly-back-creation-of-an-eu-army-survey-finds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Fri, 13 Nov 2026 06:00:00 +0000",
+      "description": "More than seven in 10 support a European army, while nearly eight in 10 want stronger European defense capabilities, according to GLOBSEC's 2026 Trends report.",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "Ukraine Reports Renewed Starshield Velocity Restrictions on Military Drones",
+      "link": "https://satnews.com/2026/11/12/ukraine-reports-renewed-starshield-velocity-restrictions-on-military-drones/",
+      "pubDate": "Thu, 12 Nov 2026 19:28:59 +0000",
+      "description": "On Nov. 12, Ukrainian President Volodymyr Zelenskyy reported that military units have experienced systematic disruptions to SpaceX&#8217;s Starshield satellite communications service over several days, cutting connectivity for drones operating above [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Teledyne e2v Expands Space DDR4 Memory Line With 8 GB and 16 GB NASA Grade Models",
+      "link": "https://satnews.com/2026/11/12/teledyne-e2v-expands-space-ddr4-memory-line-with-8-gb-and-16-gb-nasa-grade-models/",
+      "pubDate": "Thu, 12 Nov 2026 16:33:15 +0000",
+      "description": "Targeting growing onboard data storage demands for Earth observation, communications payloads, and artificial intelligence (AI) workloads, Teledyne e2v Semiconductors announced on Nov. 12 the addition of 8 gigabyte (GB) and [&#8230;]",
+      "feedName": "Satnews"
     },
     {
       "title": "Brussels accepts petition to suspend Israel trade agreement",
@@ -14,13 +63,6 @@
       "pubDate": "Thu, 12 Nov 2026 13:48:31 +0000",
       "description": "Petition accuses Israel of 'an unprecedented level of killing and injury of civilians'",
       "feedName": "Euractiv"
-    },
-    {
-      "title": "Ukraine Starlink speed restrictions in effect again, Zelenskyy says",
-      "link": "https://www.politico.eu/article/starlink-slowed-down-for-ukraine-again/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Thu, 12 Nov 2026 13:26:43 +0000",
-      "description": "Military units have recorded \"significant disruptions\" similar to the speed limits enforced in October, Ukraine's president said.",
-      "feedName": "Politico Europe"
     },
     {
       "title": "EU Parliament wants to stop European defence start-ups selling out",
@@ -58,13 +100,6 @@
       "feedName": "Euractiv"
     },
     {
-      "title": "Firefly CEO Projects Defense Sector Could Comprise 25% of Lunar Services Market",
-      "link": "https://satnews.com/2026/11/11/firefly-ceo-projects-defense-sector-could-comprise-25-of-lunar-services-market/",
-      "pubDate": "Wed, 11 Nov 2026 15:16:25 +0000",
-      "description": "CEDAR PARK, Texas — Military requirements could account for approximately 25% of the emerging lunar services market as defense agencies expand space domain awareness and orbital maneuver capabilities, Firefly Aerospace [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
       "link": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/",
       "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000",
@@ -72,39 +107,11 @@
       "feedName": "SpaceNews"
     },
     {
-      "title": "Israel’s Rafael unveils new, larger cruise missile dubbed Super Ice",
-      "link": "https://breakingdefense.com/2026/11/israels-rafael-unveils-new-larger-cruise-missile-dubbed-super-ice/",
-      "pubDate": "Wed, 11 Nov 2026 08:00:00 +0000",
-      "description": "Super Ice is comparable in size to the US-made Tomahawk missile. \n",
-      "feedName": "Breaking Defense"
-    },
-    {
       "title": "EU expects next Israeli government to be ‘less aggressive’",
       "link": "https://www.rapporteur.com/news/eu-expects-next-israeli-government-to-be-less-aggressive/",
       "pubDate": "Wed, 11 Nov 2026 06:00:57 +0000",
       "description": "European diplomats are hoping for a rapprochement with the Israelis ",
       "feedName": "Euractiv"
-    },
-    {
-      "title": "First Anduril Satellite On Orbit is for Space Domain Awareness",
-      "link": "https://www.satellitetoday.com/technology/2026/11/10/first-anduril-satellite-on-orbit-is-for-space-domain-awareness/",
-      "pubDate": "Tue, 10 Nov 2026 20:55:27 +0000",
-      "description": "Anduril Industries‘ first satellite on orbit, launched in July, is designed to demonstrate space domain awareness missions, the company said on Tuesday. “You can’t fight in space if you can’t [&#8230;]\nThe post First Anduril Satellite On Orbit is for Space Domain Awareness appeared first on Via Sate",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "Rocket Lab Secures Half a Billion in Neutron Launch Orders in Q3 ",
-      "link": "https://www.satellitetoday.com/launch/2026/11/10/rocket-lab-secures-half-a-billion-in-neutron-launch-orders-in-q3/",
-      "pubDate": "Tue, 10 Nov 2026 20:15:40 +0000",
-      "description": "Rocket Lab is seeing strong demand for its launch business, hitting a record backlog of 117 missions across Electron, Neutron, and HASTE hypersonic suborbital launches. During the third quarter, Rocket [&#8230;]\nThe post Rocket Lab Secures Half a Billion in Neutron Launch Orders in Q3  appeared firs",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "Rivada Space Networks Partners with Telespazio Brasil for Latin American Outernet Services",
-      "link": "https://satnews.com/2026/11/10/rivada-space-networks-partners-with-telespazio-brasil-for-latin-american-outernet-services/",
-      "pubDate": "Tue, 10 Nov 2026 17:26:52 +0000",
-      "description": "RIO DE JANEIRO — Commercial satellite operator Rivada Space Networks has entered into a strategic collaboration agreement with Telespazio Brasil to integrate its planned 600-satellite low Earth orbit (LEO) constellation [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "Czech Space Week – Michele Iapaolo of ESA on Commercialisation Journey from Idea to Global Market",
@@ -119,20 +126,6 @@
       "pubDate": "Tue, 10 Nov 2026 09:00:00 +0000",
       "description": " Written by Gilles Rabin.  Europe's space industry is entering a new era, driven by defence spending, industrial consolidation and the pressure to scale. From the relocation of Space Tech Expo to shifting power between ESA, the EU and national governments, Gilles Rabin examines whether Europe is rea",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Lame-duck Trump puts Greece, Turkey and Israel on edge",
-      "link": "https://www.rapporteur.com/news/lame-duck-trump-puts-greece-turkey-and-israel-on-edge/",
-      "pubDate": "Tue, 10 Nov 2026 03:00:51 +0000",
-      "description": "Political change in the US might destabilise an already volatile region",
-      "feedName": "Euractiv"
-    },
-    {
-      "title": "What Starlink Restrictions in Ukraine Reveal About Europe’s Space Sovereignty and the Path Forward",
-      "link": "https://www.satellitetoday.com/podcast/2026/11/09/what-starlink-restrictions-in-ukraine-reveal-about-europes-space-sovereignty-and-the-path-forward/",
-      "pubDate": "Mon, 09 Nov 2026 21:59:13 +0000",
-      "description": "The recent Starlink and Starshield disruptions in Ukraine put satcom access in the center of international news. Ukrainian forces experienced a slowdown in access to Starlink and Starshield that impacted [&#8230;]\nThe post What Starlink Restrictions in Ukraine Reveal About Europe’s Space Sovereignty",
-      "feedName": "Via Satellite"
     },
     {
       "title": "Space Solutions for Energy Challenges: Register for the Workshop",
