@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-14T13:13:01.134Z",
+  "generated": "2026-11-15T13:40:58.287Z",
   "newsItems": [
+    {
+      "title": "Israel kills Hamas commander in Gaza strike",
+      "link": "https://www.politico.eu/article/israel-kills-hamas-commander-in-gaza-strike/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Sun, 15 Nov 2026 09:43:15 +0000",
+      "description": "Samir Abu Younis, who helped plan and oversee the Oct. 7 massacre, took control of Hamas' Rafah Brigade just two months ago. ",
+      "feedName": "Politico Europe"
+    },
+    {
+      "title": "EU reiterates ‘grave concern’ over Gaza humanitarian crisis as winter approaches",
+      "link": "https://www.politico.eu/article/eu-reiterates-grave-concern-over-gaza-humanitarian-crisis-as-winter-approaches/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "pubDate": "Sat, 14 Nov 2026 16:28:36 +0000",
+      "description": "The bloc's foreign policy chief Kaja Kallas has called on Israel to allow more humanitarian aid into Gaza as weather worsens living conditions.",
+      "feedName": "Politico Europe"
+    },
     {
       "title": "Gadi Eisenkot could be Israel’s next leader. His military experience will drive his approach.",
       "link": "https://breakingdefense.com/2026/11/gadi-eisenkot-could-be-israels-next-leader-his-military-experience-will-drive-his-approach/",
@@ -44,13 +58,6 @@
       "feedName": "Satnews"
     },
     {
-      "title": "Teledyne e2v Expands Space DDR4 Memory Line With 8 GB and 16 GB NASA Grade Models",
-      "link": "https://satnews.com/2026/11/12/teledyne-e2v-expands-space-ddr4-memory-line-with-8-gb-and-16-gb-nasa-grade-models/",
-      "pubDate": "Thu, 12 Nov 2026 16:33:15 +0000",
-      "description": "Targeting growing onboard data storage demands for Earth observation, communications payloads, and artificial intelligence (AI) workloads, Teledyne e2v Semiconductors announced on Nov. 12 the addition of 8 gigabyte (GB) and [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "Brussels accepts petition to suspend Israel trade agreement",
       "link": "https://www.rapporteur.com/news/brussels-accepts-petition-to-suspend-israel-trade-agreement/",
       "pubDate": "Thu, 12 Nov 2026 13:48:31 +0000",
@@ -77,13 +84,6 @@
       "pubDate": "Thu, 12 Nov 2026 10:36:32 +0000",
       "description": "The European Space Agency (ESA) has revealed that MaiaSpace&#8217;s decision to pursue a different funding arrangement from its competitors has complicated negotiations over its European Launcher Challenge contract. Speaking during an ESA media briefing on 22 October, ESA Director of Space Transport",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "UK Ministry of Defence Recommends Lockheed Martin Over Airbus for £2.4B Skynet Contract",
-      "link": "https://satnews.com/2026/11/11/uk-ministry-of-defence-recommends-lockheed-martin-over-airbus-for-2-4b-skynet-contract/",
-      "pubDate": "Wed, 11 Nov 2026 22:40:47 +0000",
-      "description": "On Nov. 5, reports indicated that the UK Ministry of Defence (MoD) recommended selecting Lockheed Martin over incumbent contractor Airbus Defence and Space for the £2.4 billion ($3.2 billion) next-generation [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "Germany must rein in debt-fuelled defence spending: experts",
