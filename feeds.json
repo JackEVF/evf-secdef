@@ -1,19 +1,12 @@
 {
-  "generated": "2026-11-15T13:40:58.287Z",
+  "generated": "2026-11-16T15:14:24.078Z",
   "newsItems": [
     {
-      "title": "Israel kills Hamas commander in Gaza strike",
-      "link": "https://www.politico.eu/article/israel-kills-hamas-commander-in-gaza-strike/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Sun, 15 Nov 2026 09:43:15 +0000",
-      "description": "Samir Abu Younis, who helped plan and oversee the Oct. 7 massacre, took control of Hamas' Rafah Brigade just two months ago. ",
-      "feedName": "Politico Europe"
-    },
-    {
-      "title": "EU reiterates ‘grave concern’ over Gaza humanitarian crisis as winter approaches",
-      "link": "https://www.politico.eu/article/eu-reiterates-grave-concern-over-gaza-humanitarian-crisis-as-winter-approaches/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Sat, 14 Nov 2026 16:28:36 +0000",
-      "description": "The bloc's foreign policy chief Kaja Kallas has called on Israel to allow more humanitarian aid into Gaza as weather worsens living conditions.",
-      "feedName": "Politico Europe"
+      "title": "ESA’s Izaña Station Gains New Capabilities for Automated Space Debris Tracking",
+      "link": "https://spacewatch.global/2026/11/esas-izana-station-gains-new-capabilities-for-automated-space-debris-tracking/",
+      "pubDate": "Mon, 16 Nov 2026 07:00:00 +0000",
+      "description": "The European Space Agency (ESA) has successfully completed an upgrade of its Izaña laser ranging station in Tenerife, Spain, expanding the facility's capabilities for tracking space debris and other non-cooperative objects in orbit. \n\nThe upgrade adds a second laser ranging station, Izaña-2, alongsi",
+      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Gadi Eisenkot could be Israel’s next leader. His military experience will drive his approach.",
@@ -51,13 +44,6 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "Ukraine Reports Renewed Starshield Velocity Restrictions on Military Drones",
-      "link": "https://satnews.com/2026/11/12/ukraine-reports-renewed-starshield-velocity-restrictions-on-military-drones/",
-      "pubDate": "Thu, 12 Nov 2026 19:28:59 +0000",
-      "description": "On Nov. 12, Ukrainian President Volodymyr Zelenskyy reported that military units have experienced systematic disruptions to SpaceX&#8217;s Starshield satellite communications service over several days, cutting connectivity for drones operating above [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "Brussels accepts petition to suspend Israel trade agreement",
       "link": "https://www.rapporteur.com/news/brussels-accepts-petition-to-suspend-israel-trade-agreement/",
       "pubDate": "Thu, 12 Nov 2026 13:48:31 +0000",
@@ -86,25 +72,11 @@
       "feedName": "European Spaceflight"
     },
     {
-      "title": "Germany must rein in debt-fuelled defence spending: experts",
-      "link": "https://www.rapporteur.com/news/germany-must-rein-in-debt-fuelled-defence-spending-experts/",
-      "pubDate": "Wed, 11 Nov 2026 15:53:08 +0000",
-      "description": "The top EU economy is pouring huge sums into bolstering its long-neglected armed forces to face a hostile Russia",
-      "feedName": "Euractiv"
-    },
-    {
       "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
       "link": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/",
       "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000",
       "description": "\n(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-up project supported by €500,000 and reinforced by selection [&#8230;]\nThe post Horizon Microtechno",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "EU expects next Israeli government to be ‘less aggressive’",
-      "link": "https://www.rapporteur.com/news/eu-expects-next-israeli-government-to-be-less-aggressive/",
-      "pubDate": "Wed, 11 Nov 2026 06:00:57 +0000",
-      "description": "European diplomats are hoping for a rapprochement with the Israelis ",
-      "feedName": "Euractiv"
     },
     {
       "title": "Czech Space Week – Michele Iapaolo of ESA on Commercialisation Journey from Idea to Global Market",
@@ -126,20 +98,6 @@
       "pubDate": "Mon, 09 Nov 2026 10:00:00 +0000",
       "description": "EARSC, together with ESA and IOGP, is organising the workshop “Space Solutions for Energy Challenges” in January 2027 at ESA-ESRIN in Frascati, Italy. Earth Observation (EO) is becoming part of everyday decision-making across the energy sector, from methane monitoring and asset integrity to renewabl",
       "feedName": "EO Mag"
-    },
-    {
-      "title": "UK Launches Titania Military Satellite as it Expands Space Defense Investment",
-      "link": "https://spacewatch.global/2026/11/uk-launches-titania-military-satellite-as-it-expands-space-defense-investment/",
-      "pubDate": "Mon, 09 Nov 2026 07:00:00 +0000",
-      "description": "The United Kingdom has launched its Titania military satellite into orbit, marking another step in the country's efforts to strengthen its space-based defense capabilities. \n\nDeveloped by BAE Systems in partnership with the Defence Science and Technology Laboratory, the satellite is part of the UK's",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "ESA’s Hera Captures First Close-Up Image of Didymos Binary Asteroid System",
-      "link": "https://spacewatch.global/2026/11/esas-hera-captures-first-close-up-image-of-didymos-binary-asteroid-system/",
-      "pubDate": "Mon, 09 Nov 2026 07:00:00 +0000",
-      "description": "The European Space Agency's Hera spacecraft has captured its first close-up image of the Didymos binary asteroid system, providing a new view of the larger asteroid that NASA's Double Asteroid Redirection Test mission targeted for its 2022 planetary defense experiment. ",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "Blue wave presages a defense-spending showdown",
