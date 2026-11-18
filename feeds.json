@@ -1,12 +1,33 @@
 {
-  "generated": "2026-11-17T15:42:02.768Z",
+  "generated": "2026-11-18T15:21:26.220Z",
   "newsItems": [
     {
-      "title": "Irish regulator stops X training AI with data gathered by agents",
-      "link": "https://www.politico.eu/article/x-stops-training-ai-with-agents-data-after-ireland-intervened/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Tue, 17 Nov 2026 10:54:01 +0000",
-      "description": "Regulator says it has significant concerns about the use of personal data that is being collected by AI agents.",
-      "feedName": "Politico Europe"
+      "title": "Ireland urges EU to treat prevention as investment, with heart disease still its biggest killer [Partner Content]",
+      "link": "https://www.rapporteur.com/news/ireland-urges-eu-to-treat-prevention-as-investment-with-heart-disease-still-its-biggest-killer/",
+      "pubDate": "Wed, 18 Nov 2026 13:23:27 +0000",
+      "description": "Dublin Castle conference under the Irish Council Presidency puts the Commission's Safe Hearts Plan centre stage, while EU tobacco reforms stall and prevention remains a sliver of health spending",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "DeepSat and EraDrive Partner to Bring Autonomous Navigation and Space Domain Awareness to VLEO",
+      "link": "https://spacewatch.global/2026/11/deepsat-and-eradrive-partner-to-bring-autonomous-navigation-and-space-domain-awareness-to-vleo/",
+      "pubDate": "Wed, 18 Nov 2026 07:00:00 +0000",
+      "description": "DeepSat and EraDrive have partnered to integrate autonomous spacecraft navigation and space domain awareness capabilities into very low Earth orbit satellite operations. The partnership aims to improve spacecraft autonomy and awareness of the orbital environment in which VLEO satellites operate",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "UK Startup Foundational.Space Launches Laser Retroreflector for Space Domain Awareness",
+      "link": "https://www.satellitetoday.com/technology/2026/11/17/uk-startup-foundational-space-launches-laser-retroreflector-for-space-domain-awareness/",
+      "pubDate": "Tue, 17 Nov 2026 21:10:38 +0000",
+      "description": "BREMEN, Germany –Foundational.Space has developed an in-orbit optical satellite tracking technology, the Retro-2 laser retroreflector, reporting the tech recently demonstrated laser ranging signals in space. London startup Foundational.Space emerged from [&#8230;]\nThe post UK Startup Foundational.Sp",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Nammo UK Completes Prototype Hot-Fire Tests for ESA Argonaut Lunar Lander Engine",
+      "link": "https://satnews.com/2026/11/17/nammo-uk-completes-prototype-hot-fire-tests-for-esa-argonaut-lunar-lander-engine/",
+      "pubDate": "Tue, 17 Nov 2026 16:12:26 +0000",
+      "description": "On Tuesday, Nov. 17, at Space Tech Expo Europe in Bremen, Germany, spacecraft propulsion specialist Nammo UK confirmed the completion of a prototype hot-fire test campaign for its RELIANCE lunar [&#8230;]",
+      "feedName": "Satnews"
     },
     {
       "title": "KP Labs Unveils Serval Nano DPU for Onboard Data Processing in Small Satellites",
@@ -44,39 +65,11 @@
       "feedName": "Satnews"
     },
     {
-      "title": "Thales Alenia Space Signs ESA Contract Amendments to Advance TeQuantS Quantum Satellite Project",
-      "link": "https://satnews.com/2026/11/16/thales-alenia-space-signs-esa-contract-amendments-to-advance-tequants-quantum-satellite-project/",
-      "pubDate": "Mon, 16 Nov 2026 15:47:07 +0000",
-      "description": "On Nov. 16, Thales Alenia Space, the joint venture between Thales (67%) and Leonardo (33%), signed two contract amendments with the European Space Agency (ESA) as prime contractor for the [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "ICEYE Unveils Gen5 SAR Satellite With 11-Centimeter Resolution and Onboard AI",
-      "link": "https://satnews.com/2026/11/16/iceye-unveils-gen5-sar-satellite-with-11-centimeter-resolution-and-onboard-ai/",
-      "pubDate": "Mon, 16 Nov 2026 15:37:05 +0000",
-      "description": "Seeking to shorten the timeline from orbital data collection to operational decision-making, Finnish radar satellite manufacturer ICEYE unveiled its fifth-generation synthetic aperture radar (SAR) satellite system, Gen5, on Monday, Nov. [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "ESA’s Izaña Station Gains New Capabilities for Automated Space Debris Tracking",
       "link": "https://spacewatch.global/2026/11/esas-izana-station-gains-new-capabilities-for-automated-space-debris-tracking/",
       "pubDate": "Mon, 16 Nov 2026 07:00:00 +0000",
       "description": "The European Space Agency (ESA) has successfully completed an upgrade of its Izaña laser ranging station in Tenerife, Spain, expanding the facility's capabilities for tracking space debris and other non-cooperative objects in orbit. \n\nThe upgrade adds a second laser ranging station, Izaña-2, alongsi",
       "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Microsoft outage renews calls for European tech sovereignty",
-      "link": "https://www.rapporteur.com/news/microsoft-outage-renews-calls-for-european-tech-sovereignty/",
-      "pubDate": "Fri, 13 Nov 2026 12:29:38 +0000",
-      "description": "Service disruption shows vulnerability of overreliance, warn cloud sovereignty lawmakers",
-      "feedName": "Euractiv"
-    },
-    {
-      "title": "Microsoft battling to fix global Outlook outage",
-      "link": "https://www.rapporteur.com/news/microsoft-battling-to-fix-global-outlook-outage/",
-      "pubDate": "Fri, 13 Nov 2026 09:18:52 +0000",
-      "description": "Service disruption also affecting other Microsoft software, such as Teams and Copilot",
-      "feedName": "Euractiv"
     },
     {
       "title": "ESA Confirms Latest Prometheus Tests Not Connected to Themis Hop Preparations",
@@ -107,13 +100,6 @@
       "feedName": "SpaceNews"
     },
     {
-      "title": "Space Solutions for Energy Challenges: Register for the Workshop",
-      "link": "https://eomag.eu/space-solutions-for-energy-challenges-register-for-the-workshop/?utm_source=rss&utm_medium=rss&utm_campaign=space-solutions-for-energy-challenges-register-for-the-workshop",
-      "pubDate": "Mon, 09 Nov 2026 10:00:00 +0000",
-      "description": "EARSC, together with ESA and IOGP, is organising the workshop “Space Solutions for Energy Challenges” in January 2027 at ESA-ESRIN in Frascati, Italy. Earth Observation (EO) is becoming part of everyday decision-making across the energy sector, from methane monitoring and asset integrity to renewabl",
-      "feedName": "EO Mag"
-    },
-    {
       "title": "Blue wave presages a defense-spending showdown",
       "link": "https://www.defenseone.com/policy/2026/11/blue-wave-presages-defense-spending-showdown/417111/",
       "pubDate": "Fri, 06 Nov 2026 16:24:24 -0500",
@@ -133,13 +119,6 @@
       "pubDate": "Thu, 05 Nov 2026 08:30:04 +0000",
       "description": "In spring 2026, Britain, Norway, and the United States tracked and disrupted a covert Arctic exercise off the coast of Norway involving Russian deep-sea submersibles simulating the deployment of a weapon designed to disable the two 1,400-kilometer submarine cables linking the islands of Svalbard to ",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
-      "link": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/",
-      "pubDate": "Tue, 03 Nov 2026 16:59:43 +0000",
-      "description": "\nCzech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200 [&#8230;]\nThe post Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission S",
-      "feedName": "SpaceNews"
     },
     {
       "title": "What Israel’s Election Results Mean for the Middle East and Beyond",
@@ -175,34 +154,6 @@
       "pubDate": "Tue, 06 Oct 2026 07:30:13 +0000",
       "description": "With the significant Israeli and U.S. military attacks against Iran in 2025 and early 2026, analysts have discussed and debated Iran&#8217;s ability to replenish its missile and drone arsenal. Since 2024, Iran has burned through thousands of ballistic missiles, cruise missiles, and one-way attack dr",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Save the date: CDSE User Summit 2026",
-      "link": "https://eomag.eu/save-the-date-cdse-user-summit-2026/?utm_source=rss&utm_medium=rss&utm_campaign=save-the-date-cdse-user-summit-2026",
-      "pubDate": "Tue, 14 Jul 2026 07:34:56 +0000",
-      "description": "The Copernicus Data Space Ecosystem is pleased to announce its annual user community event. Mark your calendar for the&#160;CDSE User Summit 2026&#160;taking place on&#160;Wednesday, 16 September 2026&#160;during INTERGEO 2026 in Munich. The CDSE User Summit is&#160;a hybrid event&#160;that brings&#",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Building Higher-Quality Geospatial Datasets for AI: Lessons from Enabled Intelligence and New Capabilities from Kili Technology",
-      "link": "https://eomag.eu/building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology/?utm_source=rss&utm_medium=rss&utm_campaign=building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology",
-      "pubDate": "Thu, 09 Jul 2026 13:35:07 +0000",
-      "description": "What does mission-critical accuracy look like in practice? Enabled Intelligence, an AI technology and services provider specialising in geospatial analysis, builds models for government and commercial clients across military intelligence, disaster recovery, transportation logistics and agricultural ",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Focus on Dynamics: Semantic Data Cube as a key to Sentinel-2-based Landscape Analysis",
-      "link": "https://eomag.eu/focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis",
-      "pubDate": "Thu, 09 Jul 2026 12:55:49 +0000",
-      "description": "color33 is an automated, cloud-based, online processing service that converts multispectral Earth observation images into actionable categories without requiring any training samples. Unlike unsupervised clustering routines or machine learning approaches, color33 is based on a physical-model, produc",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "CloudFerro expands sovereign cloud infrastructure for Earth Observation with a new AI-ready cloud region in Poland",
-      "link": "https://eomag.eu/cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland/?utm_source=rss&utm_medium=rss&utm_campaign=cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland",
-      "pubDate": "Wed, 08 Jul 2026 15:55:23 +0000",
-      "description": "CloudFerro, a Polish sovereign cloud provider, has launched a new public cloud region in Łódź, Poland, further expanding its European cloud infrastructure dedicated to Earth Observation, AI and data-intensive workloads. The new region has been designed to support organisations processing large volum",
-      "feedName": "EO Mag"
     }
   ],
   "tenderItems": []
