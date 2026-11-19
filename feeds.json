@@ -1,6 +1,69 @@
 {
-  "generated": "2026-11-18T15:21:26.220Z",
+  "generated": "2026-11-19T15:27:52.399Z",
   "newsItems": [
+    {
+      "title": "Activists throw ashes at EU health commissioner during speech",
+      "link": "https://www.rapporteur.com/news/activists-throw-ashes-during-eu-health-commissioners-speech/",
+      "pubDate": "Thu, 19 Nov 2026 12:52:14 +0000",
+      "description": "Protesters disrupt European Cancer Summit in Brussels over proposed EU pesticide changes",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "#SpaceWatchGL Opinion: Space Needs Experts. Just Not Always Space Experts.",
+      "link": "https://spacewatch.global/2026/11/spacewatchgl-opinion-space-needs-experts-just-not-always-space-experts/",
+      "pubDate": "Thu, 19 Nov 2026 09:00:00 +0000",
+      "description": " Written by Judith Delany.  Europe's space sector talks endlessly about innovation and interdisciplinary collaboration, yet too often finds itself having the same conversations with the same people. From human spaceflight to Earth observation, valuable perspectives remain outside the room. But what ",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "The Ground Beneath the Cloud: Dispersion and Dependency in the Digital Age",
+      "link": "https://warontherocks.com/the-ground-beneath-the-cloud-dispersion-and-dependency-in-the-digital-age/",
+      "pubDate": "Thu, 19 Nov 2026 08:30:45 +0000",
+      "description": "Commercial cloud architecture has made digital infrastructure more resilient to localized disruption. Geographic dispersion, workload migration, and failover have allowed providers to preserve access in instances of degradation or even destruction. Yet, underpinning this resiliency are interlocking ",
+      "feedName": "War on the Rocks"
+    },
+    {
+      "title": "ESA Awards OHB €102M Contract for ClearSpace-1 Debris Removal Mission",
+      "link": "https://europeanspaceflight.com/esa-awards-ohb-e102m-contract-for-clearspace-1-debris-removal-mission/",
+      "pubDate": "Thu, 19 Nov 2026 06:41:35 +0000",
+      "description": "The European Space Agency has awarded German satellite builder OHB a €102 million contract to build ClearSpace-1, a spacecraft designed to capture and remove the agency&#8217;s Proba-1 satellite after it is retired from service. Signed on 17 November at Space Tech Expo Europe in Bremen, Germany, the",
+      "feedName": "European Spaceflight"
+    },
+    {
+      "title": "Telesat Secures Six-Week Debt Standstill From GEO Lenders Through Jan. 18, 2027",
+      "link": "https://satnews.com/2026/11/18/telesat-secures-six-week-debt-standstill-from-geo-lenders-through-jan-18-2027/",
+      "pubDate": "Wed, 18 Nov 2026 22:12:47 +0000",
+      "description": "On Tuesday, Nov. 17, Canadian satellite operator Telesat announced that its geostationary orbit (GEO) lenders agreed to a temporary standstill arrangement postponing an upcoming debt maturity from Dec. 6, 2026, [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "ESA, OHB and ClearSpace Move Forward on Active Debris Removal Mission",
+      "link": "https://www.satellitetoday.com/technology/2026/11/18/esa-ohb-and-clearspace-move-forward-on-active-debris-removal-mission/",
+      "pubDate": "Wed, 18 Nov 2026 21:25:36 +0000",
+      "description": "The European Space Agency awarded OHB a 102 million euro ($112 million) contract to serve as the prime contractor for the ClearSpace-1 (CS-1) active debris removal mission. In addition, OHB [&#8230;]\nThe post ESA, OHB and ClearSpace Move Forward on Active Debris Removal Mission appeared first on Via",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "SES to Lead New European D2D Project SELYCE",
+      "link": "https://www.satellitetoday.com/connectivity/2026/11/18/ses-to-lead-new-european-d2d-project-selyce/",
+      "pubDate": "Wed, 18 Nov 2026 20:49:59 +0000",
+      "description": "The European Space Agency (ESA) has tapped SES to lead a new European direct-to-device (D2D) project that will develop and test new technologies for use cases like vehicle connectivity and [&#8230;]\nThe post SES to Lead New European D2D Project SELYCE appeared first on Via Satellite.\n",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Navy taps one-star admiral to advance hypersonic weapons, SLCM-N integration at Crane",
+      "link": "https://breakingdefense.com/2026/11/navy-taps-one-star-admiral-to-advance-hypersonic-weapons-slcm-n-integration-at-crane/",
+      "pubDate": "Wed, 18 Nov 2026 20:41:54 +0000",
+      "description": "Rear Adm. Patrick Finney is the first person to lead the new program management office based out of Naval Weapons Station Crane in Indiana.\n",
+      "feedName": "Breaking Defense"
+    },
+    {
+      "title": "EU seeks industrial return from €25 billion Ukraine defence loan  ",
+      "link": "https://www.rapporteur.com/news/eu-seeks-industrial-return-from-e25-billion-ukraine-defence-loan/",
+      "pubDate": "Wed, 18 Nov 2026 15:24:49 +0000",
+      "description": "The loan will further integrate Ukrainian and European defence industries, Commission says",
+      "feedName": "Euractiv"
+    },
     {
       "title": "Ireland urges EU to treat prevention as investment, with heart disease still its biggest killer [Partner Content]",
       "link": "https://www.rapporteur.com/news/ireland-urges-eu-to-treat-prevention-as-investment-with-heart-disease-still-its-biggest-killer/",
@@ -23,13 +86,6 @@
       "feedName": "Via Satellite"
     },
     {
-      "title": "Nammo UK Completes Prototype Hot-Fire Tests for ESA Argonaut Lunar Lander Engine",
-      "link": "https://satnews.com/2026/11/17/nammo-uk-completes-prototype-hot-fire-tests-for-esa-argonaut-lunar-lander-engine/",
-      "pubDate": "Tue, 17 Nov 2026 16:12:26 +0000",
-      "description": "On Tuesday, Nov. 17, at Space Tech Expo Europe in Bremen, Germany, spacecraft propulsion specialist Nammo UK confirmed the completion of a prototype hot-fire test campaign for its RELIANCE lunar [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
       "title": "KP Labs Unveils Serval Nano DPU for Onboard Data Processing in Small Satellites",
       "link": "https://spacewatch.global/2026/11/kp-labs-unveils-serval-nano-dpu-for-onboard-data-processing-in-small-satellites/",
       "pubDate": "Tue, 17 Nov 2026 07:00:00 +0000",
@@ -42,27 +98,6 @@
       "pubDate": "Tue, 17 Nov 2026 06:00:34 +0000",
       "description": "The agency wants EU countries to focus on air mobility, a defence cloud, and space early warning capabilities",
       "feedName": "Euractiv"
-    },
-    {
-      "title": "Iceye’s Fifth Generation SAR Satellite Built for 11cm Resolution ",
-      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/11/16/iceyes-fifth-generation-sar-satellite-built-for-11cm-resolution/",
-      "pubDate": "Mon, 16 Nov 2026 20:50:20 +0000",
-      "description": "Iceye announced its next-generation satellite, designed to provide synthetic aperture radar (SAR) imaging in as fine as 11 centimeter resolution for sovereign nations, and 16 cm for commercial customers. This [&#8230;]\nThe post Iceye’s Fifth Generation SAR Satellite Built for 11cm Resolution  appear",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "Umbra Secures Launch for Next 7 SAR Satellites WIth Increased Capabilities ",
-      "link": "https://www.satellitetoday.com/imagery-and-sensing/2026/11/16/umbra-secures-launch-for-next-7-sar-satellites-with-increased-capabilities/",
-      "pubDate": "Mon, 16 Nov 2026 20:44:58 +0000",
-      "description": "Umbra has secured launches for its next seven synthetic aperture radar (SAR) satellites as it upgrades its constellation. Umbra also released the first images from its 13th and 14th satellites, [&#8230;]\nThe post Umbra Secures Launch for Next 7 SAR Satellites WIth Increased Capabilities  appeared fi",
-      "feedName": "Via Satellite"
-    },
-    {
-      "title": "Satellogic Reports Record Revenue and Largest-Ever $37 Million Sovereign Satellite Order",
-      "link": "https://satnews.com/2026/11/16/satellogic-reports-record-revenue-and-largest-ever-37-million-sovereign-satellite-order/",
-      "pubDate": "Mon, 16 Nov 2026 17:54:10 +0000",
-      "description": "Earth observation operator Satellogic reported record revenue alongside a $37 million three-satellite government order—the largest contract in the company&#8217;s history—according to financial figures released in its Nov. 10 investor presentation. [&#8230;]",
-      "feedName": "Satnews"
     },
     {
       "title": "ESA’s Izaña Station Gains New Capabilities for Automated Space Debris Tracking",
@@ -100,18 +135,11 @@
       "feedName": "SpaceNews"
     },
     {
-      "title": "Blue wave presages a defense-spending showdown",
-      "link": "https://www.defenseone.com/policy/2026/11/blue-wave-presages-defense-spending-showdown/417111/",
-      "pubDate": "Fri, 06 Nov 2026 16:24:24 -0500",
-      "description": "A reconciliation bill is likely off the table, and the presumed HASC chair is talking about a $1-trillion cap.",
-      "feedName": "Defense One"
-    },
-    {
-      "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
-      "link": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
-      "pubDate": "Thu, 05 Nov 2026 17:05:59 +0000",
-      "description": "\nMozelos, Portugal, September 2, 2026 &#8211; Amorim Cork Solutions is contributing its P50 cork-based thermal protection material to DRACO, a European Space Agency (ESA) mission designed to capture rare in-flight [&#8230;]\nThe post Cork Takes the Heat So DRACO’s Data Can Survive appeared first on S",
-      "feedName": "SpaceNews"
+      "title": "Space Solutions for Energy Challenges: Register for the Workshop",
+      "link": "https://eomag.eu/space-solutions-for-energy-challenges-register-for-the-workshop/?utm_source=rss&utm_medium=rss&utm_campaign=space-solutions-for-energy-challenges-register-for-the-workshop",
+      "pubDate": "Mon, 09 Nov 2026 10:00:00 +0000",
+      "description": "EARSC, together with ESA and IOGP, is organising the workshop “Space Solutions for Energy Challenges” in January 2027 at ESA-ESRIN in Frascati, Italy. Earth Observation (EO) is becoming part of everyday decision-making across the energy sector, from methane monitoring and asset integrity to renewabl",
+      "feedName": "EO Mag"
     },
     {
       "title": "Who Repairs the Internet in Wartime?",
@@ -154,6 +182,34 @@
       "pubDate": "Tue, 06 Oct 2026 07:30:13 +0000",
       "description": "With the significant Israeli and U.S. military attacks against Iran in 2025 and early 2026, analysts have discussed and debated Iran&#8217;s ability to replenish its missile and drone arsenal. Since 2024, Iran has burned through thousands of ballistic missiles, cruise missiles, and one-way attack dr",
       "feedName": "War on the Rocks"
+    },
+    {
+      "title": "Save the date: CDSE User Summit 2026",
+      "link": "https://eomag.eu/save-the-date-cdse-user-summit-2026/?utm_source=rss&utm_medium=rss&utm_campaign=save-the-date-cdse-user-summit-2026",
+      "pubDate": "Tue, 14 Jul 2026 07:34:56 +0000",
+      "description": "The Copernicus Data Space Ecosystem is pleased to announce its annual user community event. Mark your calendar for the&#160;CDSE User Summit 2026&#160;taking place on&#160;Wednesday, 16 September 2026&#160;during INTERGEO 2026 in Munich. The CDSE User Summit is&#160;a hybrid event&#160;that brings&#",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "Building Higher-Quality Geospatial Datasets for AI: Lessons from Enabled Intelligence and New Capabilities from Kili Technology",
+      "link": "https://eomag.eu/building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology/?utm_source=rss&utm_medium=rss&utm_campaign=building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology",
+      "pubDate": "Thu, 09 Jul 2026 13:35:07 +0000",
+      "description": "What does mission-critical accuracy look like in practice? Enabled Intelligence, an AI technology and services provider specialising in geospatial analysis, builds models for government and commercial clients across military intelligence, disaster recovery, transportation logistics and agricultural ",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "Focus on Dynamics: Semantic Data Cube as a key to Sentinel-2-based Landscape Analysis",
+      "link": "https://eomag.eu/focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis",
+      "pubDate": "Thu, 09 Jul 2026 12:55:49 +0000",
+      "description": "color33 is an automated, cloud-based, online processing service that converts multispectral Earth observation images into actionable categories without requiring any training samples. Unlike unsupervised clustering routines or machine learning approaches, color33 is based on a physical-model, produc",
+      "feedName": "EO Mag"
+    },
+    {
+      "title": "CloudFerro expands sovereign cloud infrastructure for Earth Observation with a new AI-ready cloud region in Poland",
+      "link": "https://eomag.eu/cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland/?utm_source=rss&utm_medium=rss&utm_campaign=cloudferro-expands-sovereign-cloud-infrastructure-for-earth-observation-with-a-new-ai-ready-cloud-region-in-poland",
+      "pubDate": "Wed, 08 Jul 2026 15:55:23 +0000",
+      "description": "CloudFerro, a Polish sovereign cloud provider, has launched a new public cloud region in Łódź, Poland, further expanding its European cloud infrastructure dedicated to Earth Observation, AI and data-intensive workloads. The new region has been designed to support organisations processing large volum",
+      "feedName": "EO Mag"
     }
   ],
   "tenderItems": []
