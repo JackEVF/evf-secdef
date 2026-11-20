@@ -1,6 +1,55 @@
 {
-  "generated": "2026-11-19T15:27:52.399Z",
+  "generated": "2026-11-20T15:05:07.724Z",
   "newsItems": [
+    {
+      "title": "FIREPOWER: Can the EU and UK get closer on defence?",
+      "link": "https://www.rapporteur.com/news/firepower-can-the-eu-and-uk-get-closer-on-defence/",
+      "pubDate": "Fri, 20 Nov 2026 08:17:32 +0000",
+      "description": "In today's edition: Ukraine exercise, Lithuanian presidency, EDA",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "HEO Launches Insights Next to Expand Space Domain Awareness through 3D Orbital Intelligence",
+      "link": "https://spacewatch.global/2026/11/heo-launches-insights-next-to-expand-space-domain-awareness-through-3d-orbital-intelligence/",
+      "pubDate": "Fri, 20 Nov 2026 07:00:00 +0000",
+      "description": "HEO has launched Insights Next, a platform that combines non-Earth imagery, spatial context, and orbital intelligence in a three-dimensional environment. The platform is designed to help satellite operators, defense organizations, and other space stakeholders examine objects in orbit, bringing toget",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "ECOWAS Moves Forward with Plans for ECOSAT-1 Regional Earth Observation Satellite",
+      "link": "https://spacewatch.global/2026/11/ecowas-moves-forward-with-plans-for-ecosat-1-regional-earth-observation-satellite/",
+      "pubDate": "Fri, 20 Nov 2026 07:00:00 +0000",
+      "description": "The Economic Community of West African States (ECOWAS) has convened a three-day regional technical meeting in Abuja, Nigeria, to examine the proposed architecture and technical specifications of its first regional Earth observation satellite, ECOSAT-1.",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "ESA Awards OHB €102 Million Prime Contract for ClearSpace-1 Debris Removal Mission",
+      "link": "https://satnews.com/2026/11/19/esa-awards-ohb-e102-million-prime-contract-for-clearspace-1-debris-removal-mission/",
+      "pubDate": "Thu, 19 Nov 2026 21:31:24 +0000",
+      "description": "The European Space Agency (ESA) has awarded German aerospace manufacturer OHB System AG a 102 million euro ($112 million) contract to serve as prime contractor for ClearSpace-1 (CS-1), the agency&#8217;s [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Telesat Partners With Canada’s Dominion Dynamics for Portable and Uncrewed LEO Antennas ",
+      "link": "https://www.satellitetoday.com/government-military/2026/11/19/telesat-partners-with-canadas-dominion-dynamics-for-portable-and-uncrewed-leo-antennas/",
+      "pubDate": "Thu, 19 Nov 2026 21:16:33 +0000",
+      "description": "Telesat is working with Canadian defense tech company Dominion Dynamics on ruggedized antennas for military use for the Telesat Lightspeed constellation, including a terminal for uncrewed systems.  Dominion Dynamics is [&#8230;]\nThe post Telesat Partners With Canada’s Dominion Dynamics for Portable ",
+      "feedName": "Via Satellite"
+    },
+    {
+      "title": "Lithuania vows to shield defence spending if MFF talks drag into 2027",
+      "link": "https://www.rapporteur.com/news/lithuania-vows-to-shield-defence-spending-if-mff-talks-drag-into-2027/",
+      "pubDate": "Thu, 19 Nov 2026 15:06:07 +0000",
+      "description": "Defence and space spending will be as 'untouchable' as CAP and cohesion, Kubilius says",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "Space Tech Expo Bremen – Sandi Habinc of Frontgrade Gaisler on Putting a Whole Satellite on One Chip",
+      "link": "https://spacewatch.global/2026/11/space-tech-expo-bremen-sandi-habinc-of-frontgrade-gaisler-on-putting-a-whole-satellite-on-one-chip/",
+      "pubDate": "Thu, 19 Nov 2026 13:00:00 +0000",
+      "description": "From Space Tech Expo in Bremen, Frontgrade Gaisler Managing Director Sandi Habinc joins Torsten Kriening to show how an entire satellite now fits on a 7×7mm chip, explain why Germany matters for European space silicon, and share news of a newly signed ESA contract for RISC-V technology.",
+      "feedName": "SpaceWatch Global"
+    },
     {
       "title": "Activists throw ashes at EU health commissioner during speech",
       "link": "https://www.rapporteur.com/news/activists-throw-ashes-during-eu-health-commissioners-speech/",
@@ -79,31 +128,10 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "UK Startup Foundational.Space Launches Laser Retroreflector for Space Domain Awareness",
-      "link": "https://www.satellitetoday.com/technology/2026/11/17/uk-startup-foundational-space-launches-laser-retroreflector-for-space-domain-awareness/",
-      "pubDate": "Tue, 17 Nov 2026 21:10:38 +0000",
-      "description": "BREMEN, Germany –Foundational.Space has developed an in-orbit optical satellite tracking technology, the Retro-2 laser retroreflector, reporting the tech recently demonstrated laser ranging signals in space. London startup Foundational.Space emerged from [&#8230;]\nThe post UK Startup Foundational.Sp",
-      "feedName": "Via Satellite"
-    },
-    {
       "title": "KP Labs Unveils Serval Nano DPU for Onboard Data Processing in Small Satellites",
       "link": "https://spacewatch.global/2026/11/kp-labs-unveils-serval-nano-dpu-for-onboard-data-processing-in-small-satellites/",
       "pubDate": "Tue, 17 Nov 2026 07:00:00 +0000",
       "description": "Polish space technology company KP Labs has introduced Serval Nano DPU, a new onboard Data Processing Unit designed to manage the growing volumes of data generated by Earth observation satellites in low Earth orbit (LEO). ",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "EDA pitches strategic enablers ‘opportunities’ for the bloc",
-      "link": "https://www.rapporteur.com/news/eda-pitches-strategic-enablers-opportunities-for-the-bloc/",
-      "pubDate": "Tue, 17 Nov 2026 06:00:34 +0000",
-      "description": "The agency wants EU countries to focus on air mobility, a defence cloud, and space early warning capabilities",
-      "feedName": "Euractiv"
-    },
-    {
-      "title": "ESA’s Izaña Station Gains New Capabilities for Automated Space Debris Tracking",
-      "link": "https://spacewatch.global/2026/11/esas-izana-station-gains-new-capabilities-for-automated-space-debris-tracking/",
-      "pubDate": "Mon, 16 Nov 2026 07:00:00 +0000",
-      "description": "The European Space Agency (ESA) has successfully completed an upgrade of its Izaña laser ranging station in Tenerife, Spain, expanding the facility's capabilities for tracking space debris and other non-cooperative objects in orbit. \n\nThe upgrade adds a second laser ranging station, Izaña-2, alongsi",
       "feedName": "SpaceWatch Global"
     },
     {
@@ -112,13 +140,6 @@
       "pubDate": "Fri, 13 Nov 2026 07:57:07 +0000",
       "description": "The European Space Agency (ESA) and ArianeGroup have confirmed that Prometheus engine tests conducted in Lampoldshausen in October were carried out independently of preparations for the long-delayed inaugural flight of the Themis reusable booster demonstrator. In a 6 November press release, ArianeGr",
       "feedName": "European Spaceflight"
-    },
-    {
-      "title": "ESA’s Euclid Telescope Maps More Than 900 Million Galaxies in First Major Data Release",
-      "link": "https://spacewatch.global/2026/11/esas-euclid-telescope-maps-more-than-900-million-galaxies-in-first-major-data-release/",
-      "pubDate": "Fri, 13 Nov 2026 07:00:00 +0000",
-      "description": "ESA's Euclid space telescope has begun assembling one of the most ambitious maps of the Universe ever attempted, identifying more than 900 million galaxies in its first major data release. \n\nPublished on November 12, 2026, the dataset marks a significant milestone in the mission's effort to map the ",
-      "feedName": "SpaceWatch Global"
     },
     {
       "title": "ESA Explains Delay in Signing MaiaSpace Launcher Challenge Contract",
