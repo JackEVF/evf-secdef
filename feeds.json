@@ -1,6 +1,55 @@
 {
-  "generated": "2026-11-23T17:42:03.323Z",
+  "generated": "2026-11-24T17:13:35.128Z",
   "newsItems": [
+    {
+      "title": "ARES Shield AI Completes First In-Orbit Object Detection Test Aboard D-Orbit Spacecraft",
+      "link": "https://satnews.com/2026/11/24/ares-shield-ai-completes-first-in-orbit-object-detection-test-aboard-d-orbit-spacecraft/",
+      "pubDate": "Tue, 24 Nov 2026 17:01:04 +0000",
+      "description": "On Wednesday, Oct. 28, Polish space defense developer ARES Shield AI S.A. achieved its first in-orbit software milestone, successfully detecting and identifying a passing spacecraft using existing satellite hardware. Operating [&#8230;]",
+      "feedName": "Satnews"
+    },
+    {
+      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
+      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
+      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
+      "description": "\nBremen, 18 November 2026 – Simera Sense, Spacemanic, Zaitra and World from Space have signed a Memorandum of Understanding in Bremen to cooperate on a complete mission solution built around [&#8230;]\nThe post Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Us",
+      "feedName": "SpaceNews"
+    },
+    {
+      "title": "Irish privacy regulator in talks with Meta over EU launch of Muse",
+      "link": "https://www.rapporteur.com/news/irish-privacy-regulator-in-talks-with-meta-over-eu-launch-of-muse/",
+      "pubDate": "Tue, 24 Nov 2026 11:27:13 +0000",
+      "description": "AI agent tech rolled out to UK on Tuesday, where regulators signal they're on watch",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "FIREPOWER: ASD calls €130bn defence funding ‘bare minimum’",
+      "link": "https://www.rapporteur.com/news/firepower-asd-calls-e130bn-defence-funding-bare-minimum/",
+      "pubDate": "Tue, 24 Nov 2026 09:30:49 +0000",
+      "description": "In today's edition: Black Sea, German fighter jet, Spain",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "ESA Advances Genesis Mission with Enhanced Spacecraft Design for Improved Resilience",
+      "link": "https://spacewatch.global/2026/11/esa-advances-genesis-mission-with-enhanced-spacecraft-design-for-improved-resilience/",
+      "pubDate": "Tue, 24 Nov 2026 07:00:00 +0000",
+      "description": "The European Space Agency has upgraded the design of its Genesis geodesy mission, introducing a series of engineering improvements to strengthen the spacecraft, enhance its resilience and support a longer operational lifetime. The changes build on work undertaken during the mission's Preliminary Des",
+      "feedName": "SpaceWatch Global"
+    },
+    {
+      "title": "Like Sánchez, Spanish opposition stalls on NATO defence target",
+      "link": "https://www.rapporteur.com/news/like-sanchez-spanish-opposition-stalls-on-nato-defence-target/",
+      "pubDate": "Tue, 24 Nov 2026 03:00:26 +0000",
+      "description": "People's Party says defence spending will not ‘jeopardise’ public services in line with Pedro Sánchez\r\n",
+      "feedName": "Euractiv"
+    },
+    {
+      "title": "Quantum Space Completes SPAC Merger with $300M Investment",
+      "link": "https://www.satellitetoday.com/finance/2026/11/23/quantum-space-completes-spac-merger-with-300m-investment/",
+      "pubDate": "Mon, 23 Nov 2026 20:44:06 +0000",
+      "description": "Quantum Space closed its SPAC merger and is set to begin trading on the New York Stock Exchange. Quantum Space is focused on space defense and orbital mobility and is [&#8230;]\nThe post Quantum Space Completes SPAC Merger with $300M Investment appeared first on Via Satellite.\n",
+      "feedName": "Via Satellite"
+    },
     {
       "title": "Thales Alenia Space Signs €240 Million Contract With OHB for Sentinel-3NG Topography Altimeters",
       "link": "https://satnews.com/2026/11/23/thales-alenia-space-signs-e240-million-contract-with-ohb-for-sentinel-3ng-topography-altimeters/",
@@ -21,13 +70,6 @@
       "pubDate": "Mon, 23 Nov 2026 13:59:22 +0000",
       "description": "Yair Lapid, the co-founder of the opposition Together party, is seeking to block Benjamin Netanyahu from power",
       "feedName": "Euractiv"
-    },
-    {
-      "title": "EU Commission confirms personal data leak after cyberattack, warns of further disruption",
-      "link": "https://www.politico.eu/article/european-commission-personal-data-leak-cyberattack-disruption/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Mon, 23 Nov 2026 13:08:15 +0000",
-      "description": "Names and email addresses were leaked in the cyberattack, according to one EU official, who warned that the full extent of the breach remains unclear.",
-      "feedName": "Politico Europe"
     },
     {
       "title": "FIREPOWER: Costa slashes defence in MFF proposal",
@@ -54,7 +96,7 @@
       "title": "Boxed in or boxing clever?",
       "link": "https://www.rapporteur.com/news/rapporteur-am-boxed-in-or-boxing-clever/",
       "pubDate": "Mon, 23 Nov 2026 06:19:41 +0000",
-      "description": "Also, in Monday's edition: Also, Israel still fuming over EU foreign affairs chief’s apartheid jibe",
+      "description": "Also, in Monday's edition: Israel still fuming over EU foreign affairs chief’s apartheid jibe",
       "feedName": "Euractiv"
     },
     {
@@ -100,38 +142,10 @@
       "feedName": "SpaceWatch Global"
     },
     {
-      "title": "ESA Awards OHB €102 Million Prime Contract for ClearSpace-1 Debris Removal Mission",
-      "link": "https://satnews.com/2026/11/19/esa-awards-ohb-e102-million-prime-contract-for-clearspace-1-debris-removal-mission/",
-      "pubDate": "Thu, 19 Nov 2026 21:31:24 +0000",
-      "description": "The European Space Agency (ESA) has awarded German aerospace manufacturer OHB System AG a 102 million euro ($112 million) contract to serve as prime contractor for ClearSpace-1 (CS-1), the agency&#8217;s [&#8230;]",
-      "feedName": "Satnews"
-    },
-    {
-      "title": "Lithuania vows to shield defence spending if MFF talks drag into 2027",
-      "link": "https://www.rapporteur.com/news/lithuania-vows-to-shield-defence-spending-if-mff-talks-drag-into-2027/",
-      "pubDate": "Thu, 19 Nov 2026 15:06:07 +0000",
-      "description": "Defence and space spending will be as 'untouchable' as CAP and cohesion, Kubilius says",
-      "feedName": "Euractiv"
-    },
-    {
       "title": "Space Tech Expo Bremen – Sandi Habinc of Frontgrade Gaisler on Putting a Whole Satellite on One Chip",
       "link": "https://spacewatch.global/2026/11/space-tech-expo-bremen-sandi-habinc-of-frontgrade-gaisler-on-putting-a-whole-satellite-on-one-chip/",
       "pubDate": "Thu, 19 Nov 2026 13:00:00 +0000",
       "description": "From Space Tech Expo in Bremen, Frontgrade Gaisler Managing Director Sandi Habinc joins Torsten Kriening to show how an entire satellite now fits on a 7×7mm chip, explain why Germany matters for European space silicon, and share news of a newly signed ESA contract for RISC-V technology.",
-      "feedName": "SpaceWatch Global"
-    },
-    {
-      "title": "Activists throw ashes at EU health commissioner during speech",
-      "link": "https://www.rapporteur.com/news/activists-throw-ashes-during-eu-health-commissioners-speech/",
-      "pubDate": "Thu, 19 Nov 2026 12:52:14 +0000",
-      "description": "Protesters disrupt European Cancer Summit in Brussels over proposed EU pesticide changes",
-      "feedName": "Euractiv"
-    },
-    {
-      "title": "#SpaceWatchGL Opinion: Space Needs Experts. Just Not Always Space Experts.",
-      "link": "https://spacewatch.global/2026/11/spacewatchgl-opinion-space-needs-experts-just-not-always-space-experts/",
-      "pubDate": "Thu, 19 Nov 2026 09:00:00 +0000",
-      "description": " Written by Judith Delany.  Europe's space sector talks endlessly about innovation and interdisciplinary collaboration, yet too often finds itself having the same conversations with the same people. From human spaceflight to Earth observation, valuable perspectives remain outside the room. But what ",
       "feedName": "SpaceWatch Global"
     },
     {
@@ -153,13 +167,6 @@
       "link": "https://europeanspaceflight.com/esa-confirms-latest-prometheus-tests-not-connected-to-themis-hop-preparations/",
       "pubDate": "Fri, 13 Nov 2026 07:57:07 +0000",
       "description": "The European Space Agency (ESA) and ArianeGroup have confirmed that Prometheus engine tests conducted in Lampoldshausen in October were carried out independently of preparations for the long-delayed inaugural flight of the Themis reusable booster demonstrator. In a 6 November press release, ArianeGr",
-      "feedName": "European Spaceflight"
-    },
-    {
-      "title": "ESA Explains Delay in Signing MaiaSpace Launcher Challenge Contract",
-      "link": "https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/",
-      "pubDate": "Thu, 12 Nov 2026 10:36:32 +0000",
-      "description": "The European Space Agency (ESA) has revealed that MaiaSpace&#8217;s decision to pursue a different funding arrangement from its competitors has complicated negotiations over its European Launcher Challenge contract. Speaking during an ESA media briefing on 22 October, ESA Director of Space Transport",
       "feedName": "European Spaceflight"
     },
     {
