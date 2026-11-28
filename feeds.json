@@ -1,20 +1,6 @@
 {
-  "generated": "2026-11-27T16:22:24.335Z",
+  "generated": "2026-11-28T15:15:42.820Z",
   "newsItems": [
-    {
-      "title": "SAGRIS.EU: a decade of Sentinel-1 radar maps of Europe, open to everyone",
-      "link": "https://eomag.eu/sagris-eu-a-decade-of-sentinel-1-radar-maps-of-europe-open-to-everyone/?utm_source=rss&utm_medium=rss&utm_campaign=sagris-eu-a-decade-of-sentinel-1-radar-maps-of-europe-open-to-everyone",
-      "pubDate": "Fri, 27 Nov 2026 16:01:55 +0000",
-      "description": "Geomatrix UAB, a Vilnius-based Earth Observation SME, has opened a re-designed SAGRIS.EU portal, offering a continental archive of composite radar maps derived from Sentinel-1 SAR images. It is built over the last five years from more than one million dual-polarisation (VV/VH) SAR scenes, processed ",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "The Tracasa Global’s 2.5-metre Super-resolution for Advanced Analytics",
-      "link": "https://eomag.eu/the-tracasa-globals-2-5-metre-super-resolution-for-advanced-analytics/?utm_source=rss&utm_medium=rss&utm_campaign=the-tracasa-globals-2-5-metre-super-resolution-for-advanced-analytics",
-      "pubDate": "Fri, 27 Nov 2026 15:42:13 +0000",
-      "description": "Tracasa Global, public company of the Government of Navarre, in Spain, and member of the European Association of Remote Sensing Companies (EARSC) since 2024, has taken this year a very significant step forward in the application of artificial intelligence techniques to geospatial information with it",
-      "feedName": "EO Mag"
-    },
     {
       "title": "Ireland to test AI-powered satellites to monitor maritime threats",
       "link": "https://www.rapporteur.com/news/ireland-to-test-ai-powered-satellites-to-monitor-maritime-threats/",
@@ -28,13 +14,6 @@
       "pubDate": "Fri, 27 Nov 2026 15:35:22 +0000",
       "description": "\nParis, France &#124; November 2026 — Novaspace’s Space Defense &#38; Security, 2nd Edition finds that governments invested approximately $71.8 billion in space defense and security activities globally in 2025, reflecting [&#8230;]\nThe post Governments Invest $71.8B in Space Defense as Militarizatio",
       "feedName": "SpaceNews"
-    },
-    {
-      "title": "‘Islam is Sharia’: Germany’s far-right leader attacks Le Pen on Muslims and Europe",
-      "link": "https://www.politico.eu/article/islam-sharia-germany-far-right-leader-alice-weidel-attacks-marine-le-pen-muslims-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "pubDate": "Fri, 27 Nov 2026 08:59:14 +0000",
-      "description": "AfD’s Alice Weidel talks mass deportations, the right to Israel’s existence and peace with Russia. ",
-      "feedName": "Politico Europe"
     },
     {
       "title": "Rocket Lab Launches 101st Electron Mission, Deploying Synspective SAR Satellite",
@@ -163,13 +142,6 @@
       "feedName": "European Spaceflight"
     },
     {
-      "title": "Space Solutions for Energy Challenges: Register for the Workshop",
-      "link": "https://eomag.eu/space-solutions-for-energy-challenges-register-for-the-workshop/?utm_source=rss&utm_medium=rss&utm_campaign=space-solutions-for-energy-challenges-register-for-the-workshop",
-      "pubDate": "Mon, 09 Nov 2026 10:00:00 +0000",
-      "description": "EARSC, together with ESA and IOGP, is organising the workshop “Space Solutions for Energy Challenges” in January 2027 at ESA-ESRIN in Frascati, Italy. Earth Observation (EO) is becoming part of everyday decision-making across the energy sector, from methane monitoring and asset integrity to renewabl",
-      "feedName": "EO Mag"
-    },
-    {
       "title": "Who Repairs the Internet in Wartime?",
       "link": "https://warontherocks.com/who-repairs-the-internet-in-wartime/",
       "pubDate": "Thu, 05 Nov 2026 08:30:04 +0000",
@@ -210,27 +182,6 @@
       "pubDate": "Tue, 06 Oct 2026 07:30:13 +0000",
       "description": "With the significant Israeli and U.S. military attacks against Iran in 2025 and early 2026, analysts have discussed and debated Iran&#8217;s ability to replenish its missile and drone arsenal. Since 2024, Iran has burned through thousands of ballistic missiles, cruise missiles, and one-way attack dr",
       "feedName": "War on the Rocks"
-    },
-    {
-      "title": "Save the date: CDSE User Summit 2026",
-      "link": "https://eomag.eu/save-the-date-cdse-user-summit-2026/?utm_source=rss&utm_medium=rss&utm_campaign=save-the-date-cdse-user-summit-2026",
-      "pubDate": "Tue, 14 Jul 2026 07:34:56 +0000",
-      "description": "The Copernicus Data Space Ecosystem is pleased to announce its annual user community event. Mark your calendar for the&#160;CDSE User Summit 2026&#160;taking place on&#160;Wednesday, 16 September 2026&#160;during INTERGEO 2026 in Munich. The CDSE User Summit is&#160;a hybrid event&#160;that brings&#",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Building Higher-Quality Geospatial Datasets for AI: Lessons from Enabled Intelligence and New Capabilities from Kili Technology",
-      "link": "https://eomag.eu/building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology/?utm_source=rss&utm_medium=rss&utm_campaign=building-higher-quality-geospatial-datasets-for-ai-lessons-from-enabled-intelligence-and-new-capabilities-from-kili-technology",
-      "pubDate": "Thu, 09 Jul 2026 13:35:07 +0000",
-      "description": "What does mission-critical accuracy look like in practice? Enabled Intelligence, an AI technology and services provider specialising in geospatial analysis, builds models for government and commercial clients across military intelligence, disaster recovery, transportation logistics and agricultural ",
-      "feedName": "EO Mag"
-    },
-    {
-      "title": "Focus on Dynamics: Semantic Data Cube as a key to Sentinel-2-based Landscape Analysis",
-      "link": "https://eomag.eu/focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=focus-on-dynamics-semantic-data-cube-as-a-key-to-sentinel-2-based-landscape-analysis",
-      "pubDate": "Thu, 09 Jul 2026 12:55:49 +0000",
-      "description": "color33 is an automated, cloud-based, online processing service that converts multispectral Earth observation images into actionable categories without requiring any training samples. Unlike unsupervised clustering routines or machine learning approaches, color33 is based on a physical-model, produc",
-      "feedName": "EO Mag"
     }
   ],
   "tenderItems": []
